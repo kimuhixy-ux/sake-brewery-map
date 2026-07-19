@@ -326,6 +326,36 @@ out center tags;
 """
 
 
+BRAND_MATCH_QUERY = """
+[out:json][timeout:60];
+area["name"="日本"]["admin_level"="2"]->.jp;
+(
+  node["craft"="brewery"](area.jp);
+  way["craft"="brewery"](area.jp);
+);
+out center tags;
+"""
+
+
+def fetch_brand_match_elements(sake_entries):
+    """「真澄」「獺祭」のように、OSM上で会社名ではなく銘柄名だけで登録されている
+    蔵を拾うための検索。
+
+    craft=brewery はビール・味噌・醤油の醸造所なども含む幅広いタグだが、
+    日本全体で150件程度しかなく、名前の正規表現を使わないタグ検索なので
+    高速(実測20秒未満)。ここでは全件取得したうえで、sake_info.jsonの
+    蔵名・銘柄名のどちらかと一致するものだけを残すことで、ビール醸造所などの
+    ノイズを地図に含めないようにする。
+    """
+    result = fetch_overpass(BRAND_MATCH_QUERY)
+    candidates = result.get("elements", [])
+    matched = [
+        el for el in candidates
+        if match_sake_info(el.get("tags", {}).get("name", ""), None, sake_entries)
+    ]
+    return matched
+
+
 def main():
     if not SAKE_INFO_PATH.exists():
         print(f"エラー: {SAKE_INFO_PATH} が見つかりません。先にsake_info.jsonを用意してください。")
@@ -352,6 +382,14 @@ def main():
             print(f"追加検索で{len(gap_elements)}件の要素を取得しました。")
         except RuntimeError as e:
             print(f"追加検索に失敗しました(この分だけスキップして続行します): {e}")
+
+    print("銘柄名のみでOSMに登録されている蔵を追加で検索します...")
+    try:
+        brand_elements = fetch_brand_match_elements(sake_entries)
+        elements += brand_elements
+        print(f"銘柄名検索で{len(brand_elements)}件の蔵を追加しました。")
+    except RuntimeError as e:
+        print(f"銘柄名検索に失敗しました(この分だけスキップして続行します): {e}")
 
     print("取得した要素を整形します...")
 
