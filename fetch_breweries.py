@@ -45,6 +45,10 @@ HEADERS = {"User-Agent": "sake-brewery-map/1.0 (personal PWA project)"}
 # 「本家」はラーメン店等の店名にも頻出し曖昧なため、検索キーワードからは外した。
 NAME_PATTERN = "酒造|酒蔵|銘醸"
 
+# 蔵名が2文字以下(佐浦・菊姫など)の場合の誤マッチ防止に使うキーワード。
+# match_sake_info() 参照。
+BREWERY_KEYWORDS = ["酒造", "酒蔵", "銘醸", "醸造", "製造元", "工場"]
+
 OVERPASS_QUERY = f"""
 [out:json][timeout:170];
 area["name"="日本"]["admin_level"="2"]->.jp;
@@ -92,7 +96,7 @@ def fetch_overpass(query):
                 with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT_SECONDS) as resp:
                     body = resp.read()
                 return json.loads(body)
-            except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+            except (OSError, json.JSONDecodeError) as e:
                 last_error = e
                 print(f"  失敗しました: {e}")
                 if attempt < MAX_RETRIES:
@@ -241,24 +245,39 @@ def merge_duplicates(records):
 
 
 def load_sake_info(path):
-    """sake_info.jsonを読み込み、正規化した蔵名をキーにした辞書にする。
-    同名蔵が複数県にある場合に備え、値はリストにしておく。
-    """
+    """sake_info.jsonを読み込む。部分一致で突合するため辞書化はせずリストのまま返す。"""
     with open(path, encoding="utf-8") as f:
-        entries = json.load(f)
-    by_name = {}
-    for entry in entries:
-        norm = normalize_name(entry["brewery"])
-        by_name.setdefault(norm, []).append(entry)
-    return by_name
+        return json.load(f)
 
 
-def match_sake_info(osm_name, osm_pref, sake_by_name):
+def match_sake_info(osm_name, osm_pref, sake_entries):
     """OSMの蔵名・都道府県から、sake_info.jsonの該当エントリを探す。
-    同名の蔵が複数県に存在する場合は、都道府県が一致するものだけを採用し、
-    都道府県が分からず候補を絞れない場合はマッチさせない(誤マッチ防止)。
+
+    OSM側は「白鶴酒造 灘魚崎工場」「菊正宗酒造記念館」のように、蔵名に
+    支店・工場・資料館などの修飾語が付いていることが多いため、完全一致では
+    なく正規化名同士の部分一致(どちらかがどちらかを含む)で判定する。
+    また「獺祭」のようにOSM上でブランド名だけが登録されているケースに備え、
+    銘柄名との完全一致も見る。
+    同名の蔵が複数県に存在し候補が複数ある場合は、都道府県が一致するものを
+    優先し、都道府県が分からず絞れない場合はマッチさせない(誤マッチ防止)。
     """
-    candidates = sake_by_name.get(normalize_name(osm_name))
+    osm_norm = normalize_name(osm_name)
+    if not osm_norm:
+        return None
+
+    candidates = []
+    for entry in sake_entries:
+        brewery_norm = normalize_name(entry["brewery"])
+        brand_norm = normalize_name(entry["brand"])
+        contains_match = brewery_norm in osm_norm or osm_norm in brewery_norm
+        # 「佐浦」「菊姫」のように蔵名が2文字以下だと、地名・施設名にたまたま
+        # 同じ文字列が含まれるだけで誤マッチしやすい(例: 「伊佐浦川」「佐浦町」)。
+        # そのため短い蔵名については、酒造関連の語も一緒に含まれている場合に限る。
+        if contains_match and len(brewery_norm) <= 2:
+            contains_match = any(kw in osm_norm for kw in BREWERY_KEYWORDS)
+        if contains_match or brand_norm == osm_norm:
+            candidates.append(entry)
+
     if not candidates:
         return None
     if len(candidates) == 1:
@@ -273,12 +292,46 @@ def match_sake_info(osm_name, osm_pref, sake_by_name):
     return None
 
 
+def build_gap_query(sake_entries):
+    """NAME_PATTERN(酒造|酒蔵|銘醸)では引っかからない蔵(月桂冠・八海醸造・
+    一ノ蔵など、社名にその3語を含まない蔵)を追加で検索するためのクエリを作る。
+
+    ブランド名は「真澄」「浦霞」のように地名・一般名詞と衝突し、Overpass側の
+    検索が著しく重くなる(実測で504タイムアウトを引き起こした)ため含めない。
+    社名のみを対象にし、1文字などの短すぎる名称も同様の理由で除外する。
+    該当する蔵が無ければNoneを返す。
+    """
+    base_pattern = re.compile(NAME_PATTERN)
+    terms = []
+    seen = set()
+    for entry in sake_entries:
+        brewery = entry["brewery"]
+        if base_pattern.search(brewery) or brewery in seen or len(brewery) < 2:
+            continue
+        seen.add(brewery)
+        terms.append(re.escape(brewery))
+
+    if not terms:
+        return None
+
+    pattern = "|".join(terms)
+    return f"""
+[out:json][timeout:170];
+area["name"="日本"]["admin_level"="2"]->.jp;
+(
+  node["name"~"{pattern}"](area.jp);
+  way["name"~"{pattern}"](area.jp);
+);
+out center tags;
+"""
+
+
 def main():
     if not SAKE_INFO_PATH.exists():
         print(f"エラー: {SAKE_INFO_PATH} が見つかりません。先にsake_info.jsonを用意してください。")
         sys.exit(1)
 
-    sake_by_name = load_sake_info(SAKE_INFO_PATH)
+    sake_entries = load_sake_info(SAKE_INFO_PATH)
 
     try:
         result = fetch_overpass(OVERPASS_QUERY)
@@ -287,7 +340,20 @@ def main():
         sys.exit(1)
 
     elements = result.get("elements", [])
-    print(f"Overpassから{len(elements)}件の要素を取得しました。整形します...")
+    print(f"Overpassから{len(elements)}件の要素を取得しました。")
+
+    gap_query = build_gap_query(sake_entries)
+    if gap_query:
+        print("銘柄データにあるが「酒造/酒蔵/銘醸」を社名に含まない蔵を追加で検索します...")
+        try:
+            gap_result = fetch_overpass(gap_query)
+            gap_elements = gap_result.get("elements", [])
+            elements += gap_elements
+            print(f"追加検索で{len(gap_elements)}件の要素を取得しました。")
+        except RuntimeError as e:
+            print(f"追加検索に失敗しました(この分だけスキップして続行します): {e}")
+
+    print("取得した要素を整形します...")
 
     records = []
     for element in elements:
@@ -300,7 +366,7 @@ def main():
     matched_count = 0
     for i, record in enumerate(records):
         record["id"] = i
-        entry = match_sake_info(record["name"], record["pref"], sake_by_name)
+        entry = match_sake_info(record["name"], record["pref"], sake_entries)
         if entry:
             record["featured"] = True
             record["brand"] = entry["brand"]
