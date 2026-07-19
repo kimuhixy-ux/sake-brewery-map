@@ -1,0 +1,217 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+  background: #f4ecdc;
+}
+
+/* 暖簾風ヘッダー(藍色の帯) */
+#app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 700;
+  padding: calc(8px + env(safe-area-inset-top)) 12px 8px;
+  background: #22334a;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+#app-header h1 {
+  margin: 0;
+  color: #f4ecdc;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+/* 現在地ボタン */
+#locate-btn {
+  position: fixed;
+  right: 12px;
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  z-index: 500;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: none;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#locate-btn:active {
+  background: #e5ddc8;
+}
+
+/* 検索・絞り込みパネル */
+#control-panel {
+  position: fixed;
+  top: calc(52px + env(safe-area-inset-top));
+  left: 8px;
+  right: 8px;
+  z-index: 600;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+  padding: 8px;
+}
+
+.control-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.control-row:last-child {
+  margin-bottom: 0;
+}
+
+#search-input {
+  flex: 1;
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 16px;
+  border: 1px solid #cbbfa0;
+  border-radius: 8px;
+  background: #fffdf8;
+  min-height: 44px;
+}
+
+#pref-select {
+  flex: 1;
+  padding: 10px 8px;
+  font-size: 14px;
+  border: 1px solid #cbbfa0;
+  border-radius: 8px;
+  background: #fffdf8;
+  min-height: 44px;
+}
+
+#featured-toggle {
+  flex: 1.4;
+  min-height: 44px;
+  padding: 8px 10px;
+  font-size: 13px;
+  border: 1px solid #b8860b;
+  border-radius: 8px;
+  background: #fffdf8;
+  color: #7a5c00;
+  white-space: nowrap;
+}
+
+#featured-toggle[aria-pressed="true"] {
+  background: #d4af37;
+  color: #22334a;
+  font-weight: bold;
+  border-color: #b8860b;
+}
+
+#count-row {
+  font-size: 12px;
+  color: #55524a;
+  padding: 0 2px;
+}
+
+/* Leafletポップアップの中身 */
+.brewery-popup {
+  min-width: 220px;
+  max-width: 260px;
+}
+
+.brewery-popup .popup-name {
+  margin: 0 0 4px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #22334a;
+}
+
+.brewery-popup .popup-brand {
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #a8721a;
+  margin: 6px 0 2px;
+}
+
+.brewery-popup .popup-desc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #333;
+  margin: 0 0 8px;
+}
+
+.brewery-popup .popup-address {
+  font-size: 12px;
+  color: #666;
+  margin: 0 0 8px;
+}
+
+.brewery-popup .popup-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.brewery-popup .popup-buttons a {
+  flex: 1 1 auto;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 10px;
+  font-size: 12px;
+  text-decoration: none;
+  border-radius: 6px;
+  background: #22334a;
+  color: #fff;
+  text-align: center;
+}
+
+.brewery-popup .popup-buttons a.secondary {
+  background: #eee6d3;
+  color: #22334a;
+}
+
+/* 蔵アイコン(SVGをdivIconとして使う) */
+.brewery-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* markerclusterのデフォルト色を和のテイストに寄せる */
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(34, 51, 74, 0.5);
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: rgba(34, 51, 74, 0.8);
+  color: #f4ecdc;
+}
