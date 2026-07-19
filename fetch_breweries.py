@@ -199,6 +199,7 @@ def build_record(element):
         "address": build_address(tags),
         "website": tags.get("website") or tags.get("contact:website"),
         "wikipedia": build_wikipedia_url(tags),
+        "_brand_verified": tags.get("_brand_verified") == "1",
     }
 
 
@@ -213,6 +214,8 @@ def merge_cluster(cluster):
                 base[key] = r[key]
         if r.get("name") and len(r["name"]) > len(base.get("name") or ""):
             base["name"] = r["name"]
+        if r.get("_brand_verified"):
+            base["_brand_verified"] = True
     return base
 
 
@@ -250,7 +253,7 @@ def load_sake_info(path):
         return json.load(f)
 
 
-def match_sake_info(osm_name, osm_pref, sake_entries):
+def match_sake_info(osm_name, osm_pref, sake_entries, trusted=False):
     """OSMの蔵名・都道府県から、sake_info.jsonの該当エントリを探す。
 
     OSM側は「白鶴酒造 灘魚崎工場」「菊正宗酒造記念館」のように、蔵名に
@@ -260,6 +263,11 @@ def match_sake_info(osm_name, osm_pref, sake_entries):
     銘柄名との完全一致も見る。
     同名の蔵が複数県に存在し候補が複数ある場合は、都道府県が一致するものを
     優先し、都道府県が分からず絞れない場合はマッチさせない(誤マッチ防止)。
+
+    trusted=Trueは、craft=breweryタグ付きの要素(fetch_brand_match_elements経由)
+    から呼ばれたことを示す。「舞姫」のように銘柄名が2文字以下だと、たまたま同名の
+    無関係な施設(東京・福岡など)と完全一致してしまうことがあるため、短い銘柄名の
+    完全一致はtrusted=Trueの場合のみ許可する。
     """
     osm_norm = normalize_name(osm_name)
     if not osm_norm:
@@ -275,7 +283,10 @@ def match_sake_info(osm_name, osm_pref, sake_entries):
         # そのため短い蔵名については、酒造関連の語も一緒に含まれている場合に限る。
         if contains_match and len(brewery_norm) <= 2:
             contains_match = any(kw in osm_norm for kw in BREWERY_KEYWORDS)
-        if contains_match or brand_norm == osm_norm:
+        exact_match = brand_norm == osm_norm
+        if exact_match and len(brand_norm) <= 2 and not trusted:
+            exact_match = False
+        if contains_match or exact_match:
             candidates.append(entry)
 
     if not candidates:
@@ -349,10 +360,11 @@ def fetch_brand_match_elements(sake_entries):
     """
     result = fetch_overpass(BRAND_MATCH_QUERY)
     candidates = result.get("elements", [])
-    matched = [
-        el for el in candidates
-        if match_sake_info(el.get("tags", {}).get("name", ""), None, sake_entries)
-    ]
+    matched = []
+    for el in candidates:
+        if match_sake_info(el.get("tags", {}).get("name", ""), None, sake_entries, trusted=True):
+            el.setdefault("tags", {})["_brand_verified"] = "1"
+            matched.append(el)
     return matched
 
 
@@ -404,7 +416,8 @@ def main():
     matched_count = 0
     for i, record in enumerate(records):
         record["id"] = i
-        entry = match_sake_info(record["name"], record["pref"], sake_entries)
+        trusted = record.pop("_brand_verified", False)
+        entry = match_sake_info(record["name"], record["pref"], sake_entries, trusted=trusted)
         if entry:
             record["featured"] = True
             record["brand"] = entry["brand"]
