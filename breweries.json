@@ -6071,6 +6071,19 @@
     "desc": null
   },
   {
+    "name": "岩倉酒造場",
+    "lat": 32.066707,
+    "lon": 131.35098,
+    "pref": "宮崎県",
+    "address": "宮崎県西都市下三財7945",
+    "website": null,
+    "wikipedia": null,
+    "id": 467,
+    "featured": true,
+    "brand": "三段仕込み",
+    "desc": "西都市の蔵。明治23年(1890年)創業。麦焼酎「三段仕込み」は米麹・麦麹・米麹による三段仕込みで醸し、3年間貯蔵熟成させる希少な本格焼酎。"
+  },
+  {
     "name": "西谷酒造",
     "lat": 34.341522,
     "lon": 130.931606,
@@ -6078,7 +6091,7 @@
     "address": "山口県下関市豊北町大字阿川国道１９１号548",
     "website": null,
     "wikipedia": null,
-    "id": 467,
+    "id": 468,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6091,7 +6104,7 @@
     "address": "岐阜県岐阜市門屋門61",
     "website": null,
     "wikipedia": null,
-    "id": 468,
+    "id": 469,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6104,7 +6117,7 @@
     "address": "Gifu八百津町八百津4091",
     "website": null,
     "wikipedia": null,
-    "id": 469,
+    "id": 470,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6117,7 +6130,7 @@
     "address": "岡山県瀬戸内市牛窓町牛窓49431",
     "website": "https://www.kouso-senju.co.jp/",
     "wikipedia": null,
-    "id": 470,
+    "id": 471,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6130,7 +6143,7 @@
     "address": "岩手県西和賀町沢内沢内字貝沢3地割6471",
     "website": null,
     "wikipedia": null,
-    "id": 471,
+    "id": 472,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6143,7 +6156,7 @@
     "address": "島根県奥出雲町横田",
     "website": null,
     "wikipedia": null,
-    "id": 472,
+    "id": 473,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6156,7 +6169,7 @@
     "address": "新潟県糸魚川市押上1125",
     "website": "https://yukitsuru.com",
     "wikipedia": null,
-    "id": 473,
+    "id": 474,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6169,7 +6182,7 @@
     "address": "新潟県長岡市地蔵182",
     "website": "https://echigo-choryo.co.jp/",
     "wikipedia": null,
-    "id": 474,
+    "id": 475,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6182,7 +6195,7 @@
     "address": "栃木県那須烏山市神長字天神149",
     "website": null,
     "wikipedia": null,
-    "id": 475,
+    "id": 476,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6195,7 +6208,7 @@
     "address": "栃木県大田原市下石上1227",
     "website": "http://www.ikenishiki.co.jp/",
     "wikipedia": null,
-    "id": 476,
+    "id": 477,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6208,7 +6221,7 @@
     "address": "沖縄県読谷村長浜1061",
     "website": "https://www.zanpa.co.jp/",
     "wikipedia": null,
-    "id": 477,
+    "id": 478,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6221,7 +6234,7 @@
     "address": "石川県金沢市大樋町832",
     "website": null,
     "wikipedia": null,
-    "id": 478,
+    "id": 479,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6234,7 +6247,7 @@
     "address": "石川県野々市市清金21",
     "website": null,
     "wikipedia": null,
-    "id": 479,
+    "id": 480,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6247,7 +6260,7 @@
     "address": "石川県白山市安吉町41",
     "website": null,
     "wikipedia": null,
-    "id": 480,
+    "id": 481,
     "featured": true,
     "brand": "手取川",
     "desc": "白山市の蔵。手取川の伏流水を用い、穏やかで飲み飽きしない酒質を特徴とする。"
@@ -6260,7 +6273,7 @@
     "address": "石川県珠洲市宝立町宗玄24-22",
     "website": null,
     "wikipedia": null,
-    "id": 481,
+    "id": 482,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6273,7 +6286,7 @@
     "address": "石川県羽咋市大町イ8",
     "website": null,
     "wikipedia": null,
-    "id": 482,
+    "id": 483,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6286,7 +6299,7 @@
     "address": "石川県能登町宇出津ヘ36",
     "website": null,
     "wikipedia": null,
-    "id": 483,
+    "id": 484,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6299,7 +6312,7 @@
     "address": "石川県輪島市朝市通り",
     "website": null,
     "wikipedia": null,
-    "id": 484,
+    "id": 485,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6312,7 +6325,7 @@
     "address": "石川県加賀市山中温泉冨士見町オ50番地",
     "website": null,
     "wikipedia": null,
-    "id": 485,
+    "id": 486,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6325,7 +6338,7 @@
     "address": "石川県白山市坊丸町60番地1",
     "website": null,
     "wikipedia": null,
-    "id": 486,
+    "id": 487,
     "featured": true,
     "brand": "天狗舞",
     "desc": "白山市の蔵。生酛造りによる濃醇な旨みとコクのある酒質で知られる。"
@@ -6338,7 +6351,7 @@
     "address": "石川県加賀市動橋町イ184",
     "website": null,
     "wikipedia": null,
-    "id": 487,
+    "id": 488,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6351,7 +6364,7 @@
     "address": "石川県輪島市河井町1部181",
     "website": "https://notohomare.com/",
     "wikipedia": null,
-    "id": 488,
+    "id": 489,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6364,7 +6377,7 @@
     "address": "石川県小松市下粟津町ろ24",
     "website": null,
     "wikipedia": null,
-    "id": 489,
+    "id": 490,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6377,7 +6390,7 @@
     "address": "石川県能美市末寺町イ42",
     "website": "https://noguchishuzo.jp/",
     "wikipedia": null,
-    "id": 490,
+    "id": 491,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6390,7 +6403,7 @@
     "address": "石川県白山市安田町3-2",
     "website": null,
     "wikipedia": null,
-    "id": 491,
+    "id": 492,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6403,7 +6416,7 @@
     "address": "石川県能登町鵜川19字64番地",
     "website": null,
     "wikipedia": null,
-    "id": 492,
+    "id": 493,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6416,7 +6429,7 @@
     "address": "石川県加賀市八日市町イ6",
     "website": null,
     "wikipedia": null,
-    "id": 493,
+    "id": 494,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6429,7 +6442,7 @@
     "address": "神奈川県山北町山北250",
     "website": null,
     "wikipedia": null,
-    "id": 494,
+    "id": 495,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6442,7 +6455,7 @@
     "address": "神奈川県海老名市下今泉5丁目51",
     "website": "https://izumibashi.com/",
     "wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%89%E6%A9%8B%E9%85%92%E9%80%A0",
-    "id": 495,
+    "id": 496,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6455,7 +6468,7 @@
     "address": "神奈川県秦野市堀山下1821",
     "website": "https://www.kaneishuzo.co.jp/",
     "wikipedia": null,
-    "id": 496,
+    "id": 497,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6468,7 +6481,7 @@
     "address": "福島県喜多方市字前田4924",
     "website": "http://www.kitano87.jp/",
     "wikipedia": null,
-    "id": 497,
+    "id": 498,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6481,7 +6494,7 @@
     "address": "福島県二本松市長命69",
     "website": null,
     "wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E3%81%AE%E6%9D%BE%E9%85%92%E9%80%A0",
-    "id": 498,
+    "id": 499,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6494,7 +6507,7 @@
     "address": "秋田県大仙市藤木字西八圭342",
     "website": null,
     "wikipedia": null,
-    "id": 499,
+    "id": 500,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6507,7 +6520,7 @@
     "address": "茨城県大洗町磯浜町638",
     "website": null,
     "wikipedia": null,
-    "id": 500,
+    "id": 501,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6520,7 +6533,7 @@
     "address": "鳥取県倉吉市駄経寺町二丁目31",
     "website": "https://www.gensui.jp/",
     "wikipedia": null,
-    "id": 501,
+    "id": 502,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6533,7 +6546,7 @@
     "address": "鳥取県東伯郡北栄町大谷1350",
     "website": "http://umetsu-sake.jp/",
     "wikipedia": null,
-    "id": 502,
+    "id": 503,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6546,7 +6559,7 @@
     "address": "鹿児島県屋久島町安房262519",
     "website": "https://mitake-shochu.com/",
     "wikipedia": null,
-    "id": 503,
+    "id": 504,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6559,7 +6572,7 @@
     "address": "鹿児島県龍郷町浦18642",
     "website": "http://www.jougo.co.jp/",
     "wikipedia": null,
-    "id": 504,
+    "id": 505,
     "featured": false,
     "brand": null,
     "desc": null
@@ -6572,7 +6585,7 @@
     "address": "鹿児島県屋久島町安房2384",
     "website": "https://www.hombo.co.jp/factory/yakushima.html",
     "wikipedia": null,
-    "id": 505,
+    "id": 506,
     "featured": false,
     "brand": null,
     "desc": null

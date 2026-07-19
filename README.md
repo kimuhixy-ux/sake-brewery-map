@@ -34,6 +34,7 @@ python3 fetch_breweries.py
 - 同じ蔵が複数のタグ種別（`craft`/`shop`/`landuse`/`building`など）で重複して登録されていることがあるため、正規化した名称が同じで座標も近い（約1km以内）ものは1件にまとめている。
 - `sake_info.json`（下記）と名称・都道府県で突き合わせ、一致した蔵には`featured: true`と銘柄名・解説が付く。
 - 実行結果は標準出力に「取得件数」「銘柄情報がマッチした件数」が表示される。
+- OSMに全く登録がなく通常の検索では拾えない蔵は、`fetch_breweries.py`内の`MANUAL_ENTRIES`に座標（住所から調べた地区レベルの概算）を手動で追加することで地図に表示できる。`breweries.json`を直接編集しても次回実行時に上書きされるため、追加は必ず`MANUAL_ENTRIES`側で行うこと。
 
 ## sake_info.jsonの編集方法
 

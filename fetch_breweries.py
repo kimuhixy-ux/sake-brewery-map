@@ -175,6 +175,22 @@ EXCLUDE_AMENITIES = {"restaurant", "bar", "pub", "cafe", "fast_food", "izakaya",
 # 明らかに酒蔵そのものではない施設(住宅展示場など)を除外するキーワード。
 NOISE_NAME_KEYWORDS = ["住宅公園", "ハウジング", "ドライブイン"]
 
+# OSMに全く登録がなく、Overpass検索では見つけられない蔵を手動で補うリスト。
+# 座標は住所から調べた地区レベルの概算(施設ピンポイントの精度ではない)。
+# 各エントリはsake_info.jsonの`brewery`と名称が一致する(または含む)ことを
+# 前提にしており、match_sake_info()で通常のOSM由来レコードと同様に照合される。
+MANUAL_ENTRIES = [
+    {
+        "name": "岩倉酒造場",
+        "lat": 32.066707,
+        "lon": 131.350980,
+        "pref": "宮崎県",
+        "address": "宮崎県西都市下三財7945",
+        "website": None,
+        "wikipedia": None,
+    },
+]
+
 
 def build_record(element):
     """1つのOSM要素から酒蔵レコードを組み立てる。名称や座標が無ければNone。
@@ -412,6 +428,7 @@ def main():
             records.append(record)
 
     records = merge_duplicates(records)
+    records += [dict(entry) for entry in MANUAL_ENTRIES]
 
     matched_count = 0
     for i, record in enumerate(records):
