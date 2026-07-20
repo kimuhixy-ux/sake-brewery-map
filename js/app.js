@@ -27,13 +27,17 @@
   let featuredOnly = false;
 
   // 金色(銘柄解説あり)と藍色(通常)のピン色はそのまま維持しつつ、
-  // 清酒(丸)/焼酎(ひし形)は中心のマーカー形状で区別する。
+  // 清酒(丸)/焼酎(ひし形)/泡盛(三角)は中心のマーカー形状で区別する。
   // 画像ファイルを使わずコード内で生成することで、余計なアセット管理を避ける。
+  const CATEGORY_MARKS = {
+    sake: '<circle cx="14" cy="14" r="5.5" fill="#fff"/>',
+    shochu: '<rect x="9.5" y="9.5" width="9" height="9" fill="#fff" transform="rotate(45 14 14)"/>',
+    awamori: '<polygon points="14,8 19.5,18 8.5,18" fill="#fff"/>',
+  };
+
   function makeIcon(featured, category) {
     const color = featured ? "#d4af37" : "#22334a";
-    const mark = category === "shochu"
-      ? '<rect x="9.5" y="9.5" width="9" height="9" fill="#fff" transform="rotate(45 14 14)"/>'
-      : '<circle cx="14" cy="14" r="5.5" fill="#fff"/>';
+    const mark = CATEGORY_MARKS[category] || CATEGORY_MARKS.sake;
     const svg = `
       <svg width="28" height="38" viewBox="0 0 28 38" xmlns="http://www.w3.org/2000/svg">
         <path d="M14 0C6.3 0 0 6.3 0 14c0 10.5 14 24 14 24s14-13.5 14-24C28 6.3 21.7 0 14 0z" fill="${color}" stroke="#fff" stroke-width="1.5"/>
@@ -48,11 +52,11 @@
     });
   }
 
-  const icons = {
-    sake: { normal: makeIcon(false, "sake"), featured: makeIcon(true, "sake") },
-    shochu: { normal: makeIcon(false, "shochu"), featured: makeIcon(true, "shochu") },
-  };
-  const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎" };
+  const icons = {};
+  Object.keys(CATEGORY_MARKS).forEach((category) => {
+    icons[category] = { normal: makeIcon(false, category), featured: makeIcon(true, category) };
+  });
+  const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎", awamori: "泡盛" };
 
   function escapeHtml(str) {
     if (!str) return "";

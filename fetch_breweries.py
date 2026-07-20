@@ -6,6 +6,7 @@
 """
 
 import json
+import math
 import re
 import sys
 import time
@@ -28,6 +29,17 @@ OVERPASS_URLS = [
 MAX_RETRIES = 3
 RETRY_WAIT_SECONDS = 20
 REQUEST_TIMEOUT_SECONDS = 200
+
+# 泡盛は酒税法上「焼酎」の一種で、マスターリストのサイト側分類でも
+# shochuに含まれる。泡盛は沖縄県産のみ(地理的表示保護)という前提で、
+# category="shochu"かつpref="沖縄県"のものは"awamori"として区別する。
+AWAMORI_PREF = "沖縄県"
+
+
+def resolve_category(category, pref):
+    if category == "shochu" and pref == AWAMORI_PREF:
+        return "awamori"
+    return category
 
 HEADERS = {"User-Agent": "sake-brewery-map/1.0 (personal PWA project)"}
 
@@ -295,25 +307,44 @@ def load_master_list_records():
             "address": entry.get("address"),
             "website": None,
             "wikipedia": None,
-            "category": entry.get("category", "sake"),
+            "category": resolve_category(entry.get("category", "sake"), entry.get("pref")),
             "_brand_verified": False,
         })
     return records
 
 
+def haversine_km(lat1, lon1, lat2, lon2):
+    r = 6371.0
+    p1, p2 = math.radians(lat1), math.radians(lat2)
+    dp = math.radians(lat2 - lat1)
+    dl = math.radians(lon2 - lon1)
+    a = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    return 2 * r * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+
+# 都道府県情報の無いOSMレコードは正規化名のみで突き合わせるため、
+# 「田中酒造」「上原酒造」のように同名だが無関係な蔵が全国の別々の
+# 県に実在するケースで誤って同一視してしまう恐れがある。この経路の
+# マッチだけは、OSM側とマスターリスト側の座標が近い(この距離未満)
+# 場合に限って同一蔵とみなす(近似ジオコーディングの誤差を許容しつつ、
+# 数百km離れた同名の別蔵を弾く)。
+NOPREF_MATCH_MAX_KM = 100
+
+
 def integrate_master_list(osm_records, master_records, sake_entries):
     """マスターリストをOSM由来レコードに統合し、新規追加すべきレコードだけを返す。
 
-    正規化名+都道府県(都道府県が無いOSMレコードについては正規化名のみ)が
-    一致するもの、あるいはsake_info.json経由で同一エントリにマッチするもの
-    (例:「真澄」というブランド名のみのOSM登録と「宮坂醸造」というマスター
-    リストの正式社名登録)は、OSM側に既に存在するとみなして追加しない
-    (二重ピン防止)。
+    正規化名+都道府県(都道府県が無いOSMレコードについては正規化名+
+    座標の近さ)が一致するもの、あるいはsake_info.json経由で同一エントリに
+    マッチするもの(例:「真澄」というブランド名のみのOSM登録と「宮坂醸造」
+    というマスターリストの正式社名登録)は、OSM側に既に存在するとみなして
+    追加しない(二重ピン防止)。
 
-    OSM側は清酒/焼酎を区別しておらず全レコードがデフォルトで"sake"扱いの
-    ため、上記の理由でマスターリスト側を除外する場合、そのマスターリスト
-    エントリがcategory="shochu"であれば対応するOSMレコードのcategoryを
-    "shochu"に上書きする(OSM側にしか無い焼酎蔵の見逃しを減らすため)。
+    OSM側は清酒/焼酎/泡盛を区別しておらず全レコードがデフォルトで"sake"
+    扱いのため、上記の理由でマスターリスト側を除外する場合、そのマスター
+    リストエントリがcategory="shochu"であれば対応するOSMレコードの
+    categoryを"shochu"(沖縄県なら"awamori")に上書きする(OSM側にしか
+    無い焼酎/泡盛蔵の見逃しを減らすため)。
     """
     by_name_pref = {}
     by_name_nopref = {}
@@ -334,16 +365,23 @@ def integrate_master_list(osm_records, master_records, sake_entries):
     new_records = []
     for mr in master_records:
         norm = normalize_name(mr["name"])
-        dup_records = by_name_pref.get((norm, mr.get("pref"))) or by_name_nopref.get(norm)
+        dup_records = by_name_pref.get((norm, mr.get("pref")))
+        if not dup_records:
+            nopref_candidates = by_name_nopref.get(norm)
+            if nopref_candidates:
+                dup_records = [
+                    r for r in nopref_candidates
+                    if haversine_km(r["lat"], r["lon"], mr["lat"], mr["lon"]) <= NOPREF_MATCH_MAX_KM
+                ] or None
         if not dup_records:
             mentry = match_sake_info(mr["name"], mr.get("pref"), sake_entries, trusted=False)
             if mentry:
                 dup_records = by_sake_entry.get((mentry["brewery"], mentry["pref"]))
 
         if dup_records:
-            if mr["category"] == "shochu":
+            if mr["category"] != "sake":
                 for r in dup_records:
-                    r["category"] = "shochu"
+                    r["category"] = mr["category"]
             continue
 
         new_records.append(mr)

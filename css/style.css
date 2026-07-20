@@ -173,6 +173,11 @@ html, body {
   color: #7a5c00;
 }
 
+.brewery-popup .popup-category-awamori {
+  background: #e0ede8;
+  color: #1f6b4f;
+}
+
 .brewery-popup .popup-brand {
   font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   font-size: 20px;
