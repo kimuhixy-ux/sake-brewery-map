@@ -191,6 +191,7 @@ MANUAL_ENTRIES = [
         "address": "宮崎県西都市下三財7945",
         "website": None,
         "wikipedia": None,
+        "category": "shochu",
     },
 ]
 
@@ -294,32 +295,58 @@ def load_master_list_records():
             "address": entry.get("address"),
             "website": None,
             "wikipedia": None,
+            "category": entry.get("category", "sake"),
             "_brand_verified": False,
         })
     return records
 
 
-def merge_master_list(osm_records, master_records):
-    """マスターリストのうち、OSM側に既に同名(正規化後)・同都道府県の
-    レコードが無いものだけを追加する(二重ピン防止)。
-    OSM側に都道府県タグ(addr:province)が無いレコードについては、
-    正規化名が一致するだけで同一とみなす(都道府県で絞り込めないため)。
+def integrate_master_list(osm_records, master_records, sake_entries):
+    """マスターリストをOSM由来レコードに統合し、新規追加すべきレコードだけを返す。
+
+    正規化名+都道府県(都道府県が無いOSMレコードについては正規化名のみ)が
+    一致するもの、あるいはsake_info.json経由で同一エントリにマッチするもの
+    (例:「真澄」というブランド名のみのOSM登録と「宮坂醸造」というマスター
+    リストの正式社名登録)は、OSM側に既に存在するとみなして追加しない
+    (二重ピン防止)。
+
+    OSM側は清酒/焼酎を区別しておらず全レコードがデフォルトで"sake"扱いの
+    ため、上記の理由でマスターリスト側を除外する場合、そのマスターリスト
+    エントリがcategory="shochu"であれば対応するOSMレコードのcategoryを
+    "shochu"に上書きする(OSM側にしか無い焼酎蔵の見逃しを減らすため)。
     """
-    existing_by_name_pref = set()
-    existing_names_no_pref = set()
+    by_name_pref = {}
+    by_name_nopref = {}
     for r in osm_records:
         norm = normalize_name(r["name"])
         if r.get("pref"):
-            existing_by_name_pref.add((norm, r["pref"]))
+            by_name_pref.setdefault((norm, r["pref"]), []).append(r)
         else:
-            existing_names_no_pref.add(norm)
+            by_name_nopref.setdefault(norm, []).append(r)
+
+    by_sake_entry = {}
+    for r in osm_records:
+        trusted = r.get("_brand_verified", False)
+        entry = match_sake_info(r["name"], r["pref"], sake_entries, trusted=trusted)
+        if entry:
+            by_sake_entry.setdefault((entry["brewery"], entry["pref"]), []).append(r)
 
     new_records = []
-    for r in master_records:
-        norm = normalize_name(r["name"])
-        if (norm, r.get("pref")) in existing_by_name_pref or norm in existing_names_no_pref:
+    for mr in master_records:
+        norm = normalize_name(mr["name"])
+        dup_records = by_name_pref.get((norm, mr.get("pref"))) or by_name_nopref.get(norm)
+        if not dup_records:
+            mentry = match_sake_info(mr["name"], mr.get("pref"), sake_entries, trusted=False)
+            if mentry:
+                dup_records = by_sake_entry.get((mentry["brewery"], mentry["pref"]))
+
+        if dup_records:
+            if mr["category"] == "shochu":
+                for r in dup_records:
+                    r["category"] = "shochu"
             continue
-        new_records.append(r)
+
+        new_records.append(mr)
     return new_records
 
 
@@ -488,28 +515,12 @@ def main():
             records.append(record)
 
     records = merge_duplicates(records)
+    for r in records:
+        r.setdefault("category", "sake")
 
     master_records = load_master_list_records()
     if master_records:
-        # 名称・都道府県の正規化一致では拾えない二重ピンも防ぐため、
-        # 「真澄」(ブランド名のみでOSM登録)と「宮坂醸造」(マスターリストは
-        # 正式社名で登録)のように、同じsake_info.jsonエントリにマッチする
-        # 場合も同一の蔵とみなして除外する。
-        osm_matched_keys = set()
-        for r in records:
-            trusted = r.get("_brand_verified", False)
-            entry = match_sake_info(r["name"], r["pref"], sake_entries, trusted=trusted)
-            if entry:
-                osm_matched_keys.add((entry["brewery"], entry["pref"]))
-
-        candidate_records = merge_master_list(records, master_records)
-        new_master_records = []
-        for r in candidate_records:
-            entry = match_sake_info(r["name"], r["pref"], sake_entries, trusted=False)
-            if entry and (entry["brewery"], entry["pref"]) in osm_matched_keys:
-                continue
-            new_master_records.append(r)
-
+        new_master_records = integrate_master_list(records, master_records, sake_entries)
         print(f"マスターリスト{len(master_records)}件のうち、OSM未登録の{len(new_master_records)}件を追加します。")
         records += new_master_records
 

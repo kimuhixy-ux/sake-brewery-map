@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """日本酒造組合中央会「酒蔵検索」(https://japansake.or.jp/sakagura/jp/)から
-全国の清酒蔵元(蔵名・住所・都道府県・代表銘柄)を取得し、master_list_raw.jsonに保存する。
+全国の清酒蔵元・焼酎蔵元(蔵名・住所・都道府県・カテゴリ)を取得し、
+master_list_raw.jsonに保存する。カテゴリ("sake"/"shochu")はサイト側の
+分類(class="sake"/"shochu")をそのまま使う。
 
 OpenStreetMapに登録が無い蔵が多く、fetch_breweries.pyだけでは清酒蔵元
 (全国で少なくとも1,200件ほど)の半分にも満たないデータしか取れないことが
@@ -84,8 +86,6 @@ def strip_tags(html):
 def parse_entries(html, pref_name):
     entries = []
     for m in ENTRY_PATTERN.finditer(html):
-        if m.group("category") != "sake":
-            continue
         name = strip_tags(m.group("name")).strip()
         addr = strip_tags(m.group("addr")).strip()
         if not name or not addr:
@@ -94,6 +94,7 @@ def parse_entries(html, pref_name):
             "name": name,
             "pref": pref_name,
             "address": addr,
+            "category": m.group("category"),
             "source_url": m.group("url"),
         })
     return entries
@@ -131,15 +132,19 @@ def main():
     for i, (slug, pref_name) in enumerate(PREF_SLUGS.items(), 1):
         print(f"[{i}/{len(PREF_SLUGS)}] {pref_name} ({slug}) を取得中...")
         entries = scrape_prefecture(slug, pref_name)
-        print(f"  -> 清酒蔵元 {len(entries)}件")
+        sake_count = sum(1 for e in entries if e["category"] == "sake")
+        shochu_count = sum(1 for e in entries if e["category"] == "shochu")
+        print(f"  -> 清酒 {sake_count}件 / 焼酎 {shochu_count}件")
         all_entries.extend(entries)
         time.sleep(REQUEST_DELAY_SECONDS)
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(all_entries, f, ensure_ascii=False, indent=2)
 
+    sake_total = sum(1 for e in all_entries if e["category"] == "sake")
+    shochu_total = sum(1 for e in all_entries if e["category"] == "shochu")
     print()
-    print(f"合計: {len(all_entries)}件")
+    print(f"合計: {len(all_entries)}件 (清酒{sake_total}件 / 焼酎{shochu_total}件)")
     print(f"出力先: {OUTPUT_PATH}")
 
 
