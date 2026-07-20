@@ -17,6 +17,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 SAKE_INFO_PATH = BASE_DIR / "sake_info.json"
 OUTPUT_PATH = BASE_DIR / "breweries.json"
+MASTER_LIST_PATH = BASE_DIR / "master_list_geocoded.json"
 
 # Overpass APIのエンドポイント。第一候補がタイムアウト・エラーになったら
 # 2番目のミラーサーバーに切り替える。
@@ -64,9 +65,11 @@ out center tags;
 
 # 名称に含まれがちな会社形態の表記や空白を取り除いて、突合しやすい形にそろえる。
 COMPANY_FORMS = [
-    "株式会社", "(株)", "（株）",
-    "有限会社", "(有)", "（有）",
-    "合資会社", "合名会社",
+    "株式会社", "(株)", "（株）", "(株）", "㈱",
+    "有限会社", "(有)", "（有）", "㈲",
+    "合資会社", "(資)", "（資）", "㈾",
+    "合名会社", "(名)", "（名）", "(名）", "㈴",
+    "合同会社", "(同)", "（同）",
 ]
 
 
@@ -263,6 +266,63 @@ def merge_duplicates(records):
     return merged
 
 
+def load_master_list_records():
+    """日本酒造組合中央会「酒蔵検索」を元にした全国清酒蔵元マスターリスト
+    (scripts/scrape_master_list.py + scripts/geocode_master_list.pyで生成、
+    master_list_geocoded.json)を、OSM由来レコードと同じ形式に変換する。
+
+    OSMは登録者任せの網羅性しかなく、観光客向けの店舗を持たない小規模な
+    蔵元は登録されないことが多いため、業界団体の公式リストを補完データとして
+    使う。ジオコーディングに失敗した(lat/lonがNone)エントリは地図に
+    表示できないため除外する。座標はNominatimによる住所検索の結果であり、
+    OSM由来レコードと違って施設ピンポイントの精度ではない(市区町村〜字
+    レベルの近似値であることが多い)。
+    """
+    if not MASTER_LIST_PATH.exists():
+        return []
+    with open(MASTER_LIST_PATH, encoding="utf-8") as f:
+        entries = json.load(f)
+    records = []
+    for entry in entries:
+        if entry.get("lat") is None or entry.get("lon") is None:
+            continue
+        records.append({
+            "name": entry["name"],
+            "lat": round(entry["lat"], 6),
+            "lon": round(entry["lon"], 6),
+            "pref": entry.get("pref"),
+            "address": entry.get("address"),
+            "website": None,
+            "wikipedia": None,
+            "_brand_verified": False,
+        })
+    return records
+
+
+def merge_master_list(osm_records, master_records):
+    """マスターリストのうち、OSM側に既に同名(正規化後)・同都道府県の
+    レコードが無いものだけを追加する(二重ピン防止)。
+    OSM側に都道府県タグ(addr:province)が無いレコードについては、
+    正規化名が一致するだけで同一とみなす(都道府県で絞り込めないため)。
+    """
+    existing_by_name_pref = set()
+    existing_names_no_pref = set()
+    for r in osm_records:
+        norm = normalize_name(r["name"])
+        if r.get("pref"):
+            existing_by_name_pref.add((norm, r["pref"]))
+        else:
+            existing_names_no_pref.add(norm)
+
+    new_records = []
+    for r in master_records:
+        norm = normalize_name(r["name"])
+        if (norm, r.get("pref")) in existing_by_name_pref or norm in existing_names_no_pref:
+            continue
+        new_records.append(r)
+    return new_records
+
+
 def load_sake_info(path):
     """sake_info.jsonを読み込む。部分一致で突合するため辞書化はせずリストのまま返す。"""
     with open(path, encoding="utf-8") as f:
@@ -428,6 +488,31 @@ def main():
             records.append(record)
 
     records = merge_duplicates(records)
+
+    master_records = load_master_list_records()
+    if master_records:
+        # 名称・都道府県の正規化一致では拾えない二重ピンも防ぐため、
+        # 「真澄」(ブランド名のみでOSM登録)と「宮坂醸造」(マスターリストは
+        # 正式社名で登録)のように、同じsake_info.jsonエントリにマッチする
+        # 場合も同一の蔵とみなして除外する。
+        osm_matched_keys = set()
+        for r in records:
+            trusted = r.get("_brand_verified", False)
+            entry = match_sake_info(r["name"], r["pref"], sake_entries, trusted=trusted)
+            if entry:
+                osm_matched_keys.add((entry["brewery"], entry["pref"]))
+
+        candidate_records = merge_master_list(records, master_records)
+        new_master_records = []
+        for r in candidate_records:
+            entry = match_sake_info(r["name"], r["pref"], sake_entries, trusted=False)
+            if entry and (entry["brewery"], entry["pref"]) in osm_matched_keys:
+                continue
+            new_master_records.append(r)
+
+        print(f"マスターリスト{len(master_records)}件のうち、OSM未登録の{len(new_master_records)}件を追加します。")
+        records += new_master_records
+
     records += [dict(entry) for entry in MANUAL_ENTRIES]
 
     matched_count = 0
