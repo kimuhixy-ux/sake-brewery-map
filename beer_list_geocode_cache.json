@@ -1,0 +1,5936 @@
+{
+  "北海道北見市山下町２丁目": {
+    "lat": 43.804413,
+    "lon": 143.887325,
+    "precision": "exact",
+    "matched_query": "北海道北見市山下町２丁目"
+  },
+  "北海道小樽市港町５－４小樽": {
+    "lat": 43.1906806,
+    "lon": 140.9946021,
+    "precision": "approx_level1",
+    "matched_query": "北海道 小樽市"
+  },
+  "北海道帯広市西十六条南６－": {
+    "lat": 42.923809,
+    "lon": 143.1966324,
+    "precision": "approx_level1",
+    "matched_query": "北海道 帯広市"
+  },
+  "北海道旭川市宮下通11丁目": {
+    "lat": 43.7621394,
+    "lon": 142.3667928,
+    "precision": "approx_level3",
+    "matched_query": "北海道 旭川市 宮下通"
+  },
+  "北海道函館市大手町５－２": {
+    "lat": 41.7692152,
+    "lon": 140.7239306,
+    "precision": "exact",
+    "matched_query": "北海道 函館市 大手町 ５－２"
+  },
+  "北海道亀田郡七飯町大沼町": {
+    "lat": 41.9748228,
+    "lon": 140.6778618,
+    "precision": "exact",
+    "matched_query": "北海道 亀田郡 七飯町 大沼町"
+  },
+  "北海道小樽市朝里川温泉１丁": {
+    "lat": 43.1516707,
+    "lon": 141.0416729,
+    "precision": "exact",
+    "matched_query": "北海道 小樽市 朝里川温泉１丁"
+  },
+  "北海道札幌市中央区北二条東": {
+    "lat": 43.0656925,
+    "lon": 141.3677014,
+    "precision": "exact",
+    "matched_query": "北海道 札幌市 中央区 北二条東"
+  },
+  "北海道登別市中登別町９６": {
+    "lat": 42.4694093,
+    "lon": 141.1547668,
+    "precision": "exact",
+    "matched_query": "北海道 登別市 中登別町 ９６"
+  },
+  "北海道札幌市中央区北４条西": {
+    "lat": 43.0644413,
+    "lon": 141.3480111,
+    "precision": "exact",
+    "matched_query": "北海道 札幌市 中央区 北４条西"
+  },
+  "北海道網走市南６条西２丁目": {
+    "lat": 44.019502,
+    "lon": 144.26575,
+    "precision": "exact",
+    "matched_query": "北海道 網走市 南６条西２丁目"
+  },
+  "北海道富良野市北の峰町２０": {
+    "lat": 43.3440667,
+    "lon": 142.3661398,
+    "precision": "exact",
+    "matched_query": "北海道 富良野市 北の峰町 ２０"
+  },
+  "北海道江別市元町１１－５": {
+    "lat": 43.1099167,
+    "lon": 141.5371278,
+    "precision": "exact",
+    "matched_query": "北海道 江別市 元町 １１－５"
+  },
+  "北海道虻田郡ニセコ町本通４": {
+    "lat": 42.8031665,
+    "lon": 140.6863729,
+    "precision": "approx_level1",
+    "matched_query": "北海道 虻田郡 ニセコ町 本通"
+  },
+  "北海道札幌市中央区南3条東": {
+    "lat": 43.0561505,
+    "lon": 141.3544791,
+    "precision": "exact",
+    "matched_query": "北海道 札幌市 中央区 南3条東"
+  },
+  "北海道滝川市西滝川７６－１": {
+    "lat": 43.5577956,
+    "lon": 141.9103697,
+    "precision": "approx_level2",
+    "matched_query": "北海道 滝川市"
+  },
+  "北海道札幌市豊平区西岡４": {
+    "lat": 42.9590839,
+    "lon": 141.3798569,
+    "precision": "approx_level1",
+    "matched_query": "北海道 札幌市 豊平区 西岡"
+  },
+  "北海道函館市湯川町１丁目": {
+    "lat": 41.7841611,
+    "lon": 140.8121538,
+    "precision": "exact",
+    "matched_query": "北海道 函館市 湯川町 １丁目"
+  },
+  "北海道爾志郡乙部町字館浦": {
+    "lat": 41.980453,
+    "lon": 140.146829,
+    "precision": "exact",
+    "matched_query": "北海道 爾志郡 乙部町 字館浦"
+  },
+  "北海道空知郡上富良野町西８": {
+    "lat": 43.4286829,
+    "lon": 142.58424,
+    "precision": "approx_level1",
+    "matched_query": "北海道 空知郡 上富良野町 西"
+  },
+  "北海道中川郡美深町字大通北": {
+    "lat": 44.4874461,
+    "lon": 142.3415525,
+    "precision": "exact",
+    "matched_query": "北海道 中川郡 美深町 字大通北"
+  },
+  "北海道虻田郡ニセコ町羊蹄４": {
+    "lat": 42.81733,
+    "lon": 140.7349705,
+    "precision": "approx_level1",
+    "matched_query": "北海道 虻田郡 ニセコ町 羊蹄"
+  },
+  "北海道札幌市豊平区平岸二条": {
+    "lat": 43.061936,
+    "lon": 141.3542924,
+    "precision": "approx_level2",
+    "matched_query": "北海道 札幌市"
+  },
+  "北海道余市郡余市町黒川町8": {
+    "lat": 43.175639,
+    "lon": 140.796069,
+    "precision": "approx_level1",
+    "matched_query": "北海道余市郡余市町黒川町"
+  },
+  "北海道函館市末広町16-13": {
+    "lat": 41.76496,
+    "lon": 140.7163158,
+    "precision": "approx_level1",
+    "matched_query": "北海道 函館市 末広町"
+  },
+  "北海道虻田郡倶知安町北３条": {
+    "lat": 42.903138,
+    "lon": 140.744929,
+    "precision": "exact",
+    "matched_query": "北海道 虻田郡 倶知安町 北３条"
+  },
+  "青森県十和田市大字奥瀬字堰": {
+    "lat": 40.6127405,
+    "lon": 141.206023,
+    "precision": "approx_level1",
+    "matched_query": "青森県 十和田市"
+  },
+  "青森県下北郡大間町奥戸９３": {
+    "lat": 41.4964337,
+    "lon": 140.9146139,
+    "precision": "approx_level1",
+    "matched_query": "青森県 下北郡 大間町 奥戸"
+  },
+  "青森県弘前市松ヶ枝５－７－": {
+    "lat": 40.6072442,
+    "lon": 140.4887645,
+    "precision": "exact",
+    "matched_query": "青森県 弘前市 松ヶ枝５－７－"
+  },
+  "青森県青森市安方": {
+    "lat": 40.8286656,
+    "lon": 140.7410827,
+    "precision": "exact",
+    "matched_query": "青森県 青森市 安方"
+  },
+  "青森県八戸市南郷大字市野沢": {
+    "lat": 40.4015041,
+    "lon": 141.4357471,
+    "precision": "exact",
+    "matched_query": "青森県 八戸市 南郷大字市 野沢"
+  },
+  "岩手県一関市田村町５－４２": {
+    "lat": 38.9300031,
+    "lon": 141.1320126,
+    "precision": "exact",
+    "matched_query": "岩手県 一関市 田村 町 ５－４２"
+  },
+  "岩手県遠野市青笹町糠前３１": {
+    "lat": 39.3222905,
+    "lon": 141.5807444,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 遠野市 青笹町 糠前"
+  },
+  "岩手県盛岡市大慈寺町１０番": {
+    "lat": 39.693867,
+    "lon": 141.157762,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 盛岡市 大慈寺町 １０"
+  },
+  "岩手県盛岡市北山１丁目３－": {
+    "lat": 39.7021331,
+    "lon": 141.1545397,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 盛岡市"
+  },
+  "岩手県北上市大通り４丁目８": {
+    "lat": 39.286766,
+    "lon": 141.106638,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 北上市 大通り４丁"
+  },
+  "岩手県盛岡市菜園１－５－１": {
+    "lat": 39.7021331,
+    "lon": 141.1545397,
+    "precision": "approx_level2",
+    "matched_query": "岩手県 盛岡市"
+  },
+  "岩手県遠野市中央通り１０−": {
+    "lat": 39.3298281,
+    "lon": 141.5295098,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 遠野市 中央通り"
+  },
+  "岩手県岩手郡雫石町沼返１９": {
+    "lat": 39.718442,
+    "lon": 141.003066,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 岩手郡 雫石町 沼返"
+  },
+  "岩手県花巻市大通り1－７－": {
+    "lat": 39.3884038,
+    "lon": 141.1169618,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 花巻市"
+  },
+  "岩手県奥州市水沢袋町６−２": {
+    "lat": 39.1372297,
+    "lon": 141.1421889,
+    "precision": "exact",
+    "matched_query": "岩手県 奥州市 水沢袋町 ６−２"
+  },
+  "岩手県和賀郡西和賀町沢内字": {
+    "lat": 39.3179162,
+    "lon": 140.7787649,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 和賀郡 西和賀町"
+  },
+  "岩手県八幡平市松尾寄木第１": {
+    "lat": 39.9564706,
+    "lon": 141.0709451,
+    "precision": "approx_level2",
+    "matched_query": "岩手県 八幡平市"
+  },
+  "岩手県陸前高田市気仙町字町": {
+    "lat": 39.0204051,
+    "lon": 141.6331219,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 陸前高田市"
+  },
+  "岩手県 盛岡市八幡町13番32": {
+    "lat": 39.696365,
+    "lon": 141.163254,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 盛岡市 八幡町 13"
+  },
+  "秋田県仙北市田沢湖卒田字早": {
+    "lat": 39.7000816,
+    "lon": 140.730767,
+    "precision": "approx_level1",
+    "matched_query": "秋田県 仙北市"
+  },
+  "秋田県秋田市大町１丁目２－": {
+    "lat": 39.7197629,
+    "lon": 140.1034669,
+    "precision": "approx_level1",
+    "matched_query": "秋田県 秋田市"
+  },
+  "秋田県仙北市田沢湖田沢字春": {
+    "lat": 39.7000816,
+    "lon": 140.730767,
+    "precision": "approx_level1",
+    "matched_query": "秋田県 仙北市"
+  },
+  "秋田県雄勝郡羽後町西馬音内": {
+    "lat": 39.1991068,
+    "lon": 140.4048062,
+    "precision": "exact",
+    "matched_query": "秋田県 雄勝郡 羽後町 西馬音内"
+  },
+  "秋田県秋田市中通三丁目４番": {
+    "lat": 39.7145493,
+    "lon": 140.1170701,
+    "precision": "approx_level2",
+    "matched_query": "秋田県 秋田市 中通三丁"
+  },
+  "宮城県黒川郡大郷町東成田字": {
+    "lat": 38.4243176,
+    "lon": 141.0044439,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 黒川郡 大郷町"
+  },
+  "宮城県大崎市鳴子温泉鬼首字": {
+    "lat": 38.5776571,
+    "lon": 140.9557224,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 大崎市"
+  },
+  "宮城県加美郡加美町味ケ袋薬": {
+    "lat": 38.576054,
+    "lon": 140.712007,
+    "precision": "exact",
+    "matched_query": "宮城県 加美郡 加美町 味ケ袋薬"
+  },
+  "宮城県角田市角田字197-4": {
+    "lat": 37.9693319,
+    "lon": 140.7794584,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 角田市 角田字"
+  },
+  "宮城県仙台市若林区石名坂３": {
+    "lat": 38.244608,
+    "lon": 140.887027,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 仙台市 若林区 石名坂"
+  },
+  "宮城県塩竈市海岸通１０−８": {
+    "lat": 38.3181635,
+    "lon": 141.0235087,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 塩竈市 海岸通"
+  },
+  "宮城県気仙沼市南町3-2-5": {
+    "lat": 38.9046926,
+    "lon": 141.5735948,
+    "precision": "exact",
+    "matched_query": "宮城県 気仙沼市 南町 3-2-5"
+  },
+  "宮城県名取市閖上東地区21街": {
+    "lat": 38.171499,
+    "lon": 140.8917335,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 名取市"
+  },
+  "宮城県牡鹿郡女川町女川浜大": {
+    "lat": 38.4002328,
+    "lon": 141.4656676,
+    "precision": "exact",
+    "matched_query": "宮城県 牡鹿郡 女川町 女川浜大"
+  },
+  "宮城県仙台市青葉区大町１丁": {
+    "lat": 38.2598999,
+    "lon": 140.8695658,
+    "precision": "exact",
+    "matched_query": "宮城県仙台市青葉区大町１丁"
+  },
+  "山形県山形県西川町水沢２３": {
+    "lat": 38.468509,
+    "lon": 140.082555,
+    "precision": "approx_level1",
+    "matched_query": "山形県 山形県 西川町 水沢"
+  },
+  "山形県天童市鎌田本町２丁目": {
+    "lat": 38.35733,
+    "lon": 140.382437,
+    "precision": "exact",
+    "matched_query": "山形県天童市鎌田本町２丁目"
+  },
+  "山形県米沢市中央２－３－１": {
+    "lat": 37.9218342,
+    "lon": 140.1161931,
+    "precision": "approx_level2",
+    "matched_query": "山形県 米沢市"
+  },
+  "山形県米沢市大字李山５４７": {
+    "lat": 37.9218342,
+    "lon": 140.1161931,
+    "precision": "approx_level2",
+    "matched_query": "山形県 米沢市"
+  },
+  "山形県長井市泉６７７－１１": {
+    "lat": 38.1063564,
+    "lon": 140.0338997,
+    "precision": "approx_level2",
+    "matched_query": "山形県 長井市"
+  },
+  "山形県天童市大字久野本字日": {
+    "lat": 38.3624343,
+    "lon": 140.3772634,
+    "precision": "approx_level1",
+    "matched_query": "山形県 天童市"
+  },
+  "福島県福島市荒井字横塚３－": {
+    "lat": 37.760777,
+    "lon": 140.4745807,
+    "precision": "approx_level1",
+    "matched_query": "福島県 福島市"
+  },
+  "福島県耶麻郡猪苗代町大字三": {
+    "lat": 37.5577721,
+    "lon": 140.1046454,
+    "precision": "approx_level1",
+    "matched_query": "福島県 耶麻郡 猪苗代町"
+  },
+  "福島県二本松市戸沢字西高内": {
+    "lat": 37.5850396,
+    "lon": 140.4313889,
+    "precision": "approx_level1",
+    "matched_query": "福島県 二本松市"
+  },
+  "福島県南会津郡南会津町田島": {
+    "lat": 37.195357,
+    "lon": 139.776918,
+    "precision": "exact",
+    "matched_query": "福島県 南会津郡 南会津町 田島"
+  },
+  "福島県西白河郡西郷村大字小": {
+    "lat": 37.137526,
+    "lon": 140.076227,
+    "precision": "exact",
+    "matched_query": "福島県 西白河郡 西郷村 大字小"
+  },
+  "福島県伊達郡桑折町字上町7": {
+    "lat": 37.851561,
+    "lon": 140.518358,
+    "precision": "approx_level1",
+    "matched_query": "福島県 伊達郡 桑折町 字上町"
+  },
+  "福島県福島市大笹生字横堀１": {
+    "lat": 37.760777,
+    "lon": 140.4745807,
+    "precision": "approx_level2",
+    "matched_query": "福島県 福島市"
+  },
+  "福島県田村市都路町岩井沢字": {
+    "lat": 37.4471941,
+    "lon": 140.4929108,
+    "precision": "approx_level1",
+    "matched_query": "福島県 田村"
+  },
+  "新潟県阿賀野市金屋３４５－": {
+    "lat": 37.8343618,
+    "lon": 139.2258539,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 阿賀野市"
+  },
+  "新潟県妙高市池の平温泉": {
+    "lat": 36.8708332,
+    "lon": 138.1766619,
+    "precision": "exact",
+    "matched_query": "新潟県 妙高市 池の平温泉"
+  },
+  "新潟県新潟市西蒲区越前浜５": {
+    "lat": 37.8129516,
+    "lon": 138.8485294,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 新潟市 西蒲区 越前浜"
+  },
+  "新潟県新潟市西蒲区松山２": {
+    "lat": 37.8007616,
+    "lon": 138.8562923,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 新潟市 西蒲区 松山"
+  },
+  "新潟県胎内市熱田坂６７０番": {
+    "lat": 38.027846,
+    "lon": 139.479675,
+    "precision": "approx_level2",
+    "matched_query": "新潟県 胎内市 熱田坂"
+  },
+  "新潟県新潟市西蒲区角田浜１": {
+    "lat": 37.799252,
+    "lon": 138.8323939,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 新潟市 西蒲区 角田浜"
+  },
+  "新潟県新潟市中央区沼垂東２": {
+    "lat": 37.9189803,
+    "lon": 139.0704308,
+    "precision": "exact",
+    "matched_query": "新潟県新潟市中央区沼垂東２"
+  },
+  "新潟県十日町市太平４７４−": {
+    "lat": 37.139534,
+    "lon": 138.6226067,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 十日町 市 太平"
+  },
+  "新潟県南魚沼市長森１９３－": {
+    "lat": 37.0655723,
+    "lon": 138.8760989,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 南魚沼市"
+  },
+  "新潟県見附市葛巻１丁目９−": {
+    "lat": 37.527578,
+    "lon": 138.911782,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 見附市 葛巻１丁"
+  },
+  "新潟県西蒲原郡弥彦村弥彦１": {
+    "lat": 37.6992561,
+    "lon": 138.8319529,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 西蒲原郡 弥彦村 弥彦"
+  },
+  "新潟県長岡市摂田屋４－８－": {
+    "lat": 37.446996,
+    "lon": 138.8512199,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 長岡市"
+  },
+  "新潟県十日町市本町５－５５": {
+    "lat": 37.1350931,
+    "lon": 138.7633431,
+    "precision": "exact",
+    "matched_query": "新潟県 十日町 市 本町 ５－５５"
+  },
+  "新潟県新発田市月岡温泉５５": {
+    "lat": 37.8813064,
+    "lon": 139.309109,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 新発田市 月岡温泉"
+  },
+  "新潟県長岡市川崎町７７８－": {
+    "lat": 37.453741,
+    "lon": 138.879816,
+    "precision": "exact",
+    "matched_query": "新潟県 長岡市 川崎町 ７７８－"
+  },
+  "長野県上伊那郡宮田村４５７": {
+    "lat": 35.7600254,
+    "lon": 137.8868815,
+    "precision": "exact",
+    "matched_query": "長野県 上伊那郡 宮田村 ４５７"
+  },
+  "長野県東御市和３８７５": {
+    "lat": 36.398933,
+    "lon": 138.347938,
+    "precision": "approx_level1",
+    "matched_query": "長野県 東御市 和"
+  },
+  "長野県佐久市小田井１１１９": {
+    "lat": 36.2936307,
+    "lon": 138.4947896,
+    "precision": "approx_level1",
+    "matched_query": "長野県 佐久市 小田井"
+  },
+  "長野県茅野市白樺湖レイクサイ": {
+    "lat": 35.9957107,
+    "lon": 138.1589173,
+    "precision": "approx_level1",
+    "matched_query": "長野県 茅野市"
+  },
+  "長野県安曇野市穂高北穂高２": {
+    "lat": 36.36157,
+    "lon": 137.881685,
+    "precision": "approx_level1",
+    "matched_query": "長野県 安曇野市 穂高北穂高"
+  },
+  "長野県諏訪市諏訪２－９－２": {
+    "lat": 36.0391748,
+    "lon": 138.11398,
+    "precision": "approx_level2",
+    "matched_query": "長野県 諏訪市"
+  },
+  "長野県下高井郡山ノ内町大字": {
+    "lat": 36.7108374,
+    "lon": 138.4952669,
+    "precision": "exact",
+    "matched_query": "長野県 下高井郡 山ノ内町 大字"
+  },
+  "長野県佐久市長土呂６４－３": {
+    "lat": 36.2488014,
+    "lon": 138.4767695,
+    "precision": "approx_level2",
+    "matched_query": "長野県 佐久市"
+  },
+  "長野県下高井郡野沢温泉村大": {
+    "lat": 36.931457,
+    "lon": 138.45534,
+    "precision": "approx_level1",
+    "matched_query": "長野県 下高井郡 野沢温泉村"
+  },
+  "長野県北安曇郡白馬村大字神": {
+    "lat": 36.6981042,
+    "lon": 137.862068,
+    "precision": "approx_level1",
+    "matched_query": "長野県 北安曇郡 白馬村"
+  },
+  "長野県須坂市大字豊丘６７０": {
+    "lat": 36.623171,
+    "lon": 138.390783,
+    "precision": "approx_level1",
+    "matched_query": "長野県 須坂市 大字豊丘"
+  },
+  "長野県松本市中央３－４－２": {
+    "lat": 36.2382047,
+    "lon": 137.9687141,
+    "precision": "approx_level2",
+    "matched_query": "長野県 松本市"
+  },
+  "長野県松本市巾上３６９－５": {
+    "lat": 36.2382047,
+    "lon": 137.9687141,
+    "precision": "approx_level2",
+    "matched_query": "長野県 松本市"
+  },
+  "長野県伊那市高遠町藤澤３２": {
+    "lat": 35.9407177,
+    "lon": 138.102066,
+    "precision": "approx_level1",
+    "matched_query": "長野県 伊那市 高遠町 藤澤"
+  },
+  "長野県茅野市北山６８０７－": {
+    "lat": 35.9957107,
+    "lon": 138.1589173,
+    "precision": "approx_level1",
+    "matched_query": "長野県 茅野市"
+  },
+  "長野県大町市大町４１３４－": {
+    "lat": 36.52463,
+    "lon": 137.870628,
+    "precision": "exact",
+    "matched_query": "長野県 大町 市 大町 ４１３４－"
+  },
+  "長野県伊那市西箕輪８００４": {
+    "lat": 35.8790469,
+    "lon": 137.9203719,
+    "precision": "approx_level1",
+    "matched_query": "長野県 伊那市 西箕輪"
+  },
+  "長野県北佐久郡御代田町大字": {
+    "lat": 36.30766,
+    "lon": 138.533661,
+    "precision": "exact",
+    "matched_query": "長野県 北佐久郡 御代田町 大字"
+  },
+  "長野県上高井郡高山村高井４": {
+    "lat": 36.6702784,
+    "lon": 138.3660668,
+    "precision": "approx_level1",
+    "matched_query": "長野県 上高井郡 高山村 高井"
+  },
+  "長野県上田市天神１丁目２−": {
+    "lat": 36.3983692,
+    "lon": 138.2489713,
+    "precision": "approx_level1",
+    "matched_query": "長野県 上田市 天神１丁"
+  },
+  "長野県北佐久郡軽井沢町軽井": {
+    "lat": 36.344465,
+    "lon": 138.616387,
+    "precision": "exact",
+    "matched_query": "長野県 北佐久郡 軽井沢町 軽井"
+  },
+  "茨城県那珂市鴻巣１２５７": {
+    "lat": 36.467993,
+    "lon": 140.475272,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 那珂市 鴻巣"
+  },
+  "茨城県久慈郡大子町上金沢１": {
+    "lat": 36.7788039,
+    "lon": 140.2758381,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 久慈郡 大子町 上金沢"
+  },
+  "茨城県鹿嶋市宮中１丁目５－": {
+    "lat": 35.9661164,
+    "lon": 140.6450292,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 鹿嶋市"
+  },
+  "茨城県猿島郡境町１３４１－": {
+    "lat": 36.1083794,
+    "lon": 139.7951982,
+    "precision": "exact",
+    "matched_query": "茨城県 猿島郡 境町 １３４１－"
+  },
+  "茨城県結城市中央町１－７－": {
+    "lat": 36.2966543,
+    "lon": 139.8784906,
+    "precision": "exact",
+    "matched_query": "茨城県 結城市 中央町 １－７－"
+  },
+  "茨城県牛久市牛久町531-3": {
+    "lat": 35.965255,
+    "lon": 140.135606,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 牛久市 牛久町"
+  },
+  "茨城県つくば市二の宮２－１４": {
+    "lat": 36.0833265,
+    "lon": 140.077279,
+    "precision": "approx_level2",
+    "matched_query": "茨城県 つくば市"
+  },
+  "茨城県水戸市元山町１丁目３": {
+    "lat": 36.377368,
+    "lon": 140.4536282,
+    "precision": "approx_level1",
+    "matched_query": "茨城県水戸市元山町１丁"
+  },
+  "茨城県東茨城郡大洗町港中央": {
+    "lat": 36.306336,
+    "lon": 140.566971,
+    "precision": "exact",
+    "matched_query": "茨城県 東茨城郡 大洗町 港中央"
+  },
+  "茨城県牛久市中央３丁目２０": {
+    "lat": 35.9755606,
+    "lon": 140.1447849,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 牛久市 中央３丁"
+  },
+  "栃木県宇都宮市新里町丙２５": {
+    "lat": 36.5482259,
+    "lon": 139.8738058,
+    "precision": "approx_level1",
+    "matched_query": "栃木県宇都宮市新里町丙"
+  },
+  "栃木県那須郡那須町大字高久": {
+    "lat": 37.0651251,
+    "lon": 139.9791054,
+    "precision": "exact",
+    "matched_query": "栃木県 那須郡 那須町 大字高久"
+  },
+  "栃木県宇都宮市東塙田１丁目": {
+    "lat": 36.564928,
+    "lon": 139.891245,
+    "precision": "exact",
+    "matched_query": "栃木県 宇都 宮市 東塙田１丁目"
+  },
+  "栃木県宇都宮市池上町３番８": {
+    "lat": 36.5611092,
+    "lon": 139.8820201,
+    "precision": "approx_level2",
+    "matched_query": "栃木県 宇都 宮市 池上町"
+  },
+  "栃木県下野市笹原１４２－３": {
+    "lat": 36.3943469,
+    "lon": 139.8515863,
+    "precision": "approx_level2",
+    "matched_query": "栃木県 下野市"
+  },
+  "栃木県日光市木和田島１５６": {
+    "lat": 36.684355,
+    "lon": 139.7464371,
+    "precision": "approx_level1",
+    "matched_query": "栃木県 日光市 木和田島"
+  },
+  "栃木県日光市上鉢石町１０１": {
+    "lat": 36.752109,
+    "lon": 139.604243,
+    "precision": "exact",
+    "matched_query": "栃木県 日光市 上鉢石町 １０１"
+  },
+  "栃木県小山市大字東野田２１": {
+    "lat": 36.246018,
+    "lon": 139.802575,
+    "precision": "approx_level1",
+    "matched_query": "栃木県 小山市 大字東野田"
+  },
+  "栃木県那須塩原市塩野崎184": {
+    "lat": 36.963988,
+    "lon": 139.99532,
+    "precision": "approx_level1",
+    "matched_query": "栃木県 那須塩原市 塩野崎"
+  },
+  "千葉県山武市松尾町武野里１": {
+    "lat": 35.627395,
+    "lon": 140.492187,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 山武市 松尾町 武野里"
+  },
+  "千葉県南房総市谷向３９４番": {
+    "lat": 35.0287359,
+    "lon": 139.8999276,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 南房総市 谷向"
+  },
+  "千葉県浦安市舞浜１－４": {
+    "lat": 35.6539105,
+    "lon": 139.902563,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 浦安市"
+  },
+  "千葉県佐倉市上座１１９３番": {
+    "lat": 35.724077,
+    "lon": 140.16283,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 佐倉市 上座"
+  },
+  "千葉県木更津市清川１－１４": {
+    "lat": 35.3810808,
+    "lon": 139.9247334,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 木更津市"
+  },
+  "千葉県習志野市谷津４－６－": {
+    "lat": 35.6816753,
+    "lon": 140.0272065,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 習志野市"
+  },
+  "千葉県柏市柏": {
+    "lat": 35.8623263,
+    "lon": 139.9710655,
+    "precision": "exact",
+    "matched_query": "千葉県 柏市 柏"
+  },
+  "千葉県安房郡鋸南町吉浜５１": {
+    "lat": 35.1305001,
+    "lon": 139.8410976,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 安房郡 鋸南町 吉浜"
+  },
+  "千葉県千葉市美浜区若葉３－": {
+    "lat": 35.6070629,
+    "lon": 140.1062653,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 千葉市"
+  },
+  "千葉県船橋市西船4丁目29番": {
+    "lat": 35.7097333,
+    "lon": 139.9600987,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 船橋市 西船4丁"
+  },
+  "千葉県長生郡白子町古所３３": {
+    "lat": 35.4484666,
+    "lon": 140.3934411,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 長生郡 白子町 古所"
+  },
+  "千葉県柏市酒井根５－２－４": {
+    "lat": 35.8676218,
+    "lon": 139.9756876,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 柏市"
+  },
+  "千葉県松戸市松戸１１５１－": {
+    "lat": 35.787267,
+    "lon": 139.9049043,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 松戸市"
+  },
+  "千葉県千葉市中央区長洲１丁": {
+    "lat": 35.6029606,
+    "lon": 140.1232854,
+    "precision": "exact",
+    "matched_query": "千葉県 千葉市 中央区 長洲１丁"
+  },
+  "千葉県銚子市犬吠埼9575-2": {
+    "lat": 35.7080988,
+    "lon": 140.8697542,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 銚子市 犬吠埼"
+  },
+  "千葉県柏市若柴226-42中央": {
+    "lat": 35.8676218,
+    "lon": 139.9756876,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 柏市"
+  },
+  "千葉県柏市正連寺3943中央": {
+    "lat": 35.8676218,
+    "lon": 139.9756876,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 柏市"
+  },
+  "千葉県千葉市花見川区武石町": {
+    "lat": 35.6617496,
+    "lon": 140.0651703,
+    "precision": "exact",
+    "matched_query": "千葉県 千葉市 花見川区 武石町"
+  },
+  "千葉県成田市所 １１９９番": {
+    "lat": 35.8492108,
+    "lon": 140.4629524,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 成田市 所 １１９９"
+  },
+  "千葉県南房総市安馬谷218番地1": {
+    "lat": 35.007346,
+    "lon": 139.9613139,
+    "precision": "approx_level3",
+    "matched_query": "千葉県 南房総市 安馬谷"
+  },
+  "東京都調布市多摩川１－３４": {
+    "lat": 35.6506036,
+    "lon": 139.5407066,
+    "precision": "approx_level2",
+    "matched_query": "東京都 調布市"
+  },
+  "東京都墨田区吾妻橋1－２３": {
+    "lat": 35.7104196,
+    "lon": 139.8017421,
+    "precision": "approx_level2",
+    "matched_query": "東京都 墨田区"
+  },
+  "東京都品川区東品川二丁目１": {
+    "lat": 35.6230714,
+    "lon": 139.7237004,
+    "precision": "approx_level1",
+    "matched_query": "東京都 品川区 東品川二丁"
+  },
+  "東京都福生市熊川１番地": {
+    "lat": 35.7284669,
+    "lon": 139.3354099,
+    "precision": "approx_level3",
+    "matched_query": "東京都 福生市 熊川"
+  },
+  "東京都墨田区緑４－８－８": {
+    "lat": 35.7104196,
+    "lon": 139.8017421,
+    "precision": "approx_level2",
+    "matched_query": "東京都 墨田区"
+  },
+  "東京都中央区銀座２－１４－": {
+    "lat": 35.6706436,
+    "lon": 139.7719923,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中央区"
+  },
+  "東京都杉並区高円寺北２－２": {
+    "lat": 35.6994929,
+    "lon": 139.6362876,
+    "precision": "approx_level2",
+    "matched_query": "東京都 杉並区"
+  },
+  "東京都杉並区荻窪５－２３－": {
+    "lat": 35.6994929,
+    "lon": 139.6362876,
+    "precision": "approx_level1",
+    "matched_query": "東京都 杉並区"
+  },
+  "東京都北区上十条２－７－１": {
+    "lat": 35.7528821,
+    "lon": 139.7338331,
+    "precision": "approx_level2",
+    "matched_query": "東京都 北区"
+  },
+  "東京都台東区西浅草２－２－": {
+    "lat": 35.7125805,
+    "lon": 139.7800712,
+    "precision": "approx_level1",
+    "matched_query": "東京都 台東区"
+  },
+  "東京都目黒区下目黒１－３－": {
+    "lat": 35.6408352,
+    "lon": 139.6985376,
+    "precision": "approx_level1",
+    "matched_query": "東京都 目黒区"
+  },
+  "東京都墨田区横川３丁目１２": {
+    "lat": 35.70413,
+    "lon": 139.813652,
+    "precision": "approx_level1",
+    "matched_query": "東京都 墨田区 横川３丁"
+  },
+  "東京都中野区中野５－５３－": {
+    "lat": 35.7086179,
+    "lon": 139.6629399,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中野区"
+  },
+  "東京都大田区西蒲田２－７－": {
+    "lat": 35.561206,
+    "lon": 139.715843,
+    "precision": "approx_level1",
+    "matched_query": "東京都 大田区"
+  },
+  "東京都目黒区目黒本町４－２": {
+    "lat": 35.6219682,
+    "lon": 139.6962753,
+    "precision": "exact",
+    "matched_query": "東京都 目黒区 目黒本町 ４－２"
+  },
+  "東京都渋谷区代官山町１３－": {
+    "lat": 35.6507318,
+    "lon": 139.7046751,
+    "precision": "exact",
+    "matched_query": "東京都 渋谷区 代官山町 １３－"
+  },
+  "東京都品川区広町１－３－２": {
+    "lat": 35.6123631,
+    "lon": 139.7336817,
+    "precision": "exact",
+    "matched_query": "東京都 品川区 広町 １－３－２"
+  },
+  "東京都調布市国領町２－１５": {
+    "lat": 35.636327,
+    "lon": 139.556512,
+    "precision": "exact",
+    "matched_query": "東京都 調布市 国領町 ２－１５"
+  },
+  "東京都西多摩郡奥多摩町氷川": {
+    "lat": 35.8092044,
+    "lon": 139.0966838,
+    "precision": "exact",
+    "matched_query": "東京都 西多摩郡 奥多摩町 氷川"
+  },
+  "東京都渋谷区代々木２－１８": {
+    "lat": 35.6859288,
+    "lon": 139.6981868,
+    "precision": "approx_level1",
+    "matched_query": "東京都 渋谷区 代々木２－"
+  },
+  "東京都新宿区高田馬場１－２ 03 6457-6410                              〇      http://beerkobo.web.fc2.com": {
+    "lat": 35.6937632,
+    "lon": 139.7036319,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新宿区"
+  },
+  "東京都新宿区新宿１－３６－": {
+    "lat": 35.6937632,
+    "lon": 139.7036319,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新宿区"
+  },
+  "東京都足立区千住旭町11番": {
+    "lat": 35.7506087,
+    "lon": 139.8071865,
+    "precision": "exact",
+    "matched_query": "東京都 足立区 千住旭町 11番"
+  },
+  "東京都千代田区平河町２－６": {
+    "lat": 35.681248,
+    "lon": 139.7400749,
+    "precision": "exact",
+    "matched_query": "東京都 千代田区 平河町 ２－６"
+  },
+  "東京都中央区銀座８－１１－": {
+    "lat": 35.6706436,
+    "lon": 139.7719923,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中央区"
+  },
+  "東京都新宿区西新宿１－２６": {
+    "lat": 35.6940529,
+    "lon": 139.7001549,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新宿区 西新宿１－"
+  },
+  "東京都神津島村１４２－２": {
+    "lat": 34.2060924,
+    "lon": 139.1348719,
+    "precision": "exact",
+    "matched_query": "東京都 神津島村 １４２－２"
+  },
+  "東京都八王子市長沼町５８－": {
+    "lat": 35.642169,
+    "lon": 139.367759,
+    "precision": "exact",
+    "matched_query": "東京都 八王子市 長沼町 ５８－"
+  },
+  "東京都江東区南砂２－３－１": {
+    "lat": 35.6727747,
+    "lon": 139.8169621,
+    "precision": "approx_level2",
+    "matched_query": "東京都 江東区"
+  },
+  "東京都世田谷区経堂２－１４": {
+    "lat": 35.6469025,
+    "lon": 139.652531,
+    "precision": "approx_level2",
+    "matched_query": "東京都 世田谷区"
+  },
+  "東京都狛江市駒井町３－３４": {
+    "lat": 35.6347642,
+    "lon": 139.5787343,
+    "precision": "approx_level2",
+    "matched_query": "東京都 狛江市"
+  },
+  "東京都東村山市秋津町３－１": {
+    "lat": 35.7595108,
+    "lon": 139.477217,
+    "precision": "approx_level2",
+    "matched_query": "東京都 東村"
+  },
+  "東京都八王子市下恩方町１５": {
+    "lat": 35.6657412,
+    "lon": 139.2511983,
+    "precision": "exact",
+    "matched_query": "東京都 八王子市 下恩方町 １５"
+  },
+  "東京都台東区浅草橋４－７－": {
+    "lat": 35.7125805,
+    "lon": 139.7800712,
+    "precision": "approx_level1",
+    "matched_query": "東京都 台東区"
+  },
+  "東京都武蔵野市境南町３－２": {
+    "lat": 35.7016555,
+    "lon": 139.5440484,
+    "precision": "exact",
+    "matched_query": "東京都 武蔵野市 境南町 ３－２"
+  },
+  "東京都港区浜松町２－１－５": {
+    "lat": 35.656521,
+    "lon": 139.7558718,
+    "precision": "exact",
+    "matched_query": "東京都 港区 浜松町 ２－１－５"
+  },
+  "東京都杉並区阿佐ヶ谷南2-3": {
+    "lat": 35.6997607,
+    "lon": 139.6370948,
+    "precision": "approx_level1",
+    "matched_query": "東京都 杉並区 阿佐ヶ谷南"
+  },
+  "東京都港区六本木３－６－９": {
+    "lat": 35.6580089,
+    "lon": 139.7515137,
+    "precision": "approx_level2",
+    "matched_query": "東京都 港区"
+  },
+  "東京都羽村市富士見平１－１": {
+    "lat": 35.7583518,
+    "lon": 139.3160094,
+    "precision": "approx_level2",
+    "matched_query": "東京都 羽村"
+  },
+  "東京都狛江市和泉本町１－１": {
+    "lat": 35.6365853,
+    "lon": 139.5791421,
+    "precision": "exact",
+    "matched_query": "東京都 狛江市 和泉本町 １－１"
+  },
+  "東京都江東区千田１６－２": {
+    "lat": 35.6727747,
+    "lon": 139.8169621,
+    "precision": "approx_level2",
+    "matched_query": "東京都 江東区"
+  },
+  "東京都杉並区久我山３－１７": {
+    "lat": 35.6994929,
+    "lon": 139.6362876,
+    "precision": "approx_level2",
+    "matched_query": "東京都 杉並区"
+  },
+  "東京都世田谷区砧５－１１－": {
+    "lat": 35.6469025,
+    "lon": 139.652531,
+    "precision": "approx_level1",
+    "matched_query": "東京都 世田谷区"
+  },
+  "東京都豊島区南大塚１－６０": {
+    "lat": 35.725913,
+    "lon": 139.7166365,
+    "precision": "approx_level2",
+    "matched_query": "東京都 豊島区"
+  },
+  "東京都板橋区板橋３－４０－": {
+    "lat": 35.7512814,
+    "lon": 139.7087794,
+    "precision": "approx_level1",
+    "matched_query": "東京都 板橋区"
+  },
+  "東京都板橋区板橋１－８－４": {
+    "lat": 35.7512814,
+    "lon": 139.7087794,
+    "precision": "approx_level2",
+    "matched_query": "東京都 板橋区"
+  },
+  "東京都昭島市昭和町２－７－": {
+    "lat": 35.7113405,
+    "lon": 139.36326,
+    "precision": "exact",
+    "matched_query": "東京都 昭島市 昭和町 ２－７－"
+  },
+  "東京都三鷹市下連雀４－１－": {
+    "lat": 35.6833926,
+    "lon": 139.5592421,
+    "precision": "approx_level1",
+    "matched_query": "東京都 三鷹市"
+  },
+  "東京都豊島区西池袋４－１９": {
+    "lat": 35.725913,
+    "lon": 139.7166365,
+    "precision": "approx_level2",
+    "matched_query": "東京都 豊島区"
+  },
+  "東京都港区北青山２－３－１": {
+    "lat": 35.6580089,
+    "lon": 139.7515137,
+    "precision": "approx_level2",
+    "matched_query": "東京都 港区"
+  },
+  "東京都台東区上野５－１０－": {
+    "lat": 35.7125805,
+    "lon": 139.7800712,
+    "precision": "approx_level1",
+    "matched_query": "東京都 台東区"
+  },
+  "東京都文京区関口１－２８－": {
+    "lat": 35.7080255,
+    "lon": 139.7523066,
+    "precision": "approx_level1",
+    "matched_query": "東京都 文京区"
+  },
+  "東京都中野区中央５－３−1": {
+    "lat": 35.701918,
+    "lon": 139.6660827,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中野区 中央５－"
+  },
+  "東京都江東区平野３－６－３": {
+    "lat": 35.6727747,
+    "lon": 139.8169621,
+    "precision": "approx_level2",
+    "matched_query": "東京都 江東区"
+  },
+  "東京都渋谷区道玄坂１－１２": {
+    "lat": 35.6637109,
+    "lon": 139.6976941,
+    "precision": "approx_level2",
+    "matched_query": "東京都 渋谷区"
+  },
+  "東京都世田谷区玉川３－１３": {
+    "lat": 35.6469025,
+    "lon": 139.652531,
+    "precision": "approx_level2",
+    "matched_query": "東京都 世田谷区"
+  },
+  "東京都中央区日本橋室町３－": {
+    "lat": 35.6868492,
+    "lon": 139.7734674,
+    "precision": "exact",
+    "matched_query": "東京都 中央区 日本橋室町 ３－"
+  },
+  "東京都小笠原村父島字西町": {
+    "lat": 27.0942961,
+    "lon": 142.1918887,
+    "precision": "approx_level1",
+    "matched_query": "東京都 小笠原村"
+  },
+  "東京都北区東十条２丁目１５": {
+    "lat": 35.763234,
+    "lon": 139.730269,
+    "precision": "approx_level1",
+    "matched_query": "東京都 北区 東十条２丁"
+  },
+  "東京都江東区亀戸": {
+    "lat": 35.6972735,
+    "lon": 139.8267095,
+    "precision": "exact",
+    "matched_query": "東京都 江東区 亀戸"
+  },
+  "東京都墨田区亀沢２丁目２３": {
+    "lat": 35.697449,
+    "lon": 139.801424,
+    "precision": "approx_level1",
+    "matched_query": "東京都 墨田区 亀沢２丁"
+  },
+  "東京都千代田区神田錦町２－": {
+    "lat": 35.6916939,
+    "lon": 139.7618479,
+    "precision": "exact",
+    "matched_query": "東京都 千代田区 神田錦町 ２－"
+  },
+  "東京都墨田区江東橋４－２７": {
+    "lat": 35.7104196,
+    "lon": 139.8017421,
+    "precision": "approx_level2",
+    "matched_query": "東京都 墨田区"
+  },
+  "東京都国立市東３丁目１７番": {
+    "lat": 35.693483,
+    "lon": 139.454879,
+    "precision": "approx_level2",
+    "matched_query": "東京都 国立市 東３丁"
+  },
+  "東京都大田区羽田空港１丁目": {
+    "lat": 35.5547447,
+    "lon": 139.7573805,
+    "precision": "exact",
+    "matched_query": "東京都 大田区 羽田空港１丁目"
+  },
+  "東京都品川区西五反田１－１": {
+    "lat": 35.6092008,
+    "lon": 139.7301982,
+    "precision": "approx_level2",
+    "matched_query": "東京都 品川区"
+  },
+  "東京都目黒区中央町２丁目３": {
+    "lat": 35.6315868,
+    "lon": 139.6893355,
+    "precision": "approx_level1",
+    "matched_query": "東京都目黒区中央町２丁"
+  },
+  "東京都豊島区目白２丁目２番": {
+    "lat": 35.7217091,
+    "lon": 139.7098652,
+    "precision": "approx_level2",
+    "matched_query": "東京都 豊島区 目白２丁"
+  },
+  "東京都狛江市岩戸北２丁目２": {
+    "lat": 35.6381727,
+    "lon": 139.5808684,
+    "precision": "approx_level1",
+    "matched_query": "東京都 狛江市 岩戸北２丁"
+  },
+  "東京都新宿区箪笥町２９": {
+    "lat": 35.7005587,
+    "lon": 139.7349478,
+    "precision": "exact",
+    "matched_query": "東京都 新宿区 箪笥町 ２９"
+  },
+  "東京都中央区日本橋本町３丁": {
+    "lat": 35.688895,
+    "lon": 139.77566,
+    "precision": "exact",
+    "matched_query": "東京都中央区日本橋本町３丁"
+  },
+  "東京都世田谷区瀬田５丁目２": {
+    "lat": 35.6248022,
+    "lon": 139.6251033,
+    "precision": "approx_level1",
+    "matched_query": "東京都 世田谷区 瀬田５丁"
+  },
+  "東京都新宿区歌舞伎町1丁目": {
+    "lat": 35.6953799,
+    "lon": 139.7017233,
+    "precision": "exact",
+    "matched_query": "東京都新宿区歌舞伎町1丁目"
+  },
+  "東京都立川市高松町１丁目２": {
+    "lat": 35.708478,
+    "lon": 139.417087,
+    "precision": "approx_level1",
+    "matched_query": "東京都立川市高松町１丁"
+  },
+  "東京都新宿区上落合2-10-1": {
+    "lat": 35.713215,
+    "lon": 139.6883488,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新宿区 上落合"
+  },
+  "埼玉県東松山市大谷１３５２": {
+    "lat": 36.0937941,
+    "lon": 139.3956041,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 東松山市 大谷"
+  },
+  "埼玉県羽生市大字三田ヶ谷１": {
+    "lat": 36.1758996,
+    "lon": 139.6029645,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 羽生市 大字三田ヶ谷"
+  },
+  "埼玉県小川町大塚88番地6": {
+    "lat": 36.0582687,
+    "lon": 139.2554874,
+    "precision": "approx_level3",
+    "matched_query": "埼玉県 小川町 大塚"
+  },
+  "埼玉県入間郡越生町大字上野": {
+    "lat": 35.9536182,
+    "lon": 139.3015396,
+    "precision": "exact",
+    "matched_query": "埼玉県 入間郡 越生町 大字上野"
+  },
+  "埼玉県所沢市北原町866-17": {
+    "lat": 35.8075173,
+    "lon": 139.4855865,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 所沢市 北原町"
+  },
+  "埼玉県さいたま市大宮区高鼻町": {
+    "lat": 35.910861,
+    "lon": 139.6286372,
+    "precision": "exact",
+    "matched_query": "埼玉県 さいたま市 大宮区 高鼻町"
+  },
+  "埼玉県川口市幸町２－２－１": {
+    "lat": 35.8078228,
+    "lon": 139.7241054,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 川口市"
+  },
+  "埼玉県飯能市大河原３３番地": {
+    "lat": 35.8655805,
+    "lon": 139.2821596,
+    "precision": "approx_level3",
+    "matched_query": "埼玉県 飯能市 大河原"
+  },
+  "埼玉県秩父市下吉田３７８６": {
+    "lat": 36.0371579,
+    "lon": 139.0262656,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 秩父市 下吉田"
+  },
+  "埼玉県川口市大字榛松１９５": {
+    "lat": 35.8251207,
+    "lon": 139.7737956,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 川口市 大字榛松"
+  },
+  "埼玉県志木市上宗岡４－６－": {
+    "lat": 35.839445,
+    "lon": 139.5928568,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 志木市"
+  },
+  "埼玉県川口市西川口１丁目２": {
+    "lat": 35.8095586,
+    "lon": 139.7031015,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 川口市 西川口１丁"
+  },
+  "埼玉県川越市脇田本町 8 番地": {
+    "lat": 35.907469,
+    "lon": 139.480144,
+    "precision": "exact",
+    "matched_query": "埼玉県 川越市 脇田本町 8 番地"
+  },
+  "埼玉県富士見市大字鶴馬２６": {
+    "lat": 35.853204,
+    "lon": 139.5549951,
+    "precision": "exact",
+    "matched_query": "埼玉県 富士見市 大字鶴馬２６"
+  },
+  "埼玉県加須市騎西３６２番地": {
+    "lat": 36.103916,
+    "lon": 139.572188,
+    "precision": "approx_level3",
+    "matched_query": "埼玉県 加須市 騎西"
+  },
+  "埼玉県本庄市小島1丁目13番": {
+    "lat": 36.2453721,
+    "lon": 139.172852,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 本庄市 小島1丁"
+  },
+  "埼玉県川口市川口６－９－５": {
+    "lat": 35.8078228,
+    "lon": 139.7241054,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 川口市"
+  },
+  "神奈川県茅ヶ崎市香川７－１": {
+    "lat": 35.329479,
+    "lon": 139.405371,
+    "precision": "approx_level2",
+    "matched_query": "神奈川県 茅ヶ崎市"
+  },
+  "神奈川県厚木市水引２－１２": {
+    "lat": 35.4429646,
+    "lon": 139.3625125,
+    "precision": "approx_level2",
+    "matched_query": "神奈川県 厚木市"
+  },
+  "神奈川県鎌倉市大町５－９－": {
+    "lat": 35.3457178,
+    "lon": 139.5361607,
+    "precision": "exact",
+    "matched_query": "神奈川県 鎌倉市 大町 ５－９－"
+  },
+  "神奈川県小田原市風祭２４５": {
+    "lat": 35.2462728,
+    "lon": 139.129344,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 小田原市 風祭"
+  },
+  "神奈川県厚木市七沢７６９": {
+    "lat": 35.4502598,
+    "lon": 139.2809666,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 厚木市 七沢"
+  },
+  "神奈川県横浜市中区住吉町６": {
+    "lat": 35.4498088,
+    "lon": 139.6329783,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 中区 住吉町 ６"
+  },
+  "神奈川県厚木市金田１１３７": {
+    "lat": 35.4595099,
+    "lon": 139.3721485,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 厚木市 金田"
+  },
+  "神奈川県足柄上郡松田町松田": {
+    "lat": 35.3456975,
+    "lon": 139.1432487,
+    "precision": "exact",
+    "matched_query": "神奈川県 足柄上郡 松田町 松田"
+  },
+  "神奈川県川崎市多摩区登戸１": {
+    "lat": 35.6208193,
+    "lon": 139.570006,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 多摩区 登戸"
+  },
+  "神奈川県横浜市神奈川区反町": {
+    "lat": 35.4745472,
+    "lon": 139.6253046,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 神奈川区 反町"
+  },
+  "神奈川県川崎市高津区久地４": {
+    "lat": 35.5693984,
+    "lon": 139.6222764,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 高津区 久"
+  },
+  "神奈川県横浜市戸塚区上矢部": {
+    "lat": 35.4182272,
+    "lon": 139.5375508,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 戸塚区 上矢部"
+  },
+  "神奈川県鎌倉市岩瀬1275番地": {
+    "lat": 35.3545079,
+    "lon": 139.5478784,
+    "precision": "approx_level3",
+    "matched_query": "神奈川県 鎌倉市 岩瀬"
+  },
+  "神奈川県川崎市川崎区小川町": {
+    "lat": 35.5273825,
+    "lon": 139.6975806,
+    "precision": "exact",
+    "matched_query": "神奈川県 川崎市 川崎区 小川町"
+  },
+  "神奈川県三浦郡葉山町堀内７": {
+    "lat": 35.276578,
+    "lon": 139.593549,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 三浦郡 葉山町 堀内"
+  },
+  "神奈川県横浜市金沢区釜利谷": {
+    "lat": 35.3444457,
+    "lon": 139.6130062,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 金沢区 釜利谷"
+  },
+  "神奈川県茅ヶ崎市幸町２３－": {
+    "lat": 35.3304705,
+    "lon": 139.409971,
+    "precision": "exact",
+    "matched_query": "神奈川県 茅ヶ崎市 幸町 ２３－"
+  },
+  "神奈川県横浜市金沢区能見台": {
+    "lat": 35.3609008,
+    "lon": 139.6294592,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 金沢区 能見台"
+  },
+  "神奈川県横須賀市大滝町１－": {
+    "lat": 35.283619,
+    "lon": 139.6690327,
+    "precision": "exact",
+    "matched_query": "神奈川県 横須賀市 大滝町 １－"
+  },
+  "神奈川県横浜市緑区十日市場": {
+    "lat": 35.5263056,
+    "lon": 139.5165915,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 緑区 十日市 場"
+  },
+  "神奈川県海老名市扇町５－４": {
+    "lat": 35.4558604,
+    "lon": 139.3881376,
+    "precision": "exact",
+    "matched_query": "神奈川県 海老名市 扇町 ５－４"
+  },
+  "神奈川県川崎市川崎区日進町": {
+    "lat": 35.5238976,
+    "lon": 139.693289,
+    "precision": "exact",
+    "matched_query": "神奈川県 川崎市 川崎区 日進町"
+  },
+  "神奈川県足柄下群箱根町強羅": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "神奈川県川崎市幸区北加瀬１": {
+    "lat": 35.552245,
+    "lon": 139.6644084,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 幸区 北加瀬"
+  },
+  "神奈川県足柄上郡開成町みな": {
+    "lat": 35.337229,
+    "lon": 139.1246714,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 足柄上郡 開成町"
+  },
+  "神奈川県横浜市港南区上大岡": {
+    "lat": 35.4091175,
+    "lon": 139.5966091,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 港南区 上大岡"
+  },
+  "神奈川県相模原市緑区佐野川": {
+    "lat": 35.6380807,
+    "lon": 139.1401431,
+    "precision": "exact",
+    "matched_query": "神奈川県 相模原市 緑区 佐野川"
+  },
+  "神奈川県横浜市中区吉田町５": {
+    "lat": 35.4061185,
+    "lon": 139.5404553,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 中区 吉田町 ５"
+  },
+  "神奈川県川崎市川崎区本町１": {
+    "lat": 35.5343163,
+    "lon": 139.7040496,
+    "precision": "exact",
+    "matched_query": "神奈川県 川崎市 川崎区 本町 １"
+  },
+  "神奈川県横浜市中区新港2－": {
+    "lat": 35.4503381,
+    "lon": 139.6343802,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市"
+  },
+  "神奈川県横浜市中区海岸通５": {
+    "lat": 35.4502452,
+    "lon": 139.6401312,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 中区 海岸通"
+  },
+  "神奈川県平塚市夕陽ケ丘４４": {
+    "lat": 35.323914,
+    "lon": 139.356235,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 平塚市 夕陽ケ丘"
+  },
+  "神奈川県茅ヶ崎市浜竹2－1－": {
+    "lat": 35.329479,
+    "lon": 139.405371,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 茅ヶ崎市"
+  },
+  "神奈川県横浜市中区北仲通2": {
+    "lat": 35.4521778,
+    "lon": 139.6360933,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 中区 北仲通"
+  },
+  "神奈川県横浜市都筑区川和町": {
+    "lat": 35.528771,
+    "lon": 139.548781,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 都 筑区 川和町"
+  },
+  "神奈川県茅ヶ崎市萩園２６４": {
+    "lat": 35.344395,
+    "lon": 139.377864,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 茅ヶ崎市 萩園"
+  },
+  "神奈川県足柄下郡湯河原町福": {
+    "lat": 35.1427715,
+    "lon": 139.0990081,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 足柄下郡 湯河原町"
+  },
+  "神奈川県茅ヶ崎市美住町２−": {
+    "lat": 35.3305536,
+    "lon": 139.4288983,
+    "precision": "exact",
+    "matched_query": "神奈川県 茅ヶ崎市 美住町 ２−"
+  },
+  "群馬県太田市飯田町８９５": {
+    "lat": 36.289007,
+    "lon": 139.37958,
+    "precision": "exact",
+    "matched_query": "群馬県 太田市 飯田町 ８９５"
+  },
+  "群馬県吾妻郡嬬恋村大字大笹": {
+    "lat": 36.5168195,
+    "lon": 138.5301246,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 吾妻郡 嬬恋村"
+  },
+  "群馬県利根郡川場村大字萩室": {
+    "lat": 36.694601,
+    "lon": 139.1066065,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 利根郡 川場村"
+  },
+  "群馬県吾妻郡中之条町大字四": {
+    "lat": 36.5898911,
+    "lon": 138.8409055,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 吾妻郡 中之条町"
+  },
+  "群馬県高崎市若松町２－１１": {
+    "lat": 36.3181725,
+    "lon": 139.0046748,
+    "precision": "exact",
+    "matched_query": "群馬県 高崎市 若松町 ２－１１"
+  },
+  "群馬県利根郡みなかみ町湯原": {
+    "lat": 36.7696135,
+    "lon": 138.9664301,
+    "precision": "exact",
+    "matched_query": "群馬県 利根郡 みなかみ町 湯原"
+  },
+  "群馬県伊勢崎市東小保方町９": {
+    "lat": 36.326829,
+    "lon": 139.252583,
+    "precision": "exact",
+    "matched_query": "群馬県 伊勢崎市 東小保方町 ９"
+  },
+  "群馬県桐生市仲町２－１１－": {
+    "lat": 36.4057374,
+    "lon": 139.3308366,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 桐生市"
+  },
+  "群馬県富岡市富岡１４２６番": {
+    "lat": 36.258313,
+    "lon": 138.895804,
+    "precision": "approx_level2",
+    "matched_query": "群馬県 富岡市 富岡"
+  },
+  "群馬県桐生市天神町一丁目４": {
+    "lat": 36.4225742,
+    "lon": 139.3453712,
+    "precision": "approx_level1",
+    "matched_query": "群馬県桐生市天神町一丁"
+  },
+  "山梨県北杜市高根町清里３５": {
+    "lat": 35.8991148,
+    "lon": 138.4470033,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 北杜市 高根町 清里"
+  },
+  "山梨県南都留郡富士河口湖町": {
+    "lat": 35.5010653,
+    "lon": 138.7653041,
+    "precision": "exact",
+    "matched_query": "山梨県 南都 留郡 富士河口湖町"
+  },
+  "山梨県富士吉田市新屋１９３": {
+    "lat": 35.464577,
+    "lon": 138.799212,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 富士吉田市 新屋"
+  },
+  "山梨県甲府市中央１－１－５": {
+    "lat": 35.6652481,
+    "lon": 138.5710441,
+    "precision": "approx_level2",
+    "matched_query": "山梨県 甲府 市"
+  },
+  "山梨県北都留郡小菅村４３４": {
+    "lat": 35.760209,
+    "lon": 138.9401215,
+    "precision": "exact",
+    "matched_query": "山梨県北都留郡小菅村４３４"
+  },
+  "山梨県北杜市高根町蔵原９３": {
+    "lat": 35.7764838,
+    "lon": 138.4235673,
+    "precision": "approx_level2",
+    "matched_query": "山梨県 北杜市"
+  },
+  "山梨県甲府市朝日２丁目１８": {
+    "lat": 35.6701713,
+    "lon": 138.5649539,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 甲府 市 朝日２丁"
+  },
+  "山梨県富士吉田市富士見１丁": {
+    "lat": 35.5019009,
+    "lon": 138.7959017,
+    "precision": "exact",
+    "matched_query": "山梨県 富士吉田市 富士見１丁"
+  },
+  "山梨県南都留郡山中湖村山中": {
+    "lat": 35.4299213,
+    "lon": 138.8431939,
+    "precision": "exact",
+    "matched_query": "山梨県 南都 留郡 山中湖村 山中"
+  },
+  "山梨県南アルプス市寺部1771": {
+    "lat": 35.613697,
+    "lon": 138.488635,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 南アルプス市 寺部"
+  },
+  "静岡県御殿場市神山７１９番": {
+    "lat": 35.237205,
+    "lon": 138.936744,
+    "precision": "approx_level2",
+    "matched_query": "静岡県 御殿場市 神山"
+  },
+  "静岡県伊東市富戸１１０３－": {
+    "lat": 34.9656621,
+    "lon": 139.101729,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 伊東市"
+  },
+  "静岡県伊豆の国市中２７２－": {
+    "lat": 35.0278001,
+    "lon": 138.9288809,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 伊豆の国市"
+  },
+  "静岡県浜松市中区中央３丁目": {
+    "lat": 34.706938,
+    "lon": 137.740412,
+    "precision": "exact",
+    "matched_query": "静岡県 浜松市 中区 中央３丁目"
+  },
+  "静岡県田方郡函南町丹那３４": {
+    "lat": 35.1004568,
+    "lon": 139.0044431,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 田方郡 函南町 丹那"
+  },
+  "静岡県伊東市宇佐見３５０４": {
+    "lat": 35.0058301,
+    "lon": 139.0800532,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 伊東市 宇佐見"
+  },
+  "静岡県伊豆市大平１０５２－": {
+    "lat": 34.9764551,
+    "lon": 138.9467078,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 伊豆市"
+  },
+  "静岡県沼津市蓼原町9－3": {
+    "lat": 35.083144,
+    "lon": 138.8605078,
+    "precision": "exact",
+    "matched_query": "静岡県 沼津市 蓼原町 9－3"
+  },
+  "静岡県富士宮市上井出字河原": {
+    "lat": 35.2221369,
+    "lon": 138.6214683,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 富士宮市"
+  },
+  "静岡県伊豆の国市田京１９５": {
+    "lat": 35.0151542,
+    "lon": 138.9459721,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 伊豆の国市 田京"
+  },
+  "静岡県御殿場市保土沢１０１": {
+    "lat": 35.294026,
+    "lon": 138.900389,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 御殿場市 保土沢"
+  },
+  "静岡県沼津市大手町２－１－": {
+    "lat": 35.0957963,
+    "lon": 138.8633946,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 沼津市"
+  },
+  "静岡県浜松市中区田町315-": {
+    "lat": 34.708362,
+    "lon": 137.730977,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 浜松市 中区 田町"
+  },
+  "静岡県沼津市千本緑町２－８": {
+    "lat": 35.0957963,
+    "lon": 138.8633946,
+    "precision": "approx_level2",
+    "matched_query": "静岡県 沼津市"
+  },
+  "静岡県富士宮市宮町１２－２": {
+    "lat": 35.2262582,
+    "lon": 138.6084576,
+    "precision": "exact",
+    "matched_query": "静岡県 富士宮市 宮町 １２－２"
+  },
+  "静岡県掛川市肴町3番地の5": {
+    "lat": 34.7688351,
+    "lon": 137.9986433,
+    "precision": "approx_level2",
+    "matched_query": "静岡県 掛川市"
+  },
+  "静岡県静岡市駿河区用宗２丁": {
+    "lat": 34.923329,
+    "lon": 138.366237,
+    "precision": "exact",
+    "matched_query": "静岡県 静岡市 駿河区 用宗２丁"
+  },
+  "静岡県静岡市清水区港南町１－１１": {
+    "lat": 34.975893,
+    "lon": 138.492012,
+    "precision": "exact",
+    "matched_query": "静岡県 静岡市 清水区 港南町 １－１１"
+  },
+  "静岡県牧之原市波津７２４": {
+    "lat": 34.6810382,
+    "lon": 138.1997087,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 牧之原市 波津"
+  },
+  "静岡県富士市大渕３２５－５": {
+    "lat": 35.161852,
+    "lon": 138.6763863,
+    "precision": "approx_level2",
+    "matched_query": "静岡県 富士市"
+  },
+  "静岡県島田市伊久美５２０２": {
+    "lat": 34.933907,
+    "lon": 138.135124,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 島田市 伊久美"
+  },
+  "岐阜県高山市松本町９９９": {
+    "lat": 36.166787,
+    "lon": 137.25412,
+    "precision": "exact",
+    "matched_query": "岐阜県 高山市 松本町 ９９９"
+  },
+  "岐阜県高山市西之一色町３－": {
+    "lat": 36.1396246,
+    "lon": 137.2510322,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 高山市"
+  },
+  "岐阜県郡上市八幡町新町９３": {
+    "lat": 35.748711,
+    "lon": 136.956263,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県郡上市八幡町新町"
+  },
+  "岐阜県瑞浪市釜戸町３１５４": {
+    "lat": 35.406697,
+    "lon": 137.308575,
+    "precision": "exact",
+    "matched_query": "岐阜県 瑞浪市 釜戸町 ３１５４"
+  },
+  "岐阜県岐阜市正木1178-1 第": {
+    "lat": 35.4230949,
+    "lon": 136.7627526,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 岐阜市"
+  },
+  "岐阜県飛騨市古川町殿町6-1": {
+    "lat": 36.235116,
+    "lon": 137.188231,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 飛騨市 古川町 殿町"
+  },
+  "愛知県犬山市大字羽黒新田字": {
+    "lat": 35.3609734,
+    "lon": 136.9845491,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 犬山市"
+  },
+  "愛知県安城市赤松町梶１番地": {
+    "lat": 34.947764,
+    "lon": 137.075563,
+    "precision": "approx_level4",
+    "matched_query": "愛知県 安城市"
+  },
+  "愛知県知多郡南知多町大字内": {
+    "lat": 34.7150958,
+    "lon": 136.9300341,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 知多郡 南知多町"
+  },
+  "愛知県名古屋市千種区千種２": {
+    "lat": 35.170798,
+    "lon": 136.9309031,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市 千種区 千種"
+  },
+  "愛知県一宮市本町４丁目１番": {
+    "lat": 34.8584733,
+    "lon": 137.4223736,
+    "precision": "approx_level2",
+    "matched_query": "愛知県一宮市本町４丁"
+  },
+  "愛知県蒲郡市西浦町南知柄2": {
+    "lat": 34.833929,
+    "lon": 137.225163,
+    "precision": "approx_level2",
+    "matched_query": "愛知県 蒲郡 市"
+  },
+  "愛知県名古屋市中村区名駅４": {
+    "lat": 35.1719367,
+    "lon": 136.8898066,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市 中村 区 名駅"
+  },
+  "愛知県知多市岡田中谷４": {
+    "lat": 34.970089,
+    "lon": 136.860738,
+    "precision": "approx_level2",
+    "matched_query": "愛知県 知多市"
+  },
+  "愛知県豊橋市駅前大通二丁目": {
+    "lat": 34.7627202,
+    "lon": 137.3871875,
+    "precision": "exact",
+    "matched_query": "愛知県 豊橋市 駅前大通二丁目"
+  },
+  "愛知県名古屋市北区大曾根2": {
+    "lat": 35.1928572,
+    "lon": 136.9359244,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市 北区 大曾根"
+  },
+  "三重県伊賀市西湯船３６０９": {
+    "lat": 34.8549922,
+    "lon": 136.1916761,
+    "precision": "approx_level1",
+    "matched_query": "三重県 伊賀市 西湯船"
+  },
+  "三重県桑名市多度町古野１４": {
+    "lat": 35.143991,
+    "lon": 136.599657,
+    "precision": "approx_level1",
+    "matched_query": "三重県 桑名市 多度町 古野"
+  },
+  "三重県津市美杉町八知５９９": {
+    "lat": 34.553839,
+    "lon": 136.264183,
+    "precision": "approx_level1",
+    "matched_query": "三重県 津市 美杉町 八知"
+  },
+  "三重県桑名市長島町駒江２７": {
+    "lat": 35.080822,
+    "lon": 136.704009,
+    "precision": "approx_level1",
+    "matched_query": "三重県 桑名市 長島町 駒江"
+  },
+  "三重県伊賀市山出９２０": {
+    "lat": 34.716297,
+    "lon": 136.123291,
+    "precision": "approx_level1",
+    "matched_query": "三重県 伊賀市 山出"
+  },
+  "三重県伊勢市下野町５６４－": {
+    "lat": 34.5163521,
+    "lon": 136.7376101,
+    "precision": "exact",
+    "matched_query": "三重県 伊勢市 下野町 ５６４－"
+  },
+  "富山県黒部市宇奈月町下立６": {
+    "lat": 36.853168,
+    "lon": 137.538429,
+    "precision": "approx_level1",
+    "matched_query": "富山県 黒部市 宇奈月町 下立"
+  },
+  "富山県滑川市浜四ツ屋１１１": {
+    "lat": 36.78547,
+    "lon": 137.363858,
+    "precision": "approx_level1",
+    "matched_query": "富山県 滑川市 浜四ツ屋"
+  },
+  "富山県南砺市立野原東688": {
+    "lat": 36.508794,
+    "lon": 136.877103,
+    "precision": "approx_level1",
+    "matched_query": "富山県 南砺市 立野原東"
+  },
+  "富山県富山市婦中町長沢２５": {
+    "lat": 36.6489057,
+    "lon": 137.1266255,
+    "precision": "approx_level1",
+    "matched_query": "富山県 富山市 婦中町 長沢"
+  },
+  "富山県氷見市比美町２４－１": {
+    "lat": 36.857364,
+    "lon": 136.989571,
+    "precision": "exact",
+    "matched_query": "富山県 氷見市 比美町 ２４－１"
+  },
+  "富山県高岡市金屋町３−１５": {
+    "lat": 36.7501693,
+    "lon": 137.0054412,
+    "precision": "exact",
+    "matched_query": "富山県 高岡市 金屋町 ３−１５"
+  },
+  "富山県富山市東岩瀬町字大町107番": {
+    "lat": 36.6957569,
+    "lon": 137.2136215,
+    "precision": "approx_level3",
+    "matched_query": "富山県 富山市"
+  },
+  "石川県鳳珠郡能登町字立壁９": {
+    "lat": 37.3389049,
+    "lon": 137.2647924,
+    "precision": "approx_level1",
+    "matched_query": "石川県 鳳珠郡 能登町 字立壁"
+  },
+  "石川県能美郡川北町字橘新ロ": {
+    "lat": 36.4696894,
+    "lon": 136.5482044,
+    "precision": "approx_level1",
+    "matched_query": "石川県 能美郡 川北町"
+  },
+  "石川県金沢市円光寺３－１－": {
+    "lat": 36.561627,
+    "lon": 136.6568822,
+    "precision": "approx_level1",
+    "matched_query": "石川県 金沢市"
+  },
+  "石川県金沢市東山３－２－２": {
+    "lat": 36.561627,
+    "lon": 136.6568822,
+    "precision": "approx_level2",
+    "matched_query": "石川県 金沢市"
+  },
+  "福井県三方郡美浜町坂尻４３": {
+    "lat": 35.6203632,
+    "lon": 135.9635993,
+    "precision": "approx_level1",
+    "matched_query": "福井県 三方郡 美浜町 坂尻"
+  },
+  "福井県福井市大宮５－８－２": {
+    "lat": 36.061751,
+    "lon": 136.2260542,
+    "precision": "approx_level2",
+    "matched_query": "福井県 福井市"
+  },
+  "福井県三方上中郡若狭町海山": {
+    "lat": 35.5886412,
+    "lon": 135.8644724,
+    "precision": "exact",
+    "matched_query": "福井県 三方上中郡 若狭町 海山"
+  },
+  "滋賀県長浜市朝日町１４－１": {
+    "lat": 35.3765458,
+    "lon": 136.2697631,
+    "precision": "exact",
+    "matched_query": "滋賀県 長浜市 朝日町 １４－１"
+  },
+  "滋賀県甲賀市水口町三大寺３": {
+    "lat": 34.9468742,
+    "lon": 136.1432142,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 甲賀市 水口町 三大寺"
+  },
+  "滋賀県大津市本堅田３丁目２": {
+    "lat": 35.114375,
+    "lon": 135.91622,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 大津市 本堅田３丁"
+  },
+  "滋賀県蒲生郡日野町西大路８": {
+    "lat": 35.009549,
+    "lon": 136.272205,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 蒲生郡 日野町 西大路"
+  },
+  "滋賀県近江八幡市宮内町２４": {
+    "lat": 35.141966,
+    "lon": 136.085336,
+    "precision": "exact",
+    "matched_query": "滋賀県 近江八幡市 宮内町 ２４"
+  },
+  "滋賀県近江八幡市加茂町３８": {
+    "lat": 35.124706,
+    "lon": 136.066933,
+    "precision": "exact",
+    "matched_query": "滋賀県 近江八幡市 加茂町 ３８"
+  },
+  "滋賀県彦根市野口町２８３−": {
+    "lat": 35.221132,
+    "lon": 136.237717,
+    "precision": "exact",
+    "matched_query": "滋賀県 彦根市 野口町 ２８３−"
+  },
+  "滋賀県高島市今津町今津６９": {
+    "lat": 35.398608,
+    "lon": 136.035149,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 高島市 今津町 今津"
+  },
+  "奈良県宇蛇郡曽爾村大字太良": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "奈良県奈良市東寺林町３０": {
+    "lat": 34.6793128,
+    "lon": 135.830912,
+    "precision": "exact",
+    "matched_query": "奈良県 奈良市 東寺林町 ３０"
+  },
+  "奈良県奈良市紀寺町９５６－": {
+    "lat": 34.672733,
+    "lon": 135.833562,
+    "precision": "exact",
+    "matched_query": "奈良県 奈良市 紀寺町 ９５６－"
+  },
+  "奈良県奈良市北之庄西町１－": {
+    "lat": 34.6845445,
+    "lon": 135.8048359,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 奈良市"
+  },
+  "奈良県宇陀市榛原石田147-1": {
+    "lat": 34.499665,
+    "lon": 135.956857,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 宇陀市 榛原石田"
+  },
+  "奈良県吉野郡東吉野村大字大": {
+    "lat": 34.4032711,
+    "lon": 135.9682717,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 吉野郡 東吉野村"
+  },
+  "奈良県宇陀市大字陀拾生672": {
+    "lat": 34.528225,
+    "lon": 135.9526888,
+    "precision": "approx_level2",
+    "matched_query": "奈良県 宇陀市"
+  },
+  "奈良県奈良市東向中町6 奈良": {
+    "lat": 34.6845445,
+    "lon": 135.8048359,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 奈良市"
+  },
+  "奈良県北葛城郡広陵町南4": {
+    "lat": 34.5629293,
+    "lon": 135.7519472,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 北葛城郡 広陵町 南"
+  },
+  "京都府京都市伏見区塩屋町２": {
+    "lat": 34.9307675,
+    "lon": 135.7606289,
+    "precision": "approx_level1",
+    "matched_query": "京都府京都市伏見区塩屋町"
+  },
+  "京都府京都市中京区堺町通二": {
+    "lat": 35.0421443,
+    "lon": 135.730837,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 京都 市"
+  },
+  "京都府京丹後市弥栄町鳥取１": {
+    "lat": 35.678867,
+    "lon": 135.0775797,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 京丹後市 弥栄町 鳥取"
+  },
+  "京都府京都市左京区一乗寺出": {
+    "lat": 35.0442051,
+    "lon": 135.7874327,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 左京区 一乗寺出"
+  },
+  "京都府京都市南区西九条高畠": {
+    "lat": 34.974111,
+    "lon": 135.744464,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 南区 西九条高畠"
+  },
+  "京都府京都市中京区富小路通": {
+    "lat": 35.0112498,
+    "lon": 135.7650277,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 中京区 富小路通"
+  },
+  "京都府京都市上京区竪門前町": {
+    "lat": 35.0290432,
+    "lon": 135.7515013,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 上京区 竪門前町"
+  },
+  "京都府京都市上京区上立売通": {
+    "lat": 35.0319363,
+    "lon": 135.7557237,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 上京区 上立売通"
+  },
+  "京都府京都市下京区十禅師町": {
+    "lat": 34.990871,
+    "lon": 135.765657,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 下京区 十禅師町"
+  },
+  "京都府京都市伏見区中油掛町": {
+    "lat": 34.931403,
+    "lon": 135.7606986,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 伏見区 中油掛町"
+  },
+  "大阪府高槻市富田町３丁目２": {
+    "lat": 34.848459,
+    "lon": 135.5864841,
+    "precision": "approx_level1",
+    "matched_query": "大阪府高槻市富田町３丁"
+  },
+  "大阪府箕面市牧落３－１４－": {
+    "lat": 34.8269554,
+    "lon": 135.4704617,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 箕面市"
+  },
+  "大阪府大阪市中央区道頓堀１": {
+    "lat": 34.6690306,
+    "lon": 135.5015715,
+    "precision": "approx_level1",
+    "matched_query": "大阪府大阪市中央区道頓堀"
+  },
+  "大阪府大阪市港区南市岡": {
+    "lat": 34.6381291,
+    "lon": 135.4148351,
+    "precision": "exact",
+    "matched_query": "大阪府大阪市港区南市岡"
+  },
+  "大阪府堺市南区鉢ヶ峯寺２４": {
+    "lat": 34.4658862,
+    "lon": 135.5144374,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 堺市 南区 鉢ヶ峯寺"
+  },
+  "大阪府大阪市西区北堀江３－": {
+    "lat": 34.6709759,
+    "lon": 135.4882959,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 西区 北堀江３－"
+  },
+  "大阪府大阪市西区土佐堀１丁": {
+    "lat": 34.6888637,
+    "lon": 135.4919171,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 西区 土佐堀１丁"
+  },
+  "大阪府大阪市中央区大手通１": {
+    "lat": 34.6860468,
+    "lon": 135.5187767,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 中央区 大手通"
+  },
+  "大阪府大阪市北区浮田２－５": {
+    "lat": 34.709002,
+    "lon": 135.50775,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 北区 浮田２－"
+  },
+  "大阪府大阪市中央区高麗橋１": {
+    "lat": 34.6896162,
+    "lon": 135.5065812,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 中央区 高麗橋１"
+  },
+  "大阪府大阪市生野区新今里１": {
+    "lat": 34.6618962,
+    "lon": 135.5488391,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 生野区 新今里"
+  },
+  "大阪府大阪市西成区花園北２": {
+    "lat": 34.6450964,
+    "lon": 135.496631,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 西成区 花園北２"
+  },
+  "大阪府大阪市西区千代崎1-9": {
+    "lat": 34.6714613,
+    "lon": 135.4794668,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 西区 千代崎"
+  },
+  "大阪府大阪市北区大淀南１－": {
+    "lat": 34.7016578,
+    "lon": 135.4872036,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 北区 大淀南１－"
+  },
+  "大阪府大阪市東淀川区西淡路": {
+    "lat": 34.7427003,
+    "lon": 135.511027,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 東淀川区 西淡路"
+  },
+  "大阪府泉佐野市大西2-2599": {
+    "lat": 34.4109802,
+    "lon": 135.3134286,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 泉佐野市 大西"
+  },
+  "大阪府大阪市北区中津３丁目": {
+    "lat": 34.7135493,
+    "lon": 135.4931333,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 北区 中津３丁目"
+  },
+  "大阪府茨木市双葉町３番１９": {
+    "lat": 34.8161043,
+    "lon": 135.5773952,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 茨木市 双葉町 ３"
+  },
+  "大阪府東大阪市神田町5-10": {
+    "lat": 34.66085,
+    "lon": 135.6374887,
+    "precision": "exact",
+    "matched_query": "大阪府 東大阪市 神田町 5-10"
+  },
+  "大阪府大阪市北区中崎西２丁": {
+    "lat": 34.7068572,
+    "lon": 135.5022711,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 北区 中崎西２丁"
+  },
+  "大阪府大阪市北区曾根崎２丁": {
+    "lat": 34.7000936,
+    "lon": 135.5009194,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 北区 曾根崎２丁"
+  },
+  "和歌山県西牟婁郡白浜町２９": {
+    "lat": 33.6781748,
+    "lon": 135.3479399,
+    "precision": "exact",
+    "matched_query": "和歌山県 西牟婁郡 白浜町 ２９"
+  },
+  "和歌山県海南市溝ノ口１１９": {
+    "lat": 34.159918,
+    "lon": 135.290084,
+    "precision": "approx_level1",
+    "matched_query": "和歌山県 海南市 溝ノ口"
+  },
+  "和歌山県田辺市上の山１－９": {
+    "lat": 33.7278991,
+    "lon": 135.3777917,
+    "precision": "approx_level2",
+    "matched_query": "和歌山県 田辺市"
+  },
+  "和歌山県和歌山市十一番丁５": {
+    "lat": 34.2320417,
+    "lon": 135.1751517,
+    "precision": "approx_level1",
+    "matched_query": "和歌山県 和歌山市 十一番"
+  },
+  "和歌山県有田郡有田川町大字": {
+    "lat": 34.0669712,
+    "lon": 135.2174573,
+    "precision": "exact",
+    "matched_query": "和歌山県 有田郡 有田川町 大字"
+  },
+  "和歌山県有田郡有田川町長田": {
+    "lat": 34.074185,
+    "lon": 135.210839,
+    "precision": "exact",
+    "matched_query": "和歌山県 有田郡 有田川町 長田"
+  },
+  "和歌山県和歌山市舟大工町3": {
+    "lat": 34.2345416,
+    "lon": 135.1691504,
+    "precision": "exact",
+    "matched_query": "和歌山県 和歌山市 舟大工町 3"
+  },
+  "兵庫県西宮市山口町下山口２": {
+    "lat": 34.8368605,
+    "lon": 135.2403484,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 西宮市 山口町 下山口"
+  },
+  "兵庫県伊丹市中央３－４－１": {
+    "lat": 34.7845024,
+    "lon": 135.4004409,
+    "precision": "approx_level2",
+    "matched_query": "兵庫県 伊丹市"
+  },
+  "兵庫県神戸市中央区三宮町２": {
+    "lat": 34.6910413,
+    "lon": 135.1935247,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 神戸市 中央区 三宮町"
+  },
+  "兵庫県豊岡市城崎町湯島６４": {
+    "lat": 35.6231959,
+    "lon": 134.807697,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 豊岡市 城崎町 湯島"
+  },
+  "兵庫県淡路市浦１０２２－２": {
+    "lat": 34.4396945,
+    "lon": 134.9149706,
+    "precision": "approx_level2",
+    "matched_query": "兵庫県 淡路市"
+  },
+  "兵庫県神戸市北区有野町有野": {
+    "lat": 34.8282071,
+    "lon": 135.2255723,
+    "precision": "exact",
+    "matched_query": "兵庫県神戸市北区有野町有野"
+  },
+  "兵庫県明石市大久保町西島１": {
+    "lat": 34.6830553,
+    "lon": 134.9093864,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 明石市 大久保町 西島"
+  },
+  "兵庫県豊岡市出石町内町８３": {
+    "lat": 35.4608082,
+    "lon": 134.8740006,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 豊岡市 出石町 内町"
+  },
+  "兵庫県丹波篠山市福住１９１": {
+    "lat": 35.0728427,
+    "lon": 135.3417704,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 丹波篠山市 福住"
+  },
+  "兵庫県神戸市中央区北長狭通": {
+    "lat": 34.6892705,
+    "lon": 135.1856491,
+    "precision": "exact",
+    "matched_query": "兵庫県 神戸市 中央区 北長狭通"
+  },
+  "兵庫県神戸市中央区琴ノ緒町": {
+    "lat": 34.6973955,
+    "lon": 135.1944183,
+    "precision": "exact",
+    "matched_query": "兵庫県 神戸市 中央区 琴ノ緒町"
+  },
+  "兵庫県神戸市水木通１丁目４": {
+    "lat": 34.6734098,
+    "lon": 135.1631248,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 神戸市 水木通１丁"
+  },
+  "兵庫県明石市大明石町１丁目": {
+    "lat": 34.6488131,
+    "lon": 134.9911438,
+    "precision": "exact",
+    "matched_query": "兵庫県明石市大明石町１丁目"
+  },
+  "兵庫県丹波篠山市北１５５－": {
+    "lat": 35.075757,
+    "lon": 135.2193373,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 丹波篠山市"
+  },
+  "兵庫県加古川市加古川町寺家": {
+    "lat": 34.7524422,
+    "lon": 134.8687994,
+    "precision": "exact",
+    "matched_query": "兵庫県 加古川市 加古川町 寺家"
+  },
+  "兵庫県加古川市平岡町新在家": {
+    "lat": 34.7478425,
+    "lon": 134.877074,
+    "precision": "exact",
+    "matched_query": "兵庫県 加古川市 平岡町 新在家"
+  },
+  "兵庫県丹波篠山市福住３８５": {
+    "lat": 35.0728427,
+    "lon": 135.3417704,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 丹波篠山市 福住"
+  },
+  "岡山県岡山市中区西川原１８": {
+    "lat": 34.678907,
+    "lon": 133.9375777,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 岡山市 中区 西川原"
+  },
+  "岡山県津山市楢６９": {
+    "lat": 35.0916913,
+    "lon": 134.0793728,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 津山市 楢"
+  },
+  "岡山県赤磐市仁堀中２００６": {
+    "lat": 34.8678626,
+    "lon": 134.0113156,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 赤磐市 仁堀中"
+  },
+  "岡山県備前市吉永町岩崎７４": {
+    "lat": 34.8236076,
+    "lon": 134.2138982,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 備前市 吉永町 岩崎"
+  },
+  "岡山県岡山市北区北方４－２": {
+    "lat": 34.6553944,
+    "lon": 133.9194595,
+    "precision": "approx_level2",
+    "matched_query": "岡山県 岡山市"
+  },
+  "岡山県岡山市中区藤崎６４４": {
+    "lat": 34.619085,
+    "lon": 133.9717386,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 岡山市 中区 藤崎"
+  },
+  "岡山県真庭市江川817番地１": {
+    "lat": 35.0731258,
+    "lon": 133.6823403,
+    "precision": "approx_level3",
+    "matched_query": "岡山県 真庭市 江川"
+  },
+  "岡山県備前市吉永町都留岐２": {
+    "lat": 34.8960338,
+    "lon": 134.2395302,
+    "precision": "approx_level1",
+    "matched_query": "岡山県備前市吉永町都留岐"
+  },
+  "岡山県笠岡市六島６１５３番": {
+    "lat": 34.3040257,
+    "lon": 133.5318239,
+    "precision": "approx_level2",
+    "matched_query": "岡山県 笠岡市 六島"
+  },
+  "岡山県岡山市北区奉還町二丁": {
+    "lat": 34.669342,
+    "lon": 133.9152661,
+    "precision": "exact",
+    "matched_query": "岡山県岡山市北区奉還町二丁"
+  },
+  "広島県福山市霞町２町目５－": {
+    "lat": 34.4857039,
+    "lon": 133.3623097,
+    "precision": "approx_level1",
+    "matched_query": "広島県 福山市"
+  },
+  "広島県広島市中区大手町二丁": {
+    "lat": 34.3824407,
+    "lon": 132.4546273,
+    "precision": "exact",
+    "matched_query": "広島県広島市中区大手町二丁"
+  },
+  "広島県広島市中区江波東１－": {
+    "lat": 34.3917241,
+    "lon": 132.4517589,
+    "precision": "approx_level1",
+    "matched_query": "広島県 広島市"
+  },
+  "広島県広島市安佐北区亀山９": {
+    "lat": 34.5171925,
+    "lon": 132.4960128,
+    "precision": "approx_level1",
+    "matched_query": "広島県 広島市 安佐北区 亀山"
+  },
+  "広島県廿日市市宮島町４５９": {
+    "lat": 34.2988011,
+    "lon": 132.3212291,
+    "precision": "approx_level1",
+    "matched_query": "広島県 廿日市 市 宮島町"
+  },
+  "広島県福山市伏見町3番16号": {
+    "lat": 34.4888212,
+    "lon": 133.3643098,
+    "precision": "exact",
+    "matched_query": "広島県 福山市 伏見町 3番16号"
+  },
+  "広島県山県郡安芸太田町大字": {
+    "lat": 34.5766489,
+    "lon": 132.2271423,
+    "precision": "approx_level1",
+    "matched_query": "広島県 山県 郡 安芸太田町"
+  },
+  "広島県広島市中区大手町1-5": {
+    "lat": 34.3914238,
+    "lon": 132.458115,
+    "precision": "approx_level1",
+    "matched_query": "広島県 広島市 中区 大手町"
+  },
+  "広島県尾道市高須町４７５４": {
+    "lat": 34.4368703,
+    "lon": 133.2267711,
+    "precision": "exact",
+    "matched_query": "広島県 尾道 市 高須町 ４７５４"
+  },
+  "広島県尾道市久保１－２－２": {
+    "lat": 34.4088519,
+    "lon": 133.2051549,
+    "precision": "approx_level2",
+    "matched_query": "広島県 尾道 市"
+  },
+  "広島県東広島市西条中央１丁": {
+    "lat": 34.425691,
+    "lon": 132.743565,
+    "precision": "exact",
+    "matched_query": "広島県 東広島市 西条中央１丁"
+  },
+  "広島県 広島市南区旭2-22-2": {
+    "lat": 34.3982762,
+    "lon": 132.4772221,
+    "precision": "approx_level1",
+    "matched_query": "広島県 広島市 南区 旭"
+  },
+  "鳥取県西伯郡伯耆町丸山１７": {
+    "lat": 35.3933821,
+    "lon": 133.4569869,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 西伯郡 伯耆町 丸山"
+  },
+  "鳥取県八頭郡智頭町大背２１": {
+    "lat": 35.2134197,
+    "lon": 134.2022411,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 八頭郡 智頭町 大背"
+  },
+  "鳥取県鳥取市鹿野町今市７８": {
+    "lat": 35.4668473,
+    "lon": 134.0503046,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 鳥取市 鹿野町 今市"
+  },
+  "鳥取県米子市東倉吉町１４２": {
+    "lat": 35.4304344,
+    "lon": 133.3317132,
+    "precision": "exact",
+    "matched_query": "鳥取県 米子市 東倉吉町 １４２"
+  },
+  "鳥取県倉吉市東仲町２５８７": {
+    "lat": 35.4318394,
+    "lon": 133.8235709,
+    "precision": "exact",
+    "matched_query": "鳥取県 倉吉市 東仲町 ２５８７"
+  },
+  "山口県萩市土原６０８－１": {
+    "lat": 34.4074815,
+    "lon": 131.399194,
+    "precision": "approx_level2",
+    "matched_query": "山口県 萩市"
+  },
+  "山口県山口市大字下小鯖１３": {
+    "lat": 34.1781317,
+    "lon": 131.4737077,
+    "precision": "approx_level2",
+    "matched_query": "山口県 山口市"
+  },
+  "山口県岩国市山手町２－４－": {
+    "lat": 34.1664995,
+    "lon": 132.2191163,
+    "precision": "approx_level1",
+    "matched_query": "山口県 岩国市"
+  },
+  "山口県岩国市由宇町神東239 090ｰ8210ｰ8098                                    https://www.meyerworld.net/": {
+    "lat": 34.1664995,
+    "lon": 132.2191163,
+    "precision": "approx_level1",
+    "matched_query": "山口県 岩国市"
+  },
+  "山口県長門市深川湯本1247": {
+    "lat": 34.3283587,
+    "lon": 131.1697073,
+    "precision": "approx_level1",
+    "matched_query": "山口県 長門市 深川湯本"
+  },
+  "山口県周南市河東町3-27 メ": {
+    "lat": 34.0550595,
+    "lon": 131.8064092,
+    "precision": "approx_level1",
+    "matched_query": "山口県 周南市"
+  },
+  "島根県松江市黒田町５０９－": {
+    "lat": 35.4811163,
+    "lon": 133.0430948,
+    "precision": "exact",
+    "matched_query": "島根県 松江市 黒田町 ５０９－"
+  },
+  "島根県江津市桜江町長谷２６": {
+    "lat": 34.92608,
+    "lon": 132.27014,
+    "precision": "approx_level1",
+    "matched_query": "島根県 江津市 桜江町 長谷"
+  },
+  "島根県浜田市国分町１２４３": {
+    "lat": 34.944803,
+    "lon": 132.117364,
+    "precision": "exact",
+    "matched_query": "島根県 浜田市 国分町 １２４３"
+  },
+  "島根県松江市八束町江島１１": {
+    "lat": 35.5135746,
+    "lon": 133.1973624,
+    "precision": "approx_level1",
+    "matched_query": "島根県 松江市 八束町 江島"
+  },
+  "島根県益田市高津": {
+    "lat": 34.689322,
+    "lon": 131.806409,
+    "precision": "exact",
+    "matched_query": "島根県 益田市 高津"
+  },
+  "島根県出雲市平田町片原町８": {
+    "lat": 35.3668891,
+    "lon": 132.7548827,
+    "precision": "approx_level2",
+    "matched_query": "島根県 出雲市"
+  },
+  "香川県高松市香川町寺井６２": {
+    "lat": 34.2718437,
+    "lon": 134.0304778,
+    "precision": "approx_level1",
+    "matched_query": "香川県 高松市 香川町 寺井"
+  },
+  "香川県小豆郡小豆島町坂手甲": {
+    "lat": 34.4794303,
+    "lon": 134.3088913,
+    "precision": "approx_level1",
+    "matched_query": "香川県 小豆郡 小豆島町"
+  },
+  "香川県東かがわ市五名１９９": {
+    "lat": 34.2059235,
+    "lon": 134.2570886,
+    "precision": "approx_level1",
+    "matched_query": "香川県 東かがわ市 五名"
+  },
+  "香川県丸亀市北平山町２－２": {
+    "lat": 34.2888128,
+    "lon": 133.7982421,
+    "precision": "approx_level2",
+    "matched_query": "香川県 丸亀市"
+  },
+  "香川県東かがわ市水主４６６": {
+    "lat": 34.2279327,
+    "lon": 134.3065566,
+    "precision": "approx_level1",
+    "matched_query": "香川県 東かがわ市 水主"
+  },
+  "徳島県徳島市東船場町１－６": {
+    "lat": 31.4218241,
+    "lon": 130.5233696,
+    "precision": "exact",
+    "matched_query": "徳島県 徳島市 東船場町 １－６"
+  },
+  "徳島県勝浦郡上勝町大字正木": {
+    "lat": 33.8889228,
+    "lon": 134.4018864,
+    "precision": "approx_level1",
+    "matched_query": "徳島県 勝浦郡 上勝町"
+  },
+  "徳島県徳島市問屋町７４": {
+    "lat": 34.0484118,
+    "lon": 134.5479226,
+    "precision": "exact",
+    "matched_query": "徳島県 徳島市 問屋町 ７４"
+  },
+  "徳島県名西郡神山町神領字西": {
+    "lat": 33.967159,
+    "lon": 134.3504691,
+    "precision": "approx_level1",
+    "matched_query": "徳島県 名西郡 神山町"
+  },
+  "徳島県徳島市寺島本町西１丁": {
+    "lat": 34.0738074,
+    "lon": 134.5511398,
+    "precision": "exact",
+    "matched_query": "徳島県 徳島市 寺島本町 西１丁"
+  },
+  "徳島県徳島市八多町友広１４": {
+    "lat": 34.0698307,
+    "lon": 134.5550353,
+    "precision": "approx_level2",
+    "matched_query": "徳島県 徳島市"
+  },
+  "徳島県阿南市那賀川町手島榎": {
+    "lat": 33.9220102,
+    "lon": 134.6596974,
+    "precision": "approx_level1",
+    "matched_query": "徳島県 阿南市"
+  },
+  "愛媛県四国中央市金田町金川": {
+    "lat": 33.9841769,
+    "lon": 133.6004448,
+    "precision": "exact",
+    "matched_query": "愛媛県 四国中央市 金田町 金川"
+  },
+  "愛媛県松山市道後喜多町３－": {
+    "lat": 33.851313,
+    "lon": 132.781202,
+    "precision": "exact",
+    "matched_query": "愛媛県 松山市 道 後喜多町 ３－"
+  },
+  "愛媛県今治市大三島町宮浦５": {
+    "lat": 34.2463446,
+    "lon": 133.0023981,
+    "precision": "approx_level1",
+    "matched_query": "愛媛県 今治市 大三島町 宮浦"
+  },
+  "愛媛県松山市千舟町４−２": {
+    "lat": 33.8370151,
+    "lon": 132.7524688,
+    "precision": "exact",
+    "matched_query": "愛媛県 松山市 千舟町 ４−２"
+  },
+  "愛媛県今治市常盤町３丁目４": {
+    "lat": 34.0663744,
+    "lon": 133.0002325,
+    "precision": "approx_level1",
+    "matched_query": "愛媛県今治市常盤町３丁"
+  },
+  "愛媛県松山市祓川2－5－13": {
+    "lat": 33.8395188,
+    "lon": 132.7653521,
+    "precision": "approx_level2",
+    "matched_query": "愛媛県 松山市"
+  },
+  "高知県香美市土佐山田町栄町": {
+    "lat": 33.602201,
+    "lon": 133.676871,
+    "precision": "exact",
+    "matched_query": "高知県 香美市 土佐山田町 栄町"
+  },
+  "高知県南国市後免町２－２－": {
+    "lat": 33.574975,
+    "lon": 133.643901,
+    "precision": "exact",
+    "matched_query": "高知県 南国市 後免町 ２－２－"
+  },
+  "高知県吾川郡仁淀川町下名野": {
+    "lat": 33.5690005,
+    "lon": 133.0994147,
+    "precision": "exact",
+    "matched_query": "高知県 吾川郡 仁淀川町 下名野"
+  },
+  "福岡県福岡市西区元岡１４４": {
+    "lat": 33.5880335,
+    "lon": 130.2167611,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福岡市 西区 元岡"
+  },
+  "福岡県八女市宮野１００番地": {
+    "lat": 33.200095,
+    "lon": 130.564904,
+    "precision": "approx_level3",
+    "matched_query": "福岡県 八女市 宮野"
+  },
+  "福岡県北九州市門司区東港町": {
+    "lat": 33.9504525,
+    "lon": 130.9640119,
+    "precision": "exact",
+    "matched_query": "福岡県 北九州市 門司区 東港町"
+  },
+  "福岡県福岡市博多区下川端町": {
+    "lat": 33.5959034,
+    "lon": 130.4060438,
+    "precision": "exact",
+    "matched_query": "福岡県 福岡市 博多区 下川端町"
+  },
+  "福岡県福岡市城南区別府１－": {
+    "lat": 33.5898988,
+    "lon": 130.4017509,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福岡市"
+  },
+  "福岡県福岡市中央区大名１丁": {
+    "lat": 33.5868534,
+    "lon": 130.3943947,
+    "precision": "exact",
+    "matched_query": "福岡県 福岡市 中央区 大名１丁"
+  },
+  "福岡県福岡市博多区千代４丁": {
+    "lat": 33.6051935,
+    "lon": 130.4090898,
+    "precision": "exact",
+    "matched_query": "福岡県 福岡市 博多区 千代４丁"
+  },
+  "福岡県宗像市日の里五丁目３": {
+    "lat": 33.790695,
+    "lon": 130.536067,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 宗像市 日の里五丁"
+  },
+  "福岡県北九州市小倉北区魚町": {
+    "lat": 33.8845747,
+    "lon": 130.8787063,
+    "precision": "exact",
+    "matched_query": "福岡県 北九州市 小倉北区 魚町"
+  },
+  "佐賀県西松浦郡有田町戸矢乙": {
+    "lat": 33.192301,
+    "lon": 129.8669613,
+    "precision": "approx_level1",
+    "matched_query": "佐賀県 西松浦郡 有田町"
+  },
+  "佐賀県佐賀市諸富町徳富159": {
+    "lat": 33.2311884,
+    "lon": 130.3677493,
+    "precision": "approx_level1",
+    "matched_query": "佐賀県 佐賀市 諸富町 徳富"
+  },
+  "長崎県壱岐市勝本町勝本浦２": {
+    "lat": 33.8529847,
+    "lon": 129.6921865,
+    "precision": "approx_level1",
+    "matched_query": "長崎県 壱岐市 勝本町 勝本浦"
+  },
+  "大分県湯布院町大字川南１０": {
+    "lat": 33.2484601,
+    "lon": 131.3368085,
+    "precision": "approx_level2",
+    "matched_query": "大分県 湯布院町"
+  },
+  "大分県竹田市久住町白丹７５": {
+    "lat": 32.9911476,
+    "lon": 131.2530178,
+    "precision": "approx_level1",
+    "matched_query": "大分県 竹田市 久住町 白丹"
+  },
+  "大分県大分市府内町１－５－": {
+    "lat": 33.431199,
+    "lon": 131.323404,
+    "precision": "exact",
+    "matched_query": "大分県 大分市 府 内町 １－５－"
+  },
+  "大分県大分市府内町２－４－": {
+    "lat": 33.431199,
+    "lon": 131.323404,
+    "precision": "exact",
+    "matched_query": "大分県 大分市 府 内町 ２－４－"
+  },
+  "熊本県上益城郡嘉島町大字北": {
+    "lat": 32.7468797,
+    "lon": 130.7746498,
+    "precision": "exact",
+    "matched_query": "熊本県 上益城郡 嘉島町 大字北"
+  },
+  "熊本県水俣市陣内２５２５": {
+    "lat": 32.210893,
+    "lon": 130.408573,
+    "precision": "approx_level1",
+    "matched_query": "熊本県 水俣市 陣内"
+  },
+  "熊本県熊本市東区御領６－８": {
+    "lat": 32.8033909,
+    "lon": 130.7082737,
+    "precision": "approx_level2",
+    "matched_query": "熊本県 熊本市"
+  },
+  "熊本県熊本市東区長嶺南３丁": {
+    "lat": 32.8115458,
+    "lon": 130.7749564,
+    "precision": "exact",
+    "matched_query": "熊本県 熊本市 東区 長嶺南３丁"
+  },
+  "熊本県天草市五和町鬼池１４": {
+    "lat": 32.539397,
+    "lon": 130.16719,
+    "precision": "approx_level1",
+    "matched_query": "熊本県 天草市 五和町 鬼池"
+  },
+  "宮崎県延岡市むかばき町７４": {
+    "lat": 32.5823063,
+    "lon": 131.6649034,
+    "precision": "approx_level2",
+    "matched_query": "宮崎県 延岡市"
+  },
+  "宮崎県東諸県郡綾町大字南俣": {
+    "lat": 31.994806,
+    "lon": 131.240361,
+    "precision": "exact",
+    "matched_query": "宮崎県 東諸県 郡 綾町 大字南俣"
+  },
+  "宮崎県都城市志比田町５４８": {
+    "lat": 31.7470128,
+    "lon": 131.0534067,
+    "precision": "exact",
+    "matched_query": "宮崎県 都 城市 志比田町 ５４８"
+  },
+  "宮崎県宮崎市橘通西２－７－": {
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "precision": "approx_level1",
+    "matched_query": "宮崎県 宮崎市"
+  },
+  "宮崎県日南市吾田東１－１－": {
+    "lat": 31.6019221,
+    "lon": 131.3788769,
+    "precision": "approx_level1",
+    "matched_query": "宮崎県 日南市"
+  },
+  "宮崎県宮崎市清武町今泉甲3": {
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "precision": "approx_level2",
+    "matched_query": "宮崎県 宮崎市"
+  },
+  "宮崎県児湯郡高鍋町持田１７": {
+    "lat": 32.1531431,
+    "lon": 131.5290069,
+    "precision": "approx_level1",
+    "matched_query": "宮崎県 児湯郡 高鍋町 持田"
+  },
+  "鹿児島県霧島市溝辺町麓８７": {
+    "lat": 31.8093493,
+    "lon": 130.6973749,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 霧島市 溝辺町 麓"
+  },
+  "鹿児島県枕崎市立神本町２６": {
+    "lat": 31.2696751,
+    "lon": 130.2824937,
+    "precision": "exact",
+    "matched_query": "鹿児島県 枕崎市 立神本町 ２６"
+  },
+  "鹿児島県鹿児島市新照院町４": {
+    "lat": 31.5962249,
+    "lon": 130.5438555,
+    "precision": "exact",
+    "matched_query": "鹿児島県 鹿児島市 新照院町 ４"
+  },
+  "鹿児島県霧島市福山町福山字": {
+    "lat": 31.5899333,
+    "lon": 130.5565211,
+    "precision": "exact",
+    "matched_query": "鹿児島県 霧島市 福山町 福山字"
+  },
+  "鹿児島県熊毛郡屋久島町小瀬": {
+    "lat": 30.3953655,
+    "lon": 130.6404876,
+    "precision": "exact",
+    "matched_query": "鹿児島県 熊毛郡 屋久島町 小瀬"
+  },
+  "鹿児島県熊毛郡南種子町茎永": {
+    "lat": 30.3934077,
+    "lon": 130.9435045,
+    "precision": "exact",
+    "matched_query": "鹿児島県 熊毛郡 南種子町 茎永"
+  },
+  "鹿児島県鹿屋市西大手町１０": {
+    "lat": 31.3911163,
+    "lon": 130.849641,
+    "precision": "exact",
+    "matched_query": "鹿児島県 鹿屋市 西大手町 １０"
+  },
+  "鹿児島県肝属郡南大隅町根占": {
+    "lat": 31.2006282,
+    "lon": 130.7943606,
+    "precision": "exact",
+    "matched_query": "鹿児島県 肝属郡 南大隅町 根占"
+  },
+  "沖縄県名護市字許田４０５": {
+    "lat": 26.5422162,
+    "lon": 127.9705524,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 名護市 字許田"
+  },
+  "沖縄県石垣市字新川２０９４": {
+    "lat": 24.3505666,
+    "lon": 124.1493649,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 石垣市 字新川"
+  },
+  "沖縄県南城市玉城字前川１３": {
+    "lat": 26.1461348,
+    "lon": 127.7493238,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 南城市 玉城字前川"
+  },
+  "沖縄県宮古島市平良字久貝７": {
+    "lat": 24.8054647,
+    "lon": 125.2811296,
+    "precision": "approx_level2",
+    "matched_query": "沖縄県 宮古島市"
+  },
+  "沖縄県沖縄市中央１－２４－": {
+    "lat": 26.3343738,
+    "lon": 127.8056597,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 沖縄市"
+  },
+  "沖縄県那覇市おもろまち１-３": {
+    "lat": 26.2227746,
+    "lon": 127.6984101,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 那覇市 おもろまち"
+  },
+  "沖縄県那覇市松尾２－９－２": {
+    "lat": 26.2122345,
+    "lon": 127.6791452,
+    "precision": "approx_level2",
+    "matched_query": "沖縄県 那覇市"
+  },
+  "沖縄県沖縄市比屋根６－１８": {
+    "lat": 26.3343738,
+    "lon": 127.8056597,
+    "precision": "approx_level2",
+    "matched_query": "沖縄県 沖縄市"
+  },
+  "沖縄県那覇市首里池端町３４": {
+    "lat": 26.2201598,
+    "lon": 127.7160555,
+    "precision": "exact",
+    "matched_query": "沖縄県 那覇市 首里池端町 ３４"
+  },
+  "沖縄県石垣市字大川１": {
+    "lat": 24.3427371,
+    "lon": 124.160496,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 石垣市 字大川"
+  },
+  "石川県金沢市無量寺2−８０": {
+    "lat": 36.6081291,
+    "lon": 136.6077088,
+    "precision": "approx_level1",
+    "matched_query": "石川県 金沢市 無量寺"
+  },
+  "香川県高松市松島町3-5-1": {
+    "lat": 34.3388069,
+    "lon": 134.0689509,
+    "precision": "exact",
+    "matched_query": "香川県高松市松島町3-5-1"
+  },
+  "香川県高松市多賀町2丁目17-11": {
+    "lat": 34.336694,
+    "lon": 134.0600037,
+    "precision": "approx_level1",
+    "matched_query": "香川県高松市多賀町2丁"
+  },
+  "群馬県吾妻郡長野原町川原湯５４８": {
+    "lat": 36.549363,
+    "lon": 138.7101404,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 吾妻郡 長野原町 川原湯"
+  },
+  "千葉県木更津市中里590": {
+    "lat": 35.396909,
+    "lon": 139.925692,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 木更津市 中里"
+  },
+  "長崎県佐世保市湊町2番16号 森ビル": {
+    "lat": 33.1799965,
+    "lon": 129.7152872,
+    "precision": "approx_level1",
+    "matched_query": "長崎県 佐世保市"
+  },
+  "新潟県 長岡市川崎町字山崎778-1": {
+    "lat": 37.446996,
+    "lon": 138.8512199,
+    "precision": "approx_level2",
+    "matched_query": "新潟県 長岡市"
+  },
+  "山口県下関市幸町２番８号": {
+    "lat": 33.961889,
+    "lon": 130.94355,
+    "precision": "exact",
+    "matched_query": "山口県 下関市 幸町 ２番８号"
+  },
+  "京都府宮津市字上世屋411番地": {
+    "lat": 35.6372176,
+    "lon": 135.1890088,
+    "precision": "approx_level3",
+    "matched_query": "京都 府 宮津市 字上世屋"
+  },
+  "埼玉県久喜市久喜中央１丁目３−１": {
+    "lat": 36.0717174,
+    "lon": 139.6860767,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 久喜市 久喜中央１丁"
+  },
+  "静岡県静岡市葵区宮ヶ崎町３０": {
+    "lat": 34.982157,
+    "lon": 138.375814,
+    "precision": "exact",
+    "matched_query": "静岡県 静岡市 葵区 宮ヶ崎町 ３０"
+  },
+  "島根県出雲市今市町７０３−１": {
+    "lat": 35.3634928,
+    "lon": 132.7598458,
+    "precision": "exact",
+    "matched_query": "島根県 出雲市 今市 町 ７０３−１"
+  },
+  "東京都福生市福生８７６−１２": {
+    "lat": 35.7423308,
+    "lon": 139.3278791,
+    "precision": "approx_level1",
+    "matched_query": "東京都 福生市 福生"
+  },
+  "東京都新宿区上落合２丁目１０−１": {
+    "lat": 35.7123261,
+    "lon": 139.6850551,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新宿区 上落合２丁"
+  },
+  "新潟県佐渡市加茂歌代４５８": {
+    "lat": 38.0877901,
+    "lon": 138.416512,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 佐渡市 加茂歌代"
+  },
+  "北海道余市郡仁木町南町１０丁目１": {
+    "lat": 43.135515,
+    "lon": 140.771516,
+    "precision": "approx_level1",
+    "matched_query": "北海道余市郡仁木町南町１０丁"
+  },
+  "岩手県盛岡市八幡町１３−３２": {
+    "lat": 39.696365,
+    "lon": 141.163254,
+    "precision": "exact",
+    "matched_query": "岩手県 盛岡市 八幡町 １３−３２"
+  },
+  "沖縄県那覇市旭町１１２−１": {
+    "lat": 26.2095647,
+    "lon": 127.6767504,
+    "precision": "exact",
+    "matched_query": "沖縄県 那覇市 旭町 １１２−１"
+  },
+  "埼玉県本庄市銀座１丁目９−２３": {
+    "lat": 36.2409206,
+    "lon": 139.1843002,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 本庄市 銀座１丁"
+  },
+  "東京都杉並区西荻南３丁目２４−１": {
+    "lat": 35.7020953,
+    "lon": 139.6024977,
+    "precision": "approx_level1",
+    "matched_query": "東京都 杉並区 西荻南３丁"
+  },
+  "東京都杉並区方南2-11-7": {
+    "lat": 35.680503,
+    "lon": 139.6582853,
+    "precision": "approx_level1",
+    "matched_query": "東京都 杉並区 方南"
+  },
+  "長野県長野市北石堂町1375": {
+    "lat": 36.6462368,
+    "lon": 138.1848094,
+    "precision": "exact",
+    "matched_query": "長野県 長野市 北石堂町 1375"
+  },
+  "広島県呉市安浦町大字中畑１２３８": {
+    "lat": 34.2860232,
+    "lon": 132.6904982,
+    "precision": "approx_level1",
+    "matched_query": "広島県 呉市 安浦町 大字中畑"
+  },
+  "福岡県柳川市沖端町７−３": {
+    "lat": 33.15858,
+    "lon": 130.394709,
+    "precision": "exact",
+    "matched_query": "福岡県 柳川市 沖端町 ７−３"
+  },
+  "北海道士別市西３条１０丁目２２０": {
+    "lat": 44.170656,
+    "lon": 142.38724,
+    "precision": "approx_level1",
+    "matched_query": "北海道 士別市 西３条１０丁"
+  },
+  "山形県山形市蔵王上野 字南坂1096": {
+    "lat": 38.2553393,
+    "lon": 140.3400205,
+    "precision": "approx_level2",
+    "matched_query": "山形県 山形市"
+  },
+  "愛媛県大洲市大洲９８−１": {
+    "lat": 33.5076424,
+    "lon": 132.5449706,
+    "precision": "approx_level1",
+    "matched_query": "愛媛県 大洲市 大洲"
+  },
+  "大阪府藤井寺市道明寺2丁目10-10": {
+    "lat": 34.5670432,
+    "lon": 135.6173743,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 藤井寺市 道 明寺2丁"
+  },
+  "神奈川県川崎市高津区溝口１-１３": {
+    "lat": 35.6044625,
+    "lon": 139.6130536,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 高津区 溝口"
+  },
+  "京都府木津川市山城町平尾三所塚５": {
+    "lat": 34.7371445,
+    "lon": 135.8201679,
+    "precision": "approx_level2",
+    "matched_query": "京都 府 木津川市"
+  },
+  "群馬県利根郡片品村花咲１５７５−": {
+    "lat": 36.751086,
+    "lon": 139.1827084,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 利根郡 片品村 花咲"
+  },
+  "千葉県夷隅郡大多喜町宇筒原２１５": {
+    "lat": 35.2349983,
+    "lon": 140.2276286,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 夷隅郡 大多喜町 宇筒原"
+  },
+  "東京都豊島区南大塚１丁目６０−１": {
+    "lat": 35.728926,
+    "lon": 139.730323,
+    "precision": "approx_level1",
+    "matched_query": "東京都 豊島区 南大塚１丁"
+  },
+  "東京都台東区上野２丁目１０−７ か": {
+    "lat": 35.7125805,
+    "lon": 139.7800712,
+    "precision": "approx_level1",
+    "matched_query": "東京都 台東区"
+  },
+  "東京都渋谷区笹塚３丁目４０−１": {
+    "lat": 35.6778448,
+    "lon": 139.6676606,
+    "precision": "approx_level1",
+    "matched_query": "東京都 渋谷区 笹塚３丁"
+  },
+  "新潟県佐渡市千種88-1": {
+    "lat": 38.0307012,
+    "lon": 138.3645844,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 佐渡市 千種"
+  },
+  "兵庫県神戸市中央区三宮町３丁目２": {
+    "lat": 34.6910413,
+    "lon": 135.1935247,
+    "precision": "approx_level3",
+    "matched_query": "兵庫県 神戸市 中央区 三宮町"
+  },
+  "大分県宇佐市辛島４−３": {
+    "lat": 35.8143432,
+    "lon": 139.5548701,
+    "precision": "approx_level1",
+    "matched_query": "大分県 宇佐市 辛島"
+  },
+  "大阪府藤井寺市岡１丁目２−６": {
+    "lat": 34.5756705,
+    "lon": 135.5948044,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 藤井寺市 岡１丁"
+  },
+  "岡山県岡山市北区出石町１丁目７−": {
+    "lat": 34.6684479,
+    "lon": 133.9337794,
+    "precision": "approx_level1",
+    "matched_query": "岡山県岡山市北区出石町１丁"
+  },
+  "鹿児島県鹿児島市新屋敷町１１−１": {
+    "lat": 31.582838,
+    "lon": 130.555739,
+    "precision": "exact",
+    "matched_query": "鹿児島県 鹿児島市 新屋敷町 １１−１"
+  },
+  "静岡県三島市泉町２−１": {
+    "lat": 35.1213,
+    "lon": 138.910678,
+    "precision": "exact",
+    "matched_query": "静岡県 三島市 泉町 ２−１"
+  },
+  "東京都新橋５丁目３１−７": {
+    "lat": 35.663092,
+    "lon": 139.7553769,
+    "precision": "approx_level1",
+    "matched_query": "東京都 新橋５丁"
+  },
+  "長野県諏訪郡下諏訪町1649-1": {
+    "lat": 36.0695992,
+    "lon": 138.0801665,
+    "precision": "exact",
+    "matched_query": "長野県 諏訪郡 下諏訪町 1649-1"
+  },
+  "岡山県東区西大寺中３丁目２１−２": {
+    "lat": 34.6506964,
+    "lon": 134.0370475,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 東区 西大寺中３丁"
+  },
+  "静岡県沼津市大手町": {
+    "lat": 35.0992168,
+    "lon": 138.8588458,
+    "precision": "exact",
+    "matched_query": "静岡県 沼津市 大手町"
+  },
+  "島根県出雲市多伎町久村１２０−１": {
+    "lat": 35.288412,
+    "lon": 132.651282,
+    "precision": "exact",
+    "matched_query": "島根県 出雲市 多伎町 久村 １２０−１"
+  },
+  "東京都世田谷区祖師谷３丁目１−７": {
+    "lat": 35.6439706,
+    "lon": 139.6056506,
+    "precision": "approx_level1",
+    "matched_query": "東京都 世田谷区 祖師谷３丁"
+  },
+  "東京都荒川区東日暮里５丁目３７−": {
+    "lat": 35.7260446,
+    "lon": 139.7777465,
+    "precision": "approx_level1",
+    "matched_query": "東京都 荒川区 東日暮里５丁"
+  },
+  "長崎県長崎市目覚町１１−２": {
+    "lat": 32.7636117,
+    "lon": 129.8656377,
+    "precision": "exact",
+    "matched_query": "長崎県 長崎市 目覚町 １１−２"
+  },
+  "長野県長野市南長野新田町１４５８": {
+    "lat": 36.6360502,
+    "lon": 138.1881385,
+    "precision": "exact",
+    "matched_query": "長野県 長野市 南長野新田町 １４５８"
+  },
+  "愛知県刈谷市今川町山ノ神１６０": {
+    "lat": 35.0286313,
+    "lon": 137.0103529,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 刈谷市 今川町 山ノ神"
+  },
+  "神奈川県葉山町堀内２０３８−１０": {
+    "lat": 35.276578,
+    "lon": 139.593549,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 葉山町 堀内"
+  },
+  "京都府福知山市南本町２６４−５": {
+    "lat": 35.2966646,
+    "lon": 135.1265303,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 福知山市 南本町"
+  },
+  "埼玉県さいたま市南区南浦和３丁目３": {
+    "lat": 35.8484623,
+    "lon": 139.6716191,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 さいたま市 南区 南浦和３丁"
+  },
+  "静岡県静岡市駿河区丸子３２４０−": {
+    "lat": 34.940492,
+    "lon": 138.32819,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 静岡市 駿河区 丸子"
+  },
+  "千葉県香取市イ１８９４": {
+    "lat": 35.8978273,
+    "lon": 140.4992787,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 香取市"
+  },
+  "東京都渋谷区恵比寿南１丁目４−１": {
+    "lat": 35.645115,
+    "lon": 139.7097981,
+    "precision": "approx_level1",
+    "matched_query": "東京都 渋谷区 恵比寿南１丁"
+  },
+  "富山県富山市岩瀬大町5番地": {
+    "lat": 36.7582646,
+    "lon": 137.2288169,
+    "precision": "approx_level3",
+    "matched_query": "富山県 富山市 岩瀬大町"
+  },
+  "長野県上高井郡高山村": {
+    "lat": 36.6796563,
+    "lon": 138.3632529,
+    "precision": "exact",
+    "matched_query": "長野県 上高井郡 高山村"
+  },
+  "長野県長野市長野大門町72−５": {
+    "lat": 35.5250282,
+    "lon": 137.8284604,
+    "precision": "exact",
+    "matched_query": "長野県 長野市 長野大門町 72−５"
+  },
+  "兵庫県姫路市苫編３９６": {
+    "lat": 34.81947,
+    "lon": 134.649705,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 姫路市 苫編"
+  },
+  "福岡県福岡市博多区店屋町4番28号": {
+    "lat": 33.595953,
+    "lon": 130.4098949,
+    "precision": "approx_level3",
+    "matched_query": "福岡県 福岡市 博多区 店屋町"
+  },
+  "福岡県福岡市中央区六本松": {
+    "lat": 33.5774198,
+    "lon": 130.3770659,
+    "precision": "exact",
+    "matched_query": "福岡県 福岡市 中央区 六本松"
+  },
+  "北海道岩内郡岩内町野束５０５": {
+    "lat": 42.937791,
+    "lon": 140.507348,
+    "precision": "approx_level1",
+    "matched_query": "北海道 岩内郡 岩内町 野束"
+  },
+  "宮城県岩沼市吹上２丁目２−３１": {
+    "lat": 38.093842,
+    "lon": 140.859558,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 岩沼市 吹上２丁"
+  },
+  "宮城県石巻市中央１丁目３−１４": {
+    "lat": 38.4292612,
+    "lon": 141.3081291,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 石巻市 中央１丁"
+  },
+  "愛知県豊橋市堂坂町47番地1": {
+    "lat": 34.7495467,
+    "lon": 137.379114,
+    "precision": "approx_level2",
+    "matched_query": "愛知県 豊橋市 堂坂町 47"
+  },
+  "愛知県豊橋市駅前大通2丁目71-24": {
+    "lat": 34.7627202,
+    "lon": 137.3871875,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 豊橋市 駅前大通2丁"
+  },
+  "愛知県春日井市大手田酉町1-2-7     08048670322                  https://butterflybrewery.store     発泡酒": {
+    "lat": 35.2476278,
+    "lon": 136.9721611,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 春日井市"
+  },
+  "岩手県一関市大手町７−３６ さくらビ": {
+    "lat": 38.9346961,
+    "lon": 141.126605,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 一関市"
+  },
+  "大阪府大阪市城東区蒲生": {
+    "lat": 34.7049861,
+    "lon": 135.5449261,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 城東区 蒲生"
+  },
+  "沖縄県名護市東江５丁目８−７": {
+    "lat": 26.5773456,
+    "lon": 127.9843096,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 名護市 東江５丁"
+  },
+  "鹿児島県奄美市名瀬港町１−２": {
+    "lat": 28.3806165,
+    "lon": 129.4963646,
+    "precision": "exact",
+    "matched_query": "鹿児島県 奄美市 名瀬港町 １−２"
+  },
+  "東京都港区北青山3-4-3": {
+    "lat": 35.6705999,
+    "lon": 139.7159289,
+    "precision": "approx_level1",
+    "matched_query": "東京都 港区 北青山"
+  },
+  "徳島県 美馬市 木屋平 字川井287番": {
+    "lat": 34.0537915,
+    "lon": 134.1700644,
+    "precision": "approx_level3",
+    "matched_query": "徳島県 美馬市"
+  },
+  "栃木県足利市問屋町１１７７−１０": {
+    "lat": 36.308047,
+    "lon": 139.466382,
+    "precision": "exact",
+    "matched_query": "栃木県 足利市 問屋町 １１７７−１０"
+  },
+  "鳥取県東伯郡琴浦町徳万６９４−１": {
+    "lat": 35.5013927,
+    "lon": 133.6963884,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 東伯郡 琴浦町 徳万"
+  },
+  "長野県安曇野市穂高5950-1": {
+    "lat": 36.339565,
+    "lon": 137.8817573,
+    "precision": "approx_level1",
+    "matched_query": "長野県 安曇野市 穂高"
+  },
+  "兵庫県姫路市北条口５丁目６": {
+    "lat": 34.8304656,
+    "lon": 134.6961727,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 姫路市 北条口５丁"
+  },
+  "北海道札幌市中央区南７条西３丁目": {
+    "lat": 43.0521569,
+    "lon": 141.3550109,
+    "precision": "exact",
+    "matched_query": "北海道 札幌市 中央区 南７条西３丁目"
+  },
+  "北海道虻田郡ニセコ町豊里１７６−１": {
+    "lat": 42.7848504,
+    "lon": 140.7152939,
+    "precision": "approx_level1",
+    "matched_query": "北海道 虻田郡 ニセコ町 豊里"
+  },
+  "山梨県南都留郡西桂町小沼２２４２": {
+    "lat": 35.5222661,
+    "lon": 138.8419424,
+    "precision": "approx_level1",
+    "matched_query": "山梨県南都留郡西桂町小沼"
+  },
+  "山梨県甲府市下帯那町１９０８−１": {
+    "lat": 35.7102129,
+    "lon": 138.5596,
+    "precision": "exact",
+    "matched_query": "山梨県 甲府 市 下帯那町 １９０８−１"
+  },
+  "愛知県長久手市杁ケ根795番1": {
+    "lat": 35.179948,
+    "lon": 137.075567,
+    "precision": "approx_level2",
+    "matched_query": "愛知県 長久手市 杁ケ根"
+  },
+  "大分県豊後大野市千歳町新殿１５０": {
+    "lat": 33.041729,
+    "lon": 131.5955,
+    "precision": "approx_level1",
+    "matched_query": "大分県 豊後大野市 千歳町 新殿"
+  },
+  "岡山県英田郡西粟倉村影石２０５０": {
+    "lat": 35.1882066,
+    "lon": 134.3291636,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 英田郡 西粟倉村 影石"
+  },
+  "香川県丸亀市本島町泊７０４−２": {
+    "lat": 34.383877,
+    "lon": 133.7767625,
+    "precision": "approx_level1",
+    "matched_query": "香川県 丸亀市 本島町 泊"
+  },
+  "長野県北安曇郡白馬村 北城５１４": {
+    "lat": 36.7116884,
+    "lon": 137.8791283,
+    "precision": "approx_level1",
+    "matched_query": "長野県 北安曇郡 白馬村 北城"
+  },
+  "長野県下伊那郡下條村睦沢7047-2": {
+    "lat": 35.404662,
+    "lon": 137.781344,
+    "precision": "approx_level1",
+    "matched_query": "長野県 下伊那郡 下條村 睦沢"
+  },
+  "福岡県久留米市螢川町 59-1 1F": {
+    "lat": 33.3196545,
+    "lon": 130.5080625,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 久留米市"
+  },
+  "北海道阿寒郡鶴居村茂雪裡６９−８": {
+    "lat": 43.2998129,
+    "lon": 144.2707564,
+    "precision": "approx_level1",
+    "matched_query": "北海道 阿寒郡 鶴居村 茂雪裡"
+  },
+  "山梨県 甲州市塩山福生里２５０－": {
+    "lat": 35.7043662,
+    "lon": 138.7293579,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 甲州市"
+  },
+  "愛媛県松山市下難波甲32番70": {
+    "lat": 33.8395188,
+    "lon": 132.7653521,
+    "precision": "approx_level3",
+    "matched_query": "愛媛県 松山市"
+  },
+  "岡山県都窪郡早島町前潟528-1 H": {
+    "lat": 34.6006287,
+    "lon": 133.8284796,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 都 窪郡 早島町"
+  },
+  "神奈川県横浜市中区北仲通５丁目5": {
+    "lat": 35.4535052,
+    "lon": 139.6383126,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 中区 北仲通５丁"
+  },
+  "埼玉県さいたま市桜区田島６丁目１−": {
+    "lat": 35.853866,
+    "lon": 139.6236137,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 さいたま市 桜区 田島６丁"
+  },
+  "長野県上田市中央２丁目５−３": {
+    "lat": 36.3995108,
+    "lon": 138.2557189,
+    "precision": "approx_level1",
+    "matched_query": "長野県 上田市 中央２丁"
+  },
+  "福岡県福津市津屋崎４丁目１−１３": {
+    "lat": 33.7874309,
+    "lon": 130.4586904,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福津市 津屋崎４丁"
+  },
+  "鹿児島県鹿児島市樋之口町１０−７": {
+    "lat": 31.5855356,
+    "lon": 130.5551061,
+    "precision": "exact",
+    "matched_query": "鹿児島県 鹿児島市 樋之口町 １０−７"
+  },
+  "静岡県静岡市清水区蒲原2-4-8 （ス": {
+    "lat": 34.9751974,
+    "lon": 138.3831697,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 静岡市"
+  },
+  "栃木県宇都宮市伝馬町４−２６ コートサイドハイツ 1階1号室                     https://www.facebook.com/sp        発泡酒": {
+    "lat": 36.5549677,
+    "lon": 139.8828776,
+    "precision": "approx_level1",
+    "matched_query": "栃木県 宇都 宮市"
+  },
+  "富山県砺波市表町10-2": {
+    "lat": 36.636194,
+    "lon": 136.95157,
+    "precision": "approx_level1",
+    "matched_query": "富山県 砺波市 表町"
+  },
+  "長野県軽井沢町中軽井沢6-9 2F": {
+    "lat": 36.3482938,
+    "lon": 138.5969968,
+    "precision": "approx_level1",
+    "matched_query": "長野県 軽井沢町"
+  },
+  "兵庫県姫路市久保町53": {
+    "lat": 34.8287177,
+    "lon": 134.6865582,
+    "precision": "exact",
+    "matched_query": "兵庫県 姫路市 久保町 53"
+  },
+  "広島県江田島市能美町中町2372-2": {
+    "lat": 34.2188087,
+    "lon": 132.4399275,
+    "precision": "exact",
+    "matched_query": "広島県 江田島市 能美町 中町 2372-2"
+  },
+  "福岡県糸島市二丈上深江89-1 糸島": {
+    "lat": 33.5571816,
+    "lon": 130.196231,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 糸島市"
+  },
+  "三重県伊勢市二見町西829番地１": {
+    "lat": 34.5106677,
+    "lon": 136.7593896,
+    "precision": "approx_level3",
+    "matched_query": "三重県 伊勢市 二見町 西"
+  },
+  "山梨県北杜市明野町浅尾新田３１番": {
+    "lat": 35.785304,
+    "lon": 138.4376693,
+    "precision": "approx_level2",
+    "matched_query": "山梨県 北杜市 明野町 浅尾新田"
+  },
+  "和歌山県和歌山市加太字北ノ町１６": {
+    "lat": 34.2342931,
+    "lon": 135.1783549,
+    "precision": "approx_level2",
+    "matched_query": "和歌山県 和歌山市"
+  },
+  "大分県別府市大字鶴見１０３番地の": {
+    "lat": 33.2845752,
+    "lon": 131.4913063,
+    "precision": "approx_level1",
+    "matched_query": "大分県 別府 市"
+  },
+  "沖縄県那覇市字鏡水１５０ 番地                                                                       発泡酒": {
+    "lat": 26.2122345,
+    "lon": 127.6791452,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 那覇市"
+  },
+  "千葉県勝浦市勝浦１１−１": {
+    "lat": 35.1530976,
+    "lon": 140.3128799,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 勝浦市 勝浦"
+  },
+  "東京都立川市柴崎町２丁目６−５": {
+    "lat": 35.694004,
+    "lon": 139.408768,
+    "precision": "approx_level1",
+    "matched_query": "東京都立川市柴崎町２丁"
+  },
+  "長野県下高井郡山ノ内町大字佐野": {
+    "lat": 36.7445912,
+    "lon": 138.4126607,
+    "precision": "approx_level1",
+    "matched_query": "長野県 下高井郡 山ノ内町"
+  },
+  "長野県北佐久郡軽井沢町中軽井沢6": {
+    "lat": 36.3475761,
+    "lon": 138.5925183,
+    "precision": "approx_level1",
+    "matched_query": "長野県 北佐久郡 軽井沢町 中軽井沢"
+  },
+  "福岡県朝倉市５１８番地": {
+    "lat": 33.4234248,
+    "lon": 130.6657037,
+    "precision": "exact",
+    "matched_query": "福岡県 朝倉市 ５１８番地"
+  },
+  "北海道虻田郡洞爺湖町洞爺湖温泉4                                                                      発泡酒": {
+    "lat": 42.5513253,
+    "lon": 140.7642723,
+    "precision": "approx_level1",
+    "matched_query": "北海道 虻田郡 洞爺湖町"
+  },
+  "北海道石狩郡当別町樺戸町５２−４": {
+    "lat": 43.218493,
+    "lon": 141.531097,
+    "precision": "exact",
+    "matched_query": "北海道 石狩郡 当別町 樺戸町 ５２−４"
+  },
+  "山梨県甲州市勝沼町勝沼3042-2": {
+    "lat": 35.6633551,
+    "lon": 138.7331934,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 甲州市 勝沼町 勝沼"
+  },
+  "千葉県千葉市花見川区武石町2-": {
+    "lat": 35.6617496,
+    "lon": 140.0651703,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 千葉市 花見川区 武石町"
+  },
+  "神奈川県横浜市鶴見区生麦１－": {
+    "lat": 35.4503381,
+    "lon": 139.6343802,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市"
+  },
+  "北海道千歳市東郊1-7-1": {
+    "lat": 42.8347242,
+    "lon": 141.6645914,
+    "precision": "approx_level1",
+    "matched_query": "北海道 千歳市 東郊"
+  },
+  "東京都葛飾区堀切２丁目５５−１０": {
+    "lat": 35.7439207,
+    "lon": 139.8241488,
+    "precision": "approx_level1",
+    "matched_query": "東京都 葛飾区 堀切２丁"
+  },
+  "静岡県御殿場市川島田１２８４−１": {
+    "lat": 35.297328,
+    "lon": 138.924175,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 御殿場市 川島田"
+  },
+  "愛知県名古屋市南区松池町２丁目２８−": {
+    "lat": 35.165824,
+    "lon": 136.926982,
+    "precision": "approx_level3",
+    "matched_query": "愛知県 名古屋市 南区 松池町"
+  },
+  "東京都立川市柴崎町２丁目６−５ 青木ビル": {
+    "lat": 35.7139057,
+    "lon": 139.4077701,
+    "precision": "approx_level1",
+    "matched_query": "東京都 立川市"
+  },
+  "埼玉県さいたま市浦和区高砂２丁目１−１９": {
+    "lat": 35.8577197,
+    "lon": 139.6552289,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 さいたま市 浦和区 高砂２丁"
+  },
+  "東京都江東区東砂7丁目16番12": {
+    "lat": 35.6733775,
+    "lon": 139.8374668,
+    "precision": "approx_level2",
+    "matched_query": "東京都 江東区 東砂7丁"
+  },
+  "大阪府大阪市浪速区下寺１丁目６番９号": {
+    "lat": 34.6613152,
+    "lon": 135.5101567,
+    "precision": "approx_level3",
+    "matched_query": "大阪府 大阪市 浪速区 下寺１丁"
+  },
+  "大阪府大阪市北区芝田1-5-6 梅田旭ビル1": {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "precision": "approx_level2",
+    "matched_query": "大阪府 大阪市"
+  },
+  "熊本県山鹿市方保田2820-4": {
+    "lat": 33.002666,
+    "lon": 130.718446,
+    "precision": "approx_level1",
+    "matched_query": "熊本県 山鹿市 方保田"
+  },
+  "神奈川県川崎市多摩区菅北浦２丁目２１−": {
+    "lat": 35.62966,
+    "lon": 139.535147,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 多摩区 菅北浦２丁"
+  },
+  "埼玉県秩父市別所字久保ノ入1432": {
+    "lat": 35.9914509,
+    "lon": 139.0857612,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 秩父市"
+  },
+  "富山県南砺市山見１７２１": {
+    "lat": 36.561698,
+    "lon": 136.964271,
+    "precision": "approx_level1",
+    "matched_query": "富山県 南砺市 山見"
+  },
+  "広島県広島市中区本川町２丁目４−１７": {
+    "lat": 34.3970103,
+    "lon": 132.4496446,
+    "precision": "approx_level1",
+    "matched_query": "広島県広島市中区本川町２丁"
+  },
+  "岐阜県美濃市港町１４４８−１−２−２": {
+    "lat": 35.5421417,
+    "lon": 136.9134087,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 美濃市 港町"
+  },
+  "北海道札幌市中央区北１０条西１９丁目": {
+    "lat": 43.0697164,
+    "lon": 141.3247557,
+    "precision": "exact",
+    "matched_query": "北海道 札幌市 中央区 北１０条西１９丁目"
+  },
+  "群馬県前橋市本町２丁目１番１２号": {
+    "lat": 36.3900273,
+    "lon": 139.0606426,
+    "precision": "approx_level3",
+    "matched_query": "群馬県前橋市本町２丁"
+  },
+  "東京都多摩市一ノ宮３丁目５−１６": {
+    "lat": 35.649659,
+    "lon": 139.444526,
+    "precision": "approx_level1",
+    "matched_query": "東京都 多摩市 一ノ宮３丁"
+  },
+  "奈良県吉野郡天川村洞川２２６": {
+    "lat": 34.2671827,
+    "lon": 135.880368,
+    "precision": "approx_level1",
+    "matched_query": "奈良県 吉野郡 天川村 洞川"
+  },
+  "北海道北広島市 Ｆビレッジ １番地": {
+    "lat": 42.9897227,
+    "lon": 141.5519229,
+    "precision": "approx_level2",
+    "matched_query": "北海道 北広島市 Ｆビレッジ １"
+  },
+  "静岡県三島市長伏１４９−１": {
+    "lat": 35.086785,
+    "lon": 138.913834,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 三島市 長伏"
+  },
+  "茨城県つくば市東新井18−８ 藤田ビル": {
+    "lat": 36.0833265,
+    "lon": 140.077279,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 つくば市"
+  },
+  "静岡県富士市富士町８−１２": {
+    "lat": 35.1531008,
+    "lon": 138.6488817,
+    "precision": "exact",
+    "matched_query": "静岡県 富士市 富士町 ８−１２"
+  },
+  "長野県小県郡青木村奈良本２０８−７": {
+    "lat": 36.339777,
+    "lon": 138.081844,
+    "precision": "approx_level1",
+    "matched_query": "長野県小県郡青木村奈良本"
+  },
+  "沖縄県那覇市牧志３丁目６−３ 1F": {
+    "lat": 26.2122345,
+    "lon": 127.6791452,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 那覇市"
+  },
+  "沖縄県島尻郡久米島町仲泊１０８７−６": {
+    "lat": 26.3479216,
+    "lon": 126.7477119,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 島尻郡 久米島町 仲泊"
+  },
+  "岐阜県美濃加茂市太田本町１丁目５−２": {
+    "lat": 35.438086,
+    "lon": 137.018941,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県美濃加茂市太田本町１丁"
+  },
+  "福岡県糸島市二丈深江２５４５−１": {
+    "lat": 33.506658,
+    "lon": 130.135552,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 糸島市 二丈深江"
+  },
+  "茨城県かすみがうら市坂895番地1 江口屋醸": {
+    "lat": 36.1552115,
+    "lon": 140.2353307,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 かすみがうら市"
+  },
+  "愛媛県松山市由良町８０３−１": {
+    "lat": 33.905504,
+    "lon": 132.671934,
+    "precision": "exact",
+    "matched_query": "愛媛県 松山市 由良町 ８０３−１"
+  },
+  "京都府京都市上京区笹屋町通智恵光院西入ル笹屋": {
+    "lat": 35.0421443,
+    "lon": 135.730837,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 京都 市"
+  },
+  "神奈川県横須賀市久里浜４丁目１４−１": {
+    "lat": 35.231273,
+    "lon": 139.705014,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横須賀市 久里浜４丁"
+  },
+  "静岡県三島市一番町１０−８ allez内": {
+    "lat": 35.1185376,
+    "lon": 138.9184438,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 三島市"
+  },
+  "神奈川県茅ヶ崎市中海岸4-12986-153": {
+    "lat": 35.3243342,
+    "lon": 139.4020305,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 茅ヶ崎市 中海岸"
+  },
+  "宮崎県宮崎市青島１丁目５番４号": {
+    "lat": 31.803978,
+    "lon": 131.464137,
+    "precision": "approx_level3",
+    "matched_query": "宮崎県 宮崎市 青島１丁"
+  },
+  "滋賀県高島市新旭町針江235番地": {
+    "lat": 35.364391,
+    "lon": 136.048838,
+    "precision": "approx_level3",
+    "matched_query": "滋賀県 高島市 新旭町 針江"
+  },
+  "鳥取県倉吉市上古川656-1": {
+    "lat": 35.4015219,
+    "lon": 133.7843857,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 倉吉市 上古川"
+  },
+  "高知県南国市国分１２７８−１": {
+    "lat": 33.601257,
+    "lon": 133.639865,
+    "precision": "approx_level1",
+    "matched_query": "高知県 南国市 国分"
+  },
+  "大阪府大阪市鶴見区放出東３丁目２２−３": {
+    "lat": 34.6892585,
+    "lon": 135.5624701,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 鶴見区 放出東３丁"
+  },
+  "千葉県大里郡寄居町大字桜沢４１４番地": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "鹿児島県薩摩川内樋脇町市比野141-1": {
+    "lat": 31.7597479,
+    "lon": 130.393933,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 薩摩川内樋脇町 市 比野"
+  },
+  "神奈川県小田原市栄町３丁目５−１８": {
+    "lat": 35.258798,
+    "lon": 139.159512,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県小田原市栄町３丁"
+  },
+  "埼玉県春日部市赤沼704-2": {
+    "lat": 35.9534317,
+    "lon": 139.7972917,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 春日部市 赤沼"
+  },
+  "滋賀県甲賀市信楽町長野1532番地2": {
+    "lat": 34.881008,
+    "lon": 136.047179,
+    "precision": "approx_level3",
+    "matched_query": "滋賀県 甲賀市 信楽町 長野"
+  },
+  "福岡県福岡市中央区荒戸1丁目2-5 イスト大濠１階": {
+    "lat": 33.5898988,
+    "lon": 130.4017509,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福岡市"
+  },
+  "栃木県那須塩原市豊浦中町１００−１０": {
+    "lat": 36.9656408,
+    "lon": 140.044412,
+    "precision": "exact",
+    "matched_query": "栃木県 那須塩原市 豊浦中町 １００−１０"
+  },
+  "福岡県福岡市中央区大濠１丁目３−７ １": {
+    "lat": 33.5819762,
+    "lon": 130.3770932,
+    "precision": "approx_level2",
+    "matched_query": "福岡県 福岡市 中央区 大濠１丁"
+  },
+  "大阪府岸和田市岸和田市臨海町７－１": {
+    "lat": 34.475541,
+    "lon": 135.369824,
+    "precision": "exact",
+    "matched_query": "大阪府 岸和田市 岸和田市 臨海町 ７－１"
+  },
+  "栃木県栃木市嘉右衛門町５−２７": {
+    "lat": 36.388573,
+    "lon": 139.7336054,
+    "precision": "exact",
+    "matched_query": "栃木県 栃木市 嘉右衛門町 ５−２７"
+  },
+  "愛知県名古屋市瑞穂区田辺通六丁目49-2": {
+    "lat": 35.120339,
+    "lon": 136.948739,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市 瑞穂区 田辺通六丁"
+  },
+  "北海道札幌市中央区北３条西１丁目２−９": {
+    "lat": 43.0655188,
+    "lon": 141.354663,
+    "precision": "approx_level1",
+    "matched_query": "北海道 札幌市 中央区 北３条西１丁"
+  },
+  "埼玉県比企郡ときがわ町馬場435 ｰ1": {
+    "lat": 36.0085308,
+    "lon": 139.2966965,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 比企郡 ときがわ町"
+  },
+  "神奈川県足柄上郡箱根町強羅１３００−７": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "大阪府大阪市阿倍野区松崎町": {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市"
+  },
+  "青森県浅虫蛍谷６４−１５": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "山口県下関市植田1398-1": {
+    "lat": 34.103908,
+    "lon": 130.981743,
+    "precision": "approx_level1",
+    "matched_query": "山口県 下関市 植田"
+  },
+  "千葉県千葉市稲毛区稲毛東３丁目６−１３": {
+    "lat": 35.6362201,
+    "lon": 140.0909909,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 千葉市 稲毛区 稲毛東３丁"
+  },
+  "千葉県流山加６丁目１３０１−７": {
+    "lat": 35.8598029,
+    "lon": 139.9004805,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 流山加６丁"
+  },
+  "兵庫県南あわじ市松帆古津路７１４−１": {
+    "lat": 34.333183,
+    "lon": 134.7389203,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 南あわじ市 松帆古津路"
+  },
+  "広島県尾道市久保１丁目６−１５−２": {
+    "lat": 34.4103387,
+    "lon": 133.2048074,
+    "precision": "approx_level1",
+    "matched_query": "広島県 尾道 市 久保１丁"
+  },
+  "福島県喜多方市関柴町上高額樋口３３３−": {
+    "lat": 37.6508057,
+    "lon": 139.8749387,
+    "precision": "approx_level2",
+    "matched_query": "福島県 喜多方市"
+  },
+  "埼玉県大里郡寄居町桜沢４１４                           パブなし                 https://lifeart-navi.com/         発泡酒": {
+    "lat": 36.1182741,
+    "lon": 139.1927779,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 大里郡 寄居町"
+  },
+  "沖縄県沖縄市中央１丁目４−８ 福地ビル": {
+    "lat": 26.3343738,
+    "lon": 127.8056597,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 沖縄市"
+  },
+  "宮城県柴⽥郡川崎町川内字北川原⼭238-": {
+    "lat": 38.1777164,
+    "lon": 140.6430953,
+    "precision": "approx_level2",
+    "matched_query": "宮城県 柴⽥郡 川崎町"
+  },
+  "愛知県名古屋市千種区本山町４丁目７４−": {
+    "lat": 35.1533213,
+    "lon": 136.9567357,
+    "precision": "approx_level3",
+    "matched_query": "愛知県 名古屋市 千種区 本山町"
+  },
+  "北海道空知郡中富良野町北町９−２ コンテ": {
+    "lat": 43.4054197,
+    "lon": 142.4250972,
+    "precision": "approx_level1",
+    "matched_query": "北海道 空知郡 中富良野町"
+  },
+  "三重県伊賀市西明寺2−2−８": {
+    "lat": 34.765245,
+    "lon": 136.15416,
+    "precision": "approx_level1",
+    "matched_query": "三重県 伊賀市 西明寺"
+  },
+  "秋田県男鹿市船川港船川化世沢１８１": {
+    "lat": 39.8866202,
+    "lon": 139.8473949,
+    "precision": "approx_level2",
+    "matched_query": "秋田県 男鹿市"
+  },
+  "秋田県秋田市南通みその町６−２７": {
+    "lat": 39.7097492,
+    "lon": 140.1220562,
+    "precision": "exact",
+    "matched_query": "秋田県 秋田市 南通みその町 ６−２７"
+  },
+  "福岡県太宰府市宰府１丁目１４": {
+    "lat": 33.518943,
+    "lon": 130.529634,
+    "precision": "approx_level1",
+    "matched_query": "福岡県太宰府市宰府１丁"
+  },
+  "鹿児島県南九州市川辺町平山６９７８": {
+    "lat": 31.3868663,
+    "lon": 130.3935945,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 南九州市 川辺町 平山"
+  },
+  "愛知県一宮市栄４丁目１−１": {
+    "lat": 35.299953,
+    "lon": 136.79931,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 一宮市 栄４丁"
+  },
+  "愛知県岡崎市城北町14番地1                                         https://okazaki-beer.com/         発泡酒": {
+    "lat": 34.9548784,
+    "lon": 137.1728226,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 岡崎市"
+  },
+  "沖縄県島尻郡与那原町東浜2-4": {
+    "lat": 26.2066162,
+    "lon": 127.7604604,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 島尻郡 与那原町 東浜"
+  },
+  "京都府京都市伏見区伯耆町１１ メゾンmu": {
+    "lat": 35.0421443,
+    "lon": 135.730837,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 京都 市"
+  },
+  "茨城県水戸市泉町３丁目５−９": {
+    "lat": 36.3757574,
+    "lon": 140.4593199,
+    "precision": "approx_level1",
+    "matched_query": "茨城県水戸市泉町３丁"
+  },
+  "長野県南佐久郡佐久穂町八郡2049番865": {
+    "lat": 36.1603674,
+    "lon": 138.4835097,
+    "precision": "approx_level3",
+    "matched_query": "長野県 南佐久郡 佐久穂町"
+  },
+  "山梨県西八代郡市川三郷町高田３０３８": {
+    "lat": 35.5582577,
+    "lon": 138.4869479,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 西八代郡 市 川三郷町 高田"
+  },
+  "東京都調布市下石原２丁目６−１４ ラ・メゾ": {
+    "lat": 35.6506036,
+    "lon": 139.5407066,
+    "precision": "approx_level1",
+    "matched_query": "東京都 調布市"
+  },
+  "岡山県岡山市中区門田本町2丁目1−13": {
+    "lat": 34.6567075,
+    "lon": 133.9377661,
+    "precision": "approx_level1",
+    "matched_query": "岡山県岡山市中区門田本町2丁"
+  },
+  "鳥取県岩美郡岩美町浦富2465-1": {
+    "lat": 35.5865524,
+    "lon": 134.3230682,
+    "precision": "approx_level1",
+    "matched_query": "鳥取県 岩美郡 岩美町 浦富"
+  },
+  "長野県北佐久郡軽井沢町追分７２５−４９": {
+    "lat": 36.3414818,
+    "lon": 138.5533157,
+    "precision": "approx_level1",
+    "matched_query": "長野県 北佐久郡 軽井沢町 追分"
+  },
+  "沖縄県恩納村字真栄田９２８番地１": {
+    "lat": 26.431891,
+    "lon": 127.7636468,
+    "precision": "approx_level3",
+    "matched_query": "沖縄県 恩納村 字真栄田"
+  },
+  "愛媛県新居浜市松原町１−２１": {
+    "lat": 33.9392,
+    "lon": 133.298578,
+    "precision": "exact",
+    "matched_query": "愛媛県 新居浜市 松原町 １−２１"
+  },
+  "新潟県上越市三和区末野新田1702": {
+    "lat": 37.163356,
+    "lon": 138.364588,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 上越市 三和区 末野新田"
+  },
+  "東京都江東区常盤２丁目１３−１７ トキワ": {
+    "lat": 35.6727747,
+    "lon": 139.8169621,
+    "precision": "approx_level1",
+    "matched_query": "東京都 江東区"
+  },
+  "新潟県燕市粟生津 AOUZE BASE": {
+    "lat": 37.6730751,
+    "lon": 138.8825389,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 燕市"
+  },
+  "東京都江東区清澄１丁目１番７号LYURO": {
+    "lat": 35.6727747,
+    "lon": 139.8169621,
+    "precision": "approx_level1",
+    "matched_query": "東京都 江東区"
+  },
+  "兵庫県養父市上野1500番地(入口は建物右": {
+    "lat": 35.4044647,
+    "lon": 134.7674637,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 養父市"
+  },
+  "千葉県鴨川市前原359-69": {
+    "lat": 35.1018444,
+    "lon": 140.1038064,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 鴨川市 前原"
+  },
+  "岐阜県加茂郡白川町黒川2412": {
+    "lat": 35.572253,
+    "lon": 137.2418303,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 加茂郡 白川町 黒川"
+  },
+  "兵庫県西宮市本町５−９": {
+    "lat": 34.7338919,
+    "lon": 135.3398124,
+    "precision": "exact",
+    "matched_query": "兵庫県 西宮市 本町 ５−９"
+  },
+  "香川県仲多度郡琴平町182番地 2": {
+    "lat": 34.191594,
+    "lon": 133.8232497,
+    "precision": "approx_level2",
+    "matched_query": "香川県 仲多度郡 琴平町 182"
+  },
+  "熊本県阿蘇郡小国町北里３４５": {
+    "lat": 33.1406554,
+    "lon": 131.0939035,
+    "precision": "approx_level1",
+    "matched_query": "熊本県 阿蘇郡 小国町 北里"
+  },
+  "山梨県北都留郡丹波山村4903-7": {
+    "lat": 35.7916861,
+    "lon": 138.9179219,
+    "precision": "exact",
+    "matched_query": "山梨県 北都 留郡 丹波山村 4903-7"
+  },
+  "千葉県浦安市当代島２丁目１−２７ 石長": {
+    "lat": 35.6539105,
+    "lon": 139.902563,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 浦安市"
+  },
+  "岐阜県関市若草通１丁目８ 中濃公設地方": {
+    "lat": 35.4958031,
+    "lon": 136.9181482,
+    "precision": "approx_level1",
+    "matched_query": "岐阜県 関市"
+  },
+  "大阪府大阪市中央区瓦町2丁目1-15 瓦町": {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市"
+  },
+  "静岡県伊東市松原本町４−１": {
+    "lat": 34.973316,
+    "lon": 139.096924,
+    "precision": "exact",
+    "matched_query": "静岡県 伊東市 松原本町 ４−１"
+  },
+  "岡山県真庭市蒜山下和２７６４−１": {
+    "lat": 35.255229,
+    "lon": 133.775244,
+    "precision": "approx_level1",
+    "matched_query": "岡山県 真庭市 蒜山下和"
+  },
+  "東京都台東区上野１丁目３−７": {
+    "lat": 35.7097206,
+    "lon": 139.7816659,
+    "precision": "approx_level1",
+    "matched_query": "東京都 台東区 上野１丁"
+  },
+  "福井県あわら市春宮２丁目２６−１２": {
+    "lat": 36.218493,
+    "lon": 136.2314442,
+    "precision": "approx_level1",
+    "matched_query": "福井県 あわら市 春宮２丁"
+  },
+  "愛媛県西条市大町１５０９−４": {
+    "lat": 33.911624,
+    "lon": 133.189252,
+    "precision": "exact",
+    "matched_query": "愛媛県 西条市 大町 １５０９−４"
+  },
+  "新潟県上越市大和２丁目１６−４": {
+    "lat": 37.0855087,
+    "lon": 138.2414817,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 上越市 大和２丁"
+  },
+  "京都府京都市中京区河原町三条上る恵比須": {
+    "lat": 35.0421443,
+    "lon": 135.730837,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 京都 市"
+  },
+  "静岡県浜松市天竜区水窪町": {
+    "lat": 35.1691555,
+    "lon": 137.8708352,
+    "precision": "exact",
+    "matched_query": "静岡県 浜松市 天竜区 水窪町"
+  },
+  "山口県岩国市麻里布町４丁目７−4 大安": {
+    "lat": 34.1664995,
+    "lon": 132.2191163,
+    "precision": "approx_level1",
+    "matched_query": "山口県 岩国市"
+  },
+  "沖縄県うるま市字高江洲１０５０番地３": {
+    "lat": 26.3529593,
+    "lon": 127.8413021,
+    "precision": "approx_level3",
+    "matched_query": "沖縄県 うるま市 字高江洲"
+  },
+  "東京都世田谷区代沢": {
+    "lat": 35.6566718,
+    "lon": 139.6705979,
+    "precision": "exact",
+    "matched_query": "東京都 世田谷区 代沢"
+  },
+  "愛知県田原市東赤石５丁目1−１０３": {
+    "lat": 34.6612253,
+    "lon": 137.2736323,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 田原市 東赤石５丁"
+  },
+  "埼玉県新座市大和田３丁目４−５０": {
+    "lat": 35.808864,
+    "lon": 139.546065,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 新座市 大和田３丁"
+  },
+  "神奈川県三浦市三崎１丁目１０−１２": {
+    "lat": 35.1423558,
+    "lon": 139.6211082,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 三浦市 三崎１丁"
+  },
+  "千葉県松戸市下矢切１５３番地の１": {
+    "lat": 35.787267,
+    "lon": 139.9049043,
+    "precision": "approx_level2",
+    "matched_query": "千葉県 松戸市"
+  },
+  "熊本県阿蘇市内牧２１７番地": {
+    "lat": 32.9422172,
+    "lon": 131.0436601,
+    "precision": "approx_level3",
+    "matched_query": "熊本県 阿蘇市 内牧"
+  },
+  "大阪府富田林市富田林町２１番２２号": {
+    "lat": 34.4997399,
+    "lon": 135.6020457,
+    "precision": "approx_level2",
+    "matched_query": "大阪府 富田林市 富田林町 ２１"
+  },
+  "神奈川県横浜市神奈川区浦島町378": {
+    "lat": 35.482307,
+    "lon": 139.64286,
+    "precision": "exact",
+    "matched_query": "神奈川県 横浜市 神奈川区 浦島町 378"
+  },
+  "兵庫県姫路市西二階町１２１ カマタニビル": {
+    "lat": 34.8153529,
+    "lon": 134.6854793,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 姫路市"
+  },
+  "東京都港区虎ノ門２丁目６−３ ヒルズ ステー": {
+    "lat": 35.6580089,
+    "lon": 139.7515137,
+    "precision": "approx_level2",
+    "matched_query": "東京都 港区"
+  },
+  "愛知県名古屋市千種区神田町３３−５ 大": {
+    "lat": 35.1851045,
+    "lon": 136.8998438,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市"
+  },
+  "京都府京都市右京区京北細野町上小屋谷１番地": {
+    "lat": 35.0421443,
+    "lon": 135.730837,
+    "precision": "approx_level4",
+    "matched_query": "京都 府 京都 市"
+  },
+  "佐賀県唐津市呼子町呼子3764番地4": {
+    "lat": 33.5411443,
+    "lon": 129.8969793,
+    "precision": "approx_level3",
+    "matched_query": "佐賀県 唐津市 呼子町 呼子"
+  },
+  "鹿児島県鹿児島市谷山中央一丁目４０９": {
+    "lat": 31.524613,
+    "lon": 130.516907,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 鹿児島市 谷山中央一丁"
+  },
+  "東京都大田区池上４丁目３１−１６": {
+    "lat": 35.5745343,
+    "lon": 139.7067739,
+    "precision": "approx_level1",
+    "matched_query": "東京都 大田区 池上４丁"
+  },
+  "佐賀県神埼郡吉野ヶ里町吉田１４５": {
+    "lat": 33.3282537,
+    "lon": 130.4037331,
+    "precision": "approx_level1",
+    "matched_query": "佐賀県 神埼郡 吉野ヶ里町 吉田"
+  },
+  "高知県高知市仁井田字新港4712-5": {
+    "lat": 33.5588482,
+    "lon": 133.5310918,
+    "precision": "approx_level2",
+    "matched_query": "高知県 高知市"
+  },
+  "東京都足立区西新井本町": {
+    "lat": 35.7741044,
+    "lon": 139.7794361,
+    "precision": "exact",
+    "matched_query": "東京都 足立区 西新井本町"
+  },
+  "東京都文京区本郷5-1-2、シャープ本郷1F": {
+    "lat": 35.7080255,
+    "lon": 139.7523066,
+    "precision": "approx_level1",
+    "matched_query": "東京都 文京区"
+  },
+  "島根県安来市荒島町1853-1": {
+    "lat": 35.436173,
+    "lon": 133.205719,
+    "precision": "exact",
+    "matched_query": "島根県 安来市 荒島町 1853-1"
+  },
+  "広島県広島市西区横川町３丁目４−１３": {
+    "lat": 34.4134591,
+    "lon": 132.452469,
+    "precision": "approx_level1",
+    "matched_query": "広島県広島市西区横川町３丁"
+  },
+  "神奈川県川崎市多摩区枡形３丁目５番４号 相模 屋": {
+    "lat": 35.5306639,
+    "lon": 139.7037668,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市"
+  },
+  "大阪府交野市藤が尾4-1-3": {
+    "lat": 34.7727542,
+    "lon": 135.6733129,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 交野市 藤が尾"
+  },
+  "東京都練馬区東大泉１丁目３０−１５ 1F": {
+    "lat": 35.7506445,
+    "lon": 139.6162651,
+    "precision": "approx_level1",
+    "matched_query": "東京都 練馬区"
+  },
+  "兵庫県南あわじ市阿万吹上町田尻１３６７": {
+    "lat": 34.2945545,
+    "lon": 134.7798281,
+    "precision": "approx_level2",
+    "matched_query": "兵庫県 南あわじ市"
+  },
+  "山形県酒田市京田４丁目８−２": {
+    "lat": 38.873258,
+    "lon": 139.837341,
+    "precision": "approx_level1",
+    "matched_query": "山形県 酒田市 京田４丁"
+  },
+  "宮城県仙台市太白区秋保町湯元枇杷原５": {
+    "lat": 38.2677554,
+    "lon": 140.8691498,
+    "precision": "approx_level2",
+    "matched_query": "宮城県 仙台市"
+  },
+  "埼玉県狭山市新狭山２丁目８−８ 瀬戸ビル": {
+    "lat": 35.8528971,
+    "lon": 139.4122999,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 狭山市"
+  },
+  "京都府南丹市日吉町生畑ツノ元下１６": {
+    "lat": 35.1072823,
+    "lon": 135.4707092,
+    "precision": "approx_level2",
+    "matched_query": "京都 府 南丹市"
+  },
+  "山梨県甲州市勝沼町下岩崎２４７１": {
+    "lat": 35.6515601,
+    "lon": 138.7214019,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 甲州市 勝沼町 下岩崎"
+  },
+  "東京都江東区清澄１丁目１−７": {
+    "lat": 35.681633,
+    "lon": 139.792861,
+    "precision": "approx_level1",
+    "matched_query": "東京都 江東区 清澄１丁"
+  },
+  "福岡県福津市西福間２丁目８−２４": {
+    "lat": 33.7644877,
+    "lon": 130.4767093,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福津市 西福間２丁"
+  },
+  "北海道下川町錦町２４−１": {
+    "lat": 44.305566,
+    "lon": 142.6385332,
+    "precision": "exact",
+    "matched_query": "北海道 下川町 錦町 ２４−１"
+  },
+  "山梨県南都留郡山中湖村山中８６５−２６": {
+    "lat": 35.4299213,
+    "lon": 138.8431939,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 南都 留郡 山中湖村 山中"
+  },
+  "沖縄県沖縄市高原６丁目２−８": {
+    "lat": 26.3197194,
+    "lon": 127.8282237,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 沖縄市 高原６丁"
+  },
+  "宮崎県宮崎市山崎町下ノ原９３９": {
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "precision": "approx_level2",
+    "matched_query": "宮崎県 宮崎市"
+  },
+  "群馬県高崎市本町１１７−３": {
+    "lat": 36.330989,
+    "lon": 139.003866,
+    "precision": "exact",
+    "matched_query": "群馬県 高崎市 本町 １１７−３"
+  },
+  "東京都足立区西新井本町３丁目１０−２１": {
+    "lat": 35.7751857,
+    "lon": 139.7761774,
+    "precision": "approx_level1",
+    "matched_query": "東京都足立区西新井本町３丁"
+  },
+  "滋賀県蒲生郡竜王町山之上7104-1": {
+    "lat": 35.0488072,
+    "lon": 136.1426082,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 蒲生郡 竜王町 山之上"
+  },
+  "東京都文京区本郷5-1-2 シャープ本郷 1F": {
+    "lat": 35.7080255,
+    "lon": 139.7523066,
+    "precision": "approx_level1",
+    "matched_query": "東京都 文京区"
+  },
+  "東京都中央区晴海５丁目６−３ 1F": {
+    "lat": 35.6706436,
+    "lon": 139.7719923,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中央区"
+  },
+  "神奈川県相模原市中央区矢部１丁目４−１": {
+    "lat": 35.5868593,
+    "lon": 139.3876876,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 相模原市 中央区 矢部１丁"
+  },
+  "埼玉県越谷市弥生町１−１ 清水ビル 102": {
+    "lat": 35.8912859,
+    "lon": 139.7915124,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 越谷市"
+  },
+  "京都府与謝郡与謝野町下山田１３４２−１": {
+    "lat": 35.546049,
+    "lon": 135.125233,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 与謝郡 与謝野町 下山田"
+  },
+  "神奈川県海老名市下今泉１－１９－１３": {
+    "lat": 35.4464147,
+    "lon": 139.3906427,
+    "precision": "approx_level2",
+    "matched_query": "神奈川県 海老名市"
+  },
+  "岡山県岡山市南区福浜町１２−１３": {
+    "lat": 34.6192641,
+    "lon": 133.9442218,
+    "precision": "exact",
+    "matched_query": "岡山県 岡山市 南区 福浜町 １２−１３"
+  },
+  "東京都青梅市木野下1-404": {
+    "lat": 35.8073331,
+    "lon": 139.2965088,
+    "precision": "exact",
+    "matched_query": "東京都 青梅市 木野下1-404"
+  },
+  "埼玉県深谷市上野台２３９５−１": {
+    "lat": 36.184155,
+    "lon": 139.278303,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 深谷市 上野台"
+  },
+  "東京都杉並区高井戸東２丁目２５−１１ エ": {
+    "lat": 35.6994929,
+    "lon": 139.6362876,
+    "precision": "approx_level1",
+    "matched_query": "東京都 杉並区"
+  },
+  "東京都西多摩郡奥多摩町氷川 1099 番地": {
+    "lat": 35.808225,
+    "lon": 139.0969061,
+    "precision": "approx_level1",
+    "matched_query": "東京都 西多摩郡 奥多摩町 氷川 1099 番"
+  },
+  "長野県塩尻市洗馬２４５６−３": {
+    "lat": 36.0869666,
+    "lon": 137.9165375,
+    "precision": "approx_level1",
+    "matched_query": "長野県 塩尻市 洗馬"
+  },
+  "山口県下松市清瀬町三丁目17番25号": {
+    "lat": 34.030064,
+    "lon": 131.852966,
+    "precision": "approx_level3",
+    "matched_query": "山口県下松市清瀬町三丁"
+  },
+  "山口県宇部市大字車地138番地": {
+    "lat": 35.7677339,
+    "lon": 139.4337938,
+    "precision": "approx_level3",
+    "matched_query": "山口県 宇部市 大字車"
+  },
+  "東京都渋谷区恵比寿４丁目２０−１ ガーデ": {
+    "lat": 35.6637109,
+    "lon": 139.6976941,
+    "precision": "approx_level1",
+    "matched_query": "東京都 渋谷区"
+  },
+  "静岡県熱海市泉６−１": {
+    "lat": 35.1397184,
+    "lon": 139.0761374,
+    "precision": "approx_level1",
+    "matched_query": "静岡県 熱海市 泉"
+  },
+  "島根県安来市荒島町1853番地 1": {
+    "lat": 35.436173,
+    "lon": 133.205719,
+    "precision": "approx_level2",
+    "matched_query": "島根県 安来市 荒島町 1853"
+  },
+  "福井県福井市中央1-3-5 FUKUMACHI B": {
+    "lat": 36.061751,
+    "lon": 136.2260542,
+    "precision": "approx_level1",
+    "matched_query": "福井県 福井市"
+  },
+  "神奈川県藤沢市湘南台２丁目８−７ ﾗｲｵﾝｽ": {
+    "lat": 35.3388615,
+    "lon": 139.4909335,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 藤沢市"
+  },
+  "神奈川県藤沢市江の島１丁目７−３": {
+    "lat": 35.3000475,
+    "lon": 139.4822889,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 藤沢市 江の島１丁"
+  },
+  "京都府福知山市大内１７６７": {
+    "lat": 35.2540626,
+    "lon": 135.1800497,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 福知山市 大内"
+  },
+  "東京都八王子市下恩方町1557": {
+    "lat": 35.6657412,
+    "lon": 139.2511983,
+    "precision": "exact",
+    "matched_query": "東京都 八王子市 下恩方町 1557"
+  },
+  "大阪府東大阪市中新開2-2-1ロイヤルハイツ山": {
+    "lat": 34.679391,
+    "lon": 135.6009037,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 東大阪市"
+  },
+  "香川県坂出市王越町乃生８１６": {
+    "lat": 34.369743,
+    "lon": 133.902727,
+    "precision": "approx_level1",
+    "matched_query": "香川県 坂出市 王越町 乃生"
+  },
+  "神奈川県横須賀市浦賀": {
+    "lat": 35.2515189,
+    "lon": 139.7150623,
+    "precision": "exact",
+    "matched_query": "神奈川県 横須賀市 浦賀"
+  },
+  "熊本県葦北郡芦北町花岡６３５−１": {
+    "lat": 32.302786,
+    "lon": 130.4997253,
+    "precision": "approx_level1",
+    "matched_query": "熊本県 葦北郡 芦北町 花岡"
+  },
+  "茨城県水戸市小吹町２６２４−１": {
+    "lat": 36.343538,
+    "lon": 140.424,
+    "precision": "exact",
+    "matched_query": "茨城県 水戸市 小吹町 ２６２４−１"
+  },
+  "大阪府堺市西区草部８３９−５": {
+    "lat": 34.518545,
+    "lon": 135.471946,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 堺市 西区 草部"
+  },
+  "大阪府大阪市浪速区下寺１丁目６−９ Ｔ": {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市"
+  },
+  "神奈川県横浜市神奈川区鶴屋町2-11-2": {
+    "lat": 35.4698534,
+    "lon": 139.6231236,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 神奈川区 鶴屋町"
+  },
+  "福島県郡山市堂前町１２−６": {
+    "lat": 37.394998,
+    "lon": 140.379647,
+    "precision": "exact",
+    "matched_query": "福島県 郡 山市 堂前町 １２−６"
+  },
+  "東京都大田区東矢口": {
+    "lat": 35.5642119,
+    "lon": 139.7022299,
+    "precision": "exact",
+    "matched_query": "東京都 大田区 東矢口"
+  },
+  "千葉県市川市大野町２丁目６８０−１": {
+    "lat": 35.403079,
+    "lon": 136.756681,
+    "precision": "approx_level1",
+    "matched_query": "千葉県市川市大野町２丁"
+  },
+  "東京都多摩市諏訪1丁目9番地の4. センチュ": {
+    "lat": 35.6372468,
+    "lon": 139.4461101,
+    "precision": "approx_level1",
+    "matched_query": "東京都 多摩市"
+  },
+  "広島県豊田郡大崎上島町木江５１５０−１": {
+    "lat": 34.2360689,
+    "lon": 132.9104384,
+    "precision": "approx_level1",
+    "matched_query": "広島県 豊田郡 大崎上島町 木江"
+  },
+  "香川県三豊市仁尾町仁尾丁１９８−１": {
+    "lat": 34.2031216,
+    "lon": 133.6508169,
+    "precision": "approx_level1",
+    "matched_query": "香川県 三豊市 仁尾町 仁尾"
+  },
+  "石川県金沢市円光寺３丁目１−５": {
+    "lat": 36.5329611,
+    "lon": 136.6456216,
+    "precision": "approx_level1",
+    "matched_query": "石川県 金沢市 円光寺３丁"
+  },
+  "東京都八王子市横山町１０－１４": {
+    "lat": 35.6597563,
+    "lon": 139.3369473,
+    "precision": "exact",
+    "matched_query": "東京都 八王子市 横山町 １０－１４"
+  },
+  "青森県三沢市中央町２丁目８−５": {
+    "lat": 40.6783701,
+    "lon": 141.3685636,
+    "precision": "approx_level1",
+    "matched_query": "青森県三沢市中央町２丁"
+  },
+  "山梨県南都留郡富士河口湖町西湖１９": {
+    "lat": 35.4985177,
+    "lon": 138.6853744,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 南都 留郡 富士河口湖町 西湖"
+  },
+  "東京都大島町波浮港４": {
+    "lat": 34.6868415,
+    "lon": 139.4396608,
+    "precision": "approx_level1",
+    "matched_query": "東京都 大島町 波浮港"
+  },
+  "滋賀県彦根市八坂町３１９７−１": {
+    "lat": 35.260655,
+    "lon": 136.219379,
+    "precision": "exact",
+    "matched_query": "滋賀県 彦根市 八坂町 ３１９７−１"
+  },
+  "兵庫県明石市小久保２丁目４−５": {
+    "lat": 34.6672118,
+    "lon": 134.9599506,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 明石市 小久保２丁"
+  },
+  "茨城県日立市弁天町１丁目16−11 1階": {
+    "lat": 36.5991225,
+    "lon": 140.6504604,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 日立市"
+  },
+  "東京都墨田区押上２丁目１２−３": {
+    "lat": 35.7131023,
+    "lon": 139.8129999,
+    "precision": "approx_level1",
+    "matched_query": "東京都 墨田区 押上２丁"
+  },
+  "千葉県千葉市中央区登戸": {
+    "lat": 35.6111708,
+    "lon": 140.1053509,
+    "precision": "exact",
+    "matched_query": "千葉県 千葉市 中央区 登戸"
+  },
+  "長野県松本市本庄１丁目２−１": {
+    "lat": 36.227106,
+    "lon": 137.969289,
+    "precision": "approx_level1",
+    "matched_query": "長野県 松本市 本庄１丁"
+  },
+  "島根県出雲市大社町杵築東４６３ １": {
+    "lat": 35.4002228,
+    "lon": 132.6863164,
+    "precision": "approx_level2",
+    "matched_query": "島根県 出雲市 大社町 杵築東"
+  },
+  "福岡県福岡市博多区那珂6丁目23-1": {
+    "lat": 33.5649992,
+    "lon": 130.4400355,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 福岡市 博多区 那珂6丁"
+  },
+  "大分県佐伯市大手町３丁目５−７": {
+    "lat": 32.955894,
+    "lon": 131.892349,
+    "precision": "approx_level1",
+    "matched_query": "大分県佐伯市大手町３丁"
+  },
+  "東京都港区芝大門２丁目１３番５号 坂入": {
+    "lat": 35.6580089,
+    "lon": 139.7515137,
+    "precision": "approx_level1",
+    "matched_query": "東京都 港区"
+  },
+  "東京都調布市仙川町３丁目３番地４ ウィ ス": {
+    "lat": 35.6506036,
+    "lon": 139.5407066,
+    "precision": "approx_level1",
+    "matched_query": "東京都 調布市"
+  },
+  "大阪府高槻市芥川町１丁目１５−４ ミドリ芥": {
+    "lat": 34.8464785,
+    "lon": 135.6172204,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 高槻市"
+  },
+  "沖縄県うるま市石川2-5-1": {
+    "lat": 26.4345426,
+    "lon": 127.8253055,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 うるま市 石川"
+  },
+  "群馬県桐生市新里町武井": {
+    "lat": 36.416667,
+    "lon": 139.241101,
+    "precision": "exact",
+    "matched_query": "群馬県 桐生市 新里町 武井"
+  },
+  "東京都西東京市谷戸町1丁目23番7号": {
+    "lat": 35.7414117,
+    "lon": 139.545413,
+    "precision": "approx_level3",
+    "matched_query": "東京都西東京市谷戸町1丁"
+  },
+  "岩手県下閉伊郡岩泉町岩泉字小屋敷4-8": {
+    "lat": 39.8430658,
+    "lon": 141.7964303,
+    "precision": "approx_level2",
+    "matched_query": "岩手県 下閉伊郡 岩泉町"
+  },
+  "東京都台東区谷中": {
+    "lat": 35.7247892,
+    "lon": 139.7685576,
+    "precision": "exact",
+    "matched_query": "東京都 台東区 谷中"
+  },
+  "沖縄県那覇市壺屋2-4-3": {
+    "lat": 26.2124342,
+    "lon": 127.6934952,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 那覇市 壺屋"
+  },
+  "神奈川県横浜市中区北仲通６丁目１０１": {
+    "lat": 35.4515614,
+    "lon": 139.6351066,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 中区 北仲通６丁"
+  },
+  "大阪府大阪市中央区高麗橋１丁目１−３ 桝": {
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市"
+  },
+  "岐阜県関市川間町5−１０": {
+    "lat": 35.489038,
+    "lon": 136.91012,
+    "precision": "exact",
+    "matched_query": "岐阜県 関市 川間町 5−１０"
+  },
+  "京都府舞鶴市浜町７－１ オーブ浜１階": {
+    "lat": 35.4747274,
+    "lon": 135.3860338,
+    "precision": "approx_level1",
+    "matched_query": "京都 府 舞鶴市"
+  },
+  "福岡県福岡市西区小戸２－３－１８": {
+    "lat": 33.5898988,
+    "lon": 130.4017509,
+    "precision": "approx_level2",
+    "matched_query": "福岡県 福岡市"
+  },
+  "神奈川県小田原市栄町3丁目22番1号": {
+    "lat": 35.258798,
+    "lon": 139.159512,
+    "precision": "approx_level3",
+    "matched_query": "神奈川県小田原市栄町3丁"
+  },
+  "長野県諏訪市諏訪１丁目４−５": {
+    "lat": 36.046895,
+    "lon": 138.117975,
+    "precision": "approx_level1",
+    "matched_query": "長野県 諏訪市 諏訪１丁"
+  },
+  "新潟県小千谷市本町１丁目１３−２８": {
+    "lat": 37.3101999,
+    "lon": 138.7983019,
+    "precision": "approx_level1",
+    "matched_query": "新潟県小千谷市本町１丁"
+  },
+  "神奈川県川崎市麻生区五力田２丁目３−３": {
+    "lat": 35.5999805,
+    "lon": 139.4907189,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 川崎市 麻生区 五力田２丁"
+  },
+  "奈良県橿原市五井町１９７−５": {
+    "lat": 34.5068952,
+    "lon": 135.7791459,
+    "precision": "exact",
+    "matched_query": "奈良県 橿原市 五井町 １９７−５"
+  },
+  "北海道虻田郡京極町三崎９１－８": {
+    "lat": 42.8582069,
+    "lon": 140.8838931,
+    "precision": "approx_level2",
+    "matched_query": "北海道 虻田郡 京極町"
+  },
+  "京都府京都市右京区西院久田町１４": {
+    "lat": 35.0009425,
+    "lon": 135.7266802,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 右京区 西院久田町 １４"
+  },
+  "京都府京都市下京区朱雀宝蔵町２７−２": {
+    "lat": 34.985436,
+    "lon": 135.754381,
+    "precision": "exact",
+    "matched_query": "京都 府 京都 市 下京区 朱雀宝蔵町 ２７−２"
+  },
+  "神奈川県横浜市泉区下飯田町字大原1584": {
+    "lat": 35.4503381,
+    "lon": 139.6343802,
+    "precision": "approx_level2",
+    "matched_query": "神奈川県 横浜市"
+  },
+  "北海道​北海道白老郡白老町大町3丁目4-11": {
+    "lat": 42.5520595,
+    "lon": 141.3629774,
+    "precision": "approx_level1",
+    "matched_query": "北海道​北海道白老郡白老町大町3丁"
+  },
+  "長崎県長崎市幸町７−１": {
+    "lat": 32.7577446,
+    "lon": 129.8657904,
+    "precision": "exact",
+    "matched_query": "長崎県 長崎市 幸町 ７−１"
+  },
+  "宮崎県宮崎市清武町今泉甲３６０３−１": {
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "precision": "approx_level2",
+    "matched_query": "宮崎県 宮崎市"
+  },
+  "神奈川県横浜市都筑区中川１丁目１７−６": {
+    "lat": 35.5628941,
+    "lon": 139.5704756,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 横浜市 都 筑区 中川１丁"
+  },
+  "岐阜県土岐市妻木町２０５７−１": {
+    "lat": 35.298229,
+    "lon": 137.201798,
+    "precision": "exact",
+    "matched_query": "岐阜県 土岐市 妻木町 ２０５７−１"
+  },
+  "愛知県安城市大東町１１−２４": {
+    "lat": 34.9651398,
+    "lon": 137.0825956,
+    "precision": "exact",
+    "matched_query": "愛知県 安城市 大東町 １１−２４"
+  },
+  "滋賀県東近江市山上町３５０５−１": {
+    "lat": 35.076762,
+    "lon": 136.294705,
+    "precision": "exact",
+    "matched_query": "滋賀県 東近江市 山上町 ３５０５−１"
+  },
+  "大阪府大阪市淀川区東三国4-9-4": {
+    "lat": 34.7411509,
+    "lon": 135.4984468,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 大阪市 淀川区 東三国"
+  },
+  "和歌山県橋本市神野々９０６−１": {
+    "lat": 34.312937,
+    "lon": 135.58168,
+    "precision": "approx_level1",
+    "matched_query": "和歌山県 橋本市 神野々"
+  },
+  "北海道苫小牧市錦町2丁目2-17": {
+    "lat": 42.603943,
+    "lon": 141.475322,
+    "precision": "approx_level1",
+    "matched_query": "北海道苫小牧市錦町2丁"
+  },
+  "愛知県額田郡幸田町大字芦谷大西9-1": {
+    "lat": 34.8709512,
+    "lon": 137.1608071,
+    "precision": "approx_level2",
+    "matched_query": "愛知県 額田郡 幸田町"
+  },
+  "滋賀県犬上郡多賀町大字多賀１３２２−２": {
+    "lat": 35.1877633,
+    "lon": 136.3314196,
+    "precision": "approx_level1",
+    "matched_query": "滋賀県 犬上郡 多賀町 大字多賀"
+  },
+  "東京都新宿区新宿１丁目１６−１０ カテリー": {
+    "lat": 35.6937632,
+    "lon": 139.7036319,
+    "precision": "approx_level2",
+    "matched_query": "東京都 新宿区"
+  },
+  "大阪府東大阪市吉田７丁目６−２ 絹笠ハイ": {
+    "lat": 34.679391,
+    "lon": 135.6009037,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 東大阪市"
+  },
+  "鹿児島県霧島市隼人町小浜２８番地 オバマ": {
+    "lat": 31.7410148,
+    "lon": 130.7632406,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 霧島市"
+  },
+  "広島県広島市中区十日市町１丁目２−３": {
+    "lat": 34.3917241,
+    "lon": 132.4517589,
+    "precision": "approx_level4",
+    "matched_query": "広島県 広島市"
+  },
+  "茨城県常陸太田市小島町2633                               〇     https://www.instagram.com/goldgardenbr 2024/12/18         発泡酒": {
+    "lat": 36.5373021,
+    "lon": 140.5308393,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 常陸太田市"
+  },
+  "千葉県千葉市中央区神明町34番地11 nido1階": {
+    "lat": 35.6070629,
+    "lon": 140.1062653,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 千葉市"
+  },
+  "和歌山県和歌山市美園町５丁目５−１": {
+    "lat": 34.2318887,
+    "lon": 135.1869825,
+    "precision": "approx_level1",
+    "matched_query": "和歌山県和歌山市美園町５丁"
+  },
+  "島根県出雲市平田町片原町８１２": {
+    "lat": 35.3668891,
+    "lon": 132.7548827,
+    "precision": "approx_level2",
+    "matched_query": "島根県 出雲市"
+  },
+  "香川県観音寺市港町１丁目６−１７": {
+    "lat": 34.1261531,
+    "lon": 133.6699483,
+    "precision": "approx_level1",
+    "matched_query": "香川県観音寺市港町１丁"
+  },
+  "徳島県海部郡美波町日和佐浦184番地3": {
+    "lat": 33.7368406,
+    "lon": 134.5420775,
+    "precision": "approx_level3",
+    "matched_query": "徳島県 海部郡 美波町 日和佐浦"
+  },
+  "秋田県横手市田中町４−２５": {
+    "lat": 39.3124746,
+    "lon": 140.5659753,
+    "precision": "exact",
+    "matched_query": "秋田県 横手市 田中町 ４−２５"
+  },
+  "宮城県東松島市野蒜ケ丘三丁目20番地2": {
+    "lat": 38.3765444,
+    "lon": 141.1426985,
+    "precision": "approx_level3",
+    "matched_query": "宮城県 東松島市 野蒜ケ丘三丁"
+  },
+  "栃木県日光市相生町３−９": {
+    "lat": 36.7449035,
+    "lon": 139.620895,
+    "precision": "exact",
+    "matched_query": "栃木県 日光市 相生町 ３−９"
+  },
+  "栃木県芳賀郡益子町益子4276-2": {
+    "lat": 36.4632043,
+    "lon": 140.0887212,
+    "precision": "approx_level1",
+    "matched_query": "栃木県 芳賀郡 益子町 益子"
+  },
+  "千葉県長生郡白子町剃金２７２０−２": {
+    "lat": 35.4602245,
+    "lon": 140.3840216,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 長生郡 白子町 剃金"
+  },
+  "東京都町田市原町田６丁目１２−２０": {
+    "lat": 35.5413685,
+    "lon": 139.4520661,
+    "precision": "approx_level3",
+    "matched_query": "東京都町田市原町田"
+  },
+  "東京都世田谷区深沢５丁目１−８１０４": {
+    "lat": 35.6187365,
+    "lon": 139.6495798,
+    "precision": "approx_level1",
+    "matched_query": "東京都 世田谷区 深沢５丁"
+  },
+  "神奈川県横須賀市長井1丁目22番15号": {
+    "lat": 35.2039002,
+    "lon": 139.6254694,
+    "precision": "approx_level3",
+    "matched_query": "神奈川県 横須賀市 長井1丁"
+  },
+  "長野県小諸市市町１丁目２−５": {
+    "lat": 36.3274456,
+    "lon": 138.4264345,
+    "precision": "approx_level1",
+    "matched_query": "長野県小諸市市町１丁"
+  },
+  "北海道札幌市南区藤野3条6丁目5-1。": {
+    "lat": 43.061936,
+    "lon": 141.3542924,
+    "precision": "approx_level1",
+    "matched_query": "北海道 札幌市"
+  },
+  "秋田県大仙市大花町15-43": {
+    "lat": 39.465579,
+    "lon": 140.483423,
+    "precision": "approx_level1",
+    "matched_query": "秋田県 大仙市 大花町"
+  },
+  "千葉県八千代市勝田台2-1-9 (店舗・ブルワ": {
+    "lat": 35.722537,
+    "lon": 140.0995131,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 八千代市"
+  },
+  "神奈川県茅ヶ崎市常盤町4-35 住和常盤ビル": {
+    "lat": 35.329479,
+    "lon": 139.405371,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 茅ヶ崎市"
+  },
+  "新潟県新潟市中央区天神1-19-9 けやき通り": {
+    "lat": 37.9163757,
+    "lon": 139.0365062,
+    "precision": "approx_level1",
+    "matched_query": "新潟県 新潟市"
+  },
+  "三重県志摩市阿児町鵜方１６７０−２ 近鉄": {
+    "lat": 34.3411841,
+    "lon": 136.8196451,
+    "precision": "approx_level1",
+    "matched_query": "三重県 志摩市"
+  },
+  "大阪府大阪市北区東天満": {
+    "lat": 34.6970632,
+    "lon": 135.5180235,
+    "precision": "exact",
+    "matched_query": "大阪府 大阪市 北区 東天満"
+  },
+  "兵庫県神戸市東灘区住吉東町3丁目7-12": {
+    "lat": 34.7433244,
+    "lon": 135.2576823,
+    "precision": "approx_level2",
+    "matched_query": "兵庫県 神戸市 東灘区 住吉東町 3"
+  },
+  "北海道海道厚岸郡厚岸町港町２丁目 83番地": {
+    "lat": 43.0539253,
+    "lon": 144.8504607,
+    "precision": "exact",
+    "matched_query": "北海道海道厚岸郡厚岸町港町２丁目 83番地"
+  },
+  "北海道夕張郡栗山町中央2丁目95番地": {
+    "lat": 43.0585443,
+    "lon": 141.7803156,
+    "precision": "approx_level3",
+    "matched_query": "北海道 夕張郡 栗山町 中央2丁"
+  },
+  "北海道十勝郡浦幌町寿町４−１": {
+    "lat": 42.812649,
+    "lon": 143.65803,
+    "precision": "approx_level1",
+    "matched_query": "北海道 十勝郡 浦幌町 寿町"
+  },
+  "福島県いわき市川前町下桶売字藪ノ上130": {
+    "lat": 37.24812,
+    "lon": 140.732685,
+    "precision": "approx_level1",
+    "matched_query": "福島県 いわき市 川前町 下桶売字藪ノ上"
+  },
+  "千葉県流山市大畔６０２ 602番地": {
+    "lat": 35.8555836,
+    "lon": 139.9027815,
+    "precision": "approx_level4",
+    "matched_query": "千葉県 流山市"
+  },
+  "静岡県下田市一丁目5番23号": {
+    "lat": 34.6766399,
+    "lon": 138.9433705,
+    "precision": "approx_level3",
+    "matched_query": "静岡県 下田市 一丁"
+  },
+  "愛知県田原市福江町堂前60番地": {
+    "lat": 34.6690304,
+    "lon": 137.2637129,
+    "precision": "approx_level4",
+    "matched_query": "愛知県 田原市"
+  },
+  "滋賀県大津市石山寺3丁目1番5号": {
+    "lat": 34.9603661,
+    "lon": 135.9061803,
+    "precision": "approx_level3",
+    "matched_query": "滋賀県 大津市 石山寺3丁"
+  },
+  "福岡県福岡市南区長丘２丁目２５番１号": {
+    "lat": 33.5582795,
+    "lon": 130.397866,
+    "precision": "approx_level3",
+    "matched_query": "福岡県 福岡市 南区 長丘２丁"
+  },
+  "岩手県遠野市新穀町５−１３": {
+    "lat": 39.3318852,
+    "lon": 141.5304958,
+    "precision": "exact",
+    "matched_query": "岩手県 遠野市 新穀町 ５−１３"
+  },
+  "東京都中央区日本橋兜町19番5号 Y'AKE": {
+    "lat": 35.6706436,
+    "lon": 139.7719923,
+    "precision": "approx_level1",
+    "matched_query": "東京都 中央区"
+  },
+  "東京都八丈島八丈町中之郷２６１６−７": {
+    "lat": null,
+    "lon": null,
+    "precision": "failed",
+    "matched_query": null
+  },
+  "長野県下高井郡野沢温泉村豊郷9288": {
+    "lat": 36.9245426,
+    "lon": 138.4343862,
+    "precision": "approx_level1",
+    "matched_query": "長野県 下高井郡 野沢温泉村 豊郷"
+  },
+  "三重県桑名市長島町福豊905": {
+    "lat": 35.06435,
+    "lon": 136.715326,
+    "precision": "approx_level1",
+    "matched_query": "三重県 桑名市 長島町 福豊"
+  },
+  "大阪府大阪市福島区福島8丁目1番1号": {
+    "lat": 34.694094,
+    "lon": 135.4797284,
+    "precision": "approx_level3",
+    "matched_query": "大阪府 大阪市 福島区 福島8丁"
+  },
+  "兵庫県神戸市灘区水道筋3-4-7 2F": {
+    "lat": 34.6932379,
+    "lon": 135.1943764,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 神戸市"
+  },
+  "福岡県宮若市上大隈２−１": {
+    "lat": 33.714719,
+    "lon": 130.671959,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 宮若市 上大隈"
+  },
+  "福岡県うきは市浮羽町東隈上28-1": {
+    "lat": 33.33804,
+    "lon": 130.801552,
+    "precision": "approx_level1",
+    "matched_query": "福岡県 うきは市 浮羽町 東隈上"
+  },
+  "鹿児島県指宿市山川岡児ヶ水218-1": {
+    "lat": 31.172706,
+    "lon": 130.579335,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 指宿市 山川岡児ヶ水"
+  },
+  "北海道雨竜郡沼田町本通二丁目３番地22": {
+    "lat": 43.8090979,
+    "lon": 141.9352384,
+    "precision": "approx_level3",
+    "matched_query": "北海道 雨竜郡 沼田町 本通二丁"
+  },
+  "宮城県岩沼市吹上二丁目2番31号": {
+    "lat": 38.093842,
+    "lon": 140.859558,
+    "precision": "approx_level3",
+    "matched_query": "宮城県 岩沼市 吹上二丁"
+  },
+  "埼玉県狭山市広瀬東1-12-1": {
+    "lat": 35.8613134,
+    "lon": 139.4018116,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 狭山市 広瀬東"
+  },
+  "長野県長野市大字長野往生地1341-3": {
+    "lat": 36.6659378,
+    "lon": 138.1773226,
+    "precision": "approx_level1",
+    "matched_query": "長野県 長野市 大字長野往生"
+  },
+  "山形県村山市河島山４−５": {
+    "lat": 38.4864871,
+    "lon": 140.3537072,
+    "precision": "approx_level1",
+    "matched_query": "山形県 村 山市 河島山"
+  },
+  "千葉県大網白里市南今泉４８４３": {
+    "lat": 35.491385,
+    "lon": 140.409047,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 大網白里市 南今泉"
+  },
+  "東京都豊島区南大塚１丁目６０−１９": {
+    "lat": 35.728926,
+    "lon": 139.730323,
+    "precision": "approx_level1",
+    "matched_query": "東京都 豊島区 南大塚１丁"
+  },
+  "神奈川県藤沢市藤沢３丁目３−２９ 勝島ビ": {
+    "lat": 35.3388615,
+    "lon": 139.4909335,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県 藤沢市"
+  },
+  "奈良県吉野郡下市町善城 664-1": {
+    "lat": 34.3573436,
+    "lon": 135.7926048,
+    "precision": "exact",
+    "matched_query": "奈良県吉野郡下市町善城 664-1"
+  },
+  "島根県松江市天神町１０１ 佐草屋": {
+    "lat": 35.468115,
+    "lon": 133.048768,
+    "precision": "approx_level1",
+    "matched_query": "島根県 松江市"
+  },
+  "福島県石川郡玉川村南須釜奥平２９０": {
+    "lat": 37.210742,
+    "lon": 140.4089622,
+    "precision": "approx_level2",
+    "matched_query": "福島県 石川郡 玉川村"
+  },
+  "東京都小金井市緑町５丁目３−４５": {
+    "lat": 35.7057489,
+    "lon": 139.5168239,
+    "precision": "approx_level1",
+    "matched_query": "東京都小金井市緑町５丁"
+  },
+  "群馬県安中市松井田町横川２８０−１": {
+    "lat": 36.34071,
+    "lon": 138.737956,
+    "precision": "approx_level1",
+    "matched_query": "群馬県 安中市 松井田町 横川"
+  },
+  "新潟県新潟市秋葉区新町１丁目６−３": {
+    "lat": 37.8047266,
+    "lon": 139.1402586,
+    "precision": "approx_level1",
+    "matched_query": "新潟県新潟市秋葉区新町１丁"
+  },
+  "山梨県笛吹市石和町市部７８９−８２": {
+    "lat": 35.648722,
+    "lon": 138.637298,
+    "precision": "approx_level1",
+    "matched_query": "山梨県笛吹市石和町市部"
+  },
+  "兵庫県西宮市甲子園八番町２−１ LS甲子": {
+    "lat": 34.7377745,
+    "lon": 135.3413128,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 西宮市"
+  },
+  "兵庫県神戸市中央区新港町２−１": {
+    "lat": 34.6834244,
+    "lon": 135.196297,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 神戸市 中央区 新港町"
+  },
+  "兵庫県神戸市中央区脇浜海岸通１丁目３−": {
+    "lat": 34.6970944,
+    "lon": 135.2124403,
+    "precision": "approx_level1",
+    "matched_query": "兵庫県 神戸市 中央区 脇浜海岸通１丁"
+  },
+  "島根県大田市温泉津町温泉津ロ176-1": {
+    "lat": 35.1920988,
+    "lon": 132.4994679,
+    "precision": "approx_level2",
+    "matched_query": "島根県 大田市"
+  },
+  "大分県日田市中本町５−１": {
+    "lat": 33.3147052,
+    "lon": 130.9332347,
+    "precision": "exact",
+    "matched_query": "大分県 日田市 中本町 ５−１"
+  },
+  "北海道札幌市手稲区前田７条１３丁目２−": {
+    "lat": 43.1326425,
+    "lon": 141.2482461,
+    "precision": "approx_level1",
+    "matched_query": "北海道 札幌市 手稲区 前田７条１３丁"
+  },
+  "神奈川県藤沢市本町２丁目８−３０": {
+    "lat": 35.3442454,
+    "lon": 139.4845177,
+    "precision": "approx_level1",
+    "matched_query": "神奈川県藤沢市本町２丁"
+  },
+  "神奈川県南足柄市和田河原1253番": {
+    "lat": 35.3158517,
+    "lon": 139.1180895,
+    "precision": "approx_level2",
+    "matched_query": "神奈川県 南足柄市 和田河原"
+  },
+  "山梨県北杜市大泉町谷戸4816": {
+    "lat": 35.8615786,
+    "lon": 138.3828878,
+    "precision": "approx_level1",
+    "matched_query": "山梨県 北杜市 大泉町 谷戸"
+  },
+  "香川県小豆郡土庄町豊島家浦８８９": {
+    "lat": 34.4802916,
+    "lon": 134.0567466,
+    "precision": "approx_level1",
+    "matched_query": "香川県 小豆郡 土庄町 豊島家浦"
+  },
+  "鹿児島県薩摩川内市下甑町手打861": {
+    "lat": 31.6379092,
+    "lon": 129.7022107,
+    "precision": "approx_level1",
+    "matched_query": "鹿児島県 薩摩川内市 下甑町 手打"
+  },
+  "沖縄県南城市玉城字百名1147番地コーポひ": {
+    "lat": 26.1632092,
+    "lon": 127.7705563,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 南城市"
+  },
+  "沖縄県那覇市牧志３丁目９−１４": {
+    "lat": 26.2112061,
+    "lon": 127.6884142,
+    "precision": "approx_level1",
+    "matched_query": "沖縄県 那覇市 牧志３丁"
+  },
+  "東京都渋谷区神宮前３丁目２６−５ 101": {
+    "lat": 35.6704333,
+    "lon": 139.7107597,
+    "precision": "approx_level2",
+    "matched_query": "東京都 渋谷区 神宮前３丁"
+  },
+  "新潟県村上市松山486番地7": {
+    "lat": 38.215759,
+    "lon": 139.456464,
+    "precision": "approx_level3",
+    "matched_query": "新潟県 村 上市 松山"
+  },
+  "愛知県名古屋市東区泉３丁目８−１１": {
+    "lat": 35.176592,
+    "lon": 136.919002,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 名古屋市 東区 泉３丁"
+  },
+  "愛知県豊田市栄町": {
+    "lat": 35.0960353,
+    "lon": 137.152226,
+    "precision": "exact",
+    "matched_query": "愛知県 豊田市 栄町"
+  },
+  "宮城県亘理郡山元町坂元字山作1（旧坂元": {
+    "lat": 37.9627419,
+    "lon": 140.8779852,
+    "precision": "approx_level1",
+    "matched_query": "宮城県 亘理郡 山元町"
+  },
+  "千葉県千葉市中央区春日２丁目１９−４ 鈴": {
+    "lat": 35.6070629,
+    "lon": 140.1062653,
+    "precision": "approx_level1",
+    "matched_query": "千葉県 千葉市"
+  },
+  "東京都江東区住吉１丁目５−１": {
+    "lat": 35.688767,
+    "lon": 139.812698,
+    "precision": "approx_level1",
+    "matched_query": "東京都 江東区 住吉１丁"
+  },
+  "東京都府中市府中町2-1-9（府中アーバンホ": {
+    "lat": 35.6693751,
+    "lon": 139.4774094,
+    "precision": "approx_level1",
+    "matched_query": "東京都 府 中市"
+  },
+  "東京都八王子市高尾町2292番地 HAKUE": {
+    "lat": 35.6663595,
+    "lon": 139.3163653,
+    "precision": "approx_level1",
+    "matched_query": "東京都 八王子市"
+  },
+  "埼玉県白岡市小久喜６６番地３": {
+    "lat": 36.0130963,
+    "lon": 139.6670464,
+    "precision": "approx_level2",
+    "matched_query": "埼玉県 白岡市 小久喜６６"
+  },
+  "山梨県北杜市長坂町大八田字米山6811番": {
+    "lat": 35.7764838,
+    "lon": 138.4235673,
+    "precision": "approx_level3",
+    "matched_query": "山梨県 北杜市"
+  },
+  "石川県小松市本折町１７ １７番地                                    komatsu-brewing.com           923-0957   2025/10/1    免許種類はスピリッツ": {
+    "lat": 36.4032931,
+    "lon": 136.4495465,
+    "precision": "approx_level1",
+    "matched_query": "石川県 小松市"
+  },
+  "大阪府堺市西区鳳東町7-733-7": {
+    "lat": 34.5354388,
+    "lon": 135.4634165,
+    "precision": "approx_level1",
+    "matched_query": "大阪府 堺市 西区 鳳東町"
+  },
+  "高知県四万十市中村本町1丁目21": {
+    "lat": 32.9934844,
+    "lon": 132.9339691,
+    "precision": "approx_level1",
+    "matched_query": "高知県四万十市中村本町1丁"
+  },
+  "青森県下北郡東通村大字砂子又字沢内9番": {
+    "lat": 41.277613,
+    "lon": 141.3290738,
+    "precision": "approx_level3",
+    "matched_query": "青森県 下北郡 東通村"
+  },
+  "岩手県盛岡市渋民字鶴飼20-1（イオンスーパ": {
+    "lat": 39.7021331,
+    "lon": 141.1545397,
+    "precision": "approx_level1",
+    "matched_query": "岩手県 盛岡市"
+  },
+  "茨城県龍ケ崎市米町４５６５−１ アーバンパ": {
+    "lat": 35.9113158,
+    "lon": 140.181878,
+    "precision": "approx_level1",
+    "matched_query": "茨城県 龍ケ崎市"
+  },
+  "東京都港区芝浦１丁目１−１ ブルーフロント": {
+    "lat": 35.6580089,
+    "lon": 139.7515137,
+    "precision": "approx_level1",
+    "matched_query": "東京都 港区"
+  },
+  "埼玉県春日部市粕壁東２丁目１−３３": {
+    "lat": 35.9890731,
+    "lon": 139.769103,
+    "precision": "approx_level1",
+    "matched_query": "埼玉県 春日部市 粕壁東２丁"
+  },
+  "群馬県吾妻郡草津町大字草津323番地1": {
+    "lat": 36.6206672,
+    "lon": 138.5960851,
+    "precision": "approx_level4",
+    "matched_query": "群馬県 吾妻郡 草津町"
+  },
+  "愛知県一宮市せんい１丁目５−８": {
+    "lat": 35.288561,
+    "lon": 136.820842,
+    "precision": "approx_level1",
+    "matched_query": "愛知県 一宮市 せんい１丁"
+  },
+  "三重県四日市市生桑町７７−１": {
+    "lat": 34.983888,
+    "lon": 136.600019,
+    "precision": "exact",
+    "matched_query": "三重県 四日市 市 生桑町 ７７−１"
+  },
+  "長崎県島原市霊南１丁目８１−１": {
+    "lat": 32.78019,
+    "lon": 130.376914,
+    "precision": "approx_level1",
+    "matched_query": "長崎県 島原市 霊南１丁"
+  },
+  "宮崎県串間市大平３３９７": {
+    "lat": 31.5188744,
+    "lon": 131.2451201,
+    "precision": "approx_level1",
+    "matched_query": "宮崎県 串間市 大平"
+  },
+  "静岡県御殿場市保土沢炭焼沢1015番地1": {
+    "lat": 35.308753,
+    "lon": 138.9349133,
+    "precision": "approx_level4",
+    "matched_query": "静岡県 御殿場市"
+  },
+  "宮崎県宮崎市橘通東４－６－１４": {
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "precision": "approx_level2",
+    "matched_query": "宮崎県 宮崎市"
+  },
+  "静岡県富士宮市大宮町４−５": {
+    "lat": 35.2244383,
+    "lon": 138.6122347,
+    "precision": "exact",
+    "matched_query": "静岡県 富士宮市 大宮町 ４−５"
+  }
+}

@@ -19,6 +19,7 @@ BASE_DIR = Path(__file__).resolve().parent
 SAKE_INFO_PATH = BASE_DIR / "sake_info.json"
 OUTPUT_PATH = BASE_DIR / "breweries.json"
 MASTER_LIST_PATH = BASE_DIR / "master_list_geocoded.json"
+BEER_MASTER_LIST_PATH = BASE_DIR / "beer_list_geocoded.json"
 
 # Overpass APIのエンドポイント。第一候補がタイムアウト・エラーになったら
 # 2番目のミラーサーバーに切り替える。
@@ -144,12 +145,27 @@ ROMAJI_PREF_MAP = {
     "Kyoto": "京都府", "Osaka": "大阪府", "Tokyo": "東京都",
 }
 
+# 都道府県名(北海道以外)の末尾の「都・道・府・県」が省略された表記
+# (例:「香川」)がまれにaddr:provinceにそのまま入力されていることがある。
+# 都道府県プルダウンに正式名称と重複した項目が出ないよう正規化する。
+FULL_PREF_NAMES_FOR_NORMALIZE = [
+    "北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県",
+    "茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県",
+    "新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県",
+    "愛知県", "三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県",
+    "鳥取県", "島根県", "岡山県", "広島県", "山口県",
+    "徳島県", "香川県", "愛媛県", "高知県",
+    "福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県",
+]
+SHORT_PREF_MAP = {name[:-1]: name for name in FULL_PREF_NAMES_FOR_NORMALIZE if name != "北海道"}
+
 
 def normalize_pref(pref):
     """addr:provinceの値を日本語表記に正規化する。未知の値はそのまま返す。"""
     if not pref:
         return None
-    return ROMAJI_PREF_MAP.get(pref, pref)
+    pref = ROMAJI_PREF_MAP.get(pref, pref)
+    return SHORT_PREF_MAP.get(pref, pref)
 
 
 def build_address(tags):
@@ -206,6 +222,167 @@ MANUAL_ENTRIES = [
         "category": "shochu",
     },
 ]
+
+# 地ビール(クラフトビール)醸造所の検索・判定に使う語。
+#
+# OSM上ではcraft=brewery・microbrewery=yesのどちらのタグも、実際には
+# ビールに限らず味噌・醤油の醸造所や、酒蔵(craft=breweryが誤用されている
+# ケース)、さらにはmicrobrewery=yesが居酒屋・飲食店チェーンに誤って
+# 付与されているとみられるケースまで混在することが実データ確認で分かった。
+# タグの有無だけで判定すると味噌・醤油蔵や無関係な飲食店まで拾ってしまうため、
+# 「名称にビール関連の語を含む」「product タグに beer が含まれる」の
+# いずれかを満たす場合のみビール醸造所とみなす、名称優先の判定にする。
+# この方式では、英語名などでビールを示す語を含まない実在のクラフトビール
+# 醸造所(タグも product=beer が無いもの)を見逃す可能性があるが、
+# 酒蔵側と同様にOSMの登録状況に依存する仕様であることを許容する。
+# 「ビア」単体は「コロンビア」「オリビア」等と誤マッチするため含めない。
+# 英単語も「hop」が「Shop」に誤マッチする等の事故があったため、
+# 単語境界(\b)で挟んで完全な単語としてのみマッチさせる。
+BEER_NAME_PATTERN = (
+    "ビール|ブルワリー|ブリュワリー|ブルーイング|ブリューイング|"
+    r"地ビール|クラフトビール|麦酒|ホップ|\bbeer\b|\bbrewery\b|\bbrewing\b|\bbr[äa]u\b|\bhop\b"
+)
+BEER_NAME_RE = re.compile(BEER_NAME_PATTERN, re.IGNORECASE)
+SAKE_NAME_RE = re.compile(NAME_PATTERN)
+
+# 名称の正規表現だけで全国検索すると、「アサヒビール」「キリンビール」を
+# 名称に含むバス停、「ベビールーム(baby room)」のようにビールと無関係な
+# 語にたまたま「ビール」が部分文字列として現れるもの、「ヒップホップ」
+# 「〇〇ショップ」等、大量の無関係な地物まで拾ってしまうことが実データ確認で
+# 分かった(酒蔵側のNAME_PATTERNと違い、ビール関連の語は無関係な語との
+# 衝突が非常に多い)。そのため名称の全国検索は行わず、craft=brewery /
+# microbrewery=yes のタグが付いた地物だけに範囲を絞り、その中で名称・
+# productタグによる確認(is_beer_candidate)を行う方式にする。
+BEER_QUERY = """
+[out:json][timeout:170];
+area["name"="日本"]["admin_level"="2"]->.jp;
+(
+  node["craft"="brewery"](area.jp);
+  way["craft"="brewery"](area.jp);
+  node["microbrewery"="yes"](area.jp);
+  way["microbrewery"="yes"](area.jp);
+);
+out center tags;
+"""
+
+# 酒蔵側のMANUAL_ENTRIESと同じ用途。ビールは今のところ手動追加の必要が
+# 見つかっていないため空だが、OSM未登録の醸造所に気づいた場合はここに追加する。
+BEER_MANUAL_ENTRIES = []
+
+
+def load_beer_master_list_records():
+    """北山産業の全国クラフトビール醸造所リスト(scripts/scrape_beer_list.py +
+    scripts/geocode_beer_list.pyで生成、beer_list_geocoded.json)を、
+    OSM由来レコードと同じ形式に変換する。
+
+    craft=brewery/microbrewery=yesタグだけでは全国で78件程度しか拾えず、
+    業界推定(950件以上)にまったく届かないため、酒蔵側と同様に業界の
+    公開リストを補完データとして使う。ジオコーディングに失敗した
+    (lat/lonがNone)エントリは地図に表示できないため除外する。
+    """
+    if not BEER_MASTER_LIST_PATH.exists():
+        return []
+    with open(BEER_MASTER_LIST_PATH, encoding="utf-8") as f:
+        entries = json.load(f)
+    records = []
+    for entry in entries:
+        if entry.get("lat") is None or entry.get("lon") is None:
+            continue
+        records.append({
+            "name": entry["name"],
+            "lat": round(entry["lat"], 6),
+            "lon": round(entry["lon"], 6),
+            "pref": entry.get("pref"),
+            "address": entry.get("address"),
+            "website": None,
+            "wikipedia": None,
+            "category": "beer",
+        })
+    return records
+
+
+def integrate_beer_master_list(osm_beer_records, master_beer_records):
+    """ビールのマスターリストをOSM由来レコードに統合し、新規追加すべき
+    レコードだけを返す(酒蔵側のintegrate_master_list()と同じ考え方だが、
+    sake_info.json経由の突合が無い分シンプル)。
+
+    正規化名+都道府県が一致するもの、あるいは都道府県が無いOSM
+    レコードについては正規化名+座標の近さ(100km以内)が一致するものは、
+    OSM側に既に存在するとみなして追加しない(二重ピン防止)。
+    """
+    by_name_pref = {}
+    by_name_nopref = {}
+    for r in osm_beer_records:
+        norm = normalize_name(r["name"])
+        if r.get("pref"):
+            by_name_pref.setdefault((norm, r["pref"]), []).append(r)
+        else:
+            by_name_nopref.setdefault(norm, []).append(r)
+
+    new_records = []
+    for mr in master_beer_records:
+        norm = normalize_name(mr["name"])
+        dup_records = by_name_pref.get((norm, mr.get("pref")))
+        if not dup_records:
+            nopref_candidates = by_name_nopref.get(norm)
+            if nopref_candidates:
+                dup_records = [
+                    r for r in nopref_candidates
+                    if haversine_km(r["lat"], r["lon"], mr["lat"], mr["lon"]) <= NOPREF_MATCH_MAX_KM
+                ] or None
+        if dup_records:
+            continue
+        new_records.append(mr)
+    return new_records
+
+
+def is_beer_candidate(tags, name):
+    """名称・productタグから、ビール醸造所とみなせるかどうかを判定する。"""
+    product = tags.get("product", "")
+    has_beer_product = any(p.strip().lower() == "beer" for p in product.split(";"))
+    if SAKE_NAME_RE.search(name) and not has_beer_product:
+        # 「酒造」「酒蔵」を含む名称は、product=beerで明示されない限り
+        # 酒蔵(craft=breweryの誤用や、酒蔵が別事業でビールも造っているだけの
+        # ケース)とみなし、ビール側には含めない。
+        return False
+    return bool(BEER_NAME_RE.search(name)) or has_beer_product
+
+
+def build_beer_record(element):
+    """1つのOSM要素からビール醸造所レコードを組み立てる。
+    名称・座標が無い、またはビール醸造所と判定できない場合はNone。
+    """
+    tags = element.get("tags", {})
+    name = tags.get("name")
+    if not name:
+        return None
+    if not is_beer_candidate(tags, name):
+        return None
+    lat, lon = get_center(element)
+    if lat is None or lon is None:
+        return None
+    return {
+        "name": name,
+        "lat": round(lat, 6),
+        "lon": round(lon, 6),
+        "pref": normalize_pref(tags.get("addr:province")),
+        "address": build_address(tags),
+        "website": tags.get("website") or tags.get("contact:website"),
+        "wikipedia": build_wikipedia_url(tags),
+        "category": "beer",
+    }
+
+
+def fetch_beer_elements():
+    print("地ビール醸造所を検索します...")
+    try:
+        result = fetch_overpass(BEER_QUERY)
+    except RuntimeError as e:
+        print(f"地ビール検索に失敗しました(この分だけスキップして続行します): {e}")
+        return []
+    elements = result.get("elements", [])
+    print(f"地ビール検索で{len(elements)}件の要素を取得しました。")
+    return elements
 
 
 def build_record(element):
@@ -564,9 +741,33 @@ def main():
 
     records += [dict(entry) for entry in MANUAL_ENTRIES]
 
+    beer_elements = fetch_beer_elements()
+    beer_records = []
+    for element in beer_elements:
+        record = build_beer_record(element)
+        if record:
+            beer_records.append(record)
+    beer_records = merge_duplicates(beer_records)
+
+    beer_master_records = load_beer_master_list_records()
+    if beer_master_records:
+        new_beer_master_records = integrate_beer_master_list(beer_records, beer_master_records)
+        print(f"地ビールのマスターリスト{len(beer_master_records)}件のうち、"
+              f"OSM未登録の{len(new_beer_master_records)}件を追加します。")
+        beer_records += new_beer_master_records
+
+    beer_records += [dict(entry) for entry in BEER_MANUAL_ENTRIES]
+    print(f"地ビール醸造所{len(beer_records)}件を追加します。")
+    records += beer_records
+
     matched_count = 0
     for i, record in enumerate(records):
         record["id"] = i
+        if record.get("category") == "beer":
+            record.setdefault("featured", False)
+            record.setdefault("brand", None)
+            record.setdefault("desc", None)
+            continue
         trusted = record.pop("_brand_verified", False)
         entry = match_sake_info(record["name"], record["pref"], sake_entries, trusted=trusted)
         if entry:

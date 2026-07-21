@@ -178,6 +178,11 @@ html, body {
   color: #1f6b4f;
 }
 
+.brewery-popup .popup-category-beer {
+  background: #f7e8b8;
+  color: #8a5a00;
+}
+
 .brewery-popup .popup-brand {
   font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   font-size: 20px;

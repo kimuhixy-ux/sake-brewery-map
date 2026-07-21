@@ -14,8 +14,8 @@
 
 - Leaflet.js + OpenStreetMapタイルによる地図表示、マーカーはクラスタリング対応
 - 銘柄解説がある蔵は金色ピン、それ以外は藍色ピンで区別（色はfeatured状態）
-- 清酒の蔵は丸、焼酎の蔵はひし形、泡盛の蔵は三角形のマーカーで区別（形はcategory）
-- 蔵名・銘柄名で検索、都道府県で絞り込み、種別（清酒/焼酎/泡盛）で絞り込み、「銘柄解説のある蔵のみ」トグル
+- 清酒の蔵は丸、焼酎の蔵はひし形、泡盛の蔵は三角形、地ビールの醸造所は四角形のマーカーで区別（形はcategory）
+- 蔵名・銘柄名で検索、都道府県で絞り込み、種別（清酒/焼酎/泡盛/地ビール）で絞り込み、「銘柄解説のある蔵のみ」トグル
 - ポップアップに蔵名・種別バッジ・代表銘柄・特徴解説・住所・「マップで開く」「経路」（Apple純正マップに連携）・公式サイト/Wikipediaへのリンクを表示
 - 現在地ボタン
 - PWA対応（ホーム画面に追加してオフラインでも地図UI自体は起動可能。地図タイル自体はオンラインが必要）
@@ -39,6 +39,29 @@ python3 fetch_breweries.py
 - `sake_info.json`（下記）と名称・都道府県で突き合わせ、一致した蔵には`featured: true`と銘柄名・解説が付く。
 - 実行結果は標準出力に「取得件数」「マスターリストから追加した件数」「銘柄情報がマッチした件数」が表示される。
 - OSMにもマスターリストにも登録がなく通常の検索では拾えない蔵（例: 清酒以外を主とする蔵など）は、`fetch_breweries.py`内の`MANUAL_ENTRIES`に座標（住所から調べた地区レベルの概算）を手動で追加することで地図に表示できる。`breweries.json`を直接編集しても次回実行時に上書きされるため、追加は必ず`MANUAL_ENTRIES`側で行うこと。
+
+## 地ビール(クラフトビール)データについて
+
+種別に「地ビール」を追加している。酒蔵と同様、**OSM(Overpass API)**と、**北山産業(Kita Sangyo Co., Ltd)が公開する全国クラフトビール醸造所リスト**を組み合わせて取得している。`fetch_breweries.py`実行時に自動で統合され、`breweries.json`に`category="beer"`として保存される。
+
+- OSM側は`craft=brewery`・`microbrewery=yes`のタグが付いた地物のみを検索範囲とし、その中で名称にビール関連語を含む、または`product`タグに`beer`を含むものだけを採用する(酒蔵名(酒造/酒蔵/銘醸)を含む場合は、`product=beer`で明示されない限り酒蔵側とみなして除外する)。名称の全国検索(酒蔵側のNAME_PATTERNに相当する方式)は行わない。「ビール」「ホップ」等ビールに関連する語は、バス停名(「アサヒビール」等の工場前バス停)や無関係な語("ベビールーム"に「ビール」が部分文字列として含まれる、「ショップ」に「hop」が含まれる等)との衝突が非常に多く、全国検索すると数百〜数千件のノイズを拾ってしまうことが実データ確認で分かったため。
+- OSM単独では全国で80件前後(craft=breweryタグの登録状況に依存)しか拾えず、業界推定(全国950箇所以上)に遠く及ばないため、下記「地ビールマスターリストの更新方法」のリストで補っている。マスターリスト由来のレコードは住所をNominatimでジオコーディングした近似座標で、`website`・`wikipedia`は付与されない。
+- 統合の突合ロジックは酒蔵のマスターリストと同じ(正規化名+都道府県が一致、または都道府県が無い場合は正規化名+座標が100km以内)だが、`sake_info.json`のような銘柄解説データとの突合は行わない。
+- 銘柄解説(金色ピン)の仕組みは今のところ地ビールには適用していない(全件が通常ピンで表示される)。
+
+## 地ビールマスターリストの更新方法
+
+北山産業が公開しているクラフトビール醸造所リスト(https://kitasangyo.com/beer/MAP.html )を情報源とする。地域別10リストに加え、地域別リストの一部(北海道・北陸・近畿・中国・四国・信越)が2021年12月末時点のまま更新されていないのを補うため、年別(2022〜2025年)の全国新規開業リストも合わせて使う。robots.txtにクロール制限は無く、PDF内にも再利用を禁じる記載は無いことを確認済み。蔵名・住所・都道府県といった事実情報のみを抽出する。
+
+```bash
+python3 scripts/scrape_beer_list.py    # PDFをダウンロード・解析し、beer_list_raw.jsonを生成
+python3 scripts/geocode_beer_list.py   # 住所をNominatimでジオコーディングし、beer_list_geocoded.jsonを生成
+```
+
+- `scrape_beer_list.py`はPDFのテキスト抽出に`pdftotext`(poppler-utils)を使う。未インストールの場合は`brew install poppler`等でインストールする(Pythonコード自体は標準ライブラリのみ)。
+- `geocode_beer_list.py`は`scripts/geocode_master_list.py`と全く同じジオコーディングロジック(1秒に1リクエストのレート制限、番地の段階的フォールバック、行政区画境目へのスペース挿入)を使う。データソースが異なるだけなので共通化はせず複製している。
+- 備考欄に「閉店」「閉鎖」「業務終了」等の記載がある行(廃業した醸造所)は`scrape_beer_list.py`側で除外している。
+- 結果は`beer_list_geocode_cache.json`にキャッシュされるため、途中で中断しても再実行時に再ジオコーディングをスキップできる。
 
 ## マスターリストの更新方法
 
@@ -87,7 +110,7 @@ gh repo create kimuhixy-ux/sake-brewery-map --public --source=. --push
 
 ## データ出典・注意事項
 
-- データ出典はOpenStreetMapと日本酒造組合中央会「酒蔵検索」。網羅性は地域によって差がある。
+- データ出典はOpenStreetMapと日本酒造組合中央会「酒蔵検索」、北山産業のクラフトビール醸造所リスト。網羅性は地域によって差がある。
 - OSM検索範囲を広げるため、`craft`タグに限らずタグの種類を問わず名称一致で検索している。そのため、まれに酒蔵とは無関係な施設（同じ名称を含む店舗など）が紛れ込む可能性がある（気づいた場合は`fetch_breweries.py`の`NOISE_NAME_KEYWORDS`に除外キーワードを追加する）。
 - 都道府県（`pref`）はOSM側は`addr:province`等のタグがある場合のみ、マスターリスト側は住所から常に入る。無い場合は`null`となり、都道府県での絞り込みには出てこない。
 - マスターリスト由来のレコードは座標がNominatimによる住所検索の近似値であり、施設ピンポイントの精度ではない（地図上でズレていることがある）。
@@ -107,6 +130,9 @@ sake-brewery-map/
 ├── master_list_raw.json
 ├── master_list_geocoded.json
 ├── master_list_geocode_cache.json
+├── beer_list_raw.json
+├── beer_list_geocoded.json
+├── beer_list_geocode_cache.json
 ├── manifest.json
 ├── sw.js
 ├── icons/
@@ -116,7 +142,9 @@ sake-brewery-map/
 ├── scripts/
 │   ├── generate_icons.py
 │   ├── scrape_master_list.py
-│   └── geocode_master_list.py
+│   ├── geocode_master_list.py
+│   ├── scrape_beer_list.py
+│   └── geocode_beer_list.py
 └── vendor/
     ├── leaflet/（leaflet.js, leaflet.css, images/）
     └── markercluster/（leaflet.markercluster.js, MarkerCluster*.css）

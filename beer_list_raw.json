@@ -1,0 +1,6946 @@
+[
+  {
+    "name": "オホーツクビール",
+    "pref": "北海道",
+    "address": "北海道北見市山下町２丁目",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "小樽ビール",
+    "pref": "北海道",
+    "address": "北海道小樽市港町５－４小樽",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "帯広ビール",
+    "pref": "北海道",
+    "address": "北海道帯広市西十六条南６－",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "大雪地ビール",
+    "pref": "北海道",
+    "address": "北海道旭川市宮下通11丁目",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "はこだてビール",
+    "pref": "北海道",
+    "address": "北海道函館市大手町５－２",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "大沼ビール",
+    "pref": "北海道",
+    "address": "北海道亀田郡七飯町大沼町",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "おたるワイナリービール",
+    "pref": "北海道",
+    "address": "北海道小樽市朝里川温泉１丁",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "開拓使ビール",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区北二条東",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "鬼伝説",
+    "pref": "北海道",
+    "address": "北海道登別市中登別町９６",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "ススキノビール",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区北４条西",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "網走ビール",
+    "pref": "北海道",
+    "address": "北海道網走市南６条西２丁目",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "富良野地麦酒",
+    "pref": "北海道",
+    "address": "北海道富良野市北の峰町２０",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "ノースアイランドビール",
+    "pref": "北海道",
+    "address": "北海道江別市元町１１－５",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "ニセコビール",
+    "pref": "北海道",
+    "address": "北海道虻田郡ニセコ町本通４",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "月と太陽ブルーイング",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区南3条東",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "滝川クラフトビール",
+    "pref": "北海道",
+    "address": "北海道滝川市西滝川７６－１",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "澄川麦酒株式会社",
+    "pref": "北海道",
+    "address": "北海道札幌市豊平区西岡４",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "函館湯の川ブリュワリー",
+    "pref": "北海道",
+    "address": "北海道函館市湯川町１丁目",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "乙部追分ブリューイング",
+    "pref": "北海道",
+    "address": "北海道爾志郡乙部町字館浦",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "hop kotan brewing",
+    "pref": "北海道",
+    "address": "北海道空知郡上富良野町西８",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "（株）美深白樺ブルワリー",
+    "pref": "北海道",
+    "address": "北海道中川郡美深町字大通北",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "羊蹄山麓ビール",
+    "pref": "北海道",
+    "address": "北海道虻田郡ニセコ町羊蹄４",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "TRANS BREWING",
+    "pref": "北海道",
+    "address": "北海道札幌市豊平区平岸二条",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "余市ビール",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町黒川町8",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "函館麦酒醸造所",
+    "pref": "北海道",
+    "address": "北海道函館市末広町16-13",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "Black Fox Beer",
+    "pref": "北海道",
+    "address": "北海道虻田郡倶知安町北３条",
+    "category": "beer",
+    "source": "202302_hokkaido"
+  },
+  {
+    "name": "奥入瀬地ビール",
+    "pref": "青森県",
+    "address": "青森県十和田市大字奥瀬字堰",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "麦雫",
+    "pref": "青森県",
+    "address": "青森県下北郡大間町奥戸９３",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "ギャレスのアジト",
+    "pref": "青森県",
+    "address": "青森県弘前市松ヶ枝５－７－",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "Aomori Brew Pub",
+    "pref": "青森県",
+    "address": "青森県青森市安方",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "八戸麦酒",
+    "pref": "青森県",
+    "address": "青森県八戸市南郷大字市野沢",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "いわて蔵ビール",
+    "pref": "岩手県",
+    "address": "岩手県一関市田村町５－４２",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "遠野麦酒「ZUMONA」",
+    "pref": "岩手県",
+    "address": "岩手県遠野市青笹町糠前３１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "ステラモンテ",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市大慈寺町１０番",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "べアレンビール",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市北山１丁目３－",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "さくらブルワリー",
+    "pref": "岩手県",
+    "address": "岩手県北上市大通り４丁目８",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "菜園マイクロブルワリー",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市菜園１－５－１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "遠野醸造 TAPROOM",
+    "pref": "岩手県",
+    "address": "岩手県遠野市中央通り１０−",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "（株）ベアレン醸造所 雫石工場",
+    "pref": "岩手県",
+    "address": "岩手県岩手郡雫石町沼返１９",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "BREWBEAST",
+    "pref": "岩手県",
+    "address": "岩手県花巻市大通り1－７－",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "315BEER",
+    "pref": "岩手県",
+    "address": "岩手県奥州市水沢袋町６−２",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "銀河高原ビール",
+    "pref": "岩手県",
+    "address": "岩手県和賀郡西和賀町沢内字",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "暁ブルワリー 八幡平ファクトリー",
+    "pref": "岩手県",
+    "address": "岩手県八幡平市松尾寄木第１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "陸前高田マイクロブルワリー",
+    "pref": "岩手県",
+    "address": "岩手県陸前高田市気仙町字町",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "FRANZ醸造所",
+    "pref": "岩手県",
+    "address": "岩手県 盛岡市八幡町13番32",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "田沢湖ビール",
+    "pref": "秋田県",
+    "address": "秋田県仙北市田沢湖卒田字早",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "あくらビール",
+    "pref": "秋田県",
+    "address": "秋田県秋田市大町１丁目２－",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "TAZAWAKO湖畔の杜ビール",
+    "pref": "秋田県",
+    "address": "秋田県仙北市田沢湖田沢字春",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "羽後麦酒",
+    "pref": "秋田県",
+    "address": "秋田県雄勝郡羽後町西馬音内",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "BREWCCOLY",
+    "pref": "秋田県",
+    "address": "秋田県秋田市中通三丁目４番",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "松島ビール",
+    "pref": "宮城県",
+    "address": "宮城県黒川郡大郷町東成田字",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "鳴子の風",
+    "pref": "宮城県",
+    "address": "宮城県大崎市鳴子温泉鬼首字",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "やくらいビール",
+    "pref": "宮城県",
+    "address": "宮城県加美郡加美町味ケ袋薬",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "（株）利久 希望の丘醸造所 仙南工場←みやぎ仙南農業協同組合",
+    "pref": "宮城県",
+    "address": "宮城県角田市角田字197-4",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "殻町エール",
+    "pref": "宮城県",
+    "address": "宮城県仙台市若林区石名坂３",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "Argon Brewing",
+    "pref": "宮城県",
+    "address": "宮城県塩竈市海岸通１０−８",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "BLACK TIDE BREWING（同）",
+    "pref": "宮城県",
+    "address": "宮城県気仙沼市南町3-2-5",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "宮城ゆりあげ麦酒醸造所",
+    "pref": "宮城県",
+    "address": "宮城県名取市閖上東地区21街",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "ガル屋beer",
+    "pref": "宮城県",
+    "address": "宮城県牡鹿郡女川町女川浜大",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "BATSUJI BREWING",
+    "pref": "宮城県",
+    "address": "宮城県仙台市青葉区大町１丁",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "地ビール月山",
+    "pref": "山形県",
+    "address": "山形県山形県西川町水沢２３",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "（株）一楽荘 天童ブルワリー",
+    "pref": "山形県",
+    "address": "山形県天童市鎌田本町２丁目",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "米沢クラフトビア",
+    "pref": "山形県",
+    "address": "山形県米沢市中央２－３－１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "米沢ジャックスブルワリー",
+    "pref": "山形県",
+    "address": "山形県米沢市大字李山５４７",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "長井ブルワリークラフトマン",
+    "pref": "山形県",
+    "address": "山形県長井市泉６７７－１１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "Brewlab.108",
+    "pref": "山形県",
+    "address": "山形県天童市大字久野本字日",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "みちのく福島路ビール",
+    "pref": "福島県",
+    "address": "福島県福島市荒井字横塚３－",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "猪苗代地ビール",
+    "pref": "福島県",
+    "address": "福島県耶麻郡猪苗代町大字三",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "ななくさビーヤ",
+    "pref": "福島県",
+    "address": "福島県二本松市戸沢字西高内",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "南会津マウンテンブルーイング",
+    "pref": "福島県",
+    "address": "福島県南会津郡南会津町田島",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "ハイランドポートブルワリー",
+    "pref": "福島県",
+    "address": "福島県西白河郡西郷村大字小",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "HANDA GINZAN BREWERY 上町cheers",
+    "pref": "福島県",
+    "address": "福島県伊達郡桑折町字上町7",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "YellowBeerWorks",
+    "pref": "福島県",
+    "address": "福島県福島市大笹生字横堀１",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "（株）ホップジャパン",
+    "pref": "福島県",
+    "address": "福島県田村市都路町岩井沢字",
+    "category": "beer",
+    "source": "260624_tohoku"
+  },
+  {
+    "name": "スワンレイクビール",
+    "pref": "新潟県",
+    "address": "新潟県阿賀野市金屋３４５－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "妙高高原ビール",
+    "pref": "新潟県",
+    "address": "新潟県妙高市池の平温泉",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "新潟麦酒（株）",
+    "pref": "新潟県",
+    "address": "新潟県新潟市西蒲区越前浜５",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "エチゴビール",
+    "pref": "新潟県",
+    "address": "新潟県新潟市西蒲区松山２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "胎内高原ビール",
+    "pref": "新潟県",
+    "address": "新潟県胎内市熱田坂６７０番",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "（株）まき小屋",
+    "pref": "新潟県",
+    "address": "新潟県新潟市西蒲区角田浜１",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "沼垂ビール",
+    "pref": "新潟県",
+    "address": "新潟県新潟市中央区沼垂東２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "妻有ビール（株）",
+    "pref": "新潟県",
+    "address": "新潟県十日町市太平４７４−",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "RYDEEN BEER",
+    "pref": "新潟県",
+    "address": "新潟県南魚沼市長森１９３－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "MITSUKE Local Brewery",
+    "pref": "新潟県",
+    "address": "新潟県見附市葛巻１丁目９−",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "弥彦ブリューイング",
+    "pref": "新潟県",
+    "address": "新潟県西蒲原郡弥彦村弥彦１",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "摂田屋クラフト",
+    "pref": "新潟県",
+    "address": "新潟県長岡市摂田屋４－８－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "（株）醸燻酒類研究所",
+    "pref": "新潟県",
+    "address": "新潟県十日町市本町５－５５",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "TSUKIOKA BREWERY",
+    "pref": "新潟県",
+    "address": "新潟県新発田市月岡温泉５５",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "（株）ホクショク",
+    "pref": "新潟県",
+    "address": "新潟県長岡市川崎町７７８－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "南信州ビール",
+    "pref": "長野県",
+    "address": "長野県上伊那郡宮田村４５７",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "OH!LA!HO!ビール",
+    "pref": "長野県",
+    "address": "長野県東御市和３８７５",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "佐久醸造所",
+    "pref": "長野県",
+    "address": "長野県佐久市小田井１１１９",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "地ビール白樺・蓼科",
+    "pref": "長野県",
+    "address": "長野県茅野市白樺湖レイクサイ",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "穂高ビール",
+    "pref": "長野県",
+    "address": "長野県安曇野市穂高北穂高２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "諏訪浪漫ビール",
+    "pref": "長野県",
+    "address": "長野県諏訪市諏訪２－９－２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "志賀高原ビール",
+    "pref": "長野県",
+    "address": "長野県下高井郡山ノ内町大字",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "THE 軽井沢ビール",
+    "pref": "長野県",
+    "address": "長野県佐久市長土呂６４－３",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "AJBビール",
+    "pref": "長野県",
+    "address": "長野県下高井郡野沢温泉村大",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "白馬ビール",
+    "pref": "長野県",
+    "address": "長野県北安曇郡白馬村大字神",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "信州須坂フルーツブルワリー",
+    "pref": "長野県",
+    "address": "長野県須坂市大字豊丘６７０",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "（株）松本ブルワリー",
+    "pref": "長野県",
+    "address": "長野県松本市中央３－４－２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "BACCAブルーイング",
+    "pref": "長野県",
+    "address": "長野県松本市巾上３６９－５",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "ペッカリービール",
+    "pref": "長野県",
+    "address": "長野県伊那市高遠町藤澤３２",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "8Peaks",
+    "pref": "長野県",
+    "address": "長野県茅野市北山６８０７－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "（株）北アルプスブルワリー",
+    "pref": "長野県",
+    "address": "長野県大町市大町４１３４－",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "伊那日和",
+    "pref": "長野県",
+    "address": "長野県伊那市西箕輪８００４",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "御代田醸造所",
+    "pref": "長野県",
+    "address": "長野県北佐久郡御代田町大字",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "TAMTAMブルーイング",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村高井４",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "天神ブルワリー",
+    "pref": "長野県",
+    "address": "長野県上田市天神１丁目２−",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "カルテットブルーイング",
+    "pref": "長野県",
+    "address": "長野県北佐久郡軽井沢町軽井",
+    "category": "beer",
+    "source": "202302_shinetsu"
+  },
+  {
+    "name": "常陸野ネストビール",
+    "pref": "茨城県",
+    "address": "茨城県那珂市鴻巣１２５７",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "やみぞ森林ビール",
+    "pref": "茨城県",
+    "address": "茨城県久慈郡大子町上金沢１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "パラダイスビアファクトリー",
+    "pref": "茨城県",
+    "address": "茨城県鹿嶋市宮中１丁目５－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "さかい河岸ブルワリー",
+    "pref": "茨城県",
+    "address": "茨城県猿島郡境町１３４１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "結城麦酒",
+    "pref": "茨城県",
+    "address": "茨城県結城市中央町１－７－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "牛久醸造場",
+    "pref": "茨城県",
+    "address": "茨城県牛久市牛久町531-3",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "つくばブルワリー",
+    "pref": "茨城県",
+    "address": "茨城県つくば市二の宮２－１４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "元山町ブルワリー",
+    "pref": "茨城県",
+    "address": "茨城県水戸市元山町１丁目３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Beach culture brewing",
+    "pref": "茨城県",
+    "address": "茨城県東茨城郡大洗町港中央",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "牛久シャトー",
+    "pref": "茨城県",
+    "address": "茨城県牛久市中央３丁目２０",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "宇都宮クラフトビール",
+    "pref": "栃木県",
+    "address": "栃木県宇都宮市新里町丙２５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "那須高原ビール",
+    "pref": "栃木県",
+    "address": "栃木県那須郡那須町大字高久",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "栃木マイクロブルワリー",
+    "pref": "栃木県",
+    "address": "栃木県宇都宮市東塙田１丁目",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "BLUE MAGIC",
+    "pref": "栃木県",
+    "address": "栃木県宇都宮市池上町３番８",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "うしとらビール",
+    "pref": "栃木県",
+    "address": "栃木県下野市笹原１４２－３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Nikko Brewing",
+    "pref": "栃木県",
+    "address": "栃木県日光市木和田島１５６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Murmur",
+    "pref": "栃木県",
+    "address": "栃木県日光市上鉢石町１０１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "808（ヤオヤ）ブルワリー",
+    "pref": "栃木県",
+    "address": "栃木県小山市大字東野田２１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "なすですな",
+    "pref": "栃木県",
+    "address": "栃木県那須塩原市塩野崎184",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "九十九里オーシャンビール",
+    "pref": "千葉県",
+    "address": "千葉県山武市松尾町武野里１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "安房ビール",
+    "pref": "千葉県",
+    "address": "千葉県南房総市谷向３９４番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ハーヴェスト・ムーン",
+    "pref": "千葉県",
+    "address": "千葉県浦安市舞浜１－４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "佐倉香りの生",
+    "pref": "千葉県",
+    "address": "千葉県佐倉市上座１１９３番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ソングバードビール",
+    "pref": "千葉県",
+    "address": "千葉県木更津市清川１－１４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ならしのクラフトビール",
+    "pref": "千葉県",
+    "address": "千葉県習志野市谷津４－６－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "柏ビール",
+    "pref": "千葉県",
+    "address": "千葉県柏市柏",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "鋸南麦酒",
+    "pref": "千葉県",
+    "address": "千葉県安房郡鋸南町吉浜５１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "幕張ブルワリー",
+    "pref": "千葉県",
+    "address": "千葉県千葉市美浜区若葉３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "船橋ビール",
+    "pref": "千葉県",
+    "address": "千葉県船橋市西船4丁目29番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "光和ビール",
+    "pref": "千葉県",
+    "address": "千葉県長生郡白子町古所３３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "柏エール",
+    "pref": "千葉県",
+    "address": "千葉県柏市酒井根５－２－４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "松戸ビール",
+    "pref": "千葉県",
+    "address": "千葉県松戸市松戸１１５１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Y.Y.G.FACTORY",
+    "pref": "千葉県",
+    "address": "千葉県千葉市中央区長洲１丁",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "銚子ビール",
+    "pref": "千葉県",
+    "address": "千葉県銚子市犬吠埼9575-2",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Beer Brain Brewery",
+    "pref": "千葉県",
+    "address": "千葉県柏市若柴226-42中央",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "EVER BREW株式会社",
+    "pref": "千葉県",
+    "address": "千葉県柏市正連寺3943中央",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "東京ワンプレミアムエール",
+    "pref": "千葉県",
+    "address": "千葉県千葉市花見川区武石町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "成田ファームランド",
+    "pref": "千葉県",
+    "address": "千葉県成田市所 １１９９番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "海岸醸造",
+    "pref": "千葉県",
+    "address": "千葉県南房総市安馬谷218番地1",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "赤坂ビール・深大寺ビール",
+    "pref": "東京都",
+    "address": "東京都調布市多摩川１－３４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "東京隅田川ブルーイング",
+    "pref": "東京都",
+    "address": "東京都墨田区吾妻橋1－２３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "T.Y.HARBOR",
+    "pref": "東京都",
+    "address": "東京都品川区東品川二丁目１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "多摩の恵",
+    "pref": "東京都",
+    "address": "東京都福生市熊川１番地",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ヴィルゴビール",
+    "pref": "東京都",
+    "address": "東京都墨田区緑４－８－８",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "八蛮ビール",
+    "pref": "東京都",
+    "address": "東京都中央区銀座２－１４－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）麦酒企画 高円寺麦酒工房",
+    "pref": "東京都",
+    "address": "東京都杉並区高円寺北２－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）麦酒企画 荻窪ビール工房",
+    "pref": "東京都",
+    "address": "東京都杉並区荻窪５－２３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "十条すいけんブルワリー",
+    "pref": "東京都",
+    "address": "東京都北区上十条２－７－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "カンピオンエール（同）",
+    "pref": "東京都",
+    "address": "東京都台東区西浅草２－２－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "目黒タバーン（株）",
+    "pref": "東京都",
+    "address": "東京都目黒区下目黒１－３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Miyata Beer",
+    "pref": "東京都",
+    "address": "東京都墨田区横川３丁目１２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）麦酒企画 中野ビール工房",
+    "pref": "東京都",
+    "address": "東京都中野区中野５－５３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "羽田ブルワリー",
+    "pref": "東京都",
+    "address": "東京都大田区西蒲田２－７－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "マイスターブロイ（株）目黒醸造所",
+    "pref": "東京都",
+    "address": "東京都目黒区目黒本町４－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "スプリングバレー",
+    "pref": "東京都",
+    "address": "東京都渋谷区代官山町１３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "デビルクラフト",
+    "pref": "東京都",
+    "address": "東京都品川区広町１－３－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "セントロビンソンビール",
+    "pref": "東京都",
+    "address": "東京都調布市国領町２－１５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "VERTERE",
+    "pref": "東京都",
+    "address": "東京都西多摩郡奥多摩町氷川",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）Y.Y.G. BREWING COMPANY",
+    "pref": "東京都",
+    "address": "東京都渋谷区代々木２－１８",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）麦酒企画 高田馬場ビール工房",
+    "pref": "東京都",
+    "address": "東京都新宿区高田馬場１－２ 03 6457-6410                              〇      http://beerkobo.web.fc2.com",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Vector Beer",
+    "pref": "東京都",
+    "address": "東京都新宿区新宿１－３６－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "さかづきBrewing",
+    "pref": "東京都",
+    "address": "東京都足立区千住旭町11番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Anchor Point",
+    "pref": "東京都",
+    "address": "東京都千代田区平河町２－６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "主水 monde",
+    "pref": "東京都",
+    "address": "東京都中央区銀座８－１１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）麦酒企画 新宿醸造所",
+    "pref": "東京都",
+    "address": "東京都新宿区西新宿１－２６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "HYUGA BREWERY",
+    "pref": "東京都",
+    "address": "東京都神津島村１４２－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）シェアードブルワリー",
+    "pref": "東京都",
+    "address": "東京都八王子市長沼町５８－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ガハハビール",
+    "pref": "東京都",
+    "address": "東京都江東区南砂２－３－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "経堂エール",
+    "pref": "東京都",
+    "address": "東京都世田谷区経堂２－１４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "籠屋ブルワリー",
+    "pref": "東京都",
+    "address": "東京都狛江市駒井町３－３４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Distant Shores Brewing（株）",
+    "pref": "東京都",
+    "address": "東京都東村山市秋津町３－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "高尾ビール",
+    "pref": "東京都",
+    "address": "東京都八王子市下恩方町１５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ライナ（株） 浅草橋ビール醸造所",
+    "pref": "東京都",
+    "address": "東京都台東区浅草橋４－７－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "26Kブルワリー",
+    "pref": "東京都",
+    "address": "東京都武蔵野市境南町３－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Ottotto Brewey",
+    "pref": "東京都",
+    "address": "東京都港区浜松町２－１－５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（同）カンパイ日和",
+    "pref": "東京都",
+    "address": "東京都杉並区阿佐ヶ谷南2-3",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Inazuma Brewery",
+    "pref": "東京都",
+    "address": "東京都港区六本木３－６－９",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）Fat Barley",
+    "pref": "東京都",
+    "address": "東京都羽村市富士見平１－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "和泉ブルワリー",
+    "pref": "東京都",
+    "address": "東京都狛江市和泉本町１－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "江戸東京ビール",
+    "pref": "東京都",
+    "address": "東京都江東区千田１６－２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ウッディ酒造場",
+    "pref": "東京都",
+    "address": "東京都杉並区久我山３－１７",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）riot beer",
+    "pref": "東京都",
+    "address": "東京都世田谷区砧５－１１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）スモークビアファクトリー 大塚店",
+    "pref": "東京都",
+    "address": "東京都豊島区南大塚１－６０",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）クランクブルーイング",
+    "pref": "東京都",
+    "address": "東京都板橋区板橋３－４０－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "TOKYO ALEWORKS",
+    "pref": "東京都",
+    "address": "東京都板橋区板橋１－８－４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "イサナブルーイング（同）",
+    "pref": "東京都",
+    "address": "東京都昭島市昭和町２－７－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "OGA BREWING COMPANY",
+    "pref": "東京都",
+    "address": "東京都三鷹市下連雀４－１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Snark Liquidworks",
+    "pref": "東京都",
+    "address": "東京都豊島区西池袋４－１９",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）ブロードエッジ･ブリュワリー",
+    "pref": "東京都",
+    "address": "東京都港区北青山２－３－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "東京ブッチャーズ",
+    "pref": "東京都",
+    "address": "東京都台東区上野５－１０－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "カンパイ！ブルーイング",
+    "pref": "東京都",
+    "address": "東京都文京区関口１－２８－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "麦酒工房 ゼロラボ",
+    "pref": "東京都",
+    "address": "東京都中野区中央５－３−1",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Folkways Brewing",
+    "pref": "東京都",
+    "address": "東京都江東区平野３－６－３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "魚金醸造",
+    "pref": "東京都",
+    "address": "東京都渋谷区道玄坂１－１２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ふたこビール",
+    "pref": "東京都",
+    "address": "東京都世田谷区玉川３－１３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "CRAFTROCK BREWPUB＆",
+    "pref": "東京都",
+    "address": "東京都中央区日本橋室町３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（有） パパスダイビングスタジオ",
+    "pref": "東京都",
+    "address": "東京都小笠原村父島字西町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Let's Beer Works",
+    "pref": "東京都",
+    "address": "東京都北区東十条２丁目１５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "亀戸ビア",
+    "pref": "東京都",
+    "address": "東京都江東区亀戸",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "両国麦酒研究所",
+    "pref": "東京都",
+    "address": "東京都墨田区亀沢２丁目２３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）魚金",
+    "pref": "東京都",
+    "address": "東京都千代田区神田錦町２－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（有）ヴィルゴビール 北斎麦酒工房",
+    "pref": "東京都",
+    "address": "東京都墨田区江東橋４－２７",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）草舎 KUNITACHI BREWERY",
+    "pref": "東京都",
+    "address": "東京都国立市東３丁目１７番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "HANEDA SKY BREWING",
+    "pref": "東京都",
+    "address": "東京都大田区羽田空港１丁目",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Far Yeast Tokyo Brewery",
+    "pref": "東京都",
+    "address": "東京都品川区西五反田１－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "FIVE TREES 学芸大学",
+    "pref": "東京都",
+    "address": "東京都目黒区中央町２丁目３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Inkhorn Brewing株式会社",
+    "pref": "東京都",
+    "address": "東京都豊島区目白２丁目２番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "発酵ビストロSAKE-YA KITAMI",
+    "pref": "東京都",
+    "address": "東京都狛江市岩戸北２丁目２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "新月ビア",
+    "pref": "東京都",
+    "address": "東京都新宿区箪笥町２９",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Our craft",
+    "pref": "東京都",
+    "address": "東京都中央区日本橋本町３丁",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "瀬田醸造所",
+    "pref": "東京都",
+    "address": "東京都世田谷区瀬田５丁目２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "新宿エール",
+    "pref": "東京都",
+    "address": "東京都新宿区歌舞伎町1丁目",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ブルワリー立川立飛",
+    "pref": "東京都",
+    "address": "東京都立川市高松町１丁目２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）JOLLY project Honeycomb &Hopworks",
+    "pref": "東京都",
+    "address": "東京都新宿区上落合2-10-1",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "COEDOクラフトビール",
+    "pref": "埼玉県",
+    "address": "埼玉県東松山市大谷１３５２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "こぶし花ビール",
+    "pref": "埼玉県",
+    "address": "埼玉県羽生市大字三田ヶ谷１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "麦雑穀工房",
+    "pref": "埼玉県",
+    "address": "埼玉県小川町大塚88番地6",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "越生ブリュワリー",
+    "pref": "埼玉県",
+    "address": "埼玉県入間郡越生町大字上野",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "所沢ビール",
+    "pref": "埼玉県",
+    "address": "埼玉県所沢市北原町866-17",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "氷川の杜",
+    "pref": "埼玉県",
+    "address": "埼玉県さいたま市大宮区高鼻町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "川口ブルワリー",
+    "pref": "埼玉県",
+    "address": "埼玉県川口市幸町２－２－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）FAR EAST",
+    "pref": "埼玉県",
+    "address": "埼玉県飯能市大河原３３番地",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "秩父麦酒",
+    "pref": "埼玉県",
+    "address": "埼玉県秩父市下吉田３７８６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "星野製作所",
+    "pref": "埼玉県",
+    "address": "埼玉県川口市大字榛松１９５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "SHIKI BEER",
+    "pref": "埼玉県",
+    "address": "埼玉県志木市上宗岡４－６－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "GROW BREW HOUSE",
+    "pref": "埼玉県",
+    "address": "埼玉県川口市西川口１丁目２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "COEDO BREWERY THE R",
+    "pref": "埼玉県",
+    "address": "埼玉県川越市脇田本町 8 番地",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "富士見麦酒醸造所",
+    "pref": "埼玉県",
+    "address": "埼玉県富士見市大字鶴馬２６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "加須麦酒",
+    "pref": "埼玉県",
+    "address": "埼玉県加須市騎西３６２番地",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "HopGear Brewing",
+    "pref": "埼玉県",
+    "address": "埼玉県本庄市小島1丁目13番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "麦酒処ぬとり",
+    "pref": "埼玉県",
+    "address": "埼玉県川口市川口６－９－５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "湘南ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市香川７－１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "厚木ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県厚木市水引２－１２",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "鎌倉ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県鎌倉市大町５－９－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "箱根ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県小田原市風祭２４５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "さがみビール",
+    "pref": "神奈川県",
+    "address": "神奈川県厚木市七沢７６９",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "横浜ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区住吉町６",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "サンクトガーレン（有）",
+    "pref": "神奈川県",
+    "address": "神奈川県厚木市金田１１３７",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "足柄ハッピーモルト",
+    "pref": "神奈川県",
+    "address": "神奈川県足柄上郡松田町松田",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ブルーパブ・ムーンライト",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市多摩区登戸１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "スラッシュゾーン",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市神奈川区反町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ブリマー・ブルーイング（株）",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市高津区久地４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ベイ・ブルーイング・ヨコハマ",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市戸塚区上矢部",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "michi-kusa",
+    "pref": "神奈川県",
+    "address": "神奈川県鎌倉市岩瀬1275番地",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "川崎ラチッタデッラ",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市川崎区小川町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "15 brewery",
+    "pref": "神奈川県",
+    "address": "神奈川県三浦郡葉山町堀内７",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "南横浜ビール研究所",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市金沢区釜利谷",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Gold’n Bub",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市幸町２３－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "横濱金沢ブルワリー",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市金沢区能見台",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "横須賀ビール",
+    "pref": "神奈川県",
+    "address": "神奈川県横須賀市大滝町１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "TDM1874 Brewery",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市緑区十日市場",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "EBINA BEER",
+    "pref": "神奈川県",
+    "address": "神奈川県海老名市扇町５－４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "unico A TKBrewing直売所",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市川崎区日進町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）ダイニング",
+    "pref": "神奈川県",
+    "address": "神奈川県足柄下群箱根町強羅",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "鍵屋醸造所",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市幸区北加瀬１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Garapago Racing Kaisei H",
+    "pref": "神奈川県",
+    "address": "神奈川県足柄上郡開成町みな",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Roto Brewery",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市港南区上大岡",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Jazz Brewing Fujino",
+    "pref": "神奈川県",
+    "address": "神奈川県相模原市緑区佐野川",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "254BEER 29BY",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区吉田町５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "東海道BEER",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市川崎区本町１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "NUMBER NINE BREWERY",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区新港2－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "REVO BREWING",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区海岸通５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Yggdrasil Brewing合同会社",
+    "pref": "神奈川県",
+    "address": "神奈川県平塚市夕陽ケ丘４４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "MacKenDy",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市浜竹2－1－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Brewpub Ergo bibamus",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区北仲通2",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "合同会社Oima",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市都筑区川和町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Passific brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市萩園２６４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "HUMANS BEER",
+    "pref": "神奈川県",
+    "address": "神奈川県足柄下郡湯河原町福",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "辻ブルーイング",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市美住町２−",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "CHROA",
+    "pref": "群馬県",
+    "address": "群馬県太田市飯田町８９５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "嬬恋高原ビール",
+    "pref": "群馬県",
+    "address": "群馬県吾妻郡嬬恋村大字大笹",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "川場ビール",
+    "pref": "群馬県",
+    "address": "群馬県利根郡川場村大字萩室",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "四万温泉エール",
+    "pref": "群馬県",
+    "address": "群馬県吾妻郡中之条町大字四",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "シンキチ醸造所",
+    "pref": "群馬県",
+    "address": "群馬県高崎市若松町２－１１",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "OCTONE Brewing",
+    "pref": "群馬県",
+    "address": "群馬県利根郡みなかみ町湯原",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ビアースマイル",
+    "pref": "群馬県",
+    "address": "群馬県伊勢崎市東小保方町９",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "FARCRY BREWING",
+    "pref": "群馬県",
+    "address": "群馬県桐生市仲町２－１１－",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "上州富岡ブリュワリー",
+    "pref": "群馬県",
+    "address": "群馬県富岡市富岡１４２６番",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Buryu",
+    "pref": "群馬県",
+    "address": "群馬県桐生市天神町一丁目４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "八ケ岳ビールタッチダウン",
+    "pref": "山梨県",
+    "address": "山梨県北杜市高根町清里３５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "富士桜高原ビール",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡富士河口湖町",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "ふじやまビール",
+    "pref": "山梨県",
+    "address": "山梨県富士吉田市新屋１９３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Outsider",
+    "pref": "山梨県",
+    "address": "山梨県甲府市中央１－１－５",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "Far Yeast",
+    "pref": "山梨県",
+    "address": "山梨県北都留郡小菅村４３４",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "うちゅうブルーイング",
+    "pref": "山梨県",
+    "address": "山梨県北杜市高根町蔵原９３",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "株式会社ペルソナブルワリー",
+    "pref": "山梨県",
+    "address": "山梨県甲府市朝日２丁目１８",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "BRIGHT BLUE BREWING",
+    "pref": "山梨県",
+    "address": "山梨県富士吉田市富士見１丁",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "富士山ファクトリー ビール醸造所",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡山中湖村山中",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "南アルプスビール",
+    "pref": "山梨県",
+    "address": "山梨県南アルプス市寺部1771",
+    "category": "beer",
+    "source": "260624_kanto"
+  },
+  {
+    "name": "（株）GKB（旧社名：御殿場高原ビール（株）） 御殿場高原ビール",
+    "pref": "静岡県",
+    "address": "静岡県御殿場市神山７１９番",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "伊豆高原ビール",
+    "pref": "静岡県",
+    "address": "静岡県伊東市富戸１１０３－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "反射炉ビヤ",
+    "pref": "静岡県",
+    "address": "静岡県伊豆の国市中２７２－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "はままつ地ビール",
+    "pref": "静岡県",
+    "address": "静岡県浜松市中区中央３丁目",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "風の谷のビール",
+    "pref": "静岡県",
+    "address": "静岡県田方郡函南町丹那３４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "伊豆の地ビール",
+    "pref": "静岡県",
+    "address": "静岡県伊東市宇佐見３５０４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "ベアードビール",
+    "pref": "静岡県",
+    "address": "静岡県伊豆市大平１０５２－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "サムライサーファービール",
+    "pref": "静岡県",
+    "address": "静岡県沼津市蓼原町9－3",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "バイエルンマイスタービール",
+    "pref": "静岡県",
+    "address": "静岡県富士宮市上井出字河原",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "伊豆の国ビール",
+    "pref": "静岡県",
+    "address": "静岡県伊豆の国市田京１９５",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "（株）FUJI PREMIUM BREWING←（株)DHCビ",
+    "pref": "静岡県",
+    "address": "静岡県御殿場市保土沢１０１",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "RePuBrew（同）",
+    "pref": "静岡県",
+    "address": "静岡県沼津市大手町２－１－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "Octagon Brewing",
+    "pref": "静岡県",
+    "address": "静岡県浜松市中区田町315-",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "沼津クラフト",
+    "pref": "静岡県",
+    "address": "静岡県沼津市千本緑町２－８",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "FUJIYAMA HUNTER'S BEER",
+    "pref": "静岡県",
+    "address": "静岡県富士宮市宮町１２－２",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "カケガワビール",
+    "pref": "静岡県",
+    "address": "静岡県掛川市肴町3番地の5",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "WEST COAST BREWING",
+    "pref": "静岡県",
+    "address": "静岡県静岡市駿河区用宗２丁",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "GARCIA BREW",
+    "pref": "静岡県",
+    "address": "静岡県静岡市清水区港南町１－１１",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "牧之原えーる",
+    "pref": "静岡県",
+    "address": "静岡県牧之原市波津７２４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "富嶽ビール",
+    "pref": "静岡県",
+    "address": "静岡県富士市大渕３２５－５",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "193 VALLEY BREWING",
+    "pref": "静岡県",
+    "address": "静岡県島田市伊久美５２０２",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "飛騨高山麦酒",
+    "pref": "岐阜県",
+    "address": "岐阜県高山市松本町９９９",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "飛騨ビール",
+    "pref": "岐阜県",
+    "address": "岐阜県高山市西之一色町３－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "こぼこぼエール",
+    "pref": "岐阜県",
+    "address": "岐阜県郡上市八幡町新町９３",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "カマドブリュワリー",
+    "pref": "岐阜県",
+    "address": "岐阜県瑞浪市釜戸町３１５４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "岐阜麦酒醸造合同会社",
+    "pref": "岐阜県",
+    "address": "岐阜県岐阜市正木1178-1 第",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "ヒダノオクブルワリー",
+    "pref": "岐阜県",
+    "address": "岐阜県飛騨市古川町殿町6-1",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "金しゃちビール",
+    "pref": "愛知県",
+    "address": "愛知県犬山市大字羽黒新田字",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "デンビール",
+    "pref": "愛知県",
+    "address": "愛知県安城市赤松町梶１番地",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "知多マリンビール",
+    "pref": "愛知県",
+    "address": "愛知県知多郡南知多町大字内",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "サッポロビール名古屋ビール園 浩養園",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市千種区千種２",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "ＮＰＯ法人志民達いちのみや",
+    "pref": "愛知県",
+    "address": "愛知県一宮市本町４丁目１番",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "Hyappa Brews",
+    "pref": "愛知県",
+    "address": "愛知県蒲郡市西浦町南知柄2",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "ワイマーケットブルーイング",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市中村区名駅４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "OKD KOMINKA BREWING",
+    "pref": "愛知県",
+    "address": "愛知県知多市岡田中谷４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "TOYOHASHI BREWING COMPANY合同会社 TOYS BREWERY",
+    "pref": "愛知県",
+    "address": "愛知県豊橋市駅前大通二丁目",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "BREWPUB OZONE",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市北区大曾根2",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "モクモクビール",
+    "pref": "三重県",
+    "address": "三重県伊賀市西湯船３６０９",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "上馬ビール",
+    "pref": "三重県",
+    "address": "三重県桑名市多度町古野１４",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "火の谷ビール",
+    "pref": "三重県",
+    "address": "三重県津市美杉町八知５９９",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "長島ビール",
+    "pref": "三重県",
+    "address": "三重県桑名市長島町駒江２７",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "エール工房de伊賀",
+    "pref": "三重県",
+    "address": "三重県伊賀市山出９２０",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "伊勢角屋ビール",
+    "pref": "三重県",
+    "address": "三重県伊勢市下野町５６４－",
+    "category": "beer",
+    "source": "260624_tokai"
+  },
+  {
+    "name": "宇奈月ビール",
+    "pref": "富山県",
+    "address": "富山県黒部市宇奈月町下立６",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "立山エール",
+    "pref": "富山県",
+    "address": "富山県滑川市浜四ツ屋１１１",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "城端麦酒",
+    "pref": "富山県",
+    "address": "富山県南砺市立野原東688",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "越中風雅",
+    "pref": "富山県",
+    "address": "富山県富山市婦中町長沢２５",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "（株）ブルーミン",
+    "pref": "富山県",
+    "address": "富山県氷見市比美町２４－１",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "金屋町ビール",
+    "pref": "富山県",
+    "address": "富山県高岡市金屋町３−１５",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "Kobo Brewery Pub",
+    "pref": "富山県",
+    "address": "富山県富山市東岩瀬町字大町107番",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "奥能登ビール",
+    "pref": "石川県",
+    "address": "石川県鳳珠郡能登町字立壁９",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "金沢百万石ビール",
+    "pref": "石川県",
+    "address": "石川県能美郡川北町字橘新ロ",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "金澤麦酒",
+    "pref": "石川県",
+    "address": "石川県金沢市円光寺３－１－",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "Oriental Brewing",
+    "pref": "石川県",
+    "address": "石川県金沢市東山３－２－２",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "若狭ビール",
+    "pref": "福井県",
+    "address": "福井県三方郡美浜町坂尻４３",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "越前福井浪漫ビール",
+    "pref": "福井県",
+    "address": "福井県福井市大宮５－８－２",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "PAMCOビール",
+    "pref": "福井県",
+    "address": "福井県三方上中郡若狭町海山",
+    "category": "beer",
+    "source": "202302_hokuriku"
+  },
+  {
+    "name": "長濱浪漫ビール",
+    "pref": "滋賀県",
+    "address": "滋賀県長浜市朝日町１４－１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "びわこいいみちビール",
+    "pref": "滋賀県",
+    "address": "滋賀県甲賀市水口町三大寺３",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "近江麦酒",
+    "pref": "滋賀県",
+    "address": "滋賀県大津市本堅田３丁目２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ヒノブルーイング株式会社",
+    "pref": "滋賀県",
+    "address": "滋賀県蒲生郡日野町西大路８",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "TWO RABBITS",
+    "pref": "滋賀県",
+    "address": "滋賀県近江八幡市宮内町２４",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "Diamond Brewery",
+    "pref": "滋賀県",
+    "address": "滋賀県近江八幡市加茂町３８",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）彦根麦酒",
+    "pref": "滋賀県",
+    "address": "滋賀県彦根市野口町２８３−",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "びわ湖ブルワリー株式会社",
+    "pref": "滋賀県",
+    "address": "滋賀県高島市今津町今津６９",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "曽爾高原ビール",
+    "pref": "奈良県",
+    "address": "奈良県宇蛇郡曽爾村大字太良",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ゴールデンラビットビール",
+    "pref": "奈良県",
+    "address": "奈良県奈良市東寺林町３０",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "なら麦酒",
+    "pref": "奈良県",
+    "address": "奈良県奈良市紀寺町９５６－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "奈良醸造（株）",
+    "pref": "奈良県",
+    "address": "奈良県奈良市北之庄西町１－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "宇陀サテライト工場",
+    "pref": "奈良県",
+    "address": "奈良県宇陀市榛原石田147-1",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "グットウルフ麦酒",
+    "pref": "奈良県",
+    "address": "奈良県吉野郡東吉野村大字大",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "奥大和ビール",
+    "pref": "奈良県",
+    "address": "奈良県宇陀市大字陀拾生672",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "大和醸造",
+    "pref": "奈良県",
+    "address": "奈良県奈良市東向中町6 奈良",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "CHORYO",
+    "pref": "奈良県",
+    "address": "奈良県北葛城郡広陵町南4",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "京都麦酒",
+    "pref": "京都府",
+    "address": "京都府京都市伏見区塩屋町２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "町家麦酒",
+    "pref": "京都府",
+    "address": "京都府京都市中京区堺町通二",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "京都丹後クラフトビール",
+    "pref": "京都府",
+    "address": "京都府京丹後市弥栄町鳥取１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）京都・一乗寺ブリュワリー",
+    "pref": "京都府",
+    "address": "京都府京都市左京区一乗寺出",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "京都ブルワリー",
+    "pref": "京都府",
+    "address": "京都府京都市南区西九条高畠",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "スプリングバレーブルワリー",
+    "pref": "京都府",
+    "address": "京都府京都市中京区富小路通",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "西陣麦酒",
+    "pref": "京都府",
+    "address": "京都府京都市上京区竪門前町",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ウッドミルブルワリー･京都",
+    "pref": "京都府",
+    "address": "京都府京都市上京区上立売通",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "Kyoto Beer Lab",
+    "pref": "京都府",
+    "address": "京都府京都市下京区十禅師町",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "家守堂",
+    "pref": "京都府",
+    "address": "京都府京都市伏見区中油掛町",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "大阪國乃長ビール",
+    "pref": "大阪府",
+    "address": "大阪府高槻市富田町３丁目２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "箕面ビール",
+    "pref": "大阪府",
+    "address": "大阪府箕面市牧落３－１４－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "道頓堀ビール",
+    "pref": "大阪府",
+    "address": "大阪府大阪市中央区道頓堀１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "地底旅行",
+    "pref": "大阪府",
+    "address": "大阪府大阪市港区南市岡",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）ファーム",
+    "pref": "大阪府",
+    "address": "大阪府堺市南区鉢ヶ峯寺２４",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（同）Ｍａｒｃａ",
+    "pref": "大阪府",
+    "address": "大阪府大阪市西区北堀江３－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "BEER BELLY",
+    "pref": "大阪府",
+    "address": "大阪府大阪市西区土佐堀１丁",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "テタールヴァレ",
+    "pref": "大阪府",
+    "address": "大阪府大阪市中央区大手通１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ブリューパブスタンダード（株）",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区浮田２－５",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "BAK",
+    "pref": "大阪府",
+    "address": "大阪府大阪市中央区高麗橋１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ARIMOTO BEER",
+    "pref": "大阪府",
+    "address": "大阪府大阪市生野区新今里１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ディレイラブリューワークス",
+    "pref": "大阪府",
+    "address": "大阪府大阪市西成区花園北２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）ONE's 本社",
+    "pref": "大阪府",
+    "address": "大阪府大阪市西区千代崎1-9",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）CRAFT BEER BASE",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区大淀南１－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "（株）上方ビール",
+    "pref": "大阪府",
+    "address": "大阪府大阪市東淀川区西淡路",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "KIX BEER (泉佐野クラフトビー",
+    "pref": "大阪府",
+    "address": "大阪府泉佐野市大西2-2599",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "Nakatsu brewery",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区中津３丁目",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "3TREE BREWERY",
+    "pref": "大阪府",
+    "address": "大阪府茨木市双葉町３番１９",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "瓢箪山ビール",
+    "pref": "大阪府",
+    "address": "大阪府東大阪市神田町5-10",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "CRAFTMAN UMAI nakazaki",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区中崎西２丁",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ビールと羊",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区曾根崎２丁",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ナギサビール",
+    "pref": "和歌山県",
+    "address": "和歌山県西牟婁郡白浜町２９",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "HEIWA CRAFT",
+    "pref": "和歌山県",
+    "address": "和歌山県海南市溝ノ口１１９",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "Voyager Brewing",
+    "pref": "和歌山県",
+    "address": "和歌山県田辺市上の山１－９",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "紀州応援酒場三代目",
+    "pref": "和歌山県",
+    "address": "和歌山県和歌山市十一番丁５",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ブルーウッドブリュワリー",
+    "pref": "和歌山県",
+    "address": "和歌山県有田郡有田川町大字",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "NOMCRAFT BREWING",
+    "pref": "和歌山県",
+    "address": "和歌山県有田郡有田川町長田",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "ORYZAE BREWING",
+    "pref": "和歌山県",
+    "address": "和歌山県和歌山市舟大工町3",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "揮八郎ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県西宮市山口町下山口２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "KONISHI ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県伊丹市中央３－４－１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "大使館ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区三宮町２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "城崎ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県豊岡市城崎町湯島６４",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "あわぢビール",
+    "pref": "兵庫県",
+    "address": "兵庫県淡路市浦１０２２－２",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "六甲ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市北区有野町有野",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "明石ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県明石市大久保町西島１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "出石城山ビール",
+    "pref": "兵庫県",
+    "address": "兵庫県豊岡市出石町内町８３",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "丹波篠山ジグザグブルワリー",
+    "pref": "兵庫県",
+    "address": "兵庫県丹波篠山市福住１９１",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "スターボードブルーイング",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区北長狭通",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "インザドアブルーイング",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区琴ノ緒町",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "HARBOR BEER KOBE",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市水木通１丁目４",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "Akashi Craft Beer TOKI",
+    "pref": "兵庫県",
+    "address": "兵庫県明石市大明石町１丁目",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "丹波路ブルワリー",
+    "pref": "兵庫県",
+    "address": "兵庫県丹波篠山市北１５５－",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "加古川麦酒",
+    "pref": "兵庫県",
+    "address": "兵庫県加古川市加古川町寺家",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "マイルストーンブルーイング",
+    "pref": "兵庫県",
+    "address": "兵庫県加古川市平岡町新在家",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "丹波篠山旅路のブルワリー",
+    "pref": "兵庫県",
+    "address": "兵庫県丹波篠山市福住３８５",
+    "category": "beer",
+    "source": "202302_kinki"
+  },
+  {
+    "name": "独歩ビール",
+    "pref": "岡山県",
+    "address": "岡山県岡山市中区西川原１８",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "作州津山ビール",
+    "pref": "岡山県",
+    "address": "岡山県津山市楢６９",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "おかやまフォレストパーク ドイツの森",
+    "pref": "岡山県",
+    "address": "岡山県赤磐市仁堀中２００６",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "DREAM OR REAL DOOR",
+    "pref": "岡山県",
+    "address": "岡山県備前市吉永町岩崎７４",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "吉備土手下麦酒",
+    "pref": "岡山県",
+    "address": "岡山県岡山市北区北方４－２",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "吉備土手下麦酒 第二工場",
+    "pref": "岡山県",
+    "address": "岡山県岡山市中区藤崎６４４",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "美作ビアワークス",
+    "pref": "岡山県",
+    "address": "岡山県真庭市江川817番地１",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "Koti",
+    "pref": "岡山県",
+    "address": "岡山県備前市吉永町都留岐２",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "六島麦のはじまり",
+    "pref": "岡山県",
+    "address": "岡山県笠岡市六島６１５３番",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "OYOBE BEER",
+    "pref": "岡山県",
+    "address": "岡山県岡山市北区奉還町二丁",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "（株）ハートピア クラフトハートブルワリー",
+    "pref": "広島県",
+    "address": "広島県福山市霞町２町目５－",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "（株）Hiroshima Micro Brewery",
+    "pref": "広島県",
+    "address": "広島県広島市中区大手町二丁",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "（同）Session's Brewery",
+    "pref": "広島県",
+    "address": "広島県広島市中区江波東１－",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "広島北ビール",
+    "pref": "広島県",
+    "address": "広島県広島市安佐北区亀山９",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "宮島ビール",
+    "pref": "広島県",
+    "address": "広島県廿日市市宮島町４５９",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "備後福山ブルーイングカレッジ",
+    "pref": "広島県",
+    "address": "広島県福山市伏見町3番16号",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "安芸乃国酒造株式会社",
+    "pref": "広島県",
+    "address": "広島県山県郡安芸太田町大字",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "HIROSHIMA NEIGHBORLY",
+    "pref": "広島県",
+    "address": "広島県広島市中区大手町1-5",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "尾道あづみ麦酒醸造所",
+    "pref": "広島県",
+    "address": "広島県尾道市高須町４７５４",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "尾道ビール（株）",
+    "pref": "広島県",
+    "address": "広島県尾道市久保１－２－２",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "テシゴト",
+    "pref": "広島県",
+    "address": "広島県東広島市西条中央１丁",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "Break edge beer works",
+    "pref": "広島県",
+    "address": "広島県 広島市南区旭2-22-2",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "大山Ｇビール",
+    "pref": "鳥取県",
+    "address": "鳥取県西伯郡伯耆町丸山１７",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "タルマーリー ビール醸造部",
+    "pref": "鳥取県",
+    "address": "鳥取県八頭郡智頭町大背２１",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "（株）AKARI BREWING",
+    "pref": "鳥取県",
+    "address": "鳥取県鳥取市鹿野町今市７８",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "475 Beer",
+    "pref": "鳥取県",
+    "address": "鳥取県米子市東倉吉町１４２",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "倉吉ビール（株）",
+    "pref": "鳥取県",
+    "address": "鳥取県倉吉市東仲町２５８７",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "ちょんまげビール",
+    "pref": "山口県",
+    "address": "山口県萩市土原６０８－１",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "山口地ビール",
+    "pref": "山口県",
+    "address": "山口県山口市大字下小鯖１３",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "アーチビール",
+    "pref": "山口県",
+    "address": "山口県岩国市山手町２－４－",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "マイヤーブルワリー",
+    "pref": "山口県",
+    "address": "山口県岩国市由宇町神東239 090ｰ8210ｰ8098                                    https://www.meyerworld.net/",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "365+１",
+    "pref": "山口県",
+    "address": "山口県長門市深川湯本1247",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "スカイホップブルーイング（株）",
+    "pref": "山口県",
+    "address": "山口県周南市河東町3-27 メ",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "ビアへるん",
+    "pref": "島根県",
+    "address": "島根県松江市黒田町５０９－",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "石見麦酒",
+    "pref": "島根県",
+    "address": "島根県江津市桜江町長谷２６",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "穂波",
+    "pref": "島根県",
+    "address": "島根県浜田市国分町１２４３",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "（同）大根島研究所",
+    "pref": "島根県",
+    "address": "島根県松江市八束町江島１１",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "高津川リバービア（株）",
+    "pref": "島根県",
+    "address": "島根県益田市高津",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "3rd Barrel Brewery",
+    "pref": "島根県",
+    "address": "島根県出雲市平田町片原町８",
+    "category": "beer",
+    "source": "202303_chugoku"
+  },
+  {
+    "name": "さぬきビール",
+    "pref": "香川県",
+    "address": "香川県高松市香川町寺井６２",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "小豆島まめまめビール",
+    "pref": "香川県",
+    "address": "香川県小豆郡小豆島町坂手甲",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "ツバメブリュワリー",
+    "pref": "香川県",
+    "address": "香川県東かがわ市五名１９９",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "MIROC BEER",
+    "pref": "香川県",
+    "address": "香川県丸亀市北平山町２－２",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "遊撃ビール",
+    "pref": "香川県",
+    "address": "香川県東かがわ市水主４６６",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "阿波麦酒",
+    "pref": "徳島県",
+    "address": "徳島県徳島市東船場町１－６",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "KAMIKATZビール",
+    "pref": "徳島県",
+    "address": "徳島県勝浦郡上勝町大字正木",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "あらたえエール",
+    "pref": "徳島県",
+    "address": "徳島県徳島市問屋町７４",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "神山ビール",
+    "pref": "徳島県",
+    "address": "徳島県名西郡神山町神領字西",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "（株）阿波麦酒 徳島ステーションブリュワリー",
+    "pref": "徳島県",
+    "address": "徳島県徳島市寺島本町西１丁",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "2nd Story Ale Works",
+    "pref": "徳島県",
+    "address": "徳島県徳島市八多町友広１４",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "JouZO BEER BASE",
+    "pref": "徳島県",
+    "address": "徳島県阿南市那賀川町手島榎",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "梅錦ビール",
+    "pref": "愛媛県",
+    "address": "愛媛県四国中央市金田町金川",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "道後ビール",
+    "pref": "愛媛県",
+    "address": "愛媛県松山市道後喜多町３－",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "大三島ブリュワリー（同）",
+    "pref": "愛媛県",
+    "address": "愛媛県今治市大三島町宮浦５",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "DD4D BREWING",
+    "pref": "愛媛県",
+    "address": "愛媛県松山市千舟町４−２",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "今治街中麦酒",
+    "pref": "愛媛県",
+    "address": "愛媛県今治市常盤町３丁目４",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "麦宿 伝 Guest House Brew",
+    "pref": "愛媛県",
+    "address": "愛媛県松山市祓川2－5－13",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "TOSACO",
+    "pref": "高知県",
+    "address": "高知県香美市土佐山田町栄町",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "山本麦酒",
+    "pref": "高知県",
+    "address": "高知県南国市後免町２－２－",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "淀川町醸造所",
+    "pref": "高知県",
+    "address": "高知県吾川郡仁淀川町下名野",
+    "category": "beer",
+    "source": "202302_shikoku"
+  },
+  {
+    "name": "杉能舎ビール",
+    "pref": "福岡県",
+    "address": "福岡県福岡市西区元岡１４４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "八女ブルワリー",
+    "pref": "福岡県",
+    "address": "福岡県八女市宮野１００番地",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "門司港レトロビール",
+    "pref": "福岡県",
+    "address": "福岡県北九州市門司区東港町",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "博多ドラフト",
+    "pref": "福岡県",
+    "address": "福岡県福岡市博多区下川端町",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ブルーマスター",
+    "pref": "福岡県",
+    "address": "福岡県福岡市城南区別府１－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "フクオカクラフト",
+    "pref": "福岡県",
+    "address": "福岡県福岡市中央区大名１丁",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "あすなろ",
+    "pref": "福岡県",
+    "address": "福岡県福岡市博多区千代４丁",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "Hinosato brewery",
+    "pref": "福岡県",
+    "address": "福岡県宗像市日の里五丁目３",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "Brasserie SOMA",
+    "pref": "福岡県",
+    "address": "福岡県北九州市小倉北区魚町",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "有田麦酒",
+    "pref": "佐賀県",
+    "address": "佐賀県西松浦郡有田町戸矢乙",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "佐賀アームストロング醸造所",
+    "pref": "佐賀県",
+    "address": "佐賀県佐賀市諸富町徳富159",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ISLAND BREWERY",
+    "pref": "長崎県",
+    "address": "長崎県壱岐市勝本町勝本浦２",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ゆふいん麦酒",
+    "pref": "大分県",
+    "address": "大分県湯布院町大字川南１０",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "Beer Oh",
+    "pref": "大分県",
+    "address": "大分県竹田市久住町白丹７５",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "エービーイーボンド",
+    "pref": "大分県",
+    "address": "大分県大分市府内町１－５－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "Monkey Mountain",
+    "pref": "大分県",
+    "address": "大分県大分市府内町２－４－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "火の国ビール 阿蘇",
+    "pref": "熊本県",
+    "address": "熊本県上益城郡嘉島町大字北",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "不知火海浪漫麦酒",
+    "pref": "熊本県",
+    "address": "熊本県水俣市陣内２５２５",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "熊本クラフトビール",
+    "pref": "熊本県",
+    "address": "熊本県熊本市東区御領６－８",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "KAENクラフトビール",
+    "pref": "熊本県",
+    "address": "熊本県熊本市東区長嶺南３丁",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "AMAKUSA SONAR BEER（合）",
+    "pref": "熊本県",
+    "address": "熊本県天草市五和町鬼池１４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ひでじビール",
+    "pref": "宮崎県",
+    "address": "宮崎県延岡市むかばき町７４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "綾の地ビール",
+    "pref": "宮崎県",
+    "address": "宮崎県東諸県郡綾町大字南俣",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "霧島ビール",
+    "pref": "宮崎県",
+    "address": "宮崎県都城市志比田町５４８",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "青空エール",
+    "pref": "宮崎県",
+    "address": "宮崎県宮崎市橘通西２－７－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "日南麦酒",
+    "pref": "宮崎県",
+    "address": "宮崎県日南市吾田東１－１－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "阿波岐原クラフトブルワリー",
+    "pref": "宮崎県",
+    "address": "宮崎県児湯郡高鍋町持田１７",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "霧島高原ビール",
+    "pref": "鹿児島県",
+    "address": "鹿児島県霧島市溝辺町麓８７",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "花渡川ビア",
+    "pref": "鹿児島県",
+    "address": "鹿児島県枕崎市立神本町２６",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "城山ブルワリー",
+    "pref": "鹿児島県",
+    "address": "鹿児島県鹿児島市新照院町４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "カクイダクラフトビール",
+    "pref": "鹿児島県",
+    "address": "鹿児島県霧島市福山町福山字",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "Catch the Beer 小瀬田醸造所",
+    "pref": "鹿児島県",
+    "address": "鹿児島県熊毛郡屋久島町小瀬",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "からはな",
+    "pref": "鹿児島県",
+    "address": "鹿児島県熊毛郡南種子町茎永",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "LET IT BEER（合）",
+    "pref": "鹿児島県",
+    "address": "鹿児島県鹿屋市西大手町１０",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "（株）Honey Forest Brewing",
+    "pref": "鹿児島県",
+    "address": "鹿児島県肝属郡南大隅町根占",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ヘリオスクラフトビール",
+    "pref": "沖縄県",
+    "address": "沖縄県名護市字許田４０５",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "石垣島ビール",
+    "pref": "沖縄県",
+    "address": "沖縄県石垣市字新川２０９４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ニヘデビール",
+    "pref": "沖縄県",
+    "address": "沖縄県南城市玉城字前川１３",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "とぅりば",
+    "pref": "沖縄県",
+    "address": "沖縄県宮古島市平良字久貝７",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "コザ麦酒",
+    "pref": "沖縄県",
+    "address": "沖縄県沖縄市中央１－２４－",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "チャタンビール",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市おもろまち１-３",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "浮島",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市松尾２－９－２",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "クリフビール",
+    "pref": "沖縄県",
+    "address": "沖縄県沖縄市比屋根６－１８",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "ウォルフブロイ（合）",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市首里池端町３４",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "石垣島ビール工房",
+    "pref": "沖縄県",
+    "address": "沖縄県石垣市字大川１",
+    "category": "beer",
+    "source": "260624_kyushu"
+  },
+  {
+    "name": "BREW CLASSIC",
+    "pref": "石川県",
+    "address": "石川県金沢市無量寺2−８０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "せとうちブルワリー",
+    "pref": "香川県",
+    "address": "香川県高松市松島町3-5-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "とりかご",
+    "pref": "香川県",
+    "address": "香川県高松市多賀町2丁目17-11",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "川原湯温泉醸造舎",
+    "pref": "群馬県",
+    "address": "群馬県吾妻郡長野原町川原湯５４８",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "TOKYO BAY 麦酒",
+    "pref": "千葉県",
+    "address": "千葉県木更津市中里590",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "佐世保夕陽麦酒",
+    "pref": "長崎県",
+    "address": "長崎県佐世保市湊町2番16号 森ビル",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "HEISEI BREWING",
+    "pref": "新潟県",
+    "address": "新潟県 長岡市川崎町字山崎778-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "シモノセキクラフトビール",
+    "pref": "山口県",
+    "address": "山口県下関市幸町２番８号",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "kohachi beerworks Co.",
+    "pref": "京都府",
+    "address": "京都府宮津市字上世屋411番地",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "（株）WILLIAMS",
+    "pref": "埼玉県",
+    "address": "埼玉県久喜市久喜中央１丁目３−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "BEER GARAGE",
+    "pref": "静岡県",
+    "address": "静岡県静岡市葵区宮ヶ崎町３０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Izumo Brewing",
+    "pref": "島根県",
+    "address": "島根県出雲市今市町７０３−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Fat Barley Brewing",
+    "pref": "東京都",
+    "address": "東京都福生市福生８７６−１２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Honeycomb & Hopworks",
+    "pref": "東京都",
+    "address": "東京都新宿区上落合２丁目１０−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "t0ki brewery",
+    "pref": "新潟県",
+    "address": "新潟県佐渡市加茂歌代４５８",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "NIKIYA BREWERY",
+    "pref": "北海道",
+    "address": "北海道余市郡仁木町南町１０丁目１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "NANBU CRAFT BEER",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市八幡町１３−３２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "カネヒデクラフトブルワリー",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市旭町１１２−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "本庄銀座ブルワリー",
+    "pref": "埼玉県",
+    "address": "埼玉県本庄市銀座１丁目９−２３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "株式会社 麦酒企画 SAKE-YA 西荻",
+    "pref": "東京都",
+    "address": "東京都杉並区西荻南３丁目２４−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "方南ビール醸造所",
+    "pref": "東京都",
+    "address": "東京都杉並区方南2-11-7",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "山の間ブルワリー",
+    "pref": "長野県",
+    "address": "長野県長野市北石堂町1375",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "IB BREWING",
+    "pref": "広島県",
+    "address": "広島県呉市安浦町大字中畑１２３８",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ブルワリー柳河",
+    "pref": "福岡県",
+    "address": "福岡県柳川市沖端町７−３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "士別サムライブルワリー",
+    "pref": "北海道",
+    "address": "北海道士別市西３条１０丁目２２０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "蔵王ブルワリー",
+    "pref": "山形県",
+    "address": "山形県山形市蔵王上野 字南坂1096",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "臥龍醸造 GARYU BREWING",
+    "pref": "愛媛県",
+    "address": "愛媛県大洲市大洲９８−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "道明寺天満宮門前醸造所",
+    "pref": "大阪府",
+    "address": "大阪府藤井寺市道明寺2丁目10-10",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "溝ノ口ブルワリー",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市高津区溝口１-１３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ことことビール",
+    "pref": "京都府",
+    "address": "京都府木津川市山城町平尾三所塚５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "片品ブリューイング",
+    "pref": "群馬県",
+    "address": "群馬県利根郡片品村花咲１５７５−",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "大多喜麦酒",
+    "pref": "千葉県",
+    "address": "千葉県夷隅郡大多喜町宇筒原２１５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "NAMACHAん Brewing 第二醸造所",
+    "pref": "東京都",
+    "address": "東京都豊島区南大塚１丁目６０−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "シノバズブルワリー ひつじあいす",
+    "pref": "東京都",
+    "address": "東京都台東区上野２丁目１０−７ か",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "OUR DAYs Brewery",
+    "pref": "東京都",
+    "address": "東京都渋谷区笹塚３丁目４０−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "クッチーナ",
+    "pref": "新潟県",
+    "address": "新潟県佐渡市千種88-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "オープンエア湊山醸造所",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区三宮町３丁目２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "KOKU NO CRAFT 辛島虚空乃蔵",
+    "pref": "大分県",
+    "address": "大分県宇佐市辛島４−３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "大阪渋谷麦酒",
+    "pref": "大阪府",
+    "address": "大阪府藤井寺市岡１丁目２−６",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "kawazu brewing",
+    "pref": "岡山県",
+    "address": "岡山県岡山市北区出石町１丁目７−",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ひふみよブリューイング",
+    "pref": "鹿児島県",
+    "address": "鹿児島県鹿児島市新屋敷町１１−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "TIELS BREWING（ティールズ・ブリューイング）",
+    "pref": "静岡県",
+    "address": "静岡県三島市泉町２−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "國澤麦酒",
+    "pref": "東京都",
+    "address": "東京都新橋５丁目３１−７",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "MUGIKURA BREWING",
+    "pref": "長野県",
+    "address": "長野県諏訪郡下諏訪町1649-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "岡山西大寺麦酒 五福工房",
+    "pref": "岡山県",
+    "address": "岡山県東区西大寺中３丁目２１−２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "株式会社ONEDROP",
+    "pref": "静岡県",
+    "address": "静岡県沼津市大手町",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "出雲多伎BREWERY",
+    "pref": "島根県",
+    "address": "島根県出雲市多伎町久村１２０−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "麦酒工場 祖師谷醸造所",
+    "pref": "東京都",
+    "address": "東京都世田谷区祖師谷３丁目１−７",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "OKEI BREWERY NIPPORI",
+    "pref": "東京都",
+    "address": "東京都荒川区東日暮里５丁目３７−",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "O/A NAGASAKI CRAFT BEER",
+    "pref": "長崎県",
+    "address": "長崎県長崎市目覚町１１−２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "長野みなみ風ビール",
+    "pref": "長野県",
+    "address": "長野県長野市南長野新田町１４５８",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "KARIYA 75 BREWING",
+    "pref": "愛知県",
+    "address": "愛知県刈谷市今川町山ノ神１６０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Brewstars Yacht Club Hayama Brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県葉山町堀内２０３８−１０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "CraftBank",
+    "pref": "京都府",
+    "address": "京都府福知山市南本町２６４−５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "AQUWA Brew works",
+    "pref": "埼玉県",
+    "address": "埼玉県さいたま市南区南浦和３丁目３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "静岡醸造丸子工場",
+    "pref": "静岡県",
+    "address": "静岡県静岡市駿河区丸子３２４０−",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "伊能忠次郎商店",
+    "pref": "千葉県",
+    "address": "千葉県香取市イ１８９４",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "BEER & EBISU BREWERY",
+    "pref": "東京都",
+    "address": "東京都渋谷区恵比寿南１丁目４−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "KOBO Brewery合同会社",
+    "pref": "富山県",
+    "address": "富山県富山市岩瀬大町5番地",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "高山村農業醸造技研株式会社",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Mallika Brewing",
+    "pref": "長野県",
+    "address": "長野県長野市長野大門町72−５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "イーグレブルワリー",
+    "pref": "兵庫県",
+    "address": "兵庫県姫路市苫編３９６",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "あおぞらブルワリー",
+    "pref": "福岡県",
+    "address": "福岡県福岡市博多区店屋町4番28号",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "煙草屋酒造",
+    "pref": "福岡県",
+    "address": "福岡県福岡市中央区六本松",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "イワナイブルワリー",
+    "pref": "北海道",
+    "address": "北海道岩内郡岩内町野束５０５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "希望の丘醸造所",
+    "pref": "宮城県",
+    "address": "宮城県岩沼市吹上２丁目２−３１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ISHINOMAKI HOP WORKS",
+    "pref": "宮城県",
+    "address": "宮城県石巻市中央１丁目３−１４",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "FIVE VISION BREWERY株式会社",
+    "pref": "愛知県",
+    "address": "愛知県豊橋市堂坂町47番地1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "toys Brewery",
+    "pref": "愛知県",
+    "address": "愛知県豊橋市駅前大通2丁目71-24",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "バタフライブルワリー",
+    "pref": "愛知県",
+    "address": "愛知県春日井市大手田酉町1-2-7     08048670322                  https://butterflybrewery.store     発泡酒",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "NOYMOND BREWING",
+    "pref": "岩手県",
+    "address": "岩手県一関市大手町７−３６ さくらビ",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "GAMO4 BREWERY",
+    "pref": "大阪府",
+    "address": "大阪府大阪市城東区蒲生",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ドルフィン・ビアー",
+    "pref": "沖縄県",
+    "address": "沖縄県名護市東江５丁目８−７",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "奄美ブルワリー",
+    "pref": "鹿児島県",
+    "address": "鹿児島県奄美市名瀬港町１−２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "第三醸造所/池袋店",
+    "pref": "東京都",
+    "address": "東京都豊島区南大塚１丁目６０−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "RACINES MICRO BREWERY",
+    "pref": "東京都",
+    "address": "東京都港区北青山3-4-3",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "パドルブリュー",
+    "pref": "徳島県",
+    "address": "徳島県 美馬市 木屋平 字川井287番",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ISHII BREWING 問屋団地製造場",
+    "pref": "栃木県",
+    "address": "栃木県足利市問屋町１１７７−１０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "酒房銀 居酒屋「酒房銀」",
+    "pref": "鳥取県",
+    "address": "鳥取県東伯郡琴浦町徳万６９４−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "安曇野ブルワリー",
+    "pref": "長野県",
+    "address": "長野県安曇野市穂高5950-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "姫路鳩屋麦酒",
+    "pref": "兵庫県",
+    "address": "兵庫県姫路市北条口５丁目６",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "SUSUKINO BREWING",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区南７条西３丁目",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Yotei Brewing（ヨーテイブルーイング）",
+    "pref": "北海道",
+    "address": "北海道虻田郡ニセコ町豊里１７６−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "TPM BREWING",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡西桂町小沼２２４２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "obina hops brewing",
+    "pref": "山梨県",
+    "address": "山梨県甲府市下帯那町１９０８−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Totopia Brewery",
+    "pref": "愛知県",
+    "address": "愛知県長久手市杁ケ根795番1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "IDA 藤居醸造",
+    "pref": "大分県",
+    "address": "大分県豊後大野市千歳町新殿１５０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "あわくら温泉元湯 西粟倉ヒノキ醸造所",
+    "pref": "岡山県",
+    "address": "岡山県英田郡西粟倉村影石２０５０",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "久福ブルーイング本島 本島直売所",
+    "pref": "香川県",
+    "address": "香川県丸亀市本島町泊７０４−２",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "HAKUBA BEER GRACE",
+    "pref": "長野県",
+    "address": "長野県北安曇郡白馬村 北城５１４",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "KANESHIGE",
+    "pref": "長野県",
+    "address": "長野県下伊那郡下條村睦沢7047-2",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "トイフルブルワリー",
+    "pref": "福岡県",
+    "address": "福岡県久留米市螢川町 59-1 1F",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Brasserie Knot",
+    "pref": "北海道",
+    "address": "北海道阿寒郡鶴居村茂雪裡６９−８",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "98 Beers",
+    "pref": "山梨県",
+    "address": "山梨県 甲州市塩山福生里２５０－",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "HOJO BREWING & STAYS",
+    "pref": "愛媛県",
+    "address": "愛媛県松山市下難波甲32番70",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "倉敷ブルーイング",
+    "pref": "岡山県",
+    "address": "岡山県都窪郡早島町前潟528-1 H",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "里武士馬車道",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区北仲通５丁目5",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "団地キッチン田島",
+    "pref": "埼玉県",
+    "address": "埼玉県さいたま市桜区田島６丁目１−",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "DO BREWING MUCCH",
+    "pref": "長野県",
+    "address": "長野県上田市中央２丁目５−３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ミチクサ醸造所",
+    "pref": "福岡県",
+    "address": "福岡県福津市津屋崎４丁目１−１３",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ムーンライズブルワリー天文館",
+    "pref": "鹿児島県",
+    "address": "鹿児島県鹿児島市樋之口町１０−７",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "HORSEHEAD LABS 第一工場",
+    "pref": "静岡県",
+    "address": "静岡県静岡市清水区蒲原2-4-8 （ス",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "SPiCA kunst BiER",
+    "pref": "栃木県",
+    "address": "栃木県宇都宮市伝馬町４−２６ コートサイドハイツ 1階1号室                     https://www.facebook.com/sp        発泡酒",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "となみ麦酒",
+    "pref": "富山県",
+    "address": "富山県砺波市表町10-2",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "karuizawa Q",
+    "pref": "長野県",
+    "address": "長野県軽井沢町中軽井沢6-9 2F",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Free Spirits Brewing",
+    "pref": "兵庫県",
+    "address": "兵庫県姫路市久保町53",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "江田島ワークス",
+    "pref": "広島県",
+    "address": "広島県江田島市能美町中町2372-2",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ITOSHIMA HELLO CRAFT",
+    "pref": "福岡県",
+    "address": "福岡県糸島市二丈上深江89-1 糸島",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ひみつビール",
+    "pref": "三重県",
+    "address": "三重県伊勢市二見町西829番地１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "MANGOSTEEN BREWING LAB",
+    "pref": "山梨県",
+    "address": "山梨県北杜市明野町浅尾新田３１番",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "和歌山ブルワリー加太醸造所",
+    "pref": "和歌山県",
+    "address": "和歌山県和歌山市加太字北ノ町１６",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "別府ブルワリー",
+    "pref": "大分県",
+    "address": "大分県別府市大字鶴見１０３番地の",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ヘリオス那覇空港ブルワリー",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市字鏡水１５０ 番地                                                                       発泡酒",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "THRILLER BEACH BREWERY",
+    "pref": "千葉県",
+    "address": "千葉県勝浦市勝浦１１−１",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "坂道ブルーイング合同会社",
+    "pref": "東京都",
+    "address": "東京都立川市柴崎町２丁目６−５",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "YUDANAKA BREWERY COMPLEX \"U\"",
+    "pref": "長野県",
+    "address": "長野県下高井郡山ノ内町大字佐野",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "GOOD AFTERNOON TAP ROOM",
+    "pref": "長野県",
+    "address": "長野県北佐久郡軽井沢町中軽井沢6",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "KEZZA",
+    "pref": "福岡県",
+    "address": "福岡県朝倉市５１８番地",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Lake Toya Beer 洞爺湖温泉工場",
+    "pref": "北海道",
+    "address": "北海道虻田郡洞爺湖町洞爺湖温泉4                                                                      発泡酒",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "Tobetsu Sevem's Brewing",
+    "pref": "北海道",
+    "address": "北海道石狩郡当別町樺戸町５２−４",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "アンドビール勝沼醸造所",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼3042-2",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "旧 味噌 ＤＥ りすとらんて 発酵文化研究所 幕張",
+    "pref": "千葉県",
+    "address": "千葉県千葉市花見川区武石町2-",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "スプリングバレーブルワリー横浜",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市鶴見区生麦１－",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "ピリカワッカ",
+    "pref": "北海道",
+    "address": "北海道千歳市東郊1-7-1",
+    "category": "beer",
+    "source": "open_2022_2407"
+  },
+  {
+    "name": "きちブルーイング",
+    "pref": "東京都",
+    "address": "東京都葛飾区堀切２丁目５５−１０",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Beer Again Brewing",
+    "pref": "静岡県",
+    "address": "静岡県御殿場市川島田１２８４−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Tall Boys Brewing",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市南区松池町２丁目２８−",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "坂道ブルイング合同会社 Sakamichi Brewin 坂道ブリュワリー",
+    "pref": "東京都",
+    "address": "東京都立川市柴崎町２丁目６−５ 青木ビル",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "U.B.P Brewery",
+    "pref": "埼玉県",
+    "address": "埼玉県さいたま市浦和区高砂２丁目１−１９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "砂町ブルワリー",
+    "pref": "東京都",
+    "address": "東京都江東区東砂7丁目16番12",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "マルテン商会 マルテンクイーンビア",
+    "pref": "大阪府",
+    "address": "大阪府大阪市浪速区下寺１丁目６番９号",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ドルフィンズ梅田店 船場ビール",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区芝田1-5-6 梅田旭ビル1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Kirali Brewery",
+    "pref": "熊本県",
+    "address": "熊本県山鹿市方保田2820-4",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "稲田堤麦酒醸造所",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市多摩区菅北浦２丁目２１−",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "㈱矢尾本店 秩父錦酒づくりの森",
+    "pref": "埼玉県",
+    "address": "埼玉県秩父市別所字久保ノ入1432",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "NAT.Brew",
+    "pref": "富山県",
+    "address": "富山県南砺市山見１７２１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "hangout",
+    "pref": "広島県",
+    "address": "広島県広島市中区本川町２丁目４−１７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "River Port Brewery",
+    "pref": "岐阜県",
+    "address": "岐阜県美濃市港町１４４８−１−２−２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Streetlight Brewing",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区北１０条西１９丁目",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ルルルなビール",
+    "pref": "群馬県",
+    "address": "群馬県前橋市本町２丁目１番１２号",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "日野醸造所 BEER BULK J",
+    "pref": "東京都",
+    "address": "東京都多摩市一ノ宮３丁目５−１６",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "洞川温泉醸造所",
+    "pref": "奈良県",
+    "address": "奈良県吉野郡天川村洞川２２６",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "北海道そらとしば醸造所",
+    "pref": "北海道",
+    "address": "北海道北広島市 Ｆビレッジ １番地",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Natural Roots Studio",
+    "pref": "静岡県",
+    "address": "静岡県三島市長伏１４９−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Twin Peaks Mountain Brewing",
+    "pref": "茨城県",
+    "address": "茨城県つくば市東新井18−８ 藤田ビル",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Rough&Laugh Brewing",
+    "pref": "静岡県",
+    "address": "静岡県富士市富士町８−１２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Nobara Homestead Brewery",
+    "pref": "長野県",
+    "address": "長野県小県郡青木村奈良本２０８−７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "SAKURAZAKA BREWERY",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市牧志３丁目６−３ 1F",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Brewery Tugumi",
+    "pref": "沖縄県",
+    "address": "沖縄県島尻郡久米島町仲泊１０８７−６",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "美濃加茂ビール",
+    "pref": "岐阜県",
+    "address": "岐阜県美濃加茂市太田本町１丁目５−２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "CAMOSI BREWING",
+    "pref": "福岡県",
+    "address": "福岡県糸島市二丈深江２５４５−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "江口屋ブリューイング",
+    "pref": "茨城県",
+    "address": "茨城県かすみがうら市坂895番地1 江口屋醸",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "gogoshima beer farm",
+    "pref": "愛媛県",
+    "address": "愛媛県松山市由良町８０３−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Bighand Bros. Brewery",
+    "pref": "京都府",
+    "address": "京都府京都市上京区笹屋町通智恵光院西入ル笹屋",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "法龍山麦酒",
+    "pref": "神奈川県",
+    "address": "神奈川県横須賀市久里浜４丁目１４−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "fete 三島醸造所",
+    "pref": "静岡県",
+    "address": "静岡県三島市一番町１０−８ allez内",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Chigasaki Brewery",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市中海岸4-12986-153",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "アオシマクラフト",
+    "pref": "宮崎県",
+    "address": "宮崎県宮崎市青島１丁目５番４号",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Racine home針江",
+    "pref": "滋賀県",
+    "address": "滋賀県高島市新旭町針江235番地",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "松井酒造合名会社 MATSUI BEER",
+    "pref": "鳥取県",
+    "address": "鳥取県倉吉市上古川656-1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Wayfarer Brewing Company",
+    "pref": "高知県",
+    "address": "高知県南国市国分１２７８−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "放出醸造所 祝日麦酒",
+    "pref": "大阪府",
+    "address": "大阪府大阪市鶴見区放出東３丁目２２−３",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "銚子ビール 藤兵衛醸造所",
+    "pref": "千葉県",
+    "address": "千葉県大里郡寄居町大字桜沢４１４番地",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "薩摩川内クラフトビール醸造所",
+    "pref": "鹿児島県",
+    "address": "鹿児島県薩摩川内樋脇町市比野141-1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "小田原ガレージブリューイング",
+    "pref": "神奈川県",
+    "address": "神奈川県小田原市栄町３丁目５−１８",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "AKANUMA ROMAN BREWING",
+    "pref": "埼玉県",
+    "address": "埼玉県春日部市赤沼704-2",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "サーガ株式会社 信楽高原ビール",
+    "pref": "滋賀県",
+    "address": "滋賀県甲賀市信楽町長野1532番地2",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "B.R.E.W",
+    "pref": "福岡県",
+    "address": "福岡県福岡市中央区荒戸1丁目2-5 イスト大濠１階",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "甘く浮く",
+    "pref": "栃木県",
+    "address": "栃木県那須塩原市豊浦中町１００−１０",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "大濠ブルワリー",
+    "pref": "福岡県",
+    "address": "福岡県福岡市中央区大濠１丁目３−７ １",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "岸和田ビール",
+    "pref": "大阪府",
+    "address": "大阪府岸和田市岸和田市臨海町７－１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "油伝麦酒",
+    "pref": "栃木県",
+    "address": "栃木県栃木市嘉右衛門町５−２７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "およろこビール",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市瑞穂区田辺通六丁目49-2",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "NEIGHBOUR Roast & Brew",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区北３条西１丁目２−９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Teenage Brewing",
+    "pref": "埼玉県",
+    "address": "埼玉県比企郡ときがわ町馬場435 ｰ1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "GORA BREWERY",
+    "pref": "神奈川県",
+    "address": "神奈川県足柄上郡箱根町強羅１３００−７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "しんちゃん醸造所",
+    "pref": "大阪府",
+    "address": "大阪府大阪市阿倍野区松崎町",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "蛍火醸造 Keika Brewing",
+    "pref": "青森県",
+    "address": "青森県浅虫蛍谷６４−１５",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "うついブルワリー",
+    "pref": "山口県",
+    "address": "山口県下関市植田1398-1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "千葉稲毛ビール",
+    "pref": "千葉県",
+    "address": "千葉県千葉市稲毛区稲毛東３丁目６−１３",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "YASUDAYA BREWERY",
+    "pref": "千葉県",
+    "address": "千葉県流山加６丁目１３０１−７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "NAMINO OTO BREWING",
+    "pref": "兵庫県",
+    "address": "兵庫県南あわじ市松帆古津路７１４−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "株式会社しまなみブルワリー",
+    "pref": "広島県",
+    "address": "広島県尾道市久保１丁目６−１５−２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "REC CIDER & BEER WORKS",
+    "pref": "福島県",
+    "address": "福島県喜多方市関柴町上高額樋口３３３−",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ベクターブルーイング寄居工場",
+    "pref": "埼玉県",
+    "address": "埼玉県大里郡寄居町桜沢４１４                           パブなし                 https://lifeart-navi.com/         発泡酒",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "FILL BREWING",
+    "pref": "沖縄県",
+    "address": "沖縄県沖縄市中央１丁目４−８ 福地ビル",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Forest Brewing",
+    "pref": "宮城県",
+    "address": "宮城県柴⽥郡川崎町川内字北川原⼭238-",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "マルチネスブルワリー",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市千種区本山町４丁目７４−",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "NAKAFURANO BREWERY",
+    "pref": "北海道",
+    "address": "北海道空知郡中富良野町北町９−２ コンテ",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ヒルゴテル サンピア伊賀",
+    "pref": "三重県",
+    "address": "三重県伊賀市西明寺2−2−８",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Brasserie Ogresse Quete",
+    "pref": "秋田県",
+    "address": "秋田県男鹿市船川港船川化世沢１８１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "HOPDOG BREWING",
+    "pref": "秋田県",
+    "address": "秋田県秋田市南通みその町６−２７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "天神",
+    "pref": "福岡県",
+    "address": "福岡県太宰府市宰府１丁目１４",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Sankaku Beer Works",
+    "pref": "鹿児島県",
+    "address": "鹿児島県南九州市川辺町平山６９７８",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "尾州ブルーイング",
+    "pref": "愛知県",
+    "address": "愛知県一宮市栄４丁目１−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "岡崎ビール城北工場",
+    "pref": "愛知県",
+    "address": "愛知県岡崎市城北町14番地1                                         https://okazaki-beer.com/         発泡酒",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "AGARIHAMA BREWERY",
+    "pref": "沖縄県",
+    "address": "沖縄県島尻郡与那原町東浜2-4",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "京都伏見醸造所",
+    "pref": "京都府",
+    "address": "京都府京都市伏見区伯耆町１１ メゾンmu",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "大工町醸造所",
+    "pref": "茨城県",
+    "address": "茨城県水戸市泉町３丁目５−９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "八千穂ブリューイング",
+    "pref": "長野県",
+    "address": "長野県南佐久郡佐久穂町八郡2049番865",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Nori's Beer",
+    "pref": "山梨県",
+    "address": "山梨県西八代郡市川三郷町高田３０３８",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "TEGAMISHA BREWERY",
+    "pref": "東京都",
+    "address": "東京都調布市下石原２丁目６−１４ ラ・メゾ",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "吉備土手麦酒醸造所 庵醸造所",
+    "pref": "岡山県",
+    "address": "岡山県岡山市中区門田本町2丁目1−13",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "IWAMI BLUE BEER",
+    "pref": "鳥取県",
+    "address": "鳥取県岩美郡岩美町浦富2465-1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "KOKAGE BEER",
+    "pref": "長野県",
+    "address": "長野県北佐久郡軽井沢町追分７２５−４９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "恩納ビール TURQUOISE",
+    "pref": "沖縄県",
+    "address": "沖縄県恩納村字真栄田９２８番地１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Niihama Brewery",
+    "pref": "愛媛県",
+    "address": "愛媛県新居浜市松原町１−２１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "オタマブルーイングサンワラボ",
+    "pref": "新潟県",
+    "address": "新潟県上越市三和区末野新田1702",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "BEER VISTA BREWERY",
+    "pref": "東京都",
+    "address": "東京都江東区常盤２丁目１３−１７ トキワ",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ツバメビール AOUZE Brewing",
+    "pref": "新潟県",
+    "address": "新潟県燕市粟生津 AOUZE BASE",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "ＤＡＷＮ ＢＲＥＷＳ",
+    "pref": "東京都",
+    "address": "東京都江東区清澄１丁目１番７号LYURO",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "養父本家醸造所",
+    "pref": "兵庫県",
+    "address": "兵庫県養父市上野1500番地(入口は建物右",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "KAMOGAWA BREWERY",
+    "pref": "千葉県",
+    "address": "千葉県鴨川市前原359-69",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "農LAND BEER",
+    "pref": "岐阜県",
+    "address": "岐阜県加茂郡白川町黒川2412",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Heal Soul",
+    "pref": "兵庫県",
+    "address": "兵庫県西宮市本町５−９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "呑象ブリューイング",
+    "pref": "香川県",
+    "address": "香川県仲多度郡琴平町182番地 2",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "VATTEN BREWING",
+    "pref": "熊本県",
+    "address": "熊本県阿蘇郡小国町北里３４５",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "WOLVES BREWING",
+    "pref": "山梨県",
+    "address": "山梨県北都留郡丹波山村4903-7",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "祭醸造",
+    "pref": "千葉県",
+    "address": "千葉県浦安市当代島２丁目１−２７ 石長",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "MinoSeki Weekend Brewery",
+    "pref": "岐阜県",
+    "address": "岐阜県関市若草通１丁目８ 中濃公設地方",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "APE BREWING",
+    "pref": "大阪府",
+    "address": "大阪府大阪市中央区瓦町2丁目1-15 瓦町",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Joynt's Joynt Craft Beer / Café",
+    "pref": "静岡県",
+    "address": "静岡県伊東市松原本町４−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "蒜山醸造所つちとみず",
+    "pref": "岡山県",
+    "address": "岡山県真庭市蒜山下和２７６４−１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "THIS BREWING",
+    "pref": "東京都",
+    "address": "東京都台東区上野１丁目３−７",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Beto Coco Brewing",
+    "pref": "福井県",
+    "address": "福井県あわら市春宮２丁目２６−１２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "GROUNDTAP BREWERY",
+    "pref": "愛媛県",
+    "address": "愛媛県西条市大町１５０９−４",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Gangi Brewing",
+    "pref": "新潟県",
+    "address": "新潟県上越市大和２丁目１６−４",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "三条醸造所",
+    "pref": "京都府",
+    "address": "京都府京都市中京区河原町三条上る恵比須",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "浜松たんと",
+    "pref": "静岡県",
+    "address": "静岡県浜松市天竜区水窪町",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "KeMBY'S IWAKUNI BASE BREWE",
+    "pref": "山口県",
+    "address": "山口県岩国市麻里布町４丁目７−4 大安",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "島国ブルワリー",
+    "pref": "沖縄県",
+    "address": "沖縄県うるま市字高江洲１０５０番地３",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "カノンブルーイング",
+    "pref": "東京都",
+    "address": "東京都世田谷区代沢",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "High Life Brewing",
+    "pref": "愛知県",
+    "address": "愛知県田原市東赤石５丁目1−１０３",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "新座クラフト",
+    "pref": "埼玉県",
+    "address": "埼玉県新座市大和田３丁目４−５０",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "三浦ブルワリー",
+    "pref": "神奈川県",
+    "address": "神奈川県三浦市三崎１丁目１０−１２",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "YagiriBrewery",
+    "pref": "千葉県",
+    "address": "千葉県松戸市下矢切１５３番地の１",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "阿蘇・岡本",
+    "pref": "熊本県",
+    "address": "熊本県阿蘇市内牧２１７番地",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "バンリノハルビアホール",
+    "pref": "大阪府",
+    "address": "大阪府富田林市富田林町２１番２２号",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "浦島ブルワリー",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市神奈川区浦島町378",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Beer Pub KOGANE",
+    "pref": "兵庫県",
+    "address": "兵庫県姫路市西二階町１２１ カマタニビル",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "dam brewery",
+    "pref": "東京都",
+    "address": "東京都港区虎ノ門２丁目６−３ ヒルズ ステー",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "みゃーブリュー",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市千種区神田町３３−５ 大",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "KYOTO NUDE BREWERY",
+    "pref": "京都府",
+    "address": "京都府京都市右京区京北細野町上小屋谷１番地",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Whale Brewing 呼子クラフトビール醸造",
+    "pref": "佐賀県",
+    "address": "佐賀県唐津市呼子町呼子3764番地4",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "Beer Bar YOKABITO",
+    "pref": "鹿児島県",
+    "address": "鹿児島県鹿児島市谷山中央一丁目４０９",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "池上本門寺通り醸造所",
+    "pref": "東京都",
+    "address": "東京都大田区池上４丁目３１−１６",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "GAME BREW",
+    "pref": "佐賀県",
+    "address": "佐賀県神埼郡吉野ヶ里町吉田１４５",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "SOUTH HORIZON BREWING",
+    "pref": "高知県",
+    "address": "高知県高知市仁井田字新港4712-5",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "あだちブルワリー株式会社",
+    "pref": "東京都",
+    "address": "東京都足立区西新井本町",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "本郷菊坂町かもす",
+    "pref": "東京都",
+    "address": "東京都文京区本郷5-1-2、シャープ本郷1F",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "株式会社ろんぢん",
+    "pref": "島根県",
+    "address": "島根県安来市荒島町1853-1",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "横川BREWERY",
+    "pref": "広島県",
+    "address": "広島県広島市西区横川町３丁目４−１３",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "OVER REV Brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市多摩区枡形３丁目５番４号 相模 屋",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "CIVIC BREWERS",
+    "pref": "大阪府",
+    "address": "大阪府交野市藤が尾4-1-3",
+    "category": "beer",
+    "source": "2023-open_202407"
+  },
+  {
+    "name": "大泉学園クラフトビール工 房",
+    "pref": "東京都",
+    "address": "東京都練馬区東大泉１丁目３０−１５ 1F",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ツカレナオースブルワリー",
+    "pref": "兵庫県",
+    "address": "兵庫県南あわじ市阿万吹上町田尻１３６７",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "酒田トラディショナルビール",
+    "pref": "山形県",
+    "address": "山形県酒田市京田４丁目８−２",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Great Dane Brewing",
+    "pref": "宮城県",
+    "address": "宮城県仙台市太白区秋保町湯元枇杷原５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "hazy labo",
+    "pref": "埼玉県",
+    "address": "埼玉県狭山市新狭山２丁目８−８ 瀬戸ビル",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ひよし山の家醸造所",
+    "pref": "京都府",
+    "address": "京都府南丹市日吉町生畑ツノ元下１６",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "IWAI BREWERY",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎２４７１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "DAWN BREWS",
+    "pref": "東京都",
+    "address": "東京都江東区清澄１丁目１−７",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "福津ビール ゴールデンブリュワリー",
+    "pref": "福岡県",
+    "address": "福岡県福津市西福間２丁目８−２４",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "しもかわ森のブルワリー 下川醸造所",
+    "pref": "北海道",
+    "address": "北海道下川町錦町２４−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "CinCin山中湖ブルワリー",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡山中湖村山中８６５−２６",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "CLIFF GARO BREWING",
+    "pref": "沖縄県",
+    "address": "沖縄県沖縄市高原６丁目２−８",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "NOVORU brewing",
+    "pref": "宮崎県",
+    "address": "宮崎県宮崎市山崎町下ノ原９３９",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "コダマブルワリー",
+    "pref": "群馬県",
+    "address": "群馬県高崎市本町１１７−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "あだちブルワリー",
+    "pref": "東京都",
+    "address": "東京都足立区西新井本町３丁目１０−２１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "R_BREWERY self",
+    "pref": "滋賀県",
+    "address": "滋賀県蒲生郡竜王町山之上7104-1",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "CAMOS BREWERY",
+    "pref": "東京都",
+    "address": "東京都文京区本郷5-1-2 シャープ本郷 1F",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "晴海ビール醸造所",
+    "pref": "東京都",
+    "address": "東京都中央区晴海５丁目６−３ 1F",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ケンズブルワリー",
+    "pref": "神奈川県",
+    "address": "神奈川県相模原市中央区矢部１丁目４−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "NOMENDO BREW STAND",
+    "pref": "埼玉県",
+    "address": "埼玉県越谷市弥生町１−１ 清水ビル 102",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "TANGOYA BREWERY 丹後屋醸造",
+    "pref": "京都府",
+    "address": "京都府与謝郡与謝野町下山田１３４２−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Better life with upcycle Brewing＆Distilling",
+    "pref": "神奈川県",
+    "address": "神奈川県海老名市下今泉１－１９－１３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "LAMP BEER STUDIO",
+    "pref": "岡山県",
+    "address": "岡山県岡山市南区福浜町１２−１３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "VEPAR",
+    "pref": "東京都",
+    "address": "東京都青梅市木野下1-404",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "3 on 3 Fukaya",
+    "pref": "埼玉県",
+    "address": "埼玉県深谷市上野台２３９５−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Novel Craft Brewing",
+    "pref": "東京都",
+    "address": "東京都杉並区高井戸東２丁目２５−１１ エ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "VERTERE醸造所 新工場",
+    "pref": "東京都",
+    "address": "東京都西多摩郡奥多摩町氷川 1099 番地",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Monterey Brewing",
+    "pref": "長野県",
+    "address": "長野県塩尻市洗馬２４５６−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ベリーグッドブルーイング",
+    "pref": "山口県",
+    "address": "山口県下松市清瀬町三丁目17番25号",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "永山本家酒造場 Dr.KONG BREWING",
+    "pref": "山口県",
+    "address": "山口県宇部市大字車地138番地",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "YEBISU BREWERY TOKYO",
+    "pref": "東京都",
+    "address": "東京都渋谷区恵比寿４丁目２０−１ ガーデ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Beernik Brewing 湯河原熱海醸造所",
+    "pref": "静岡県",
+    "address": "静岡県熱海市泉６−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "RONDIN BREWERY",
+    "pref": "島根県",
+    "address": "島根県安来市荒島町1853番地 1",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "OUR BREWINGブルワリー",
+    "pref": "福井県",
+    "address": "福井県福井市中央1-3-5 FUKUMACHI B",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "RRAAP BREWERY",
+    "pref": "神奈川県",
+    "address": "神奈川県藤沢市湘南台２丁目８−７ ﾗｲｵﾝｽ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "AMATERASU醸造所",
+    "pref": "神奈川県",
+    "address": "神奈川県藤沢市江の島１丁目７−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Primary Barrels",
+    "pref": "京都府",
+    "address": "京都府福知山市大内１７６７",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "KO52 BREWERY & TAPROOM",
+    "pref": "東京都",
+    "address": "東京都八王子市下恩方町1557",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "INGRY MONGRY",
+    "pref": "大阪府",
+    "address": "大阪府東大阪市中新開2-2-1ロイヤルハイツ山",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "王越麦酒醸造所",
+    "pref": "香川県",
+    "address": "香川県坂出市王越町乃生８１６",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "WHITE DOG BREWING",
+    "pref": "神奈川県",
+    "address": "神奈川県横須賀市浦賀",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Brewing百 百花繚乱",
+    "pref": "熊本県",
+    "address": "熊本県葦北郡芦北町花岡６３５−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ゆるうむブルーイング",
+    "pref": "茨城県",
+    "address": "茨城県水戸市小吹町２６２４−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Hiro's醸造所",
+    "pref": "大阪府",
+    "address": "大阪府堺市西区草部８３９−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Osaka Namba Brewers",
+    "pref": "大阪府",
+    "address": "大阪府大阪市浪速区下寺１丁目６−９ Ｔ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ビッリフィーチョハヤマ",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市神奈川区鶴屋町2-11-2",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "PIRONO BEER",
+    "pref": "福島県",
+    "address": "福島県郡山市堂前町１２−６",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "UCCIARE Brewing ウッチャーレブルーイング",
+    "pref": "東京都",
+    "address": "東京都大田区東矢口",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ありのみブルワリー",
+    "pref": "千葉県",
+    "address": "千葉県市川市大野町２丁目６８０−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Bierernst PARLOR Coffee Shop",
+    "pref": "東京都",
+    "address": "東京都多摩市諏訪1丁目9番地の4. センチュ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MICHISHIO BREWING",
+    "pref": "広島県",
+    "address": "広島県豊田郡大崎上島町木江５１５０−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "みんなでブルワリー",
+    "pref": "香川県",
+    "address": "香川県三豊市仁尾町仁尾丁１９８−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "能登島第二工場",
+    "pref": "石川県",
+    "address": "石川県金沢市円光寺３丁目１−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "OLDBOYS BREWING",
+    "pref": "東京都",
+    "address": "東京都八王子市横山町１０－１４",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "金星醸造",
+    "pref": "青森県",
+    "address": "青森県三沢市中央町２丁目８−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "AIM Brew LAB",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡富士河口湖町西湖１９",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Habuminato Brewery",
+    "pref": "東京都",
+    "address": "東京都大島町波浮港４",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ケンちゃんビール",
+    "pref": "滋賀県",
+    "address": "滋賀県彦根市八坂町３１９７−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "BRIDGE BEERS BREWING",
+    "pref": "兵庫県",
+    "address": "兵庫県明石市小久保２丁目４−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "日立麦酒醸造所",
+    "pref": "茨城県",
+    "address": "茨城県日立市弁天町１丁目16−11 1階",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ROMEO BREWERY",
+    "pref": "東京都",
+    "address": "東京都墨田区押上２丁目１２−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "潮風ブルーラボブルワリー",
+    "pref": "千葉県",
+    "address": "千葉県千葉市中央区登戸",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MATSUMOTO GAKU都 BREWING",
+    "pref": "長野県",
+    "address": "長野県松本市本庄１丁目２−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "高濱庭園",
+    "pref": "島根県",
+    "address": "島根県出雲市大社町杵築東４６３ １",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "THE BREWMASTER STOREHOUSE",
+    "pref": "福岡県",
+    "address": "福岡県福岡市博多区那珂6丁目23-1",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Orang Craft Brewery",
+    "pref": "大分県",
+    "address": "大分県佐伯市大手町３丁目５−７",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "FETISH CLUB TOKYO BrewLab",
+    "pref": "東京都",
+    "address": "東京都港区芝大門２丁目１３番５号 坂入",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ブレッドエールブルワリー",
+    "pref": "東京都",
+    "address": "東京都調布市仙川町３丁目３番地４ ウィ ス",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "BEER BASE 高槻",
+    "pref": "大阪府",
+    "address": "大阪府高槻市芥川町１丁目１５−４ ミドリ芥",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "LAYDAY BEER",
+    "pref": "沖縄県",
+    "address": "沖縄県うるま市石川2-5-1",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "CRAFT ALE CHIGIRA",
+    "pref": "群馬県",
+    "address": "群馬県桐生市新里町武井",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "21 Brew Cave",
+    "pref": "東京都",
+    "address": "東京都西東京市谷戸町1丁目23番7号",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "龍泉洞ビール",
+    "pref": "岩手県",
+    "address": "岩手県下閉伊郡岩泉町岩泉字小屋敷4-8",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Buzzed Lamb Brewing",
+    "pref": "東京都",
+    "address": "東京都台東区谷中",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MAHOWBREW",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市壺屋2-4-3",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "THE BLISS BREWERY",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区北仲通６丁目１０１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MUGEN BREWING",
+    "pref": "大阪府",
+    "address": "大阪府大阪市中央区高麗橋１丁目１−３ 桝",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Blade Factory Brewing",
+    "pref": "岐阜県",
+    "address": "岐阜県関市川間町5−１０",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MAIZURU CRAFT",
+    "pref": "京都府",
+    "address": "京都府舞鶴市浜町７－１ オーブ浜１階",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "MEINOHAMA BREWERY",
+    "pref": "福岡県",
+    "address": "福岡県福岡市西区小戸２－３－１８",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Lasso Brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県小田原市栄町3丁目22番1号",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "有頂天醸造",
+    "pref": "長野県",
+    "address": "長野県諏訪市諏訪１丁目４−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "山本山高原ブルワリー",
+    "pref": "新潟県",
+    "address": "新潟県小千谷市本町１丁目１３−２８",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ペラコビール",
+    "pref": "神奈川県",
+    "address": "神奈川県川崎市麻生区五力田２丁目３−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "FARMENTRY",
+    "pref": "奈良県",
+    "address": "奈良県橿原市五井町１９７−５",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "京極麦酒",
+    "pref": "北海道",
+    "address": "北海道虻田郡京極町三崎９１－８",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "52's Brewing",
+    "pref": "京都府",
+    "address": "京都府京都市右京区西院久田町１４",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "KBL THE GARAGE",
+    "pref": "京都府",
+    "address": "京都府京都市下京区朱雀宝蔵町２７−２",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "YUMEGAOKA SUNDAY BREWING",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市泉区下飯田町字大原1584",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "THE OLDGREY BREWERY",
+    "pref": "北海道",
+    "address": "北海道​北海道白老郡白老町大町3丁目4-11",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "THE STADIUM BREWS NAGASAKI",
+    "pref": "長崎県",
+    "address": "長崎県長崎市幸町７−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "B.M.B Brewery",
+    "pref": "宮崎県",
+    "address": "宮崎県宮崎市清武町今泉甲３６０３−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Yellow Monkey Brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市都筑区中川１丁目１７−６",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "104BREWERY",
+    "pref": "岐阜県",
+    "address": "岐阜県土岐市妻木町２０５７−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Tri-potamia三州麦酒",
+    "pref": "愛知県",
+    "address": "愛知県安城市大東町１１−２４",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "FLORA FERMENTATION醸造所",
+    "pref": "滋賀県",
+    "address": "滋賀県東近江市山上町３５０５−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "copo",
+    "pref": "大阪府",
+    "address": "大阪府大阪市淀川区東三国4-9-4",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ゆの里",
+    "pref": "和歌山県",
+    "address": "和歌山県橋本市神野々９０６−１",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "カムイゲイル 北海道ブルワリー",
+    "pref": "北海道",
+    "address": "北海道苫小牧市錦町2丁目2-17",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "コノユビトマレ",
+    "pref": "愛知県",
+    "address": "愛知県額田郡幸田町大字芦谷大西9-1",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "くにうみ醸造所",
+    "pref": "滋賀県",
+    "address": "滋賀県犬上郡多賀町大字多賀１３２２−２",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "塊肉居酒屋肉べぇ新宿御苑",
+    "pref": "東京都",
+    "address": "東京都新宿区新宿１丁目１６−１０ カテリー",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "花園クラフト",
+    "pref": "大阪府",
+    "address": "大阪府東大阪市吉田７丁目６−２ 絹笠ハイ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "ASH HEAD BREWERY",
+    "pref": "鹿児島県",
+    "address": "鹿児島県霧島市隼人町小浜２８番地 オバマ",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "セッションズブルワリー",
+    "pref": "広島県",
+    "address": "広島県広島市中区十日市町１丁目２−３",
+    "category": "beer",
+    "source": "2024Open_craftbrewery"
+  },
+  {
+    "name": "Gold Garden Brewery（Kanasago Brewery）",
+    "pref": "茨城県",
+    "address": "茨城県常陸太田市小島町2633                               〇     https://www.instagram.com/goldgardenbr 2024/12/18         発泡酒",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "チッタ・ブルワリー / nido kitchen",
+    "pref": "千葉県",
+    "address": "千葉県千葉市中央区神明町34番地11 nido1階",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "三日月ブルワリー",
+    "pref": "和歌山県",
+    "address": "和歌山県和歌山市美園町５丁目５−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "出雲だいこくビール",
+    "pref": "島根県",
+    "address": "島根県出雲市平田町片原町８１２",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "KANOJI BREWING",
+    "pref": "香川県",
+    "address": "香川県観音寺市港町１丁目６−１７",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "日和佐ビール",
+    "pref": "徳島県",
+    "address": "徳島県海部郡美波町日和佐浦184番地3",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "sunao brewey",
+    "pref": "秋田県",
+    "address": "秋田県横手市田中町４−２５",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "奥松島醸造所",
+    "pref": "宮城県",
+    "address": "宮城県東松島市野蒜ケ丘三丁目20番地2",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "THE KICHI",
+    "pref": "栃木県",
+    "address": "栃木県日光市相生町３−９",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Mingel Farmhouse Beer & Bread",
+    "pref": "栃木県",
+    "address": "栃木県芳賀郡益子町益子4276-2",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "STERRATO BREWERY",
+    "pref": "千葉県",
+    "address": "千葉県長生郡白子町剃金２７２０−２",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "武相ブリュワリー町田駅前店",
+    "pref": "東京都",
+    "address": "東京都町田市原町田６丁目１２−２０",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Logram Brewing",
+    "pref": "東京都",
+    "address": "東京都世田谷区深沢５丁目１−８１０４",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "MIURA brewery",
+    "pref": "神奈川県",
+    "address": "神奈川県横須賀市長井1丁目22番15号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "アンワイナリー＆ブルワリーショップ",
+    "pref": "長野県",
+    "address": "長野県小諸市市町１丁目２−５",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "permanent",
+    "pref": "北海道",
+    "address": "北海道札幌市南区藤野3条6丁目5-1。",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "あきたブリューイングカンパニー",
+    "pref": "秋田県",
+    "address": "秋田県大仙市大花町15-43",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "八千代ブルワリー",
+    "pref": "千葉県",
+    "address": "千葉県八千代市勝田台2-1-9 (店舗・ブルワ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "CAMBUSA",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市神奈川区鶴屋町2-11-2",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Matsunami Base",
+    "pref": "神奈川県",
+    "address": "神奈川県茅ヶ崎市常盤町4-35 住和常盤ビル",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "2LF BEER",
+    "pref": "新潟県",
+    "address": "新潟県新潟市中央区天神1-19-9 けやき通り",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "志摩醸造",
+    "pref": "三重県",
+    "address": "三重県志摩市阿児町鵜方１６７０−２ 近鉄",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "719 CRAFT BEER",
+    "pref": "大阪府",
+    "address": "大阪府大阪市北区東天満",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "EbirBrew Studio（エビールブリュースタジオ）",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市東灘区住吉東町3丁目7-12",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ユイトリエール",
+    "pref": "北海道",
+    "address": "北海道海道厚岸郡厚岸町港町２丁目 83番地",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "くりおこクラフト栗山工場",
+    "pref": "北海道",
+    "address": "北海道夕張郡栗山町中央2丁目95番地",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "RIKKA DESIGN WERX",
+    "pref": "北海道",
+    "address": "北海道十勝郡浦幌町寿町４−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "SANDi BREWERY",
+    "pref": "福島県",
+    "address": "福島県いわき市川前町下桶売字藪ノ上130",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "のろし醸造",
+    "pref": "千葉県",
+    "address": "千葉県流山市大畔６０２ 602番地",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ありのみブルワリー（市川ビール）",
+    "pref": "千葉県",
+    "address": "千葉県市川市大野町２丁目６８０−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "SHIMODA BREWING",
+    "pref": "静岡県",
+    "address": "静岡県下田市一丁目5番23号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "渥美半島醸造",
+    "pref": "愛知県",
+    "address": "愛知県田原市福江町堂前60番地",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ISHIYAMA ROCK BREWERY",
+    "pref": "滋賀県",
+    "address": "滋賀県大津市石山寺3丁目1番5号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "NEKOBEER",
+    "pref": "福岡県",
+    "address": "福岡県福岡市南区長丘２丁目２５番１号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "GOOD HOPS",
+    "pref": "岩手県",
+    "address": "岩手県遠野市新穀町５−１３",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "BALDYS GOOD BEER",
+    "pref": "東京都",
+    "address": "東京都中央区日本橋兜町19番5号 Y'AKE",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "八丈島麦酒",
+    "pref": "東京都",
+    "address": "東京都八丈島八丈町中之郷２６１６−７",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Yama Bar (ヤマ・バー)",
+    "pref": "長野県",
+    "address": "長野県下高井郡野沢温泉村豊郷9288",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "RICE HACK BREWERY",
+    "pref": "三重県",
+    "address": "三重県桑名市長島町福豊905",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "日々一泡ブルワリー",
+    "pref": "大阪府",
+    "address": "大阪府大阪市福島区福島8丁目1番1号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Brasserie a Route",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市灘区水道筋3-4-7 2F",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "FUKUHAKU BREWERY",
+    "pref": "福岡県",
+    "address": "福岡県宮若市上大隈２−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "株式会社うきはバレー醸造所",
+    "pref": "福岡県",
+    "address": "福岡県うきは市浮羽町東隈上28-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "いぶすきブルワリー 廃校キッチン麦と庭",
+    "pref": "鹿児島県",
+    "address": "鹿児島県指宿市山川岡児ヶ水218-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "石狩沼田ブルワリー",
+    "pref": "北海道",
+    "address": "北海道雨竜郡沼田町本通二丁目３番地22",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "利休の各店舗（希望の丘醸造所 仙南工場）",
+    "pref": "宮城県",
+    "address": "宮城県岩沼市吹上二丁目2番31号",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "koko brew TOKYO",
+    "pref": "埼玉県",
+    "address": "埼玉県狭山市広瀬東1-12-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "NAGANO BREWERY",
+    "pref": "長野県",
+    "address": "長野県長野市大字長野往生地1341-3",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "HAKUTO BREWING",
+    "pref": "山形県",
+    "address": "山形県村山市河島山４−５",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Rusty Nest Brewery",
+    "pref": "千葉県",
+    "address": "千葉県大網白里市南今泉４８４３",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "NAMACHAん Brewing第四工場",
+    "pref": "東京都",
+    "address": "東京都豊島区南大塚１丁目６０−１９",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Aura Brewing",
+    "pref": "神奈川県",
+    "address": "神奈川県藤沢市藤沢３丁目３−２９ 勝島ビ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "KITO SHIMOICHI BREWING",
+    "pref": "奈良県",
+    "address": "奈良県吉野郡下市町善城 664-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "出雲國 松江醸造",
+    "pref": "島根県",
+    "address": "島根県松江市天神町１０１ 佐草屋",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "乙な液たまかわ",
+    "pref": "福島県",
+    "address": "福島県石川郡玉川村南須釜奥平２９０",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "中央線ビアワークス",
+    "pref": "東京都",
+    "address": "東京都小金井市緑町５丁目３−４５",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "霧積ブルワリー Kirizumi Brewery",
+    "pref": "群馬県",
+    "address": "群馬県安中市松井田町横川２８０−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ムギノヒミツ",
+    "pref": "新潟県",
+    "address": "新潟県新潟市秋葉区新町１丁目６−３",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "BREW笛吹",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市石和町市部７８９−８２",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "KOSHIEN Outfield Brewery",
+    "pref": "兵庫県",
+    "address": "兵庫県西宮市甲子園八番町２−１ LS甲子",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "TOTTEI BREWERY",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区新港町２−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "PAINT PALETTE BREWING",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区脇浜海岸通１丁目３−",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "BOONIES DINERと月灯リ下ノブリュワリー",
+    "pref": "島根県",
+    "address": "島根県大田市温泉津町温泉津ロ176-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "天領日田ブルワリー",
+    "pref": "大分県",
+    "address": "大分県日田市中本町５−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "CAT HOP",
+    "pref": "北海道",
+    "address": "北海道札幌市手稲区前田７条１３丁目２−",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "藤沢ビールハウス",
+    "pref": "神奈川県",
+    "address": "神奈川県藤沢市本町２丁目８−３０",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "アウグス・ブリューアンドスティルハウス 小田原蒸留場",
+    "pref": "神奈川県",
+    "address": "神奈川県南足柄市和田河原1253番",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "北杜醸造",
+    "pref": "山梨県",
+    "address": "山梨県北杜市大泉町谷戸4816",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "TESHIMA FACTORY",
+    "pref": "香川県",
+    "address": "香川県小豆郡土庄町豊島家浦８８９",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "こしきブリュワリー",
+    "pref": "鹿児島県",
+    "address": "鹿児島県薩摩川内市下甑町手打861",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "百名珈琲チェリービール",
+    "pref": "沖縄県",
+    "address": "沖縄県南城市玉城字百名1147番地コーポひ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "HEAVY SASORI BREWING",
+    "pref": "沖縄県",
+    "address": "沖縄県那覇市牧志３丁目９−１４",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "TOKYO BEER LAB",
+    "pref": "東京都",
+    "address": "東京都渋谷区神宮前３丁目２６−５ 101",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Spicy Brothers",
+    "pref": "新潟県",
+    "address": "新潟県村上市松山486番地7",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Dragon Brewing",
+    "pref": "愛知県",
+    "address": "愛知県名古屋市東区泉３丁目８−１１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "OIDEN Brewing",
+    "pref": "愛知県",
+    "address": "愛知県豊田市栄町",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Falo Brewing",
+    "pref": "宮城県",
+    "address": "宮城県亘理郡山元町坂元字山作1（旧坂元",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "おたこビール",
+    "pref": "千葉県",
+    "address": "千葉県千葉市中央区春日２丁目１９−４ 鈴",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "craftbeer1518",
+    "pref": "東京都",
+    "address": "東京都江東区住吉１丁目５−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "スリーアローズブルーイング株式会社",
+    "pref": "東京都",
+    "address": "東京都府中市府中町2-1-9（府中アーバンホ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "CRAFTROCK BREWING TAKAO",
+    "pref": "東京都",
+    "address": "東京都八王子市高尾町2292番地 HAKUE",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "白岡ビール",
+    "pref": "埼玉県",
+    "address": "埼玉県白岡市小久喜６６番地３",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Scent's brewing",
+    "pref": "山梨県",
+    "address": "山梨県北杜市長坂町大八田字米山6811番",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "KOMATSU BREWING",
+    "pref": "石川県",
+    "address": "石川県小松市本折町１７ １７番地                                    komatsu-brewing.com           923-0957   2025/10/1    免許種類はスピリッツ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "OOTORI BEER",
+    "pref": "大阪府",
+    "address": "大阪府堺市西区鳳東町7-733-7",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "SHIMANTO BREWING",
+    "pref": "高知県",
+    "address": "高知県四万十市中村本町1丁目21",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ノークブルワリー",
+    "pref": "青森県",
+    "address": "青森県下北郡東通村大字砂子又字沢内9番",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ブルーイングラボ",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市渋民字鶴飼20-1（イオンスーパ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "トコシエ醸造株式会社",
+    "pref": "茨城県",
+    "address": "茨城県龍ケ崎市米町４５６５−１ アーバンパ",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "SHIBAURA BREWING",
+    "pref": "東京都",
+    "address": "東京都港区芝浦１丁目１−１ ブルーフロント",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "UNLOCK Brew BASE",
+    "pref": "埼玉県",
+    "address": "埼玉県春日部市粕壁東２丁目１−３３",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "草津温泉麦酒",
+    "pref": "群馬県",
+    "address": "群馬県吾妻郡草津町大字草津323番地1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "凸凹 Brew Works",
+    "pref": "愛知県",
+    "address": "愛知県一宮市せんい１丁目５−８",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "いきかたブルワリー",
+    "pref": "三重県",
+    "address": "三重県四日市市生桑町７７−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "MATSUI TOTTORI BEER",
+    "pref": "鳥取県",
+    "address": "鳥取県倉吉市上古川656-1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "ゆのブルーイング島原醸造所",
+    "pref": "長崎県",
+    "address": "長崎県島原市霊南１丁目８１−１",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "凪の音ブルーイング合同会社",
+    "pref": "宮崎県",
+    "address": "宮崎県串間市大平３３９７",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "FUJI PREMIUM BREWING",
+    "pref": "静岡県",
+    "address": "静岡県御殿場市保土沢炭焼沢1015番地1",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "宮崎フェニックスブルーイング",
+    "pref": "宮崎県",
+    "address": "宮崎県宮崎市橘通東４－６－１４",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  },
+  {
+    "name": "Mt.Fuji Beer",
+    "pref": "静岡県",
+    "address": "静岡県富士宮市大宮町４−５",
+    "category": "beer",
+    "source": "2025Open_craftbrewery"
+  }
+]
