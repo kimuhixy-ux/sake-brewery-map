@@ -1,0 +1,2487 @@
+[
+  {
+    "name": "北海道池田町十勝ワイン/池田町ブドウ・ブドウ酒研究所",
+    "pref": "北海道",
+    "address": "北海道中川郡池田町清見83番地の4",
+    "website": "https://www.tokachi-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "富良野市ぶどう果樹研究所/ふらのワイン",
+    "pref": "北海道",
+    "address": "北海道富良野市清水山",
+    "website": "http://www.furanowine.jp",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 フィールドテクノロジー研究室/ばんけい峠のワイナリー",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区盤渓201-4",
+    "website": "https://sapporo-bankei-winery.jimdofree.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 宝水ワイナリー",
+    "pref": "北海道",
+    "address": "北海道岩見沢市宝水町364番3",
+    "website": "http://housui-winery.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "北海道ワイン 株式会社",
+    "pref": "北海道",
+    "address": "北海道小樽市朝里川温泉1-130",
+    "website": "https://www.hokkaidowine.com/index.html",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 八剣山さっぽろ地ワイン研究所/八剣山ワイナリー",
+    "pref": "北海道",
+    "address": "北海道札幌市南区砥山194-1",
+    "website": "https://hakkenzanwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 10R/トアールワイナリー",
+    "pref": "北海道",
+    "address": "北海道岩見沢市栗沢町上幌1123-10",
+    "website": "http://www.10rwinery.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 はこだてわいん",
+    "pref": "北海道",
+    "address": "北海道亀田郡七飯町上藤城11番地",
+    "website": "http://www.hakodatewine.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 松原農園",
+    "pref": "北海道",
+    "address": "北海道磯谷郡蘭越町上里151-8",
+    "website": "http://www.matsubarawine.com",
+    "category": "wine"
+  },
+  {
+    "name": "札幌酒精工業 株式会社/おとべワイナリー",
+    "pref": "北海道",
+    "address": "爾志郡乙部町字富岡251",
+    "website": "https://www.sapporo-shusei.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 山﨑ワイナリー",
+    "pref": "北海道",
+    "address": "北海道三笠市達布791-22",
+    "website": "http://www.yamazaki-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 月浦ワイナリー",
+    "pref": "北海道",
+    "address": "虻田郡洞爺湖町温泉36-8",
+    "website": "http://www.tsukiurawine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "MAOI 株式会社/馬追蒸溜所",
+    "pref": "北海道",
+    "address": "北海道夕張郡長沼町字加賀団体",
+    "website": "https://maoidistillery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 奥尻ワイナリー",
+    "pref": "北海道",
+    "address": "北海道奥尻郡奥尻町字湯浜300番地",
+    "website": "https://okushiri-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "さっぽろ藤野ワイナリー 株式会社",
+    "pref": "北海道",
+    "address": "北海道札幌市南区藤野670-1",
+    "website": "https://www.sapporo-fujino-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 農楽/農楽蔵",
+    "pref": "北海道",
+    "address": "北海道函館市元町31-20",
+    "website": "http://www.nora-kura.jp",
+    "category": "wine"
+  },
+  {
+    "name": "羊蹄グリーンビシネス(株)/ニセコワイナリー",
+    "pref": "北海道",
+    "address": "虻田郡ニセコ町近藤194-8",
+    "website": "http://yoteigreenbusiness.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 O・B・U Company/OSA WINERY",
+    "pref": "北海道",
+    "address": "北海道小樽市色内1-6-4",
+    "website": "http://osawinery.com",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 多田農園/多田ワイナリー",
+    "pref": "北海道",
+    "address": "北海道空知郡上富良野町東9線北18号",
+    "website": "https://ninjin-koubou.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Hokkaido SPACE Winery",
+    "pref": "北海道",
+    "address": "北海道夕張郡長沼町東9線南5番地",
+    "website": "https://hokkaido-space-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "あいざわ農園 合同会社/相澤ワイナリー",
+    "pref": "北海道",
+    "address": "北海道帯広市以平町西9線21-1",
+    "website": "https://aizawanouen.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Domaine Raison",
+    "pref": "北海道",
+    "address": "北海道空知郡中富良野町東1線北4号",
+    "website": "https://domaine-raison.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 森臥",
+    "pref": "北海道",
+    "address": "北海道名寄市弥生674番地",
+    "website": "https://shinga-shinga.jimdofree.com/",
+    "category": "wine"
+  },
+  {
+    "name": "さっぽろワイン 株式会社",
+    "pref": "北海道",
+    "address": "北海道札幌市手稲区新発寒5条1丁目6番1号",
+    "website": "https://www.sapporo-wine.com/home",
+    "category": "wine"
+  },
+  {
+    "name": "ボスアグリワイナリー",
+    "pref": "北海道",
+    "address": "北海道北見市端野町緋牛内793番地1",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "めむろワイナリー 株式会社",
+    "pref": "北海道",
+    "address": "北海道河西郡芽室町中美生二線44番地3",
+    "website": "https://memurowinery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 大地/十勝まきばの家ワイナリー",
+    "pref": "北海道",
+    "address": "北海道中川郡池田町字清見144番地1",
+    "website": "https://makibanoie.com/tp_detail.php?id=177",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 深川振興公社/アップルランド山の駅おとえ",
+    "pref": "北海道",
+    "address": "北海道深川市音江町字音江589番地28",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "上ノ国開発 株式会社/上ノ国ワイナリー",
+    "pref": "北海道",
+    "address": "北海道檜山郡上ノ国町字湯ノ岱243番地4",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ベルヴュ/ド・モンティーユ＆北海道",
+    "pref": "北海道",
+    "address": "北海道函館市桔梗町604-3",
+    "website": "https://www.demontille-hokkaido.com/",
+    "category": "wine"
+  },
+  {
+    "name": "雪川醸造 合同会社",
+    "pref": "北海道",
+    "address": "北海道上川郡東川町東町2-1-6",
+    "website": "https://www.snowriverwines.com/",
+    "category": "wine"
+  },
+  {
+    "name": "DUE PUNTI 株式会社",
+    "pref": "北海道",
+    "address": "北海道北斗市文月189-1",
+    "website": "https://www.due-punti-vineyards.com/about",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 えべおつWein",
+    "pref": "北海道",
+    "address": "北海道滝川市江部乙町東12-1454-39",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "十勝ぶどう園 株式会社/十勝が丘ワイナリー",
+    "pref": "北海道",
+    "address": "北海道河東郡音更町柳町仲区2番地",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "Kamisato Vineyard",
+    "pref": "北海道",
+    "address": "北海道磯谷郡蘭越町目名町430",
+    "website": "https://kamisatovineyard.com/",
+    "category": "wine"
+  },
+  {
+    "name": "社会福祉法人 鷹栖共生会 とわ北斗/ドメーヌ トワ",
+    "pref": "北海道",
+    "address": "北海道上川郡鷹栖町14線17号",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 テシカガファーム/屈斜路カルデラワイナリー",
+    "pref": "北海道",
+    "address": "北海道川上郡弟子屈町中央1-5-19",
+    "website": "https://teshikagafarm.com/kcwinery/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ハマダヴィンヤード/Les Vins de Tapcolline",
+    "pref": "北海道",
+    "address": "北海道三笠市高美町444-40",
+    "website": "https://hamadavineyard.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 セナヴィーノ/弟子屈ワイナリー",
+    "pref": "北海道",
+    "address": "北海道上川郡弟子屈町字弟子屈原野789-3",
+    "website": "https://cenavino.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 リベラ",
+    "pref": "北海道",
+    "address": "北海道札幌市中央区北2条西10-1-22",
+    "website": "https://libera-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ダイナックス/ダイナックス アーロムワイナリー",
+    "pref": "北海道",
+    "address": "北海道千歳市上長都1053-1",
+    "website": "https://www.alomwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "北海道中央葡萄酒 株式会社/千歳ワイナリー",
+    "pref": "北海道",
+    "address": "北海道千歳市高台１－７",
+    "website": "https://www.chitose-winery.com/index.html",
+    "category": "wine"
+  },
+  {
+    "name": "日本清酒 株式会社/余市ワイナリー",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町黒川町1318",
+    "website": "https://nipponseishu.co.jp/yoichiwine/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 NIKI Hills ヴィレッジ/NIKI Hills Winery",
+    "pref": "北海道",
+    "address": "北海道余市郡仁木町旭台148-1",
+    "website": "https://nikihills.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 自然農園グループ/ベリーベリーファーム＆ワイナリー仁木",
+    "pref": "北海道",
+    "address": "北海道余市郡仁木町東町13-49",
+    "website": "https://shop2.organicwine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "ワイナリー夢の森",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町豊丘町59-3",
+    "website": "http://winery-yumenomori.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 キャメルファーム",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町登町1408",
+    "website": "https://camelfarm.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "登醸造",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町登町718",
+    "website": "https://www.noborijozo.com/wine.htm",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Domaine Bless/ドメーヌ ブレス",
+    "pref": "北海道",
+    "address": "北海道余市郡仁木町旭台303",
+    "website": "https://www.facebook.com/le.reve.winery/?locale=ja_JP",
+    "category": "wine"
+  },
+  {
+    "name": "ニトリ果樹園 株式会社/ニトリワイナリー",
+    "pref": "北海道",
+    "address": "北海道余市郡余市町登町1117-2",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 紫波フルーツパーク/自園自醸ワイン紫波",
+    "pref": "岩手県",
+    "address": "岩手県紫波郡紫波町遠山字松原1-11",
+    "website": "https://www.shiwa-fruitspark.co.jp/winery/",
+    "category": "wine"
+  },
+  {
+    "name": "ニッカウヰスキー 株式会社/弘前工場",
+    "pref": "青森県",
+    "address": "青森県弘前市大字栄町2-1-1",
+    "website": "https://www.nikka.com/company/facility.html",
+    "category": "wine"
+  },
+  {
+    "name": "合資会社 虎屋西川工場/月山トラヤワイナリー",
+    "pref": "山形県",
+    "address": "山形県西村山郡西川町大字吉川79",
+    "website": "https://wine.chiyokotobuki.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 朝日町ワイン",
+    "pref": "山形県",
+    "address": "山形県西村山郡朝日町大字大谷字高野1080番地",
+    "website": "https://asahimachi-wine.jp",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 神田葡萄園",
+    "pref": "岩手県",
+    "address": "岩手県陸前高田市米崎町字神田33",
+    "website": "http://0192-55-2222.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 仙台秋保醸造所/秋保ワイナリー",
+    "pref": "宮城県",
+    "address": "宮城県仙台市太白区秋保町湯元枇杷原西6",
+    "website": "http://akiuwinery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 蔵王ウッディーファーム/ウッディファーム＆ワイナリー",
+    "pref": "山形県",
+    "address": "山形県上山市原口829",
+    "website": "http://www.woodyfarm.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 エーデルワイン",
+    "pref": "岩手県",
+    "address": "岩手県花巻市大迫町大迫10地割18-3",
+    "website": "https://edelwein.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 MKpaso/ワイナリーこのはな",
+    "pref": "秋田県",
+    "address": "秋田県鹿角市花輪下花輪2-1",
+    "website": "https://www.mkpaso.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 大浦葡萄酒",
+    "pref": "山形県",
+    "address": "山形県南陽市赤湯312",
+    "website": "https://ourawine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 高畠ワイナリー",
+    "pref": "山形県",
+    "address": "山形県東置賜郡高畠町糠野目2700-1",
+    "website": "http://www.takahata-winery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "浜田 株式会社",
+    "pref": "山形県",
+    "address": "山形県米沢市窪田町藤泉943-1",
+    "website": "https://www.okimasamune.com/",
+    "category": "wine"
+  },
+  {
+    "name": "庄内たがわ農業協同組合/月山ワイン山ぶどう研究所",
+    "pref": "山形県",
+    "address": "山形県鶴岡市越中山字名平3-1",
+    "website": "https://www.gassan-wine.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ISホールディングス/ふくしま逢瀬ワイナリー",
+    "pref": "福島県",
+    "address": "福島県郡山市逢瀬町多田野字郷士郷士２番",
+    "website": "https://ousewinery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "高橋葡萄園",
+    "pref": "岩手県",
+    "address": "岩手県花巻市大迫町亀ケ森第47地割4番地",
+    "website": "http://weinbautakahashi.com",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 亀ヶ森醸造所",
+    "pref": "岩手県",
+    "address": "岩手県花巻市大迫町亀ケ森19地割7-1",
+    "website": "http://kamegamori.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 佐藤ぶどう酒/金渓ワイン",
+    "pref": "山形県",
+    "address": "山形県南陽市赤湯1072－2",
+    "website": "https://www.kinkei.net/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 東根フルーツワイン",
+    "pref": "山形県",
+    "address": "〒999-3723　東根市大字大江新田字平林39番１",
+    "website": "https://www.h-fruitwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "NPO法人 みどりの杜福祉会/いわきワイナリー",
+    "pref": "福島県",
+    "address": "福島県いわき市好間町上好間字田代11-8",
+    "website": "https://iwakiwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "農事組合法人アグリ平泉/平泉ワイナリー",
+    "pref": "岩手県",
+    "address": "岩手県西磐井郡平泉町長島字砂子沢172-6",
+    "website": "https://agri-hiraizumi.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 みらいファームやまと/了美 Vineyard and Winery",
+    "pref": "宮城県",
+    "address": "宮城県黒川郡大和町吉田字旦ノ原36-15",
+    "website": "https://ryomi-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 のだむら/涼海の丘ワイナリー",
+    "pref": "岩手県",
+    "address": "岩手県九戸郡野田村玉川5-104-117",
+    "website": "https://www.suzuminookawinery.com",
+    "category": "wine"
+  },
+  {
+    "name": "大﨑ワイナリー 合同会社",
+    "pref": "宮城県",
+    "address": "宮城県大崎市古川台町3-15",
+    "website": "https://twitter.com/osakiwinery",
+    "category": "wine"
+  },
+  {
+    "name": "社会福祉法人 悠和会/アールペイザンワイナリー",
+    "pref": "岩手県",
+    "address": "岩手県花巻市幸田4-35-1",
+    "website": "https://artpaysan.stores.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "南三陸ワイナリー 株式会社",
+    "pref": "宮城県",
+    "address": "宮城県本吉郡南三陸町志津川字旭ケ浦7-3",
+    "website": "https://www.msr-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "Fattoria da Sasino",
+    "pref": "青森県",
+    "address": "青森県弘前市大字高屋字安田185",
+    "website": "https://dasasino.com/",
+    "category": "wine"
+  },
+  {
+    "name": "エルサンワイナリー松ケ岡 株式会社/ピノ・コッリーナ松ケ岡",
+    "pref": "山形県",
+    "address": "山形県鶴岡市羽黒町松ケ岡字松ケ岡156-2",
+    "website": "https://pinocollina.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 吾妻山麓醸造所",
+    "pref": "福島県",
+    "address": "福島県福島市桜本字梨子沢4番地の2",
+    "website": "https://azumasanroku-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "大迫佐藤葡萄園",
+    "pref": "岩手県",
+    "address": "岩手県花巻市大迫町大迫第1地割4ｰ51",
+    "website": "https://ohsmsatovineyard.com/",
+    "category": "wine"
+  },
+  {
+    "name": "もんのすけ農園",
+    "pref": "岩手県",
+    "address": "岩手県花巻市南万丁目1087-4",
+    "website": "https://monnosukefarm.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 スリーピークス",
+    "pref": "岩手県",
+    "address": "岩手県大船渡市大船渡町字茶屋前99",
+    "website": "https://3peaks.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 つがるワイナリー",
+    "pref": "青森県",
+    "address": "青森県北津軽郡鶴田町大字鶴田字小泉335-1",
+    "website": "https://www.tsugaru-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 KELOS/ドメーヌ ケロス",
+    "pref": "山形県",
+    "address": "山形県天童市大字荒谷48",
+    "website": "https://www.kelos.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "大竹ぶどう園",
+    "pref": "福島県",
+    "address": "福島会津若松市北会津町真宮1647",
+    "website": "https://www.ootake-vin.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "アイプロダクツ 株式会社/WINERY JUN",
+    "pref": "福島県",
+    "address": "福島県喜多方市関柴町西勝字井戸尻48-1",
+    "website": "https://iproducts.thebase.in/",
+    "category": "wine"
+  },
+  {
+    "name": "浅舞酒造 株式会社",
+    "pref": "秋田県",
+    "address": "秋田県横手市平鹿町浅舞字浅舞388",
+    "website": "https://amanoto.co.jp/index.php",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 KOTOワイン盛岡",
+    "pref": "岩手県",
+    "address": "岩手県盛岡市乙部30-17-1",
+    "website": "https://koto-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 タケダワイナリー",
+    "pref": "山形県",
+    "address": "山形県上山市四ツ谷2-6-1",
+    "website": "http://www.takeda-wine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "タムラファーム 株式会社",
+    "pref": "青森県",
+    "address": "青森県弘前市大字青樹町18-28",
+    "website": "http://tamurafarm.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 酒井ワイナリー",
+    "pref": "山形県",
+    "address": "山形県南陽市赤湯980",
+    "website": "http://www.sakai-winery.jp/index.html",
+    "category": "wine"
+  },
+  {
+    "name": "紫金園 須藤ぶどう酒",
+    "pref": "山形県",
+    "address": "山形県南陽市赤湯2836",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "天童ワイン 株式会社",
+    "pref": "山形県",
+    "address": "山形県天童市高擶南99",
+    "website": "https://www.tendowine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 グレープリパブリック",
+    "pref": "山形県",
+    "address": "山形県南陽市新田3945-94",
+    "website": "https://grape-republic.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 グローバルアグリネット/Yellow Magic Winery",
+    "pref": "山形県",
+    "address": "山形県南陽市赤湯871",
+    "website": "https://www.yellowmagicwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ベルウッドヴィンヤード",
+    "pref": "山形県",
+    "address": "山形県上山市久保手字久保手4414-1",
+    "website": "https://bellwoodvineyard.com/",
+    "category": "wine"
+  },
+  {
+    "name": "奥羽自慢 株式会社/HOCCA WINERY",
+    "pref": "山形県",
+    "address": "山形県鶴岡市上山添字神明前123",
+    "website": "https://hocca.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 フルーツ農園大泉",
+    "pref": "山形県",
+    "address": "山形県天童市大字乱川198",
+    "website": "https://fruitfarmoizumi.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ブエンモスト 株式会社/宮城縣七ヶ浜ワイナリー",
+    "pref": "宮城県",
+    "address": "宮城県宮城郡七ヶ浜町花渕浜字舘下117",
+    "website": "https://buenmosto.myshopify.com/",
+    "category": "wine"
+  },
+  {
+    "name": "DROP",
+    "pref": "山形県",
+    "address": "山形県上山市沢丁2-17",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "社会福祉法人 友愛会/Voyage de Yuuai",
+    "pref": "山形県",
+    "address": "山形県山形市みはらしの丘4-15-3",
+    "website": "https://yuuai-kai.or.jp/wine",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 日々/リンゴリらっぱ醸造所",
+    "pref": "山形県",
+    "address": "山形県新庄市大字昭和665",
+    "website": "https://www.ringorillappa.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "森吉山ファーム 株式会社/あきた野ワイナリー",
+    "pref": "秋田県",
+    "address": "秋田県北秋田市米内沢字倉ノ沢出口5-1",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 アルビオン白神研究所/ALBION Shirakami Vineyard &#038; Winery",
+    "pref": "秋田県",
+    "address": "秋田県山本郡藤里町粕毛字米田51-2",
+    "website": "https://www.shirakami.albion.co.jp/about.html",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Svolta/Maison AKI",
+    "pref": "福島県",
+    "address": "福島県郡山市熱海町熱海２－１１７",
+    "website": "https://svolta.co.jp/winery",
+    "category": "wine"
+  },
+  {
+    "name": "Agri Coeur",
+    "pref": "山形県",
+    "address": "山形県上山市三上字屋敷浦476-1",
+    "website": "https://agricoeur.base.shop/",
+    "category": "wine"
+  },
+  {
+    "name": "かわうちワイン 株式会社",
+    "pref": "福島県",
+    "address": "福島県双葉郡川内村大字上川内字大平2-1",
+    "website": "https://kawauchi-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 セトワイナリー/カンティーナ・ジーオセット",
+    "pref": "新潟県",
+    "address": "〒953-0011　新潟県新潟市西蒲区角田浜1697-1",
+    "website": "http://ziosetto.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 カーブドッチ",
+    "pref": "新潟県",
+    "address": "新潟県新潟市西蒲区角田浜1661番地",
+    "website": "http://www.docci.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 アグリコア/越後ワイナリー",
+    "pref": "新潟県",
+    "address": "新潟県南魚沼市浦佐5531-1",
+    "website": "https://www.echigowinery.com",
+    "category": "wine"
+  },
+  {
+    "name": "ルサンクワイナリー 株式会社",
+    "pref": "新潟県",
+    "address": "新潟県新潟市西蒲区角田浜1693",
+    "website": "https://lecinqwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 岩の原葡萄園",
+    "pref": "新潟県",
+    "address": "新潟県上越市大字北方1223",
+    "website": "https://www.iwanohara.sgn.ne.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "とちお農園 株式会社/ワインファームとちお",
+    "pref": "新潟県",
+    "address": "新潟県長岡市栃尾本町3-11",
+    "website": "https://www.tochio-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "胎内市役所/胎内高原ワイナリー",
+    "pref": "新潟県",
+    "address": "新潟県胎内市新和町2-10",
+    "website": "https://www.city.tainai.niigata.jp/sangyo/nogyo/tainaikogenwinery/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 ココ・ファーム・ワイナリー",
+    "pref": "栃木県",
+    "address": "栃木県足利市田島町611",
+    "website": "https://cocowine.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 パピーユ/清澄白河フジマル醸造所",
+    "pref": "東京都",
+    "address": "東京都江東区三好2-5-3",
+    "website": "https://www.papilles.net/",
+    "category": "wine"
+  },
+  {
+    "name": "合同酒精 株式会社/牛久シャトー",
+    "pref": "茨城県",
+    "address": "茨城県牛久市中央3-20-1",
+    "website": "https://www.oenon.jp/ushiku-chateau/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 HORIGO/東京ワイナリー",
+    "pref": "東京都",
+    "address": "東京都練馬区大泉学園町2-8-7",
+    "website": "https://www.wine.tokyo.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 秩父ファーマーズファクトリー/兎田ワイナリー",
+    "pref": "埼玉県",
+    "address": "埼玉県秩父市下吉田字兎田3720",
+    "website": "https://chichibu-ff.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 秩父ワイン",
+    "pref": "埼玉県",
+    "address": "埼玉県秩父郡小鹿野町両神薄41",
+    "website": "http://chichibuwine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "檜山酒造 株式会社",
+    "pref": "茨城県",
+    "address": "茨城県常陸太田市町屋町1359",
+    "website": "http://www.hiyama.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 マルキョー/Cfa Backyard Winery",
+    "pref": "栃木県",
+    "address": "栃木県足利市島田町607-1",
+    "website": "https://winemaker.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 スイミージャパン/深川ワイナリー",
+    "pref": "東京都",
+    "address": "東京都江東区古石場1-4-10　高畠ビル1F",
+    "website": "https://www.fukagawine.tokyo/",
+    "category": "wine"
+  },
+  {
+    "name": "来福酒造 株式会社",
+    "pref": "茨城県",
+    "address": "茨城県筑西市村田1626",
+    "website": "https://raifuku.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 K&#8217;s プロジェクト/葡蔵人～BookRoad～",
+    "pref": "東京都",
+    "address": "東京都台東区台東3-40-2",
+    "website": "https://www.bookroad.tokyo/",
+    "category": "wine"
+  },
+  {
+    "name": "ミヤタビール/MiyataBeer 宮多麦酒醸造所",
+    "pref": "東京都",
+    "address": "東京都墨田区横川3-12-19松井ビル1階",
+    "website": "https://twitter.com/MiyataGonzales",
+    "category": "wine"
+  },
+  {
+    "name": "横濱ワイナリー 株式会社",
+    "pref": "神奈川県",
+    "address": "神奈川県横浜市中区新山下1-3-12鈴木ビル1F",
+    "website": "https://yokohamawinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 カドヤカンパニー/つくばワイナリー",
+    "pref": "茨城県",
+    "address": "茨城県つくば市北条字古城1162-8",
+    "website": "https://tsukuba-winery.kadoya-company.com/",
+    "category": "wine"
+  },
+  {
+    "name": "都下ワイナリー 株式会社",
+    "pref": "東京都",
+    "address": "東京都日野市日野台2-40-12",
+    "website": "https://www.tokawinery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "常陸コミュニティデザイン 株式会社/武龍ワイナリー",
+    "pref": "茨城県",
+    "address": "茨城県常陸太田市瑞龍町1351-2",
+    "website": "https://buryuwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "農業生産法人ロイヤルベリーズファーム 有限会社/NASU 661 WINE HILLS",
+    "pref": "栃木県",
+    "address": "栃木県那須郡那須町高久丙4515-13",
+    "website": "https://www.nasu661winehills.net/",
+    "category": "wine"
+  },
+  {
+    "name": "ワイズ・ヴィンヤーズ",
+    "pref": "栃木県",
+    "address": "栃木県那須塩原市関谷516-1",
+    "website": "https://ysvineyards.com/",
+    "category": "wine"
+  },
+  {
+    "name": "Hinoe Winery",
+    "pref": "栃木県",
+    "address": "栃木県宇都宮市新里丙1195-1",
+    "website": "https://www.hinoewinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ヴィンヤード多摩",
+    "pref": "東京都",
+    "address": "東京都あきる野市上ノ台5",
+    "website": "https://vineyardtama.com/",
+    "category": "wine"
+  },
+  {
+    "name": "マシューズワイン 株式会社/館山ワイナリー",
+    "pref": "千葉県",
+    "address": "千葉県館山市市川名774番",
+    "website": "https://matthewswine.net/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 SOTO/no.505 Hiroshima Winery",
+    "pref": "東京都",
+    "address": "東京都渋谷区神宮前2-5-4 SEIZAN外苑303",
+    "website": "https://www.no505hiroshimawinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "盛田甲州ワイナリー(株)",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2842",
+    "website": "https://www.chanmoris.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "麻屋葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力166",
+    "website": "http://www.asaya-winery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "メルシャン 株式会社/シャトー・メルシャン 勝沼ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎1425-1",
+    "website": "https://www.chateaumercian.com/",
+    "category": "wine"
+  },
+  {
+    "name": "マンズワイン 株式会社/勝沼ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町山400",
+    "website": "https://mannswines.com/winery/#winery-katsunuma",
+    "category": "wine"
+  },
+  {
+    "name": "岩崎醸造 株式会社/ホンジョーワイン",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎957",
+    "website": "https://www.iwasaki-jozo.com/",
+    "category": "wine"
+  },
+  {
+    "name": "勝沼醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎371",
+    "website": "http://www.katsunuma-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 くらむぼんワイン",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎835",
+    "website": "https://kurambon.com/",
+    "category": "wine"
+  },
+  {
+    "name": "丸藤葡萄酒工業 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町藤井780",
+    "website": "https://www.rubaiyat.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "大和葡萄酒 株式会社/勝沼ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力776-1",
+    "website": "http://www.yamatowine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "イケダワイナリー 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎1943",
+    "website": "https://www.katsunuma.ne.jp/~ikedawinery/",
+    "category": "wine"
+  },
+  {
+    "name": "大泉葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎1809",
+    "website": "https://ohizumi-wine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "柏和葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼3559",
+    "website": "http://daizenji.org/",
+    "category": "wine"
+  },
+  {
+    "name": "勝沼第八葡萄酒 有限会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力55",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 マルサン葡萄酒/若尾果樹園",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼3111-1",
+    "website": "https://blog.goo.ne.jp/tsujicci?fbclid=IwAR21ICpVPfG1NoWQp5xagHT36_RYVd3CCZIFzDBjnzAl8fLc2-qSfRqEkbE",
+    "category": "wine"
+  },
+  {
+    "name": "まるき葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎2488",
+    "website": "https://www.marukiwine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "錦城葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町小佐手1833",
+    "website": "https://kinjyo-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ペイザナ 農事組合法人/中原ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町中原5288-1",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 シャトー勝沼",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町菱山4729",
+    "website": "https://www.chateauk.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "シャトージュン 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町菱山3308",
+    "website": "https://www.chateaujun.com",
+    "category": "wine"
+  },
+  {
+    "name": "フジクレールワイナリー 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎2770-1",
+    "website": "https://fujiclairwine.jp",
+    "category": "wine"
+  },
+  {
+    "name": "蒼龍葡萄酒(株)",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎1841",
+    "website": "http://soryu-wine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "菱山中央醸造(有)",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町菱山1425",
+    "website": "https://www.budoubatake.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ダイヤモンド酒造",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町下岩崎880",
+    "website": "http://www.jade.dti.ne.jp/~chanter/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 東夢/東夢ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2562-2",
+    "website": "https://toumuwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "原茂ワイン 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼3181",
+    "website": "http://www.haramo.com/",
+    "category": "wine"
+  },
+  {
+    "name": "中央葡萄酒 株式会社/グレイスワイン",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力173",
+    "website": "http://www.grace-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "白百合醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力878-2",
+    "website": "https://shirayuriwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 シャトレーゼベルフォーレワイナリー/勝沼ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2830-3",
+    "website": "http://www.belle-foret.co.jp/katsunuma/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 塩山製作所/MGVsワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町等々力601-17",
+    "website": "https://mgvs.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "公益財団法人 日本ケアフィット共育機構/ケアフィットファームワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2561-6",
+    "website": "https://www.carefit.org/farm/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ラベルヴィーニュ",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2561-8",
+    "website": "https://belle-vigne.net/",
+    "category": "wine"
+  },
+  {
+    "name": "Nikkawaワイナリー 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2543-15",
+    "website": "https://nikkawa-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "日和 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市勝沼町勝沼2543-3",
+    "website": "https://hiyori-corp.com/",
+    "category": "wine"
+  },
+  {
+    "name": "アルプスワイン 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町狐新居418",
+    "website": "http://www.alpswine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "サントネージュワイン 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市上神内川107-1",
+    "website": "https://www.sainteneige.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "本坊酒造 株式会社/マルス山梨ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市石和町山崎126",
+    "website": "https://www.hombo.co.jp/marswine/",
+    "category": "wine"
+  },
+  {
+    "name": "モンデ酒造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市石和町市部476",
+    "website": "https://www.mondewinery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "南アルプスワインアンドビバレッジ 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町上矢作191番地1",
+    "website": "http://www.minamialpswandb.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "塩山洋酒醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山千野693",
+    "website": "http://www.enzanwine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "スズラン酒造工業 有限会社/スズランワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町上矢作866",
+    "website": "http://www.suzuran-w.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ルミエール",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町南野呂624",
+    "website": "https://www.lumiere.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "旭洋酒 有限会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市小原東857-1",
+    "website": "https://soleilwine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "山梨醗酵工業 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市正徳寺1220-1",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "新巻葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町新巻500",
+    "website": "https://aramakiwinery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 八幡洋酒",
+    "pref": "山梨県",
+    "address": "山梨県山梨市市川1370",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "牛奥第一葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山牛奥3969",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "矢作洋酒(株)",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町上矢作606",
+    "website": "http://www.yahagi-wine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "八代醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市八代町北1552-1",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "甲斐ワイナリー 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山下於曽910",
+    "website": "https://kaiwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 モンターナスワイン",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町千米寺1040",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "機山洋酒工業 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山三日市場3313",
+    "website": "https://kizan.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Kisvin",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山千野474",
+    "website": "http://www.kisvin.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "北野呂醸造 有限会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮新巻480",
+    "website": "http://www.kitanoro-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "駒園ヴィンヤード 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山藤木1937",
+    "website": "https://comazono.com/",
+    "category": "wine"
+  },
+  {
+    "name": "笹一酒造(株)",
+    "pref": "山梨県",
+    "address": "山梨県大月市笹子町吉久保26",
+    "website": "https://www.sasaichi.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 サン．フーズ",
+    "pref": "山梨県",
+    "address": "山梨県甲州市塩山熊野1205-1",
+    "website": "https://www.sanfoods.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "三養醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市牧丘町窪平237-2",
+    "website": "https://sanyowine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "笛吹ワイン(株)",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市御坂町夏目原992",
+    "website": "https://fuefuki-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "東晨洋酒 株式会社",
+    "pref": "山梨県",
+    "address": "〒405-0024 山梨県山梨市歌田６６",
+    "website": "https://tohshinwine-shimura.jimdofree.com/",
+    "category": "wine"
+  },
+  {
+    "name": "日川中央葡萄酒 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市一宮町市之蔵118-1",
+    "website": "https://liaisonwine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "ニュー山梨ワイン醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県笛吹市御坂町二之宮611",
+    "website": "https://8vin-yard.jp",
+    "category": "wine"
+  },
+  {
+    "name": "四恩醸造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市牧丘町千野々宮764番地1",
+    "website": "https://shion-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Cantina Hiro/カンティーナ・ヒロ",
+    "pref": "山梨県",
+    "address": "山梨県山梨市牧丘町倉科7143",
+    "website": "https://cantina-hiro.jp",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 共栄堂",
+    "pref": "山梨県",
+    "address": "山梨県山梨市牧丘町室伏725",
+    "website": "http://kyo-edo.main.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Cave an",
+    "pref": "山梨県",
+    "address": "山梨県山梨市小原東619-1",
+    "website": "https://cave-an.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 大伴リゾート/セブンシダーズワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県南都留郡富士河口湖町河口513-5",
+    "website": "https://www.7cwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "シンワフーズケミカル 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県山梨市万力758-1",
+    "website": "https://www.shinwa-fc.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "未来夢ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県山梨市中村25",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ショープル/ドメーヌヒデ",
+    "pref": "山梨県",
+    "address": "山梨県南アルプス市小笠原436-1",
+    "website": "https://www.domainehide.com",
+    "category": "wine"
+  },
+  {
+    "name": "サントリー 株式会社/登美の丘ワイナリー",
+    "pref": "山梨県",
+    "address": "〒400-0103　山梨県甲斐市大垈2786",
+    "website": "https://www.suntory.co.jp/wine/nihon/",
+    "category": "wine"
+  },
+  {
+    "name": "シャトー酒折ワイナリー 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県甲府市酒折町1338-203",
+    "website": "https://www.sakaoriwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "江井ヶ嶋酒造 株式会社",
+    "pref": "山梨県",
+    "address": "山梨県北杜市白州町白須1045-1",
+    "website": "https://www.charmant-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 サドヤ",
+    "pref": "山梨県",
+    "address": "〒400-0024　山梨県甲府市北口3-3-24",
+    "website": "https://sadoya.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 シャトレーゼベルフォーレワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲斐市下今井1954",
+    "website": "http://www.belle-foret.co.jp/belleforet/",
+    "category": "wine"
+  },
+  {
+    "name": "楽園葡萄酒醸造場",
+    "pref": "山梨県",
+    "address": "山梨県西八代郡市川三郷町市川大門5173-2",
+    "website": "http://www.wine1940.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 ボーペイサージュ",
+    "pref": "山梨県",
+    "address": "山梨県北杜市高根町蔵原1334-5",
+    "website": "https://www.beaupaysage.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 甲府ワインポート/ドメーヌ・久",
+    "pref": "山梨県",
+    "address": "山梨県甲府市桜井町47",
+    "website": "http://www.kofuwineport.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "敷島醸造 株式会社/敷島ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県甲斐市亀沢3228",
+    "website": "https://mountwine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "ドメーヌ茅ヶ岳",
+    "pref": "山梨県",
+    "address": "山梨県韮崎市上ノ山3159-1",
+    "website": "http://d-kayagatake.com/",
+    "category": "wine"
+  },
+  {
+    "name": "能見園/河西ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県韮崎市穴山町3993",
+    "website": "http://www.sip-shinwakai.jp/iroha/728",
+    "category": "wine"
+  },
+  {
+    "name": "ドメーヌ・ド・ラ・アケノ・ヴェニュス",
+    "pref": "山梨県",
+    "address": "山梨県北杜市明野町下神取793",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 カサ・ピノ・ジャパン",
+    "pref": "山梨県",
+    "address": "山梨県韮崎市穂坂町宮久保1178-3",
+    "website": "https://casapino.net/ja/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 小笠原ファーム",
+    "pref": "山梨県",
+    "address": "山梨県北杜市高根町下黒澤288-5",
+    "website": "https://shop.ogasawara-farm.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Creation farm",
+    "pref": "山梨県",
+    "address": "山梨県韮崎市穂坂町宮久保17-1",
+    "website": "https://r.goope.jp/creation-farm/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 スプリングワイン",
+    "pref": "山梨県",
+    "address": "山梨県甲府市朝日4-5-3",
+    "website": "https://springwine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 宮入バルブ製作所/御勅使川ワイナリー",
+    "pref": "山梨県",
+    "address": "山梨県南アルプス市六科1588-2",
+    "website": "https://www.miyairi-valve.co.jp/shop/",
+    "category": "wine"
+  },
+  {
+    "name": "Komaki Vineyard/Domaine Enchante",
+    "pref": "山梨県",
+    "address": "山梨県北杜市小淵沢町8033-1",
+    "website": "https://komaki-vineyard.com/",
+    "category": "wine"
+  },
+  {
+    "name": "LA PENSÉE",
+    "pref": "山梨県",
+    "address": "山梨県南アルプス市小笠原1593-2",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "安曇野ワイナリー 株式会社",
+    "pref": "長野県",
+    "address": "〒399-8103　長野県安曇野市三郷小倉　6687-5",
+    "website": "https://www.ch-azumino.com/",
+    "category": "wine"
+  },
+  {
+    "name": "信州まし野ワイン 株式会社",
+    "pref": "長野県",
+    "address": "長野県下伊那郡松川町大島3272",
+    "website": "http://www.mashinowine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "マンズワイン 株式会社/小諸ワイナリー",
+    "pref": "長野県",
+    "address": "長野県小諸市諸375",
+    "website": "https://mannswines.com/winery/#winery-komoro",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ぶどうの郷山辺/山辺ワイナリー",
+    "pref": "長野県",
+    "address": "長野県松本市大字入山辺1315-2",
+    "website": "http://www.yamabewinery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 たかやしろファーム",
+    "pref": "長野県",
+    "address": "長野県中野市竹原1609-7",
+    "website": "https://www.takayashirofarm.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 サンクゼール",
+    "pref": "長野県",
+    "address": "長野県上水内郡飯綱町芋川1260",
+    "website": "https://www.stcousair.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ヴィラデストワイナリー",
+    "pref": "長野県",
+    "address": "長野県東御市和6027",
+    "website": "https://www.villadest.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ファンキー・シャトー 株式会社",
+    "pref": "長野県",
+    "address": "長野県小県郡青木村大字村松1491-1",
+    "website": "https://funkychateau.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 のらのらふぁーむ",
+    "pref": "長野県",
+    "address": "長野県東御市祢津413",
+    "website": "http://hasumifarm.com/",
+    "category": "wine"
+  },
+  {
+    "name": "大和葡萄酒 株式会社/四賀ワイナリー",
+    "pref": "長野県",
+    "address": "長野県松本市反町640-1",
+    "website": "http://www.yamatowine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ノーザンアルプスヴィンヤード",
+    "pref": "長野県",
+    "address": "長野県大町市大町5829",
+    "website": "http://navineyards.lolipop.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 信州たかやまワイナリー",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村大字高井字裏原7926",
+    "website": "https://www.shinshu-takayama.wine/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 むかいや/大池ワイナリー",
+    "pref": "長野県",
+    "address": "長野県東筑摩郡山形村2551-1",
+    "website": "https://www.taikewine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 ムラタ/伊那ワイン工房",
+    "pref": "長野県",
+    "address": "長野県伊那市美篶5795",
+    "website": "http://inawine.net",
+    "category": "wine"
+  },
+  {
+    "name": "Domaine Nakajima",
+    "pref": "長野県",
+    "address": "長野県東御市和4601-3",
+    "website": "http://d-nakajima.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 あづみアップル/スイス村ワイナリー",
+    "pref": "長野県",
+    "address": "長野県安曇野市豊科南穂高5567-5",
+    "website": "https://www.swissmurawinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 リュードヴァン",
+    "pref": "長野県",
+    "address": "長野県東御市祢津405",
+    "website": "https://ruedevin.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 今井酒造店",
+    "pref": "長野県",
+    "address": "長野県長野市小島62",
+    "website": "https://www.wakamidori.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 西飯田酒造店",
+    "pref": "長野県",
+    "address": "長野県長野市篠ノ井小松原1726番地",
+    "website": "http://w2.avis.ne.jp/~nishiida/",
+    "category": "wine"
+  },
+  {
+    "name": "楠わいなりー 株式会社",
+    "pref": "長野県",
+    "address": "長野県須坂市亀倉123-1",
+    "website": "https://www.kusunoki-winery.com",
+    "category": "wine"
+  },
+  {
+    "name": "日本ワイン農業研究所 株式会社/アルカンヴィーニュ",
+    "pref": "長野県",
+    "address": "長野県東御市和6667",
+    "website": "https://jw-arc.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "坂城葡萄酒醸造 株式会社/Vino della Gatta SAKAKI",
+    "pref": "長野県",
+    "address": "長野県埴科郡坂城町坂城9578-1",
+    "website": "https://sakaki.wine/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 マザーバインズ 長野醸造所",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村高井久保1826-1",
+    "website": "http://mothervines.com",
+    "category": "wine"
+  },
+  {
+    "name": "Atelier du Vin",
+    "pref": "長野県",
+    "address": "長野県東御市新張690-3",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 Le Milieu/ル・ミリュウ",
+    "pref": "長野県",
+    "address": "長野県安曇野市明科七貴4671-1",
+    "website": "https://le-milieu.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "cave hatano",
+    "pref": "長野県",
+    "address": "長野県東御市新張525-4",
+    "website": "https://www.c-hatano.com/product/",
+    "category": "wine"
+  },
+  {
+    "name": "シクロヴィンヤード 株式会社/496ワイナリー",
+    "pref": "長野県",
+    "address": "長野県東御市八重原1018",
+    "website": "https://www.cyclovineyards.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ジオヒルズ",
+    "pref": "長野県",
+    "address": "長野県小諸市山浦富士見平5656",
+    "website": "https://giohills.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 カンティーナ・リエゾー/Cantina Riezo",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村大字高井4210-1",
+    "website": "http://cantinariezo.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 テールドシエル",
+    "pref": "長野県",
+    "address": "長野県小諸市八幡町三丁目7番5号",
+    "website": "https://www.terredeciel.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "ツイヂラボ",
+    "pref": "長野県",
+    "address": "長野県東御市和3875-1",
+    "website": "https://www.instagram.com/tsuijilab/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ヴィニョブル安曇野/ドメーヌ・ヒロキ",
+    "pref": "長野県",
+    "address": "長野県北安曇郡池田町大字会染5543",
+    "website": "https://domaine-hiroki.wine/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 グルップボエンデ/カモシカシードル醸造所",
+    "pref": "長野県",
+    "address": "長野県伊那市横山10955-14",
+    "website": "https://kamoshikacidre.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 VinVie",
+    "pref": "長野県",
+    "address": "長野県下伊那郡松川町大島3306-1",
+    "website": "https://vinvie.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ヴィニクローブ/VINIQROBE",
+    "pref": "長野県",
+    "address": "長野県上高井郡高山村黒部4048-3",
+    "website": "https://viniqrobe.studio.site/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 たてしなップルワイナリー",
+    "pref": "長野県",
+    "address": "長野県北佐久郡立科町大字牛鹿1616-1",
+    "website": "https://tateshinapple.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ガクファーム",
+    "pref": "長野県",
+    "address": "長野県松本市笹賀171-5",
+    "website": "https://gakufarm.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 HASE de KODAWAAR",
+    "pref": "長野県",
+    "address": "長野県松本市寿小赤665-4",
+    "website": "https://hasedekodawaar.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 昌栄/八ヶ岳はらむらワイナリー",
+    "pref": "長野県",
+    "address": "長野県諏訪郡原村8926-1",
+    "website": "https://www.facebook.com/profile.php?id=100090390466697",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 イルフェボー",
+    "pref": "長野県",
+    "address": "長野県千曲市八幡4030-1",
+    "website": "https://il-faitbeau.com/",
+    "category": "wine"
+  },
+  {
+    "name": "喜久水酒造 株式会社",
+    "pref": "長野県",
+    "address": "長野県飯田市鼎切石4293",
+    "website": "https://kikusuisake.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 プラスフォレスト/軽井沢アンワイナリー",
+    "pref": "長野県",
+    "address": "長野県北佐久郡軽井沢町大字長倉5670-1",
+    "website": "https://www.plusforest.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ドゥモンターニュタテシナ",
+    "pref": "長野県",
+    "address": "長野県北佐久郡立科町牛鹿1774-9",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Greve.t/Komorokko Farm &#038; Winery",
+    "pref": "長野県",
+    "address": "長野県小諸市菱平3129",
+    "website": "https://greve-t.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "うさうさのプチファーム",
+    "pref": "長野県",
+    "address": "長野県大町市大町2194-1",
+    "website": "https://usaputi.base.ec/",
+    "category": "wine"
+  },
+  {
+    "name": "Aperture Farm and Winery",
+    "pref": "長野県",
+    "address": "長野県東御市祢津2946-6",
+    "website": "https://www.facebook.com/ApertureFarm/?locale=ja_JP",
+    "category": "wine"
+  },
+  {
+    "name": "ナゴミ・ヴィンヤーズ 合同会社/東御和ワイナリー",
+    "pref": "長野県",
+    "address": "長野県東御市和3420-10",
+    "website": "http://www.nagomivineyards.jp/about.html",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 追分屋旅館/ドメーヌ・ド・ユノハラ",
+    "pref": "長野県",
+    "address": "長野県松本市里山辺1192-8",
+    "website": "https://shop.oiwakeya.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 キリノカ/キリノカヴィンヤーズ＆ワイナリー",
+    "pref": "長野県",
+    "address": "長野県上伊那郡辰野町小野1305-1",
+    "website": "https://kirinoka.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ぶどうやぶ",
+    "pref": "長野県",
+    "address": "長野県長野市信州新町日原東1276-1",
+    "website": "https://budoyabu.official.ec/",
+    "category": "wine"
+  },
+  {
+    "name": "kifutato wines",
+    "pref": "長野県",
+    "address": "長野県諏訪郡原村17217-603",
+    "website": "https://kifutato.stores.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 オレイユ・ド・シャ/ビーナスライン醸造場",
+    "pref": "長野県",
+    "address": "長野県茅野市大塩1-9",
+    "website": "https://www.odcwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有旅ワイナリー 株式会社",
+    "pref": "長野県",
+    "address": "長野県長野市篠ノ井有旅1189-1",
+    "website": "https://www.utabi-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "東山ワイン研究所 合同会社/ヴェレゾン・ノート",
+    "pref": "長野県",
+    "address": "長野県上田市富士山1960-8",
+    "website": "https://www.veraison-note.com/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 Ferme36/Vin d&#8217;Omachi Ferme36",
+    "pref": "長野県",
+    "address": "長野県大町市平8040-146",
+    "website": "https://tatsunokovin.blogspot.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ぼんじゅーる農園醸造所",
+    "pref": "長野県",
+    "address": "長野県東御市袮津２４０－３",
+    "website": "https://bonjour.wine/",
+    "category": "wine"
+  },
+  {
+    "name": "アクアテラソル 株式会社/アクアテラソル馨光庵",
+    "pref": "長野県",
+    "address": "長野県東御市鞍掛1094-1",
+    "website": "https://aquaterrasol.net/",
+    "category": "wine"
+  },
+  {
+    "name": "サントリー 株式会社/塩尻ワイナリー",
+    "pref": "長野県",
+    "address": "長野県塩尻市大字大門543",
+    "website": "https://www.suntory.co.jp/wine/nihon/",
+    "category": "wine"
+  },
+  {
+    "name": "信濃ワイン 株式会社",
+    "pref": "長野県",
+    "address": "長野県塩尻市大字洗馬783番地",
+    "website": "https://sinanowine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 アルプス",
+    "pref": "長野県",
+    "address": "長野県塩尻市塩尻町260",
+    "website": "https://www.alpswine.com",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 Kidoワイナリー",
+    "pref": "長野県",
+    "address": "長野県塩尻市大字宗賀1530-1",
+    "website": "http://www6.plala.or.jp/kidowinery/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 井筒ワイン",
+    "pref": "長野県",
+    "address": "長野県塩尻市宗賀桔梗ヶ原1298-187",
+    "website": "http://www.izutsuwine.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "長野県塩尻志学館高等学校",
+    "pref": "長野県",
+    "address": "長野県塩尻市広丘高出4-4",
+    "website": "https://www.nagano-c.ed.jp/kikyo/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 林農園/五一わいん",
+    "pref": "長野県",
+    "address": "長野県塩尻市宗賀1298-170",
+    "website": "https://goichiwine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ベリービーズワイナリー",
+    "pref": "長野県",
+    "address": "長野県塩尻市大門八番町9-36",
+    "website": "https://bellybeadswinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "農業生産法人 (株)VOTANO WINE",
+    "pref": "長野県",
+    "address": "長野県塩尻市洗馬1206",
+    "website": "https://votanowine.info/",
+    "category": "wine"
+  },
+  {
+    "name": "いにしぇの里葡萄酒",
+    "pref": "長野県",
+    "address": "長野県塩尻市北小野2954",
+    "website": "https://inishe-no-sato.com/",
+    "category": "wine"
+  },
+  {
+    "name": "社会福祉法人 サン・ビジョン/サンサンワイナリー",
+    "pref": "長野県",
+    "address": "長野県塩尻市大字柿沢日向畠709-3",
+    "website": "https://sun-vision.or.jp/sunsunwinery/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 塩尻ファーム",
+    "pref": "長野県",
+    "address": "長野県塩尻市大字宗賀5154-1",
+    "website": "https://www.domaine-sourire.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 白山やまぶどうワイン/白山ワイナリー",
+    "pref": "福井県",
+    "address": "福井県大野市落合2-24",
+    "website": "https://www.yamabudou.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "能登ワイン(株)",
+    "pref": "石川県",
+    "address": "石川県鳳珠郡穴水町旭ケ丘り5-1",
+    "website": "https://notowine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ホーライサンワイナリー 株式会社/やまふじぶどう園",
+    "pref": "富山県",
+    "address": "〒939-2638 富山県富山市 婦中町みさご谷10",
+    "website": "http://www.winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ハイディワイナリー",
+    "pref": "石川県",
+    "address": "石川県輪島市門前町千代31-21",
+    "website": "https://heidee-winery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 T-MARKS/SAYS FARM",
+    "pref": "富山県",
+    "address": "富山県氷見市余川字北山238",
+    "website": "https://www.saysfarm.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 志太/中伊豆ワイナリー",
+    "pref": "静岡県",
+    "address": "静岡県伊豆市下白岩1433-27",
+    "website": "https://nakaizuwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 金沢ワイナリー",
+    "pref": "石川県",
+    "address": "石川県金沢市尾張町1-9-9",
+    "website": "https://k-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "トレボー 株式会社/Domaine Beau",
+    "pref": "富山県",
+    "address": "富山県南砺市立野原西1197",
+    "website": "https://tresbeau.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 La bocchi/Vin de la bocchi farm &#038; winery",
+    "pref": "石川県",
+    "address": "石川県金沢市俵町コ11番地3",
+    "website": "https://labocchi.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ヴェレゾン/常滑ワイナリー ネイバーフット",
+    "pref": "愛知県",
+    "address": "愛知県常滑市金山上白田130",
+    "website": "https://www.tokonamewinery.jp/index.php",
+    "category": "wine"
+  },
+  {
+    "name": "KANATA WINERY",
+    "pref": "富山県",
+    "address": "富山県魚津市天神野新字西大野147-1",
+    "website": "https://kanatawinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 ベル/飛騨高山ワインアポセカリー",
+    "pref": "岐阜県",
+    "address": "岐阜県高山市久々野町",
+    "website": "https://hidawine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 富士山ワイナリー",
+    "pref": "静岡県",
+    "address": "静岡県富士宮市根原字宝山498",
+    "website": "https://fujisanwinery.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 船戸電機/春日井ワイナリー 春の風",
+    "pref": "愛知県",
+    "address": "愛知県春日井市御幸町2-4-18",
+    "website": "https://www.harunokaze-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "GRAPE SHIP 株式会社",
+    "pref": "岡山県",
+    "address": "岡山県倉敷市船穂町船穂7153-1",
+    "website": "https://www.grapeship.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "カタシモワインフード 株式会社/カタシモワイナリー",
+    "pref": "大阪府",
+    "address": "大阪府柏原市太平寺2丁目9番14号",
+    "website": "https://kashiwara-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "飛鳥ワイン 株式会社",
+    "pref": "大阪府",
+    "address": "大阪府羽曳野市飛鳥1104",
+    "website": "https://www.asukawine.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 河内ワイン",
+    "pref": "大阪府",
+    "address": "大阪府羽曳野市駒ケ谷1027",
+    "website": "http://www.kawachi-wine.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "仲村わいん工房",
+    "pref": "大阪府",
+    "address": "大阪府羽曳野市飛鳥1184",
+    "website": "http://www.nakamura-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ナチュラルファーム・グレープアンドワイン/天使の羽ワイナリー",
+    "pref": "大阪府",
+    "address": "大阪府柏原市大県697-2",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 パピーユ/島之内フジマル醸造所",
+    "pref": "大阪府",
+    "address": "大阪市中央区島之内1-1-14",
+    "website": "https://www.papilles.net/",
+    "category": "wine"
+  },
+  {
+    "name": "天橋立ワイン 株式会社/天橋立ワイナリー",
+    "pref": "京都府",
+    "address": "京都府宮津市国分長田123",
+    "website": "http://www.amanohashidate.org/wein/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ケイオス/京都ワイナリー四条河原町醸造",
+    "pref": "京都府",
+    "address": "京都市下京区四条通寺町東入2丁目御旅町35",
+    "website": "https://chaos-chaos.com/owned_shop.php",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 ブリス・ダイニング/伊勢美し国醸造所",
+    "pref": "三重県",
+    "address": "三重県伊勢市大世古2-5-11",
+    "website": "https://iseshima-winery.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 TOA/和歌山湯浅ワイナリー",
+    "pref": "和歌山県",
+    "address": "和歌山県有田郡湯浅町栖原332",
+    "website": "https://yuasa-winery.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "きら香ぶどう酒醸造 株式会社",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市中央区神若通1-4-18-1",
+    "website": "https://www.kiraka.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "伊勢ワイン 株式会社",
+    "pref": "三重県",
+    "address": "三重県伊勢市村松町1375-6",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "淡路島ワイナリー 合同会社",
+    "pref": "兵庫県",
+    "address": "兵庫県淡路市仁井1438",
+    "website": "https://www.awajishima-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "白鶴酒造 株式会社/神戸ワイナリー",
+    "pref": "兵庫県",
+    "address": "兵庫県神戸市東灘区住吉南町4-5-5",
+    "website": "https://www.hakutsuru.co.jp/kobewine/",
+    "category": "wine"
+  },
+  {
+    "name": "木谷ワイン",
+    "pref": "奈良県",
+    "address": "奈良県香芝市畑4-660-1",
+    "website": "https://narawine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 i-kyo/水沢ワイン ドメーヌフイアージュ",
+    "pref": "三重県",
+    "address": "三重県四日市市水沢町3015-2",
+    "website": "https://i-kyo.co/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 セラアグリパーク/せらワイナリー",
+    "pref": "広島県",
+    "address": "広島県世羅郡世羅町黒渕518番地1",
+    "website": "http://www.serawinery.jp",
+    "category": "wine"
+  },
+  {
+    "name": "サッポロビール 株式会社/岡山ワイナリー",
+    "pref": "岡山県",
+    "address": "岡山県赤磐市東軽部1556",
+    "website": "https://www.sapporobeer.jp/brewery/okayama/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 島根ワイナリー",
+    "pref": "島根県",
+    "address": "島根県出雲市大社町菱根264-2",
+    "website": "https://www.shimane-winery.jp",
+    "category": "wine"
+  },
+  {
+    "name": "tetta 株式会社",
+    "pref": "岡山県",
+    "address": "岡山県新見市哲多町矢戸3136",
+    "website": "https://tetta.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 さぬき市SA公社/さぬきワイナリー",
+    "pref": "香川県",
+    "address": "香川県さぬき市小田2671番地13",
+    "website": "http://www.sanuki-wine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "農業生産法人 ひるぜんワイン 有限会社",
+    "pref": "岡山県",
+    "address": "岡山県真庭市蒜山上福田1205-32",
+    "website": "https://hiruzenwine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 広島三次ワイナリー",
+    "pref": "広島県",
+    "address": "広島県三次市東酒屋町445-3",
+    "website": "http://www.miyoshi-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 北条ワイン醸造所",
+    "pref": "鳥取県",
+    "address": "鳥取県東伯郡北栄町松神608",
+    "website": "https://hojyowine.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 奥出雲葡萄園",
+    "pref": "島根県",
+    "address": "島根県雲南市木次町寺領2273-1",
+    "website": "https://okuizumo.com/",
+    "category": "wine"
+  },
+  {
+    "name": "ミシマファーム",
+    "pref": "高知県",
+    "address": "高知県土佐郡土佐町田井446-2",
+    "website": "https://www.mishimafarm.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 福山健康舎/山野峡大田ワイナリー",
+    "pref": "広島県",
+    "address": "広島県福山市山野町大字山野858-1",
+    "website": "https://yamano-wine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "農業法人大山ワイナリー(株)",
+    "pref": "鳥取県",
+    "address": "鳥取県西伯郡伯耆町真野169-4",
+    "website": "https://daisenwinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 enivrant/福山わいん工房",
+    "pref": "広島県",
+    "address": "広島県福山市伏見町3-27",
+    "website": "http://www.enivrant.co.jp/vindefukuyama/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 WORLD COLLECTION/Natan葡萄酒醸造所",
+    "pref": "徳島県",
+    "address": "徳島県三好市池田町マチ2187-7",
+    "website": "https://natan.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "井上ワイナリー 株式会社",
+    "pref": "高知県",
+    "address": "高知県香南市野市町大谷1424-31",
+    "website": "https://www.tosawine.com/",
+    "category": "wine"
+  },
+  {
+    "name": "石見ワイナリー(株)",
+    "pref": "島根県",
+    "address": "島根県大田市大田町大田イ800-15",
+    "website": "https://hotel.iwamiwinery.com/page1",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 兎ッ兎ワイナリー",
+    "pref": "鳥取県",
+    "address": "鳥取県鳥取市国府町麻生178-11",
+    "website": "https://www.tottowinery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "カツトシ 株式会社/カツトシワイナリーちゅうなん中山",
+    "pref": "香川県",
+    "address": "香川県仲多度郡まんのう町七箇字中山749-4",
+    "website": null,
+    "category": "wine"
+  },
+  {
+    "name": "224ワイナリー 株式会社",
+    "pref": "香川県",
+    "address": "香川県小豆郡土庄町甲3406-1",
+    "website": "https://224winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "三和酒類 株式会社/安心院葡萄酒工房",
+    "pref": "大分県",
+    "address": "大分県宇佐市安心院町下毛798",
+    "website": "http://www.ajimu-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "KYOHO JAPAN 株式会社/巨峰ワイナリー",
+    "pref": "福岡県",
+    "address": "福岡県久留米市田主丸町益生田246-1",
+    "website": "https://www.kyoho-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "有限会社 久住ワイナリー",
+    "pref": "大分県",
+    "address": "大分県竹田市久住町久住字平木3990-1",
+    "website": "http://www.kuju-winery.co.jp/",
+    "category": "wine"
+  },
+  {
+    "name": "熊本ワインファーム 株式会社/西里醸造所　熊本ワイナリー",
+    "pref": "熊本県",
+    "address": "熊本県熊本市北区和泉町字三ッ塚168-17",
+    "website": "https://www.kumamotowine.co.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 都農ワイン",
+    "pref": "宮崎県",
+    "address": "宮崎県児湯郡都農町川北14609-20",
+    "website": "https://tsunowine.com",
+    "category": "wine"
+  },
+  {
+    "name": "熊本ワインファーム 株式会社/菊鹿醸造所　菊鹿ワイナリー",
+    "pref": "熊本県",
+    "address": "熊本県山鹿市菊鹿町相良559-2",
+    "website": "https://www.kikuka-winery.jp",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 五島ワイナリー",
+    "pref": "長崎県",
+    "address": "長崎県五島市上大津町2414-2",
+    "website": "https://www.goto-winery.net/",
+    "category": "wine"
+  },
+  {
+    "name": "ドメーヌ・ル・ミヤキ",
+    "pref": "福岡県",
+    "address": "福岡県北九州市小倉北区三郎丸1-9-22",
+    "website": "https://dmiyaki.com/",
+    "category": "wine"
+  },
+  {
+    "name": "葡萄の家 敬土庵",
+    "pref": "大分県",
+    "address": "大分県竹田市久保1305-3",
+    "website": "http://www.oct-net.ne.jp/k-46/vin/vin.html",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 うきのもんで",
+    "pref": "熊本県",
+    "address": "熊本県宇城市松橋町豊崎1822-1",
+    "website": "https://ukinomonde.studio.site/",
+    "category": "wine"
+  },
+  {
+    "name": "株式会社 いとしのいとしま/糸島マスエワイナリ",
+    "pref": "福岡県",
+    "address": "福岡県志摩津和崎33-1",
+    "website": "https://masue-winery.com/",
+    "category": "wine"
+  },
+  {
+    "name": "合同会社 香月ワインズ",
+    "pref": "宮崎県",
+    "address": "宮崎県東諸県郡綾町大字北俣2381",
+    "website": "https://www.katsukiwines.com/",
+    "category": "wine"
+  },
+  {
+    "name": "クラシックブドウ浜田農園/花瀬ワイナリー",
+    "pref": "鹿児島県",
+    "address": "鹿児島県肝属郡錦江町田代川原4232-5",
+    "website": "https://classicbudou.net/",
+    "category": "wine"
+  }
+]

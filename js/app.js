@@ -27,13 +27,15 @@
   let featuredOnly = false;
 
   // 金色(銘柄解説あり)と藍色(通常)のピン色はそのまま維持しつつ、
-  // 清酒(丸)/焼酎(ひし形)/泡盛(三角)/地ビール(四角)は中心のマーカー形状で区別する。
+  // 清酒(丸)/焼酎(ひし形)/泡盛(三角)/地ビール(四角)/ワイン(六角形)は
+  // 中心のマーカー形状で区別する。
   // 画像ファイルを使わずコード内で生成することで、余計なアセット管理を避ける。
   const CATEGORY_MARKS = {
     sake: '<circle cx="14" cy="14" r="5.5" fill="#fff"/>',
     shochu: '<rect x="9.5" y="9.5" width="9" height="9" fill="#fff" transform="rotate(45 14 14)"/>',
     awamori: '<polygon points="14,8 19.5,18 8.5,18" fill="#fff"/>',
     beer: '<rect x="9" y="9" width="10" height="10" fill="#fff"/>',
+    wine: '<polygon points="14,8 18.8,11 18.8,17 14,20 9.2,17 9.2,11" fill="#fff"/>',
   };
 
   function makeIcon(featured, category) {
@@ -57,7 +59,7 @@
   Object.keys(CATEGORY_MARKS).forEach((category) => {
     icons[category] = { normal: makeIcon(false, category), featured: makeIcon(true, category) };
   });
-  const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎", awamori: "泡盛", beer: "地ビール" };
+  const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎", awamori: "泡盛", beer: "地ビール", wine: "ワイン" };
 
   function escapeHtml(str) {
     if (!str) return "";

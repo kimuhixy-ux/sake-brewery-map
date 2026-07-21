@@ -20,6 +20,7 @@ SAKE_INFO_PATH = BASE_DIR / "sake_info.json"
 OUTPUT_PATH = BASE_DIR / "breweries.json"
 MASTER_LIST_PATH = BASE_DIR / "master_list_geocoded.json"
 BEER_MASTER_LIST_PATH = BASE_DIR / "beer_list_geocoded.json"
+WINE_MASTER_LIST_PATH = BASE_DIR / "winery_list_geocoded.json"
 
 # Overpass APIのエンドポイント。第一候補がタイムアウト・エラーになったら
 # 2番目のミラーサーバーに切り替える。
@@ -268,6 +269,118 @@ out center tags;
 # 酒蔵側のMANUAL_ENTRIESと同じ用途。ビールは今のところ手動追加の必要が
 # 見つかっていないため空だが、OSM未登録の醸造所に気づいた場合はここに追加する。
 BEER_MANUAL_ENTRIES = []
+
+# ワイナリーの検索に使うOverpassクエリ。craft=wineryタグは、ビールの
+# craft=breweryと違って味噌・醤油蔵や飲食店との混同がなく、単独で
+# ワイナリーとして扱ってよいことをOverpass APIでの事前確認で確かめている
+# (名称・productタグによる絞り込みは不要)。
+WINE_QUERY = """
+[out:json][timeout:170];
+area["name"="日本"]["admin_level"="2"]->.jp;
+(
+  node["craft"="winery"](area.jp);
+  way["craft"="winery"](area.jp);
+);
+out center tags;
+"""
+
+# 酒蔵側のMANUAL_ENTRIESと同じ用途。ワインは今のところ手動追加の必要が
+# 見つかっていないため空だが、OSM未登録のワイナリーに気づいた場合はここに追加する。
+WINE_MANUAL_ENTRIES = []
+
+
+def load_wine_master_list_records():
+    """日本ワイナリー協会の全国ワイナリー一覧(scripts/scrape_winery_list.py +
+    scripts/geocode_winery_list.pyで生成、winery_list_geocoded.json)を、
+    OSM由来レコードと同じ形式に変換する。
+
+    craft=wineryタグだけでは全国で80件に満たない程度しか拾えず、業界推定
+    (400件以上)に遠く及ばないため、酒蔵・ビール側と同様に業界団体の
+    公開リストを補完データとして使う。ジオコーディングに失敗した
+    (lat/lonがNone)エントリは地図に表示できないため除外する。
+    """
+    if not WINE_MASTER_LIST_PATH.exists():
+        return []
+    with open(WINE_MASTER_LIST_PATH, encoding="utf-8") as f:
+        entries = json.load(f)
+    records = []
+    for entry in entries:
+        if entry.get("lat") is None or entry.get("lon") is None:
+            continue
+        records.append({
+            "name": entry["name"],
+            "lat": round(entry["lat"], 6),
+            "lon": round(entry["lon"], 6),
+            "pref": entry.get("pref"),
+            "address": entry.get("address"),
+            "website": entry.get("website"),
+            "wikipedia": None,
+            "category": "wine",
+        })
+    return records
+
+
+def integrate_wine_master_list(osm_wine_records, master_wine_records):
+    """ワインのマスターリストをOSM由来レコードに統合し、新規追加すべき
+    レコードだけを返す(ビール側のintegrate_beer_master_list()と同じ考え方)。
+    """
+    by_name_pref = {}
+    by_name_nopref = {}
+    for r in osm_wine_records:
+        norm = normalize_name(r["name"])
+        if r.get("pref"):
+            by_name_pref.setdefault((norm, r["pref"]), []).append(r)
+        else:
+            by_name_nopref.setdefault(norm, []).append(r)
+
+    new_records = []
+    for mr in master_wine_records:
+        norm = normalize_name(mr["name"])
+        dup_records = by_name_pref.get((norm, mr.get("pref")))
+        if not dup_records:
+            nopref_candidates = by_name_nopref.get(norm)
+            if nopref_candidates:
+                dup_records = [
+                    r for r in nopref_candidates
+                    if haversine_km(r["lat"], r["lon"], mr["lat"], mr["lon"]) <= NOPREF_MATCH_MAX_KM
+                ] or None
+        if dup_records:
+            continue
+        new_records.append(mr)
+    return new_records
+
+
+def build_wine_record(element):
+    """1つのOSM要素からワイナリーレコードを組み立てる。名称・座標が無ければNone。"""
+    tags = element.get("tags", {})
+    name = tags.get("name")
+    if not name:
+        return None
+    lat, lon = get_center(element)
+    if lat is None or lon is None:
+        return None
+    return {
+        "name": name,
+        "lat": round(lat, 6),
+        "lon": round(lon, 6),
+        "pref": normalize_pref(tags.get("addr:province")),
+        "address": build_address(tags),
+        "website": tags.get("website") or tags.get("contact:website"),
+        "wikipedia": build_wikipedia_url(tags),
+        "category": "wine",
+    }
+
+
+def fetch_wine_elements():
+    print("ワイナリーを検索します...")
+    try:
+        result = fetch_overpass(WINE_QUERY)
+    except RuntimeError as e:
+        print(f"ワイナリー検索に失敗しました(この分だけスキップして続行します): {e}")
+        return []
+    elements = result.get("elements", [])
+    print(f"ワイナリー検索で{len(elements)}件の要素を取得しました。")
+    return elements
 
 
 def load_beer_master_list_records():
@@ -760,10 +873,29 @@ def main():
     print(f"地ビール醸造所{len(beer_records)}件を追加します。")
     records += beer_records
 
+    wine_elements = fetch_wine_elements()
+    wine_records = []
+    for element in wine_elements:
+        record = build_wine_record(element)
+        if record:
+            wine_records.append(record)
+    wine_records = merge_duplicates(wine_records)
+
+    wine_master_records = load_wine_master_list_records()
+    if wine_master_records:
+        new_wine_master_records = integrate_wine_master_list(wine_records, wine_master_records)
+        print(f"ワイナリーのマスターリスト{len(wine_master_records)}件のうち、"
+              f"OSM未登録の{len(new_wine_master_records)}件を追加します。")
+        wine_records += new_wine_master_records
+
+    wine_records += [dict(entry) for entry in WINE_MANUAL_ENTRIES]
+    print(f"ワイナリー{len(wine_records)}件を追加します。")
+    records += wine_records
+
     matched_count = 0
     for i, record in enumerate(records):
         record["id"] = i
-        if record.get("category") == "beer":
+        if record.get("category") in ("beer", "wine"):
             record.setdefault("featured", False)
             record.setdefault("brand", None)
             record.setdefault("desc", None)
