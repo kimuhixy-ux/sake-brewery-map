@@ -22,6 +22,8 @@ MASTER_LIST_PATH = BASE_DIR / "master_list_geocoded.json"
 BEER_MASTER_LIST_PATH = BASE_DIR / "beer_list_geocoded.json"
 WINE_MASTER_LIST_PATH = BASE_DIR / "winery_list_geocoded.json"
 SAKE_AWARD_RAW_PATH = BASE_DIR / "sake_award_raw.json"
+WINE_AWARD_RAW_PATH = BASE_DIR / "wine_award_raw.json"
+BEER_AWARD_RAW_PATH = BASE_DIR / "beer_award_raw.json"
 
 # Overpass APIのエンドポイント。第一候補がタイムアウト・エラーになったら
 # 2番目のミラーサーバーに切り替える。
@@ -64,6 +66,12 @@ NAME_PATTERN = "酒造|酒蔵|銘醸"
 # 蔵名が2文字以下(佐浦・菊姫など)の場合の誤マッチ防止に使うキーワード。
 # match_sake_info() 参照。
 BREWERY_KEYWORDS = ["酒造", "酒蔵", "銘醸", "醸造", "製造元", "工場"]
+
+# ワイナリー名が短い場合の誤マッチ防止に使うキーワード。match_wine_award()参照。
+WINERY_KEYWORDS = ["ワイン", "ワイナリー", "葡萄酒", "ぶどう酒", "醸造"]
+
+# 醸造所名が短い場合の誤マッチ防止に使うキーワード。match_beer_award()参照。
+BEER_KEYWORDS = ["ビール", "ブルワリー", "ブルーイング", "麦酒", "醸造"]
 
 OVERPASS_QUERY = f"""
 [out:json][timeout:170];
@@ -791,6 +799,113 @@ def match_sake_award(record_name, record_pref, award_index_by_pref):
     }
 
 
+def load_wine_award_data(path):
+    """日本ワインコンクールの受賞結果(scripts/scrape_wine_award_list.pyが出力した
+    wine_award_raw.json)を読み込み、(都道府県, 正規化したワイナリー名)ごとに
+    受賞年・金賞年をまとめたインデックスを都道府県別の辞書として返す。
+    load_sake_award_data()と同じ構造。
+    """
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        entries = json.load(f)
+
+    grouped = {}
+    for e in entries:
+        key = (e["pref"], normalize_name(e["winery"]))
+        if key not in grouped:
+            grouped[key] = {"years": set(), "gold_years": set()}
+        grouped[key]["years"].add(e["year"])
+        if e["gold"]:
+            grouped[key]["gold_years"].add(e["year"])
+
+    by_pref = {}
+    for (pref, winery_norm), data in grouped.items():
+        by_pref.setdefault(pref, []).append((winery_norm, data))
+    return by_pref
+
+
+def match_wine_award(record_name, record_pref, award_index_by_pref):
+    """既存のワイナリーレコード(name, pref)から、日本ワインコンクールの受賞歴を
+    探す。match_sake_award()と同じ、正規化名同士の部分一致+都道府県一致方式。
+    """
+    record_norm = normalize_name(record_name)
+    if not record_norm or not record_pref:
+        return None
+
+    years = set()
+    gold_years = set()
+    for winery_norm, data in award_index_by_pref.get(record_pref, []):
+        contains_match = winery_norm in record_norm or record_norm in winery_norm
+        if contains_match and len(winery_norm) <= 2:
+            contains_match = any(kw in record_norm for kw in WINERY_KEYWORDS)
+        if contains_match:
+            years |= data["years"]
+            gold_years |= data["gold_years"]
+
+    if not years:
+        return None
+    return {
+        "years": sorted(years, reverse=True),
+        "gold_years": sorted(gold_years, reverse=True),
+    }
+
+
+def load_beer_award_data(path):
+    """インターナショナル・ビアカップの受賞結果(scripts/scrape_beer_award_list.py
+    が出力したbeer_award_raw.json)を読み込み、(都道府県, 正規化した出品者名)
+    ごとに受賞年・金賞年をまとめたインデックスを都道府県別の辞書として返す。
+    load_sake_award_data()と同じ構造。
+    """
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        entries = json.load(f)
+
+    grouped = {}
+    for e in entries:
+        key = (e["pref"], normalize_name(e["brewery"]))
+        if key not in grouped:
+            grouped[key] = {"years": set(), "gold_years": set()}
+        grouped[key]["years"].add(e["year"])
+        if e["gold"]:
+            grouped[key]["gold_years"].add(e["year"])
+
+    by_pref = {}
+    for (pref, brewery_norm), data in grouped.items():
+        if not brewery_norm:
+            continue
+        by_pref.setdefault(pref, []).append((brewery_norm, data))
+    return by_pref
+
+
+def match_beer_award(record_name, record_pref, award_index_by_pref):
+    """既存の醸造所レコード(name, pref)から、インターナショナル・ビアカップの
+    受賞歴を探す。match_sake_award()と同じ、正規化名同士の部分一致+
+    都道府県一致方式。
+    """
+    record_norm = normalize_name(record_name)
+    if not record_norm or not record_pref:
+        return None
+
+    years = set()
+    gold_years = set()
+    for brewery_norm, data in award_index_by_pref.get(record_pref, []):
+        contains_match = brewery_norm in record_norm or record_norm in brewery_norm
+        if contains_match and len(brewery_norm) <= 2:
+            contains_match = any(kw in record_norm for kw in BEER_KEYWORDS)
+        if contains_match:
+            years |= data["years"]
+            gold_years |= data["gold_years"]
+
+    if not years:
+        return None
+    return {
+        "years": sorted(years, reverse=True),
+        "gold_years": sorted(gold_years, reverse=True),
+    }
+
+
 def build_gap_query(sake_entries):
     """NAME_PATTERN(酒造|酒蔵|銘醸)では引っかからない蔵(月桂冠・八海醸造・
     一ノ蔵など、社名にその3語を含まない蔵)を追加で検索するためのクエリを作る。
@@ -950,9 +1065,13 @@ def main():
     records += wine_records
 
     award_index_by_pref = load_sake_award_data(SAKE_AWARD_RAW_PATH)
+    wine_award_index_by_pref = load_wine_award_data(WINE_AWARD_RAW_PATH)
+    beer_award_index_by_pref = load_beer_award_data(BEER_AWARD_RAW_PATH)
 
     matched_count = 0
     award_matched_count = 0
+    wine_award_matched_count = 0
+    beer_award_matched_count = 0
     for i, record in enumerate(records):
         record["id"] = i
         if record.get("category") in ("beer", "wine"):
@@ -960,6 +1079,16 @@ def main():
             record.setdefault("brand", None)
             record.setdefault("desc", None)
             record.setdefault("award", None)
+            if record.get("category") == "wine":
+                award = match_wine_award(record["name"], record["pref"], wine_award_index_by_pref)
+                record["award"] = award
+                if award:
+                    wine_award_matched_count += 1
+            elif record.get("category") == "beer":
+                award = match_beer_award(record["name"], record["pref"], beer_award_index_by_pref)
+                record["award"] = award
+                if award:
+                    beer_award_matched_count += 1
             continue
         trusted = record.pop("_brand_verified", False)
         entry = match_sake_info(record["name"], record["pref"], sake_entries, trusted=trusted)
@@ -990,6 +1119,8 @@ def main():
     print(f"取得件数: {len(records)}件")
     print(f"銘柄情報がマッチした件数: {matched_count}件")
     print(f"全国新酒鑑評会の受賞歴がマッチした件数: {award_matched_count}件")
+    print(f"日本ワインコンクールの受賞歴がマッチした件数: {wine_award_matched_count}件")
+    print(f"インターナショナル・ビアカップの受賞歴がマッチした件数: {beer_award_matched_count}件")
     print(f"出力先: {OUTPUT_PATH}")
 
 

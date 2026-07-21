@@ -62,6 +62,7 @@
     icons[category] = { normal: makeIcon(false, category), featured: makeIcon(true, category) };
   });
   const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎", awamori: "泡盛", beer: "地ビール", wine: "ワイン" };
+  const AWARD_COMPETITION_LABELS = { sake: "全国新酒鑑評会", wine: "日本ワインコンクール", beer: "インターナショナル・ビアカップ" };
 
   function escapeHtml(str) {
     if (!str) return "";
@@ -93,7 +94,8 @@
       const yearsText = b.award.years
         .map((y) => (goldYears.has(y) ? `${y}年(金賞)` : `${y}年`))
         .join("、");
-      html += `<p class="popup-award">🏆 全国新酒鑑評会 入賞歴: ${escapeHtml(yearsText)}</p>`;
+      const competitionName = AWARD_COMPETITION_LABELS[b.category] || "受賞歴";
+      html += `<p class="popup-award">🏆 ${escapeHtml(competitionName)} 入賞歴: ${escapeHtml(yearsText)}</p>`;
     }
     if (b.address) {
       html += `<p class="popup-address">${escapeHtml(b.address)}</p>`;

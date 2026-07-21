@@ -1,0 +1,9170 @@
+[
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "株式会社 ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "丸和食品株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社道明寺麦酒",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "Ｍａｙ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社祝日麦酒",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "B.Y.Cブリューイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "Nori's Beer",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "ALDEA YAMASHIRO BEERS",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "石川県",
+    "brewery": "オリエンタルブルーイング株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "沖縄県",
+    "brewery": "株式会社LAYDAYBEER",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "石川県",
+    "brewery": "株式会社LAYDAYBEER",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "NAMI NO OTO BREWING",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "和歌山県",
+    "brewery": "ORYZAE BREWING",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "沖縄県",
+    "brewery": "合同会社MAHOW",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "静岡県",
+    "brewery": "RePuBrew合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "沖縄県",
+    "brewery": "合同会社MAHOW",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "鳥取県",
+    "brewery": "久米桜麦酒株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "宮城県",
+    "brewery": "穀町ビール",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "埼玉県",
+    "brewery": "所沢ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "岡山県",
+    "brewery": "宮下酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "株式会社木内酒造1823",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "株式会社 渥美フーズ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "埼玉県",
+    "brewery": "株式会社協同商事",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社ONE's",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "サラヤ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "岩手県",
+    "brewery": "株式会社遠野醸造",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "小田原ガレージブリューイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社シェアードブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "岡山県",
+    "brewery": "株式会社Locals Market",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社Backpackers' Japan",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "株式会社EFM",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "ＳＯＣブルーイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "岩手県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "合同会社ギャランドゥ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社ダイユー",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "國澤麦酒株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "和歌山県",
+    "brewery": "株式会社重岡",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "鳥取県",
+    "brewery": "久米桜麦酒株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣 瓢湖屋敷の杜ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "宮城県",
+    "brewery": "Great Dane Brewing株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "岩手県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "奈良県",
+    "brewery": "株式会社近鉄リテーリング",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "岐阜県",
+    "brewery": "有限会社農業法人飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社松本ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社ルピシアグルマン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "静岡県",
+    "brewery": "HORSEHEAD LABS株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社ステイハングリー",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社ルピシアグルマン",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ラポーザ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "ＳＯＣブルーイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "盛田金しゃちビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "静岡県",
+    "brewery": "HORSEHEAD LABS株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "秋田県",
+    "brewery": "秋田ノーザンハピネッツ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "NAMI NO OTO BREWING",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社ステイハングリー",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "MATSURIBREWING / 祭醸造",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "株式会社ドットライン",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "富山県",
+    "brewery": "株式会社NAT.Development",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "株式会社木内酒造1823",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "株式会社 ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長崎県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "静岡県",
+    "brewery": "株式会社ONEDROP",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "富山県",
+    "brewery": "株式会社NAT.Development",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "千葉稲毛ビール合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "株式会社カケザン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "万里春酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "鹿児島県",
+    "brewery": "ひふみよブリューイング",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "千葉大学 CURAFT",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社ぷらすわん",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "株式会社HUGE",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "ウッドミルブルワリー・京都",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "ÉBIR BREW STUDIO",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "株式会社カケザン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "EVER BREW株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "合同会社ギャランドゥ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "株式会社 渥美フーズ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "有限会社大宮商店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "株式会社ドットライン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "愛知県",
+    "brewery": "株式会社 渥美フーズ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "株式会社安井商店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "株式会社安井商店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "南信州ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "株式会社ペブルス",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社okey",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "株式会社HUGE",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "ペコラビール合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "和歌山県",
+    "brewery": "株式会社CAMPS有田川",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "鹿児島県",
+    "brewery": "株式会社Madres",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "栃木県",
+    "brewery": "那須ボルダー計画株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社okey",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "和歌山県",
+    "brewery": "株式会社CAMPS有田川",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "Twin Peaks Mountain Brewing 合同会",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "茨城県",
+    "brewery": "Twin Peaks Mountain Brewing 合同会",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "石川県",
+    "brewery": "Ishikawa",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社ダイニング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "大雪地ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "大雪地ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "プレミアムトレジャース株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "株式会社ブリッジクラフト",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "鹿児島県",
+    "brewery": "奄美ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "EVER BREW株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "鹿児島県",
+    "brewery": "城山観光株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "山梨県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長崎県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "コガネブリュワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "有限会社福博瓦工業",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "京都茶ビール合同会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "株式会社カケザン",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "京都茶ビール合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "栃木県",
+    "brewery": "那須ボルダー計画株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福井県",
+    "brewery": "OUR BREWING合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "栃木県",
+    "brewery": "那須ボルダー計画株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "株式会社クラフトガレージ",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "薄野地麦酒株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "鹿児島県",
+    "brewery": "城山観光株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "株式会社武相ブリュワリー",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "愛媛県",
+    "brewery": "株式会社ダイテック",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "京都府",
+    "brewery": "京都嵐山ブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "有限会社秋元商店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "新潟県",
+    "brewery": "有限会社大宮商店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "合同会社札幌醸々",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "沖縄県",
+    "brewery": "島国ブルワリーOKINAWA",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "北海道",
+    "brewery": "合同会社札幌醸々",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福井県",
+    "brewery": "OUR BREWING合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "沖縄県",
+    "brewery": "合同会社MAHOW",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "新月ビア",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "EVER BREW株式会社",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "静岡県",
+    "brewery": "RePuBrew合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "神奈川県",
+    "brewery": "ペコラビール合同会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "香川県",
+    "brewery": "株式会社ドットライン",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "長崎県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "愛媛県",
+    "brewery": "株式会社ダイテック",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "福岡県",
+    "brewery": "B.R.E.W.",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": false
+  },
+  {
+    "year": 2025,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": true
+  },
+  {
+    "year": 2025,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "gogoshima beer farm",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "コガネブリュワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "株式会社岩田屋",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "グレートデーンブリューイング株式会",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社ブルーメン",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "NAMI NO OTO BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "熊本県",
+    "brewery": "プロセスデザイン株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "岐阜県",
+    "brewery": "ヒダノオクブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Nori's Beer",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "埼玉県",
+    "brewery": "本庄銀座ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "京都府",
+    "brewery": "ALDEA YAMASHIRO BEERS",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "埼玉県",
+    "brewery": "有限会社堀口アールエム",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "NAMI NO OTO BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "福島県",
+    "brewery": "株式会社ホップジャパン",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "株式会社ローカルダイニング",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "和歌山県",
+    "brewery": "ORYZAE BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing Company",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "埼玉県",
+    "brewery": "有限会社堀口アールエム",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "ＳＯＣブルーイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "静岡県",
+    "brewery": "RePuBrew合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "石川県",
+    "brewery": "TOYODA BEERプロジェクト実行委",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "岡山県",
+    "brewery": "宮下酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "一般社団法人ビーンズ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "秋田県",
+    "brewery": "HOPDOG BREWING合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "静岡県",
+    "brewery": "株式会社ONEDROP",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "小田原ガレージブリューイング",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社魚金",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "有限会社中井レストラン企画",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社テングビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "一般社団法人ビーンズ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "岩手県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "鹿児島県",
+    "brewery": "薩摩川内味噌醤油株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社魚金",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "Osaka Namba Brewers",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "株式会社クラフトガレージ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "株式会社北海鉄工所",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Nori's Beer",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "かけわ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "島根県",
+    "brewery": "出雲多伎BREWERY",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "佐賀県",
+    "brewery": "コトブキテクレックス株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "岐阜県",
+    "brewery": "有限会社農業法人飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "グレートデーンブリューイング株式会",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Nori's Beer",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "愛知県",
+    "brewery": "株式会社 林屋",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社テングビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "京都府",
+    "brewery": "株式会社マーブル",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣 瓢湖屋敷の杜ブルワ",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "大分県",
+    "brewery": "有限会社東和開発",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "麦宿",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "埼玉県",
+    "brewery": "AQUWA brew works",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "麒麟麦酒株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "熊本県",
+    "brewery": "株式会社田代工務店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "南信州ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "水口酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大分県",
+    "brewery": "有限会社東和開発",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社ルピシアグルマン",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "鹿児島県",
+    "brewery": "城山観光株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "万里春酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "奈良県",
+    "brewery": "ロート製薬株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "株式会社北アルプスブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "株式会社ありがとうサービス",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "合同会社BLITZER",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "万里春酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社草舎",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社ルピシアグルマン",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "一般社団法人",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "鹿児島県",
+    "brewery": "株式会社Madres",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "徳島県",
+    "brewery": "株式会社スペック",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "株式会社ありがとうサービス",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing Company",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "万里春酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing Company",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社大雪地ビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "新潟県",
+    "brewery": "株式会社花安",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "福井県",
+    "brewery": "OUR BREWING 合同会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社ふたこ麦麦公社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "月と太陽BREWING株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社立飛ホスピタリティマネジメ",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社okey",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "長島観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "石川県",
+    "brewery": "TOYODA BEERプロジェクト実行委",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "富山県",
+    "brewery": "KOBO Brewery合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社大雪地ビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "愛媛県",
+    "brewery": "株式会社ダイテック",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社草舎",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "茨城県",
+    "brewery": "Twin Peaks Mountain Brewing合",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "合同会社札幌醸々",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "みやぎ仙南農業協同組合",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "大阪府",
+    "brewery": "万里春酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "山口県",
+    "brewery": "山下将輝・猿渡岳・山口",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing Company",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社okey",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "マリハナファクトリー合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社大雪地ビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "TRANS BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "千葉稲毛ビール合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "株式会社北アルプスブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "TRANS BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "北海道",
+    "brewery": "株式会社大雪地ビール",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "佐賀県",
+    "brewery": "西研グラフィックス株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "一般社団法人",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "静岡県",
+    "brewery": "RePuBrew合同会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "富山県",
+    "brewery": "株式会社NAT. Development",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2024,
+    "pref": "富山県",
+    "brewery": "株式会社NAT. Development",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "富山県",
+    "brewery": "株式会社NAT. Development",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "沖縄県",
+    "brewery": "FILL BREWING",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "千葉県",
+    "brewery": "EVER BREW 株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "兵庫県",
+    "brewery": "コガネブリュワリー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "長野県",
+    "brewery": "南信州ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "新月ビア",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "青森県",
+    "brewery": "Aomori Brew Pub",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "鹿児島県",
+    "brewery": "ひふみよブリューイング",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "鹿児島県",
+    "brewery": "奄美ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": false
+  },
+  {
+    "year": 2024,
+    "pref": "高知県",
+    "brewery": "株式会社CHOKA'S",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "場所：石川県金沢市「TKP金沢カンファレンスセンター」",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "高山村農業醸造技研株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "群馬県",
+    "brewery": "合同会社ブルーメン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "Tokyo Aleworks",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "秩父麦酒醸造所",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社あぶらや燈千",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山口県",
+    "brewery": "山口",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "ウッドミルブルワリー・京都",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社久福",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "群馬県",
+    "brewery": "合同会社ブルーメン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "生物学研究室分離 東京農大弥彦桜5号",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福島県",
+    "brewery": "株式会社ホップジャパン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing 株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing 株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "TOYODA BEERプロジェクト実行委",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "B.Y.Cブリューイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣 瓢湖屋敷の杜ブルワ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社久福",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社ＯＮＥ’ｓ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "沖縄県",
+    "brewery": "FILL BREWING",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "合同会社レッツブリュー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山口県",
+    "brewery": "ハートビートブリューイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "福岡県",
+    "brewery": "門司港レトロビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社KIRI",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社Y.craft",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社Y.craft",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "國澤麦酒株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社矢尾本店",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛知県",
+    "brewery": "特定非営利活動法人わっぱの会・",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "Tokyo Aleworks",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岐阜県",
+    "brewery": "農業法人有限会社飛騨高山麦酒",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "北海道",
+    "brewery": "網走ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "南信州ビール",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing 株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "EVER BREW株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "株式会社CraftBank",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "合同会社レッツブリュー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "Tokyo Aleworks",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "EVER BREW株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing 株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "株式会社NAT.Development",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "Tokyo Aleworks",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社ステイハングリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "南信州ビール",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "合同会社レッツブリュー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福島県",
+    "brewery": "株式会社ホップジャパン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "北海道",
+    "brewery": "TRANS BREWING",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山口県",
+    "brewery": "山口",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岐阜県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "鹿児島県",
+    "brewery": "福山黒酢株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "株式会社金澤ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社ハトヤ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "クラフトビール醸造所テラ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岐阜県",
+    "brewery": "ヒダノオクブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "長島観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社ありがとうサービス",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "妻有ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "水口酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "オリエンタルブルーイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "千葉大学",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "奈良県",
+    "brewery": "株式会社近鉄リテーリング",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大分県",
+    "brewery": "有限会社東和開発",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "奈良県",
+    "brewery": "奥大和ビール",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "岩手県",
+    "brewery": "株式会社太極舎",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "イーグレブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "徳島県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "株式会社マーブル",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "茨城県",
+    "brewery": "Twin Peaks Mountain Brewing合",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "福岡県",
+    "brewery": "門司港レトロビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "青森県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "KOBO Brewery合同会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岡山県",
+    "brewery": "株式会社 ワールドインテック",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "KOBO Brewery合同会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社ＯＮＥ’ｓ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "宮城県",
+    "brewery": "一般社団法人イシノマキ・ファーム",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "合同会社ブルークラシック",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社ローカルダイニング",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "山梨県",
+    "brewery": "株式会社ジャパネットウォーター",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "徳島県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "栃木県",
+    "brewery": "那須ボルダー計画株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "南信州ビール",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "OKEI BREWERY",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "徳島県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "佐賀県",
+    "brewery": "コトブキテクレックス株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "岡山県",
+    "brewery": "株式会社 ワールドインテック",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "神奈川県",
+    "brewery": "株式会社 HUGE",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "徳島県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "株式会社CraftBank",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "石川県",
+    "brewery": "合同会社ブルークラシック",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "富山県",
+    "brewery": "株式会社NAT.Development",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "新月ビア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "福井県",
+    "brewery": "OUR BREWING 合同会社",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": true
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "兵庫県",
+    "brewery": "株式会社オープンエア",
+    "gold": false
+  },
+  {
+    "year": 2023,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "場所：東京都大田区「羽田イノベーションシティ \"コングレスクエア羽田\"」",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大分県",
+    "brewery": "三和酒類株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "島根県",
+    "brewery": "高津川リバービア株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "福島県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "兵庫県",
+    "brewery": "小西酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鎌倉ビール醸造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "広島県",
+    "brewery": "THE SMITH",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "TRANS BREWING",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "福島県",
+    "brewery": "親正産業株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鎌倉ビール醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "有限会社堀口アールエム",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "徳島県",
+    "brewery": "株式会社JouZo",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社Y.craft",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鎌倉ビール醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "滋賀県",
+    "brewery": "彦根麦酒",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣 瓢湖屋敷の杜ブルワ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "福岡県",
+    "brewery": "株式会社YMサービス",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "Tokyo Aleworks",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "愛媛県",
+    "brewery": "麦宿",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "奈良県",
+    "brewery": "ゴールデンラビットビール",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "香川県",
+    "brewery": "合同会社ナカタ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "新潟県",
+    "brewery": "八海醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "ニセコビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "三重県",
+    "brewery": "ナガシマリゾート",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "新潟県",
+    "brewery": "妻有ビール",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "愛媛県",
+    "brewery": "株式会社ありがとうサービス",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "茨城県",
+    "brewery": "株式会社木内酒造1823",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "京都府",
+    "brewery": "ラフ・インターナショナル有限会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "福岡県",
+    "brewery": "株式会社かぐら",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "新月ビア",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "石川県",
+    "brewery": "合同会社ブルークラシック",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクトリー",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岩手県",
+    "brewery": "株式会社太極舎",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "青森県",
+    "brewery": "株式会社A-WORLD",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "青森県",
+    "brewery": "株式会社A-WORLD",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "石川県",
+    "brewery": "TOYODA BEERプロジェクト実行委",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岡山県",
+    "brewery": "宮下酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "青森県",
+    "brewery": "株式会社A-WORLD",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "京都府",
+    "brewery": "ラフ・インターナショナル有限会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "奈良県",
+    "brewery": "株式会社近鉄リテーリング",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "石川県",
+    "brewery": "合同会社ブルークラシック",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "茨城県",
+    "brewery": "株式会社麦と葡萄",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社小笠原商店",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "新潟県",
+    "brewery": "株式会社花安新発田斎場",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "徳島県",
+    "brewery": "株式会社 SPEC",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "福岡県",
+    "brewery": "浜地酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岡山県",
+    "brewery": "おかやまフォレストパーク ドイツの森 おかやまフォレストパーク ドイツ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "石川県",
+    "brewery": "合同会社ブルークラシック",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岡山県",
+    "brewery": "おかやまフォレストパーク ドイツの森 おかやまフォレストパーク ドイツ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "茨城県",
+    "brewery": "株式会社麦と葡萄",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング",
+    "gold": true
+  },
+  {
+    "year": 2022,
+    "pref": "宮城県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "東京都",
+    "brewery": "株式会社SAKE-YA JAPAN",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "愛媛県",
+    "brewery": "株式会社アライ",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "徳島県",
+    "brewery": "株式会社 SPEC",
+    "gold": false
+  },
+  {
+    "year": 2022,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "場所：神奈川県横浜市「TKPガーデンシティ横浜」",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "壽酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "福岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "広島県",
+    "brewery": "尾道ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイ Diamond Brewing",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "沖縄県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "栃木県",
+    "brewery": "栃木マイクロブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイ Diamond Brewing",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "TOKYO ALEWORKS",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "広島県",
+    "brewery": "尾道ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山形県",
+    "brewery": "Brewlab.108",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "京都府",
+    "brewery": "京都与謝野酒造",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "和泉ブルワリー合同会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "徳島県",
+    "brewery": "2nd Story Ale Works",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイ Diamond Brewing",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "栃木県",
+    "brewery": "栃木マイクロブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮崎県",
+    "brewery": "宮崎ひでじビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所 札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "奈良県",
+    "brewery": "一般財団法人",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "株式会社ONE's",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "島根県",
+    "brewery": "高津川リバービア株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "栃木県",
+    "brewery": "株式会社三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮城県",
+    "brewery": "穀町ビール",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社坂口屋",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "滋賀県",
+    "brewery": "長浜浪漫ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "ブリューインバー 銀座醸造所",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "兵庫県",
+    "brewery": "小西酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "TOKYO ALEWORKS",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮城県",
+    "brewery": "穀町ビール",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング ヤッホーブルーイング佐久醸造所",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "奈良県",
+    "brewery": "株式会社近鉄リテーリング",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "株式会社太極舎",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "MARUHACHI REAL ESTATE",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "奈良県",
+    "brewery": "長龍酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "チョウシ・チアーズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "福岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "エルオーエル株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "静岡県",
+    "brewery": "宇佐美麦酒製造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "北海道",
+    "brewery": "ニセコビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山形県",
+    "brewery": "Brewlab.108",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "愛媛県",
+    "brewery": "株式会社ありがとうサービス",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "富山県",
+    "brewery": "KOBO Brewery合同会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社ダイニング",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "大分県",
+    "brewery": "合同会社Yell&Ale",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "プレミアムトレジャース株式会 オンタップ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "大分県",
+    "brewery": "合同会社Yell&Ale",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング ヤッホーブルーイング佐久醸造所",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式 ブリューパブセンターポイント",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社ダイニング",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "福島県",
+    "brewery": "株式会社ホップジャパン",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "茨城県",
+    "brewery": "株式会社安井商店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "徳島県",
+    "brewery": "2nd Story Ale Works",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "徳島県",
+    "brewery": "2nd Story Ale Works",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "栃木県",
+    "brewery": "栃木マイクロブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "フジネゴシアン株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "横浜ベイブルーイング株式会社 横浜ベイブルーイング株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "石川県",
+    "brewery": "社会福祉法人佛子園",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "石川県",
+    "brewery": "TOYODABEERプロジェクト実 石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "スプリングバレーブルワリー株 スプリングバレーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式 ブリューパブテタールヴァレ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "滋賀県",
+    "brewery": "長浜浪漫ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "北海道",
+    "brewery": "株式会社札幌開拓使麦酒醸造所 札幌開拓使麦酒醸造所",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "Grande Limite株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "鹿児島県",
+    "brewery": "城山観光株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "Y.Y.G. BREWING",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "大分県",
+    "brewery": "合同会社Yell&Ale",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "新潟県",
+    "brewery": "株式会社花安新発田斎場",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "株式会社riot beer",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "新潟県",
+    "brewery": "妻有ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "合同会社麦香",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "フジネゴシアン株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "新潟県",
+    "brewery": "妻有ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社麦風堂",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "神奈川県",
+    "brewery": "株式会社麦風堂",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "長野県",
+    "brewery": "株式会社ヤッホーブルーイング ヤッホーブルーイング佐久醸造所",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "茨城県",
+    "brewery": "株式会社安井商店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "三重県",
+    "brewery": "有限会社二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "株式会社小笠原商店",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "東京都",
+    "brewery": "Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "群馬県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "京都府",
+    "brewery": "スプリングバレーブルワリー株 スプリングバレーブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2021,
+    "pref": "鹿児島県",
+    "brewery": "福山黒酢株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "岐阜県",
+    "brewery": "株式会社 地ビール飛騨",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "宮崎ひでじビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "宮崎ひでじビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "合同会社 深山東吉野醸造所",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "群馬県",
+    "brewery": "合同会社オクトワン",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社箕面ビール",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "和歌山県",
+    "brewery": "ナギサビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "鹿児島県",
+    "brewery": "合同会社奄美はなはなエール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクト NAMACHAん Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "新潟県",
+    "brewery": "有限会社弥生商店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "愛媛県",
+    "brewery": "株式会社JAPANDEMIC",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "奥大和 ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "株式会社北アルプスブルワリー 北アルプスブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "静岡県",
+    "brewery": "株式会社浜松アクトビールコー はままつ地ビール工房マイン・シュ はままつビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "ゴールデンラビットビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山形県",
+    "brewery": "Brewlab.108",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "茨城県",
+    "brewery": "Paradise Beer Factory",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "奈良醸造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイ Diamond Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "愛媛県",
+    "brewery": "株式会社JAPANDEMIC",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "Far Yeast Brewing株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "栃木県",
+    "brewery": "栃木マイクロブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "北海道",
+    "brewery": "株式会社ブロイハウス大沼",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "一般財団法人曽爾村観光振興公 曽爾高原ファームガーデン 麦の館",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "栃木県",
+    "brewery": "株式会社 三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "京都府",
+    "brewery": "GrandeLimite株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "静岡県",
+    "brewery": "株式会社 DHCビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "沖縄県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "静岡県",
+    "brewery": "株式会社浜松アクトビールコー はままつ地ビール工房マイン・シュ はままつビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "島根県",
+    "brewery": "島根ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "京都府",
+    "brewery": "GrandeLimite株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "北海道",
+    "brewery": "網走ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社 上方ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "和泉ブルワリー合同会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "栃木県",
+    "brewery": "株式会社 三本松茶屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "和泉ブルワリー合同会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "広島県",
+    "brewery": "備後福山ブルーイングカレッジ 備後福山ブルーイングカレッジ",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大分県",
+    "brewery": "Monkey Mountain",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "沖縄県",
+    "brewery": "ザ・テラスホテルズ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "株式会社 坂口屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "MARUHACHI REAL ESTATE",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "MARUHACHI REAL ESTATE",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "三菱食品株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "株式会社 坂口屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "株式会社 坂口屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE CRAFT BEER BASE Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "沖縄県",
+    "brewery": "ザ・テラスホテルズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山口県",
+    "brewery": "Morita Kinshachi Beer Co. Ltd.",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "鹿児島県",
+    "brewery": "合同会社奄美はなはなエール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "所沢ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 京都・一乗寺ブリュワリー",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "岩手県",
+    "brewery": "いわて蔵ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "北海道",
+    "brewery": "ニセコビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "熊本県",
+    "brewery": "株式会社ダイヤモンドブルーイ Diamond Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "和歌山県",
+    "brewery": "ORYZAE BREWING",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "青空エール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "茨城県",
+    "brewery": "株式会社麦と葡萄",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "プレミアムトレジャース株式会 江戸東京ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社 上方ビール",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "和泉ブルワリー合同会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "合同会社 BEAR MEET BEER",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "Anglo Japanese Brewing",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "鹿児島県",
+    "brewery": "福山黒酢株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "兵庫県",
+    "brewery": "株式会社 三田屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "東京都",
+    "brewery": "株式会社スモークビアファクト NAMACHAん Brewing",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式 ブリューパブセンターポイント",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "富山県",
+    "brewery": "KOBO Brewery 合同会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "滋賀県",
+    "brewery": "長浜浪漫ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "石川県",
+    "brewery": "TOYODABEERプロジェクト実 石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "青森県",
+    "brewery": "一般財団法人 十和田湖ふるさと OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "合同会社 BEAR MEET BEER",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "石川県",
+    "brewery": "株式会社金澤ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "鈴廣かまぼこ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "群馬県",
+    "brewery": "株式会社 夢麦酒太田",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "兵庫県",
+    "brewery": "明石ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "石川県",
+    "brewery": "オリエンタルブルーイング株式 オリエンタルブルーイング湯涌醸造 オリエンタルブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "京都府",
+    "brewery": "NPO法人HEROES",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "有限会社こまいぬ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "神奈川県",
+    "brewery": "株式会社麦風堂",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "ブリューパブスタンダード株式 ブリューパブテタールヴァレ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "静岡県",
+    "brewery": "加和太建設株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮城県",
+    "brewery": "みやぎ仙南農業協同組合",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "有限会社こまいぬ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "奈良県",
+    "brewery": "株式会社近鉄リテーリング",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "株式会社信州東御市振興公社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE CRAFT BEER BASE Brewing",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "千葉県",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "三重県",
+    "brewery": "有限会社 二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "福岡県",
+    "brewery": "株式会社EFM",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "長野県",
+    "brewery": "株式会社信州東御市振興公社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "兵庫県",
+    "brewery": "株式会社 三田屋",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "大阪府",
+    "brewery": "株式会社CRAFT BEER BASE CRAFT BEER BASE Brewing",
+    "gold": true
+  },
+  {
+    "year": 2020,
+    "pref": "高知県",
+    "brewery": "合同会社高知カンパーニュブル 合同会社高知カンパーニュブルワ",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2020,
+    "pref": "岩手県",
+    "brewery": "いわて蔵ビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岐阜県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "愛媛県",
+    "brewery": "株式会社JAPANDEMIC",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "山梨県",
+    "brewery": "富士桜高原麦酒",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "山梨県",
+    "brewery": "富士桜高原麦酒",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "群馬県",
+    "brewery": "月夜野クラフトビール株式会社 月夜野クラフトビール",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "富山県",
+    "brewery": "宇奈月ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "山口県",
+    "brewery": "山口 司/杉山",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "富山県",
+    "brewery": "宇奈月ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "SHIKI BEER",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岐阜県",
+    "brewery": "有限会社農業法人飛騨高山麦酒 有限会社農業法人飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣 瓢湖屋敷の杜ブ 株式会社天朝閣 瓢湖屋敷の杜ブル",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "TDM 1874 Brewery",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "和歌山県",
+    "brewery": "ORYZAE BREWING",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "徳島県",
+    "brewery": "株式会社SPEC",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "奈良県",
+    "brewery": "奥大和ビール",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "岩手県",
+    "brewery": "いわて蔵ビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "徳島県",
+    "brewery": "株式会社SPEC",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "群馬県",
+    "brewery": "月夜野クラフトビール株式会社 月夜野クラフトビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "山梨県",
+    "brewery": "富士桜高原麦酒",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "山梨県",
+    "brewery": "富士桜高原麦酒",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "横浜ベイブルーイング株式会社 横浜ベイブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "静岡県",
+    "brewery": "株式会社浜松アクトビールコー はままつ地ビール工房マインシュロ はままつビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "石川県",
+    "brewery": "石川酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "カンパイ!ブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "京都府",
+    "brewery": "Kyoto Beer Lab",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "大阪府",
+    "brewery": "株式会社シクロ",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "ブリューインバー",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "OGA BREWING",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮城県",
+    "brewery": "みやぎ仙南農業協同組合",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "京都府",
+    "brewery": "Kyoto Beer Lab",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岩手県",
+    "brewery": "いわて蔵ビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "岩手県",
+    "brewery": "いわて蔵ビール",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "青森県",
+    "brewery": "Be Easy Brewing",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "株式会社Y.Y.G. BREWING",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "群馬県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "徳島県",
+    "brewery": "株式会社SPEC",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "徳島県",
+    "brewery": "株式会社SPEC",
+    "gold": true
+  },
+  {
+    "year": 2019,
+    "pref": "高知県",
+    "brewery": "合同会社高知カンパーニュブル 合同会社高知カンパーニュブルワ",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "株式会社KICHIRI",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "富山県",
+    "brewery": "株式会社ブルーミン",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "愛知県",
+    "brewery": "株式会社ワイマーケット",
+    "gold": false
+  },
+  {
+    "year": 2019,
+    "pref": "東京都",
+    "brewery": "株式会社KICHIRI",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "ParadiseBeerFactory",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "福井県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "ブリューインバー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "兵庫県",
+    "brewery": "ユーアールエー株式会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "小田原鈴廣",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "秋田県",
+    "brewery": "株式会社わらび座",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "石川県",
+    "brewery": "TOYODA BEERプロジェクト",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "富山県",
+    "brewery": "宇奈月ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "兵庫県",
+    "brewery": "ユーアールエー株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "株式会社銀河高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "株式会社銀河高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "株式会社銀河高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "静岡県",
+    "brewery": "御殿場高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "ブリューインバー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岐阜県",
+    "brewery": "有限会社 農業法人 飛騨高山麦 有限会社 農業法人 飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岐阜県",
+    "brewery": "有限会社 農業法人 飛騨高山麦 有限会社 農業法人 飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "新潟県",
+    "brewery": "(株)天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "キリンビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "Deraiileur Brew Works",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "愛媛県",
+    "brewery": "水口酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "京都府",
+    "brewery": "ウッドミルブルワリー・京都",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 京都・一乗寺ブリュワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ 2SP Brewing",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "沖縄県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "沖縄県",
+    "brewery": "ヘリオス酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "京都府",
+    "brewery": "丹後王国",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "石川県",
+    "brewery": "Heart & Beer 日本海倶楽部",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "埼玉県",
+    "brewery": "(株)羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "愛媛県",
+    "brewery": "水口酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "Deraiileur Brew Works",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "京都府",
+    "brewery": "丹後王国",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "宮城県",
+    "brewery": "株式会社 加工連",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "株式会社ダイニング",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "埼玉県",
+    "brewery": "(株)羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 京都・一乗寺ブリュワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "和泉ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "埼玉県",
+    "brewery": "株式会社FAR EAST",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "TDM 1874 Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "ブリューパブセンターポイント ブリューパブセンターポイント",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "愛知県",
+    "brewery": "盛田金しゃちビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "栃木県",
+    "brewery": "株式会社ホンダ産業 プレストン プレストンエールブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "福岡県",
+    "brewery": "浜地酒造㈱",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "株式会社タイソンズアンドカン ティー・ワイ・ハーバーブルワリー",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "箕面ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "大阪府",
+    "brewery": "ブリューパブテタールヴァレ",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "神奈川県",
+    "brewery": "TDM 1874 Brewery",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": true
+  },
+  {
+    "year": 2018,
+    "pref": "群馬県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "兵庫県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "石川県",
+    "brewery": "オリエンタルブルーイング株式 ORIENTAL BREWING 東山醸造",
+    "gold": false
+  },
+  {
+    "year": 2018,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社パシフィック・イン",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "福井県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "京都府",
+    "brewery": "株式会社丹後王国",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "秋田県",
+    "brewery": "株式会社わらび座",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "青森県",
+    "brewery": "（一財）十和田湖ふるさと活性 OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "静岡県",
+    "brewery": "株式会社DHCビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "秋田県",
+    "brewery": "株式会社わらび座",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "萌木の村株式会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "静岡県",
+    "brewery": "株式会社DHCビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "沖縄県",
+    "brewery": "ザ・テラスホテルズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岐阜県",
+    "brewery": "有限会社 農業法人 飛騨高山麦 有限会社 農業法人 飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岐阜県",
+    "brewery": "有限会社 農業法人 飛騨高山麦 有限会社 農業法人 飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "株式会社天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "奈良県",
+    "brewery": "ゴールデンラビットビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "鹿児島県",
+    "brewery": "濵田酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "石川県",
+    "brewery": "ORIENTAL BREWING",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "大阪府",
+    "brewery": "寿酒造 株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "有限会社たのし屋本舗",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "秋田県",
+    "brewery": "株式会社あくら",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "大阪府",
+    "brewery": "合同会社Marca",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "横浜DeNAベイスターズ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "群馬県",
+    "brewery": "株式会社ファーム",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "群馬県",
+    "brewery": "株式会社ファーム",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "山梨県",
+    "brewery": "富士観光開発株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "宮城県",
+    "brewery": "株式会社加工連",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "茨城県",
+    "brewery": "牛久ブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "群馬県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社坂口屋",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "京都府",
+    "brewery": "株式会社 京都・一乗寺ブリュ",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "埼玉県",
+    "brewery": "株式会社羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "株式会社タイソンズアンドカン ティー・ワイ・ハーバーブルワリー ティー・ワイ・ハーバーブルワ アンバーエール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "栃木県",
+    "brewery": "株式会社ホンダ産業 プレスト",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "株式会社タイソンズアンドカン ティー・ワイ・ハーバーブルワリー ティー・ワイ・ハーバーブルワ インペリアルスタウト",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "京都府",
+    "brewery": "株式会社 京都・一乗寺ブリュ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "栃木県",
+    "brewery": "株式会社ホンダ産業 プレスト",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "長野県",
+    "brewery": "ヤッホーブルーイング",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "和歌山県",
+    "brewery": "平和酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "沖縄県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "東京都",
+    "brewery": "株式会社ユウ・アンド・アソシ Y.Y.G. Brewery",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "三重県",
+    "brewery": "有限会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "兵庫県",
+    "brewery": "出石城山ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "神奈川県",
+    "brewery": "株式会社小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "大阪府",
+    "brewery": "ブリューパブテタールヴァレ",
+    "gold": false
+  },
+  {
+    "year": 2017,
+    "pref": "岐阜県",
+    "brewery": "郡上八幡麦酒こぼこぼ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "京都府",
+    "brewery": "黄桜株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "栃木県",
+    "brewery": "宇都宮ブルワリー株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "京都府",
+    "brewery": "黄桜株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "クラフトハートブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "鳥取県",
+    "brewery": "久米桜麦酒株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "北海道",
+    "brewery": "株式会社耕人舎",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "青森県",
+    "brewery": "一般財団法人十和田湖ふるさと OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "青森県",
+    "brewery": "一般財団法人十和田湖ふるさと OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "青森県",
+    "brewery": "一般財団法人十和田湖ふるさと OIRASE Brewery",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "富山県",
+    "brewery": "宇奈月ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "宮崎県",
+    "brewery": "雲海酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "長野県",
+    "brewery": "麗人酒造株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "秋田県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "沖縄県",
+    "brewery": "株式会社南都",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "新潟県",
+    "brewery": "荒井アンドアソシエイツ株式会 妙高高原ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "酪農王国株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "東京都",
+    "brewery": "モルソン・クアーズ・ジャパン Blue Moon Brewing Company ブルームーン",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "株式会社パシフィック・イン",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "新潟県",
+    "brewery": "(株)天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "栃木県",
+    "brewery": "那須高原ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "岐阜県",
+    "brewery": "有限会社農業法人飛騨高山麦酒 飛騨高山麦酒",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "新潟県",
+    "brewery": "(株)天朝閣",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "東京都",
+    "brewery": "Far Yeast Brewing",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "宇佐美麦酒製造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "沖縄県",
+    "brewery": "株式会社南都",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "酪農王国株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "合同酒精(株)シャトーカミヤ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "株式会社横浜ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "大阪府",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "クラフトハートブルワリー",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 株式会社京都・一乗寺ブリュワリー 一乗寺ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "大阪府",
+    "brewery": "寿酒造 株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "埼玉県",
+    "brewery": "(株)羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "岩手県",
+    "brewery": "世嬉の一酒造(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "木内酒造合資会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "群馬県",
+    "brewery": "株式会社ファーム",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "埼玉県",
+    "brewery": "株式会社ベルビア",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "横浜DeNAベイスターズ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "埼玉県",
+    "brewery": "(株)羽生の里",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "（株）小田原鈴廣",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "合同酒精(株)シャトーカミヤ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "宮崎県",
+    "brewery": "霧島酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "合同酒精(株)シャトーカミヤ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "熊澤酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "群馬県",
+    "brewery": "株式会社ファーム",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "石川県",
+    "brewery": "Heart＆Beer 日本海倶楽部",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "沖縄県",
+    "brewery": "ザ・テラスホテルズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "岩手県",
+    "brewery": "上閉伊酒造株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "宮城県",
+    "brewery": "(株)加工連",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "山梨県",
+    "brewery": "富士観光開発(株)",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 株式会社京都・一乗寺ブリュワリー 一乗寺ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "東京都",
+    "brewery": "株式会社タイソンズアンドカン ティー・ワイ・ハーバーブルワリー ティー・ワイ・ハーバーブルワ ウィートエール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "茨城県",
+    "brewery": "合同酒精(株)シャトーカミヤ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "サンクトガーレン有限会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "静岡県",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "京都府",
+    "brewery": "株式会社京都・一乗寺ブリュワ 株式会社京都・一乗寺ブリュワリー 一乗寺ビール",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "大阪府",
+    "brewery": "株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "大阪府",
+    "brewery": "株式会社",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "滋賀県",
+    "brewery": "長浜浪漫ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "広島県",
+    "brewery": "呉ビール株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "沖縄県",
+    "brewery": "ザ・テラスホテルズ株式会社",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "長野県",
+    "brewery": "株式会社ファーム",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "三重県",
+    "brewery": "二軒茶屋餅角屋本店",
+    "gold": true
+  },
+  {
+    "year": 2016,
+    "pref": "神奈川県",
+    "brewery": "（株）小田原鈴廣",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "徳島県",
+    "brewery": "株式会社スペック",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "千葉県",
+    "brewery": "株式会社イクスピアリ",
+    "gold": false
+  },
+  {
+    "year": 2016,
+    "pref": "長野県",
+    "brewery": "(株)ヤッホーブルーイング",
+    "gold": false
+  }
+]
