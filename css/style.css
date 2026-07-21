@@ -134,6 +134,25 @@ html, body {
   border-color: #b8860b;
 }
 
+#award-toggle {
+  flex: 1.4;
+  min-height: 44px;
+  padding: 8px 10px;
+  font-size: 13px;
+  border: 1px solid #8b5e3c;
+  border-radius: 8px;
+  background: #fffdf8;
+  color: #6b4423;
+  white-space: nowrap;
+}
+
+#award-toggle[aria-pressed="true"] {
+  background: #cd7f32;
+  color: #fff;
+  font-weight: bold;
+  border-color: #8b5e3c;
+}
+
 #count-row {
   font-size: 12px;
   color: #55524a;
@@ -200,6 +219,16 @@ html, body {
   font-size: 13px;
   line-height: 1.5;
   color: #333;
+  margin: 0 0 8px;
+}
+
+.brewery-popup .popup-award {
+  font-size: 12px;
+  line-height: 1.5;
+  color: #6b4423;
+  background: #f7ead9;
+  border-radius: 6px;
+  padding: 4px 8px;
   margin: 0 0 8px;
 }
 

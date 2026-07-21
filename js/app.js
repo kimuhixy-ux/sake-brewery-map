@@ -20,11 +20,13 @@
   const prefSelect = document.getElementById("pref-select");
   const categorySelect = document.getElementById("category-select");
   const featuredToggle = document.getElementById("featured-toggle");
+  const awardToggle = document.getElementById("award-toggle");
   const resultCount = document.getElementById("result-count");
   const locateBtn = document.getElementById("locate-btn");
 
   let breweries = [];
   let featuredOnly = false;
+  let awardOnly = false;
 
   // 金色(銘柄解説あり)と藍色(通常)のピン色はそのまま維持しつつ、
   // 清酒(丸)/焼酎(ひし形)/泡盛(三角)/地ビール(四角)/ワイン(六角形)は
@@ -86,6 +88,13 @@
         html += `<p class="popup-desc">${escapeHtml(b.desc)}</p>`;
       }
     }
+    if (b.award) {
+      const goldYears = new Set(b.award.gold_years);
+      const yearsText = b.award.years
+        .map((y) => (goldYears.has(y) ? `${y}年(金賞)` : `${y}年`))
+        .join("、");
+      html += `<p class="popup-award">🏆 全国新酒鑑評会 入賞歴: ${escapeHtml(yearsText)}</p>`;
+    }
     if (b.address) {
       html += `<p class="popup-address">${escapeHtml(b.address)}</p>`;
     }
@@ -104,6 +113,7 @@
 
   function matchesFilters(b, query, pref, category) {
     if (featuredOnly && !b.featured) return false;
+    if (awardOnly && !b.award) return false;
     if (pref && b.pref !== pref) return false;
     if (category && b.category !== category) return false;
     if (query) {
@@ -167,6 +177,12 @@
   featuredToggle.addEventListener("click", () => {
     featuredOnly = !featuredOnly;
     featuredToggle.setAttribute("aria-pressed", String(featuredOnly));
+    render();
+  });
+
+  awardToggle.addEventListener("click", () => {
+    awardOnly = !awardOnly;
+    awardToggle.setAttribute("aria-pressed", String(awardOnly));
     render();
   });
 
