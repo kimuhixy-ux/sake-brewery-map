@@ -92,12 +92,13 @@ python3 scripts/geocode_winery_list.py   # 住所をNominatimでジオコーデ�
 日本酒造組合中央会「酒蔵検索」（https://japansake.or.jp/sakagura/jp/）を情報源とする全国清酒蔵元リスト。robots.txtにクロール制限は無く、明確な再利用禁止の記載も無いことを確認済み。蔵名・住所・カテゴリ（清酒/焼酎）といった事実情報のみを抽出し、解説文などの著作物はそのまま複製しない方針にしている。
 
 ```bash
-python3 scripts/scrape_master_list.py    # 全47都道府県をスクレイピングし、master_list_raw.jsonを生成
+python3 scripts/scrape_master_list.py    # 全47都道府県と各蔵の公式サイトURLを取得
 python3 scripts/geocode_master_list.py   # 住所をNominatimでジオコーディングし、master_list_geocoded.jsonを生成
 ```
 
 - どちらも標準ライブラリのみで書かれているため、pip installは不要。
 - `scrape_master_list.py`は清酒（`class="sake"`）・焼酎（`class="shochu"`）の両方を対象にし、サイト側の分類をそのまま`category`として保存する。
+- 各酒蔵の詳細ページに「HP」が掲載されている場合は公式サイトURLも取得する。途中経過は`master_list_website_cache.json`に保存される。既存リストの公式サイトだけを更新する場合は`python3 scripts/scrape_master_list.py --details-only`を使う。
 - `geocode_master_list.py`はNominatimの利用ポリシーに従い1秒に1リクエストのレート制限をかけているため、1,500件規模だと1時間前後かかる。番地まで含めた住所でヒットしない場合は末尾を段階的に削って町・字レベルまでフォールバックする。また、日本語住所は都道府県・郡・市区町村などの行政区画の境目にスペースを入れないとNominatim側でヒットしないことが多いため、区切りにスペースを挿入した候補を優先的に試す。
 - 結果は`master_list_geocode_cache.json`に住所文字列をキーにしてキャッシュされるため、途中で中断しても再実行時に再ジオコーディングをスキップできる。
 

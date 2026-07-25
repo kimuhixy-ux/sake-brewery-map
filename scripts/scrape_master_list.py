@@ -21,14 +21,19 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = BASE_DIR / "master_list_raw.json"
+WEBSITE_CACHE_PATH = BASE_DIR / "master_list_website_cache.json"
 
 HEADERS = {"User-Agent": "sake-brewery-map/1.0 (personal PWA project; github.com/kimuhixy-ux/sake-brewery-map)"}
 REQUEST_DELAY_SECONDS = 1.0
+DETAIL_REQUEST_DELAY_SECONDS = 0.25
+DETAIL_MAX_WORKERS = 6
 MAX_RETRIES = 3
 
 # https://japansake.or.jp/sakagura/jp/ トップページのナビゲーションから抽出した
@@ -62,6 +67,13 @@ ENTRY_PATTERN = re.compile(
     re.DOTALL,
 )
 
+# 個別の酒蔵ページにある「HP」行だけを対象にする。ページ下部にある
+# 日本酒造組合中央会自身のURLを誤って酒蔵の公式サイトとして拾わない。
+WEBSITE_PATTERN = re.compile(
+    r"<th>\s*HP\s*</th>\s*<td[^>]*>\s*<a[^>]+href=[\"'](?P<url>[^\"']+)[\"']",
+    re.IGNORECASE | re.DOTALL,
+)
+
 
 def fetch_url(url):
     for attempt in range(1, MAX_RETRIES + 1):
@@ -81,6 +93,64 @@ def fetch_url(url):
 
 def strip_tags(html):
     return re.sub(r"<[^>]+>", "", html).strip()
+
+
+def normalize_website_url(raw_url):
+    """サイト側で省略されることがあるschemeを補い、HTTP(S)だけを返す。"""
+    url = raw_url.strip()
+    if re.match(r"^[a-z][a-z0-9+.-]*:", url, re.IGNORECASE) and not re.match(
+        r"^https?://", url, re.IGNORECASE
+    ):
+        return None
+    if url.startswith("//"):
+        url = "https:" + url
+    elif not re.match(r"^https?://", url, re.IGNORECASE):
+        url = "https://" + url.lstrip("/")
+    parsed = urllib.parse.urlsplit(url)
+    if parsed.scheme.lower() not in {"http", "https"} or not parsed.netloc:
+        return None
+    return url
+
+
+def parse_website(html):
+    match = WEBSITE_PATTERN.search(html)
+    return normalize_website_url(match.group("url")) if match else None
+
+
+def enrich_websites(entries):
+    cache = {}
+    if WEBSITE_CACHE_PATH.exists():
+        with open(WEBSITE_CACHE_PATH, encoding="utf-8") as f:
+            cache = json.load(f)
+        print(f"公式サイトURLキャッシュを読み込みました({len(cache)}件)。")
+
+    missing_urls = [e["source_url"] for e in entries if e["source_url"] not in cache]
+
+    def fetch_website(source_url):
+        html = fetch_url(source_url)
+        time.sleep(DETAIL_REQUEST_DELAY_SECONDS)
+        return parse_website(html) if html else None
+
+    if missing_urls:
+        completed = 0
+        with ThreadPoolExecutor(max_workers=DETAIL_MAX_WORKERS) as executor:
+            futures = {executor.submit(fetch_website, url): url for url in missing_urls}
+            for future in as_completed(futures):
+                source_url = futures[future]
+                cache[source_url] = future.result()
+                completed += 1
+                if completed % 20 == 0:
+                    with open(WEBSITE_CACHE_PATH, "w", encoding="utf-8") as f:
+                        json.dump(cache, f, ensure_ascii=False, indent=2)
+                if completed % 50 == 0 or completed == len(missing_urls):
+                    print(f"  公式サイト [{completed}/{len(missing_urls)}] 新規取得")
+
+    for entry in entries:
+        entry["website"] = cache[entry["source_url"]]
+
+    with open(WEBSITE_CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+    return entries
 
 
 def parse_entries(html, pref_name):
@@ -128,23 +198,31 @@ def scrape_prefecture(slug, pref_name):
 
 
 def main():
-    all_entries = []
-    for i, (slug, pref_name) in enumerate(PREF_SLUGS.items(), 1):
-        print(f"[{i}/{len(PREF_SLUGS)}] {pref_name} ({slug}) を取得中...")
-        entries = scrape_prefecture(slug, pref_name)
-        sake_count = sum(1 for e in entries if e["category"] == "sake")
-        shochu_count = sum(1 for e in entries if e["category"] == "shochu")
-        print(f"  -> 清酒 {sake_count}件 / 焼酎 {shochu_count}件")
-        all_entries.extend(entries)
-        time.sleep(REQUEST_DELAY_SECONDS)
+    details_only = "--details-only" in sys.argv
+    if details_only:
+        with open(OUTPUT_PATH, encoding="utf-8") as f:
+            all_entries = json.load(f)
+    else:
+        all_entries = []
+        for i, (slug, pref_name) in enumerate(PREF_SLUGS.items(), 1):
+            print(f"[{i}/{len(PREF_SLUGS)}] {pref_name} ({slug}) を取得中...")
+            entries = scrape_prefecture(slug, pref_name)
+            sake_count = sum(1 for e in entries if e["category"] == "sake")
+            shochu_count = sum(1 for e in entries if e["category"] == "shochu")
+            print(f"  -> 清酒 {sake_count}件 / 焼酎 {shochu_count}件")
+            all_entries.extend(entries)
+            time.sleep(REQUEST_DELAY_SECONDS)
+
+    enrich_websites(all_entries)
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(all_entries, f, ensure_ascii=False, indent=2)
 
     sake_total = sum(1 for e in all_entries if e["category"] == "sake")
     shochu_total = sum(1 for e in all_entries if e["category"] == "shochu")
+    website_total = sum(1 for e in all_entries if e.get("website"))
     print()
-    print(f"合計: {len(all_entries)}件 (清酒{sake_total}件 / 焼酎{shochu_total}件)")
+    print(f"合計: {len(all_entries)}件 (清酒{sake_total}件 / 焼酎{shochu_total}件 / 公式サイト{website_total}件)")
     print(f"出力先: {OUTPUT_PATH}")
 
 

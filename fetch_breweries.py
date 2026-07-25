@@ -208,6 +208,18 @@ def build_wikipedia_url(tags):
     return f"https://{lang}.wikipedia.org/wiki/{quoted}"
 
 
+def normalize_website_url(url):
+    """OSMでschemeが省略されたURLを、ブラウザで開ける絶対URLに直す。"""
+    if not url:
+        return None
+    url = url.strip()
+    if url.startswith("//"):
+        return "https:" + url
+    if not re.match(r"^https?://", url, re.IGNORECASE):
+        return "https://" + url.lstrip("/")
+    return url
+
+
 # 名称キーワード一致だけで拾うと、居酒屋・飲食店(店名に「酒蔵」を含むことがある)が
 # 紛れ込むことがあるため、これらのamenityタグが付いている場合は除外する。
 EXCLUDE_AMENITIES = {"restaurant", "bar", "pub", "cafe", "fast_food", "izakaya", "nightclub"}
@@ -374,7 +386,7 @@ def build_wine_record(element):
         "lon": round(lon, 6),
         "pref": normalize_pref(tags.get("addr:province")),
         "address": build_address(tags),
-        "website": tags.get("website") or tags.get("contact:website"),
+        "website": normalize_website_url(tags.get("website") or tags.get("contact:website")),
         "wikipedia": build_wikipedia_url(tags),
         "category": "wine",
     }
@@ -489,7 +501,7 @@ def build_beer_record(element):
         "lon": round(lon, 6),
         "pref": normalize_pref(tags.get("addr:province")),
         "address": build_address(tags),
-        "website": tags.get("website") or tags.get("contact:website"),
+        "website": normalize_website_url(tags.get("website") or tags.get("contact:website")),
         "wikipedia": build_wikipedia_url(tags),
         "category": "beer",
     }
@@ -528,7 +540,7 @@ def build_record(element):
         "lon": round(lon, 6),
         "pref": normalize_pref(tags.get("addr:province")),
         "address": build_address(tags),
-        "website": tags.get("website") or tags.get("contact:website"),
+        "website": normalize_website_url(tags.get("website") or tags.get("contact:website")),
         "wikipedia": build_wikipedia_url(tags),
         "_brand_verified": tags.get("_brand_verified") == "1",
     }
@@ -604,7 +616,7 @@ def load_master_list_records():
             "lon": round(entry["lon"], 6),
             "pref": entry.get("pref"),
             "address": entry.get("address"),
-            "website": None,
+            "website": entry.get("website"),
             "wikipedia": None,
             "category": resolve_category(entry.get("category", "sake"), entry.get("pref")),
             "_brand_verified": False,
@@ -678,6 +690,11 @@ def integrate_master_list(osm_records, master_records, sake_entries):
                 dup_records = by_sake_entry.get((mentry["brewery"], mentry["pref"]))
 
         if dup_records:
+            if mr.get("website"):
+                for r in dup_records:
+                    # 業界団体の酒蔵ページで蔵自身が届け出たHPを優先する。
+                    # OSM側には直営店など別施設のURLが入ることがあるため。
+                    r["website"] = mr["website"]
             if mr["category"] != "sake":
                 for r in dup_records:
                     r["category"] = mr["category"]
