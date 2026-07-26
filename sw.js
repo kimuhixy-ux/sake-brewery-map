@@ -31,6 +31,7 @@ const NETWORK_FIRST_ASSETS = [
   "./js/affiliate.js",
   "./js/app.js",
   "./js/ui.js",
+  "./js/donate.js",
   "./breweries.json",
   "./about.html",
   "./privacy.html",
