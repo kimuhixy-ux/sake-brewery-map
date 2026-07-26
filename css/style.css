@@ -65,6 +65,100 @@ html, body {
   background: #e5ddc8;
 }
 
+/* 情報ボタン(ヘッダー右上、about/privacyへの導線) */
+#info-btn {
+  position: fixed;
+  top: calc(8px + env(safe-area-inset-top));
+  right: 10px;
+  z-index: 750;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.15);
+  color: #f4ecdc;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#info-btn:active {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* 情報モーダル */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.modal-overlay[hidden] {
+  display: none;
+}
+
+.modal-panel {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  background: #fffdf8;
+  border-radius: 14px;
+  padding: 24px 20px 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+}
+
+.modal-panel h2 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: #22334a;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+}
+
+.modal-desc {
+  margin: 0 0 16px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #55524a;
+}
+
+.modal-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.modal-links a {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: #eee6d3;
+  color: #22334a;
+  text-decoration: none;
+  font-size: 14px;
+  text-align: center;
+}
+
+.modal-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  border: none;
+  background: transparent;
+  font-size: 15px;
+  color: #888;
+}
+
 /* 検索・絞り込みパネル */
 #control-panel {
   position: fixed;

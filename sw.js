@@ -26,8 +26,12 @@ const NETWORK_FIRST_ASSETS = [
   "./",
   "./index.html",
   "./css/style.css",
+  "./css/page.css",
   "./js/app.js",
+  "./js/ui.js",
   "./breweries.json",
+  "./about.html",
+  "./privacy.html",
 ];
 
 const ALL_ASSETS = [...STABLE_ASSETS, ...NETWORK_FIRST_ASSETS];
