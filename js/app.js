@@ -109,6 +109,12 @@
     if (b.wikipedia) {
       html += `<a class="secondary" href="${escapeHtml(b.wikipedia)}" target="_blank" rel="noopener">Wikipedia</a>`;
     }
+    if (b.featured && b.brand && typeof window.buildAffiliateSearchLink === "function") {
+      const amazonUrl = window.buildAffiliateSearchLink(b.brand, b.category);
+      if (amazonUrl) {
+        html += `<a class="secondary" href="${escapeHtml(amazonUrl)}" target="_blank" rel="sponsored noopener">${escapeHtml(b.brand)}を探す<span class="pr-label">PR</span></a>`;
+      }
+    }
     html += "</div></div>";
     return html;
   }

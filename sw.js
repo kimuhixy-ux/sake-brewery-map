@@ -27,6 +27,8 @@ const NETWORK_FIRST_ASSETS = [
   "./index.html",
   "./css/style.css",
   "./css/page.css",
+  "./js/config.js",
+  "./js/affiliate.js",
   "./js/app.js",
   "./js/ui.js",
   "./breweries.json",

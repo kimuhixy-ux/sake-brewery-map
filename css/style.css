@@ -358,6 +358,18 @@ html, body {
   color: #22334a;
 }
 
+.pr-label {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 700;
+  color: #a8721a;
+  background: #f2e2c4;
+  padding: 1px 5px;
+  border-radius: 4px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
 /* 蔵アイコン(SVGをdivIconとして使う) */
 .brewery-icon {
   display: flex;
