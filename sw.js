@@ -27,14 +27,22 @@ const NETWORK_FIRST_ASSETS = [
   "./index.html",
   "./css/style.css",
   "./css/page.css",
+  "./js/i18n.js",
+  "./js/strings.js",
+  "./js/pref-labels.js",
   "./js/config.js",
   "./js/affiliate.js",
   "./js/app.js",
   "./js/ui.js",
   "./js/donate.js",
   "./breweries.json",
+  "./data/featured-en.json",
   "./about.html",
   "./privacy.html",
+  "./en/index.html",
+  "./en/about.html",
+  "./en/privacy.html",
+  "./en/manifest.json",
 ];
 
 const ALL_ASSETS = [...STABLE_ASSETS, ...NETWORK_FIRST_ASSETS];

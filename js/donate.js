@@ -7,7 +7,7 @@
     const list = document.querySelector("#info-modal .modal-links");
     if (!list) return;
     const li = document.createElement("li");
-    li.innerHTML = `<a href="https://ko-fi.com/${encodeURIComponent(username)}" target="_blank" rel="noopener">☕ Ko-fiで応援する</a>`;
+    li.innerHTML = `<a href="https://ko-fi.com/${encodeURIComponent(username)}" target="_blank" rel="noopener">${window.S.kofiSupport}</a>`;
     list.appendChild(li);
   }
 

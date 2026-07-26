@@ -1,6 +1,9 @@
 (function () {
   "use strict";
 
+  const LOCALE = window.APP_I18N.LOCALE;
+  const ROOT = window.APP_I18N.ROOT;
+
   const map = L.map("map", {
     zoomControl: true,
     attributionControl: true,
@@ -61,8 +64,8 @@
   Object.keys(CATEGORY_MARKS).forEach((category) => {
     icons[category] = { normal: makeIcon(false, category), featured: makeIcon(true, category) };
   });
-  const CATEGORY_LABELS = { sake: "清酒", shochu: "焼酎", awamori: "泡盛", beer: "地ビール", wine: "ワイン" };
-  const AWARD_COMPETITION_LABELS = { sake: "全国新酒鑑評会", wine: "日本ワインコンクール", beer: "インターナショナル・ビアカップ" };
+  const CATEGORY_LABELS = window.S.categoryLabels;
+  const AWARD_COMPETITION_LABELS = window.S.awardCompetitionLabels;
 
   function escapeHtml(str) {
     if (!str) return "";
@@ -92,27 +95,27 @@
     if (b.award) {
       const goldYears = new Set(b.award.gold_years);
       const yearsText = b.award.years
-        .map((y) => (goldYears.has(y) ? `${y}年(金賞)` : `${y}年`))
-        .join("、");
-      const competitionName = AWARD_COMPETITION_LABELS[b.category] || "受賞歴";
-      html += `<p class="popup-award">🏆 ${escapeHtml(competitionName)} 入賞歴: ${escapeHtml(yearsText)}</p>`;
+        .map((y) => (goldYears.has(y) ? `${y}${window.S.goldYearSuffix}` : `${y}${window.S.yearSuffix}`))
+        .join(LOCALE === "en" ? ", " : "、");
+      const competitionName = AWARD_COMPETITION_LABELS[b.category] || AWARD_COMPETITION_LABELS.fallback;
+      html += `<p class="popup-award">${window.S.awardYearsLabel(escapeHtml(competitionName), escapeHtml(yearsText))}</p>`;
     }
     if (b.address) {
       html += `<p class="popup-address">${escapeHtml(b.address)}</p>`;
     }
     html += '<div class="popup-buttons">';
-    html += `<a href="${escapeHtml(appleMapsUrl)}" target="_blank" rel="noopener">📍 マップで開く</a>`;
-    html += `<a href="${escapeHtml(routeUrl)}" target="_blank" rel="noopener">🚗 経路</a>`;
+    html += `<a href="${escapeHtml(appleMapsUrl)}" target="_blank" rel="noopener">${window.S.mapOpenBtn}</a>`;
+    html += `<a href="${escapeHtml(routeUrl)}" target="_blank" rel="noopener">${window.S.routeBtn}</a>`;
     if (b.website) {
-      html += `<a class="secondary" href="${escapeHtml(b.website)}" target="_blank" rel="noopener">公式サイト</a>`;
+      html += `<a class="secondary" href="${escapeHtml(b.website)}" target="_blank" rel="noopener">${window.S.officialSiteBtn}</a>`;
     }
     if (b.wikipedia) {
       html += `<a class="secondary" href="${escapeHtml(b.wikipedia)}" target="_blank" rel="noopener">Wikipedia</a>`;
     }
     if (b.featured && b.brand && typeof window.buildAffiliateSearchLink === "function") {
-      const amazonUrl = window.buildAffiliateSearchLink(b.brand, b.category);
+      const amazonUrl = window.buildAffiliateSearchLink(b.brandJa || b.brand, b.category);
       if (amazonUrl) {
-        html += `<a class="secondary" href="${escapeHtml(amazonUrl)}" target="_blank" rel="sponsored noopener">${escapeHtml(b.brand)}を探す<span class="pr-label">PR</span></a>`;
+        html += `<a class="secondary" href="${escapeHtml(amazonUrl)}" target="_blank" rel="sponsored noopener">${escapeHtml(window.S.findOnAmazon(b.brand))}<span class="pr-label">${window.S.prLabel}</span></a>`;
       }
     }
     html += "</div></div>";
@@ -154,7 +157,7 @@
       clusterGroup.addLayer(marker);
       count += 1;
     });
-    resultCount.textContent = `${count}件表示中(全${breweries.length}件)`;
+    resultCount.textContent = window.S.resultCount(count, breweries.length);
   }
 
   function populatePrefSelect() {
@@ -162,13 +165,33 @@
     prefs.forEach((pref) => {
       const opt = document.createElement("option");
       opt.value = pref;
-      opt.textContent = pref;
+      opt.textContent = LOCALE === "en" ? window.PREF_LABELS_EN[pref] || pref : pref;
       prefSelect.appendChild(opt);
     });
   }
 
-  fetch("breweries.json")
-    .then((res) => res.json())
+  function applyFeaturedEnOverlay(data, overlay) {
+    data.forEach((b) => {
+      if (!b.featured) return;
+      b.brandJa = b.brand;
+      const t = overlay[String(b.id)];
+      if (t) {
+        b.brand = t.brand;
+        b.desc = t.desc;
+      }
+    });
+    return data;
+  }
+
+  const dataPromise = fetch(ROOT + "breweries.json").then((res) => res.json());
+  const loadPromise =
+    LOCALE === "en"
+      ? Promise.all([dataPromise, fetch(ROOT + "data/featured-en.json").then((res) => res.json())]).then(
+          ([data, overlay]) => applyFeaturedEnOverlay(data, overlay)
+        )
+      : dataPromise;
+
+  loadPromise
     .then((data) => {
       breweries = data;
       populatePrefSelect();
@@ -176,7 +199,7 @@
     })
     .catch((err) => {
       console.error("酒蔵データの読み込みに失敗しました", err);
-      resultCount.textContent = "データの読み込みに失敗しました";
+      resultCount.textContent = window.S.dataLoadError;
     });
 
   searchInput.addEventListener("input", render);
@@ -198,6 +221,6 @@
     map.locate({ setView: true, maxZoom: 14 });
   });
   map.on("locationerror", () => {
-    alert("現在地を取得できませんでした。位置情報の利用を許可してください。");
+    alert(window.S.locateError);
   });
 })();
