@@ -428,7 +428,7 @@ def load_beer_master_list_records():
             "lon": round(entry["lon"], 6),
             "pref": entry.get("pref"),
             "address": entry.get("address"),
-            "website": None,
+            "website": normalize_website_url(entry.get("website")),
             "wikipedia": None,
             "category": "beer",
         })

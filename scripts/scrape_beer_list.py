@@ -116,6 +116,10 @@ PHONE_OR_NA_RE = re.compile(r"\d{1,5}-\d{1,4}-\d{2,5}|\bNA\b")
 # 拾ってしまう。備考欄の文言で除外することで両方に対応する。)
 CLOSURE_KEYWORDS = ["閉店", "閉鎖", "業務終了", "事業停止", "生産休止", "免許返納", "休業中"]
 
+# 表の最終列「ホームページ」のURL。行内に複数のhttp(s)://が現れることは
+# 無いはずだが、念のため最後に現れたものを採用する。
+URL_RE = re.compile(r"https?://\S+")
+
 
 def check_pdftotext_available():
     if shutil.which("pdftotext") is None:
@@ -194,10 +198,18 @@ def parse_pdf_text(text, source_label):
         if not address.startswith(pref_full):
             address = pref_full + address
 
+        # ホームページ列。PDFの表組みが横幅の都合で長い行(名称・住所・備考が
+        # 長いケース)の末尾を切り詰めてしまうことがあり、その場合URLも
+        # 途中で切れて出力される。切れたURLかどうかはこの時点では判別できない
+        # ため、後段のgeocode_beer_list.pyでHTTPアクセスして疎通確認する。
+        url_matches = URL_RE.findall(line)
+        website = url_matches[-1] if url_matches else None
+
         records.append({
             "name": name,
             "pref": pref_full,
             "address": address,
+            "website": website,
             "category": "beer",
             "source": source_label,
         })
