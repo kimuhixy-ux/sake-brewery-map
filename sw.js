@@ -1,7 +1,7 @@
 // STABLE_ASSETS(ライブラリ等ほぼ変更しないファイル)の中身を変えたときだけこの番号を上げる。
 // index.html/css/style.css/js/app.js/breweries.jsonはnetwork-firstなので、
 // これらを変更してもCACHE_NAMEを上げる必要はない(オンラインなら常に最新を取得する)。
-const CACHE_NAME = "sake-brewery-map-v2-cmp";
+const CACHE_NAME = "sake-brewery-map-v3-swfix";
 
 // 開発中ほぼ変更しない資産。cache-first(取得済みならキャッシュを即返す)にして
 // 表示速度とオフライン耐性を優先する。中身を変えた場合はCACHE_NAMEを上げること。
@@ -53,11 +53,19 @@ const NETWORK_FIRST_PATHS = new Set(
   NETWORK_FIRST_ASSETS.map((url) => new URL(url, self.location.href).pathname)
 );
 
+// Cloudflare Pagesは*.htmlパスを拡張子なしの正規URLへ308リダイレクトするため、
+// リダイレクト後のレスポンス(response.redirected === true)はキャッシュしない。
+// これをキャッシュすると、後続のナビゲーションリクエストにrespondWith()で
+// 返した際にChromeがnet::ERR_FAILEDで拒否する。
 self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) =>
       Promise.all(
-        ALL_ASSETS.map((url) => fetch(url).then((response) => cache.put(url, response)))
+        ALL_ASSETS.map((url) =>
+          fetch(url).then((response) => {
+            if (!response.redirected) return cache.put(url, response);
+          })
+        )
       )
     )
   );
@@ -87,7 +95,7 @@ self.addEventListener("fetch", (event) => {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
-          if (response.ok) {
+          if (response.ok && !response.redirected) {
             const clone = response.clone();
             caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
           }
@@ -102,7 +110,7 @@ self.addEventListener("fetch", (event) => {
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
       return fetch(event.request).then((response) => {
-        if (response.ok) {
+        if (response.ok && !response.redirected) {
           const clone = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
         }
