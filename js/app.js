@@ -30,6 +30,8 @@
   let breweries = [];
   let featuredOnly = false;
   let awardOnly = false;
+  const requestedId = new URLSearchParams(location.search).get("id");
+  let deepLinkHandled = false;
 
   // 金色(銘柄解説あり)と藍色(通常)のピン色はそのまま維持しつつ、
   // 清酒(丸)/焼酎(ひし形)/泡盛(三角)/地ビール(四角)/ワイン(六角形)は
@@ -141,6 +143,7 @@
     const category = categorySelect.value;
 
     clusterGroup.clearLayers();
+    const markerById = new Map();
     let count = 0;
     breweries.forEach((b) => {
       if (!matchesFilters(b, query, pref, category)) return;
@@ -155,9 +158,16 @@
         autoPanPaddingBottomRight: L.point(10, 10),
       });
       clusterGroup.addLayer(marker);
+      markerById.set(String(b.id), marker);
       count += 1;
     });
     resultCount.textContent = window.S.resultCount(count, breweries.length);
+    if (requestedId !== null && !deepLinkHandled && markerById.has(requestedId)) {
+      deepLinkHandled = true;
+      const marker = markerById.get(requestedId);
+      map.setView(marker.getLatLng(), 15);
+      clusterGroup.zoomToShowLayer(marker, () => marker.openPopup());
+    }
   }
 
   function populatePrefSelect() {

@@ -93,3 +93,153 @@ body.page-body {
 .footer-links a {
   color: #22334a;
 }
+
+/* Static facility detail and index pages */
+.breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 22px;
+  color: #776f5e;
+  font-size: 12px;
+}
+
+.breadcrumbs a {
+  color: #776f5e;
+}
+
+.item-kicker {
+  margin: 0 0 5px;
+  color: #a8721a;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.item-title {
+  margin: 0 0 22px;
+  color: #22334a;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: clamp(22px, 5vw, 30px);
+  line-height: 1.4;
+}
+
+.fact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px;
+  margin: 0 0 22px;
+}
+
+.fact-grid > div {
+  min-width: 0;
+  padding: 12px 14px;
+  border: 1px solid #e5ddc8;
+  border-radius: 10px;
+  background: #fffdf8;
+}
+
+.fact-grid dt {
+  margin-bottom: 4px;
+  color: #776f5e;
+  font-size: 11px;
+}
+
+.fact-grid dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.55;
+}
+
+.item-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
+.primary-action,
+.secondary-action {
+  display: inline-block;
+  padding: 10px 13px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.primary-action {
+  color: #fff;
+  background: #22334a;
+}
+
+.secondary-action {
+  color: #22334a;
+  border: 1px solid #d8cca9;
+  background: #fffdf8;
+}
+
+.related-section,
+.category-group,
+.area-group {
+  margin: 26px 0;
+}
+
+.related-section h2,
+.category-group h2 {
+  color: #22334a;
+  font-size: 18px;
+}
+
+.area-group h3 {
+  margin: 18px 0 6px;
+  color: #55524a;
+  font-size: 14px;
+}
+
+.related-section ul,
+.area-group ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.related-section li,
+.area-group li {
+  padding: 8px 0;
+  border-bottom: 1px solid #e5ddc8;
+  overflow-wrap: anywhere;
+}
+
+.related-section a,
+.area-group a,
+.source-notice a {
+  color: #a8721a;
+}
+
+.source-notice {
+  margin-top: 30px;
+  padding: 14px 16px;
+  border-left: 3px solid #a8721a;
+  background: #fffdf8;
+  color: #55524a;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.source-notice p {
+  margin: 5px 0;
+}
+
+@media (max-width: 520px) {
+  .fact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .primary-action,
+  .secondary-action {
+    width: 100%;
+    text-align: center;
+  }
+}
