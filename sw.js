@@ -1,7 +1,7 @@
 // STABLE_ASSETS(ライブラリ等ほぼ変更しないファイル)の中身を変えたときだけこの番号を上げる。
 // index.html/css/style.css/js/app.js/breweries.jsonはnetwork-firstなので、
 // これらを変更してもCACHE_NAMEを上げる必要はない(オンラインなら常に最新を取得する)。
-const CACHE_NAME = "sake-brewery-map-v1";
+const CACHE_NAME = "sake-brewery-map-v2-cmp";
 
 // 開発中ほぼ変更しない資産。cache-first(取得済みならキャッシュを即返す)にして
 // 表示速度とオフライン耐性を優先する。中身を変えた場合はCACHE_NAMEを上げること。
